@@ -18,7 +18,7 @@
 
 ## 📖 About The Project
 
-**ArtushVision AI** is a sophisticated desktop application designed to revolutionize the workflow of stock photographers, archivists, and digital asset managers. Built with **Python** and **PyQt6**, it leverages state-of-the-art Large Language Models (LLMs) via OpenRouter to analyze images and videos, automatically generating accurate titles, descriptions, and keywords.
+**ArtushVision AI** is a sophisticated desktop application designed to revolutionize the workflow of travel/stock photographers, archivists, and digital asset managers. Built with **Python** and **PyQt6**, it leverages state-of-the-art Large Language Models (LLMs) via OpenRouter to analyze images and videos, automatically generating accurate titles, descriptions, and keywords.
 
 It bridges the gap between raw media files and ready-to-sell stock assets by combining visual analysis with "hard facts" like GPS data, dates, and folder context to prevent AI hallucinations.
 
