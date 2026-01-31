@@ -41,6 +41,9 @@ Key Use Cases
 * **Interactive Badges:** Quick indicators for GPS, RAW, Video, or XMP sidecar presence.
 * **Tag Bubbles:** Drag-and-drop interface for managing keywords individually.
 
+
+![](assets/20260131_222230_image.png)
+
 ### Workflow & Batch Operations
 
 * **Bulk Editing:** Add, remove, or replace metadata across hundreds of files instantly.
@@ -48,9 +51,13 @@ Key Use Cases
 * **Undo/Redo:** Full history support to safely revert changes.
 * **Cost Tracking:** Monitors API usage and calculates costs per session.
 
+
 ## Major Advantages
 
 1. **Reduced Hallucinations:** By feeding the AI specific data (GPS, Date, Folder Name), the output is factually accurate.
 2. **Speed:** Multi-threaded processing allows for analyzing hundreds of images in minutes.
 3. **Compliance:** Built-in validators ensure titles and keywords meet stock agency requirements.
 4. **Safety:** Uses **ExifTool** for industry-standard metadata writing and creates XMP
+
+
+![](assets/20260131_222301_image.png)
