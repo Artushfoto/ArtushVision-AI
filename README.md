@@ -31,6 +31,9 @@ Key Use Cases
 * **Video Intelligence:** Extracts and analyzes video frames to generate metadata for video files, supporting technical data analysis (duration, fps).
 * **Bilingual Output:** Generates keywords in English and a local language (e.g., Czech) simultaneously.
 
+
+![](assets/20260131_222058_image.png)
+
 ### Modern & Efficient GUI
 
 * **Responsive Grid:** High-performance thumbnail grid capable of handling thousands of files.
