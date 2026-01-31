@@ -78,6 +78,7 @@ It bridges the gap between raw media files and ready-to-sell stock assets by com
 
 <div align="center">
   <img src="assets/20260131_230141_image.png" alt="Custom Prompt Interface" width="800">
+  <p><em>Fast keywords filtering.</em></p>
 </div>
 
   <img src="assets/20260131_222301_image.png" alt="Cost Statistics" width="300">
