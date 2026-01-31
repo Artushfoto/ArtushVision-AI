@@ -1,0 +1,68 @@
+================================================================
+            ArtushVision AI - Third-Party Licenses
+            ArtushVision AI - Třetí strany a licence
+================================================================
+
+[ENGLISH]
+This product (ArtushVision AI) utilizes the following third-party
+software for processing multimedia data and metadata. These tools
+are distributed under their own licenses and remains the property
+of their respective authors.
+
+1. ExifTool
+-----------
+Description: Tool for reading, writing, and editing meta information.
+Author: Phil Harvey
+License: Perl Artistic License / GNU General Public License (GPL)
+Web: https://exiftool.org
+Note: ArtushVision AI calls ExifTool as an external process.
+No part of the ExifTool source code has been modified.
+
+2. FFmpeg
+---------
+Description: Solution to record, convert and stream audio and video.
+Project: FFmpeg team (ffmpeg.org)
+License: GNU Lesser General Public License (LGPL) version 2.1
+Web: https://ffmpeg.org
+Note: This software uses FFmpeg binaries licensed under LGPLv2.1.
+ArtushVision AI interacts with FFmpeg as a standalone executable.
+The FFmpeg source code has not been modified.
+
+----------------------------------------------------------------
+
+[ČESKY]
+Tento produkt (ArtushVision AI) využívá pro zpracování multimediálních
+dat a metadat následující software třetích stran. Tyto nástroje jsou
+šířeny pod svými vlastními licencemi a zůstávají majetkem svých autorů.
+
+1. ExifTool
+-----------
+Popis: Nástroj pro čtení, zápis a úpravu metadat (EXIF, IPTC, XMP).
+Autor: Phil Harvey
+Licence: Perl Artistic License / GNU General Public License (GPL)
+Web: https://exiftool.org
+Poznámka: ArtushVision AI volá ExifTool jako externí proces. Žádná část
+zdrojového kódu ExifToolu nebyla modifikována.
+
+2. FFmpeg
+---------
+Popis: Řešení pro záznam, konverzi a streamování audia a videa.
+Projekt: FFmpeg team (ffmpeg.org)
+Licence: GNU Lesser General Public License (LGPL) verze 2.1
+Web: https://ffmpeg.org
+Poznámka: Tento software využívá binární soubory FFmpeg licencované pod
+LGPLv2.1. ArtushVision AI využívá nástroj jako samostatný spustitelný
+soubor. Zdrojový kód FFmpeg nebyl upravován.
+
+----------------------------------------------------------------
+DISCLAIMER / ODMÍTNUTÍ ODPOVĚDNOSTI:
+[EN] This software is provided by the authors "as is" without any
+warranty. In no event shall the authors be liable for any damages
+arising from the use of this software.
+[CS] Tento software je poskytován autory "tak jak je" bez jakékoli
+záruky. Autoři nenesou odpovědnost za případné škody vzniklé
+používáním těchto nástrojů.
+
+Full license texts are available on the project websites listed above.
+Plná znění licencí jsou k dispozici na webových stránkách projektů.
+================================================================
