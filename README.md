@@ -75,7 +75,11 @@ It bridges the gap between raw media files and ready-to-sell stock assets by com
 * **Undo/Redo:** Full history support to safely revert accidental changes.
 * **Cost Tracking:** Monitors API usage and calculates costs per session to help you manage your budget.
 
+
 <div align="center">
+  <img src="assets/20260131_230141_image.png" alt="Custom Prompt Interface" width="800">
+</div>
+
   <img src="assets/20260131_222301_image.png" alt="Cost Statistics" width="300">
   <p><em>Full control over your budget.</em></p>
 </div>
