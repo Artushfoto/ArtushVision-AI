@@ -12,6 +12,10 @@
 
 **ArtushVision AI** is a sophisticated desktop application designed to revolutionize the workflow of  photographers, archivists, and digital asset managers. Built with **Python** and **PyQt6**, it leverages state-of-the-art Large Language Models (LLMs) via OpenRouter to analyze images and videos, automatically generating accurate titles, descriptions, and keywords.
 
+"Custom AI prompts supported for specialized workflows, unlocking **unlimited possibilities for cataloging photos and videos** ."****"Custom AI prompts supported for specialized workflows."***
+
+![](assets/20260131_223133_image.png)
+
 It bridges the gap between raw media files and ready-to-sell stock assets by combining visual analysis with "hard facts" like GPS data, dates, and folder context.
 
 Key Use Cases
@@ -19,8 +23,6 @@ Key Use Cases
 * **Stock Photography/Videography:** Automates the tedious process of tagging content for agencies (Shutterstock, Adobe Stock, Getty) while adhering to strict metadata limits.
 * **Digital Archiving:** Rapidly organizes large collections by identifying content, OCR text, and specific locations.
 * **Location-Aware Tagging:** Uses GPS coordinates to accurately identify landmarks, cities, and countries instead of generic guesses.
-
-![](assets/20260131_220358_image.png)
 
 # Main Features
 
@@ -59,5 +61,6 @@ Key Use Cases
 3. **Compliance:** Built-in validators ensure titles and keywords meet stock agency requirements.
 4. **Safety:** Uses **ExifTool** for industry-standard metadata writing and creates XMP
 
+**"Full control over your budget."**
 
 ![](assets/20260131_222301_image.png)
