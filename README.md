@@ -12,7 +12,7 @@
 
 **ArtushVision AI** is a sophisticated desktop application designed to revolutionize the workflow of  photographers, archivists, and digital asset managers. Built with **Python** and **PyQt6**, it leverages state-of-the-art Large Language Models (LLMs) via OpenRouter to analyze images and videos, automatically generating accurate titles, descriptions, and keywords.
 
-"Custom AI prompts supported for specialized workflows, unlocking **unlimited possibilities for cataloging photos and videos** ."****"Custom AI prompts supported for specialized workflows."***
+**"Custom AI prompts supported for specialized workflows, unlocking **unlimited possibilities for cataloging photos and videos."**
 
 ![](assets/20260131_223133_image.png)
 
@@ -35,6 +35,10 @@ Key Use Cases
 
 
 ![](assets/20260131_222058_image.png)
+
+"Fully customizable workflow to fit your unique needs."
+
+![](assets/20260131_223749_image.png)
 
 ### Modern & Efficient GUI
 
