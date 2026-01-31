@@ -18,7 +18,7 @@
 
 It bridges the gap between raw media files and ready-to-sell stock assets by combining visual analysis with "hard facts" like GPS data, dates, and folder context.
 
-Key Use Cases
+# Key Use Cases
 
 * **Stock Photography/Videography:** Automates the tedious process of tagging content for agencies (Shutterstock, Adobe Stock, Getty) while adhering to strict metadata limits.
 * **Digital Archiving:** Rapidly organizes large collections by identifying content, OCR text, and specific locations.
