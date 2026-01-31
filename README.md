@@ -44,7 +44,7 @@ It bridges the gap between raw media files and ready-to-sell stock assets by com
 
 * **Multi-Model Support:** Switch between top-tier Vision models (Google Gemini 2.0, Claude 3.5, GPT-4o) via OpenRouter to balance cost and performance.
 * **Context-Aware Prompting:** The AI doesn't just "see" the image; it is fed GPS coordinates, Google Maps links, folder names, dates, and lens information to provide contextually accurate results.
-* **Video Intelligence:** Automatically extracts 3 representative frames (start, middle, end) to analyze video content as a sequence. It also reads technical data like duration and FPS.
+* **Video Intelligence:** Automatically extracts 3-20 representative frames (start, middle, end) to analyze video content as a sequence. It also reads technical data like duration and FPS.
 * **Bilingual Output:** Capable of generating keywords in English and a local language (e.g., Czech) simultaneously.
 
 <div align="center">
