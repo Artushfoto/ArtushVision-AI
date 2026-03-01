@@ -1,4 +1,4 @@
-# ArtushVision AI - available in APRIL 2026
+# ArtushVision AI
 
 **ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for **JPG, RAW, and video** assets, while providing robust tools for manual metadata management.
 
