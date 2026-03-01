@@ -12,9 +12,6 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 <img src="assets/20260301_121544_image.png" width="100%">
 
 
-<img src="assets/20260301_121544_image.png" width="400
-
-
 ## 📋 Table of Contents
 
 - [ArtushVision AI](#artushvision-ai)
@@ -252,8 +249,6 @@ Go to **File** > **Grid Settings**.
 
 
 <img src="assets/20260301_121337_image.png" width="800">
-
-
 
 <img src="assets/20260301_121357_image.png" width="5
 
