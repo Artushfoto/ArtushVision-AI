@@ -51,7 +51,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 * **OS**: Windows 10/11 (64-bit).
 * **Internet**: Required for AI analysis, maps, and online spell checking.
-* **Dependencies**: The application requires**ExifTool** and**FFmpeg** to function correctly. These are bundled with the application in the`exiftool/` and`ffmpeg/` folders.
+* **Dependencies**: The application requires **ExifTool** and **FFmpeg** to function correctly. These are bundled with the application in the`exiftool/` and`ffmpeg/` folders.
 
 ### First Launch
 
