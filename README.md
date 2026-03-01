@@ -220,6 +220,10 @@ Create custom instructions for the AI.
 * AI uses this data to identify landmarks (e.g., knowing coordinates point to "Eiffel Tower").
 * **Map Provider**: Switch between Google Maps and OpenStreetMap in Settings.
 
+
+![](assets/20260301_122058_image.png)
+
+
 ---
 
 ## 7. Settings & Configuration
