@@ -124,12 +124,8 @@ Each cell represents a media file.
 
 **Note**: For videos, the AI analyzes multiple frames (configurable in Settings) to understand the context of the clip.
 
-<
+<img src="assets/20260301_120553_image.png" width="5
 
-
-![](assets/20260301_120553_image.png
-
----
 
 ## 4. Manual Editing & Detail View
 
