@@ -58,11 +58,9 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 The application is designed around a central grid view with collapsible panels.
 
-
 ![](assets/20260301_170342_image.png)
 
 *Copy/paste metadata to multiple selected files*
-
 
 ### Top Toolbar
 
@@ -125,10 +123,7 @@ Each cell represents a media file.
 
 <img src="assets/20260301_155819_image.png" width="100%">
 
-
 span
-
-
 
 ## 4. Manual Editing & Detail View
 
@@ -201,6 +196,10 @@ Create custom instructions for the AI.
 
 *Easily customize settings via the built-in GUI editor or by editing the JSON file.*
 
+<img src="assets/20260301_123406_image.png" width="700">
+
+
+
 ### 📝 Synonyms & Translation
 
 * **Synonyms**: Right-click a keyword to open the Synonym Dialog. It fetches related words from online databases (Datamuse).
@@ -246,8 +245,6 @@ Go to **File** > **Grid Settings**.
 <img src="assets/20260301_121337_image.png" width="800">
 
 <img src="assets/20260301_121357_image.png" width="400">
-
-
 
 ---
 
