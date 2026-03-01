@@ -208,7 +208,7 @@ Create custom instructions for the AI.
 
 <img src="assets/20260301_123406_image.png" width="700">
 
-
+![alt text](image.png)
 
 ### 📝 Synonyms & Translation
 
