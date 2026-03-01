@@ -1,6 +1,6 @@
 # ArtushVision AI
 
-**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for your media assets JPG, RAW and video, while providing robust tools for manual metadata management.
+**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for your media assets **JPG, RAW and video**, while providing robust tools for manual metadata management.
 
 ---
 
