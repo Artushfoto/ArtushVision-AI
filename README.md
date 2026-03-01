@@ -11,7 +11,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ## 📋 Table of Contents
 
-- [ArtushVision AI - Comprehensive User Manual](#artushvision-ai---comprehensive-user-manual)
+- [ArtushVision AI - available in APRIL 2026](#artushvision-ai---available-in-april-2026)
   - [📋 Table of Contents](#-table-of-contents)
   - [1. Installation \& Setup](#1-installation--setup)
     - [System Requirements](#system-requirements)
