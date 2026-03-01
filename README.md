@@ -1,10 +1,12 @@
-ArtushVision AI
+ArtushVision AI - available in APRIL 2026
 
-**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for your media assets **JPG, RAW and video**, while providing robust tools for manual metadata management.
+**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for **JPG, RAW, and video** assets, while providing robust tools for manual metadata management.
+
+Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease.
 
 ---
 
-![](assets/20260301_121544_image.png)*Dark theme with bubbles keywords*
+![](assets/20260301_121544_image.png)*Dark theme with tag keywords*
 
 ![](assets/20260301_122658_image.png)*light theme, with text keywords and bigger thumbnail*
 
@@ -55,7 +57,6 @@ ArtushVision AI
 ## 2. Interface Overview
 
 The application is designed around a central grid view with collapsible panels.
-
 
 ![](assets/20260301_125023_image.png)
 
@@ -115,6 +116,8 @@ Each cell represents a media file.
    * **Cost**: The estimated cost (based on input tokens) is displayed after analysis.
 
 **Note**: For videos, the AI analyzes multiple frames (configurable in Settings) to understand the context of the clip.
+
+![](assets/20260301_125504_image.png)
 
 ![](assets/20260301_120553_image.png)
 
@@ -189,7 +192,7 @@ Create custom instructions for the AI.
 
 ![](assets/20260301_121035_image.png)
 
-![](assets/20260301_123406_image.png)*Fully customizable through json edit in gui or in text file*
+![](assets/20260301_123406_image.png)*Easily customize settings via the built-in GUI editor or by editing the JSON file.*
 
 ### 📝 Synonyms & Translation
 
