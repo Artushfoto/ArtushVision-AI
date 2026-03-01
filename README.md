@@ -1,4 +1,4 @@
-ArtushVision AI - available in APRIL 2026
+# ArtushVision AI - available in APRIL 2026
 
 **ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for **JPG, RAW, and video** assets, while providing robust tools for manual metadata management.
 
@@ -8,7 +8,6 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ![](assets/20260301_121544_image.png)*Dark theme with tag keywords*
 
-![](assets/20260301_122658_image.png)*light theme, with text keywords and bigger thumbnail*
 
 ## 📋 Table of Contents
 
@@ -34,6 +33,8 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
   - [8. Keyboard Shortcuts](#8-keyboard-shortcuts)
 
 ---
+
+![](assets/20260301_122658_image.png)*light theme, with text keywords and bigger thumbnail*
 
 ## 1. Installation & Setup
 
@@ -116,11 +117,6 @@ Each cell represents a media file.
    * **Cost**: The estimated cost (based on input tokens) is displayed after analysis.
 
 **Note**: For videos, the AI analyzes multiple frames (configurable in Settings) to understand the context of the clip.
-
-![](assets/20260301_155756_image.png)
-
-
-![](assets/20260301_155819_image.png)
 
 ![](assets/20260301_120553_image.png)
 
