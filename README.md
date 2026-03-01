@@ -1,129 +1,215 @@
-# ArtushVision AI
+# ArtushVision AI - Comprehensive User Manual
 
-**ArtushVision AI** is a professional, AI-powered desktop application designed for photographers, stock agencies, and archivists. It automates the process of keywording, captioning, and managing metadata for images and videos using advanced Computer Vision models (via OpenRouter/Gemini) and robust local tools.
-
-ArtushVision AI serves as a bridge between modern AI analysis and industry-standard metadata formats (EXIF, IPTC, XMP), utilizing **ExifTool** for reliable file operations.
+**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for your media assets, while providing robust tools for manual metadata management.
 
 ---
 
-## 🚀 Key Features
+## 📋 Table of Contents
 
-### 🧠 AI-Powered Analysis
-*   **Vision Models:** Integrates with top-tier Vision AI models (Gemini Pro Vision, GPT-4o, Claude 3.5 Sonnet, etc.) via OpenRouter.
-*   **Auto-Keywording:** Generates relevant keywords based on visual content.
-*   **Auto-Captioning:** Creates descriptive titles and detailed descriptions.
-*   **Custom Profiles:** Users can define custom system prompts to tailor AI output (e.g., specific stock photography requirements).
-
-### 📂 Metadata Management
-*   **Industry Standards:** Full support for XMP, IPTC, and EXIF standards.
-*   **Format Support:** Handles JPG, TIFF, PNG, and **RAW formats** (via XMP sidecars).
-*   **Video Support:** Metadata management for video files using FFmpeg for thumbnails and ExifTool for data.
-*   **Batch Operations:** Bulk editing, copying/pasting metadata, and finding/replacing text across thousands of files.
-*   **Validation:** Real-time character counting and limit validation for stock agency requirements.
-
-### 🖥️ Modern User Interface
-*   **Grid View:** A responsive, virtualized grid capable of handling large folders efficiently.
-*   **Detail View:** A focused editor for individual files with zoomable preview and map integration.
-*   **Tagging System:** Interactive "bubble" widgets for keywords with drag-and-drop reordering and color coding (AI vs. Manual vs. Original).
-*   **Themes:** Fully supported Dark and Light modes.
-
-### 🛠️ Productivity Tools
-*   **Spell Check:** Integrated multi-language spell checking (Hunspell/Enchant) with online suggestions.
-*   **Synonyms:** Built-in synonym finder (Datamuse API) to expand keyword reach.
-*   **Translation:** Automatic translation of keywords and descriptions.
-*   **Geolocation:** Integrated map view (Google Maps/OpenStreetMap) to visualize GPS data.
-*   **Backups:** Automatic CSV backups and "Original" file preservation before saving.
+- [ArtushVision AI - Comprehensive User Manual](#artushvision-ai---comprehensive-user-manual)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [1. Installation \& Setup](#1-installation--setup)
+    - [System Requirements](#system-requirements)
+    - [First Launch](#first-launch)
+  - [2. Interface Overview](#2-interface-overview)
+    - [Top Toolbar](#top-toolbar)
+    - [Filter Bar](#filter-bar)
+    - [The Image Grid](#the-image-grid)
+  - [3. AI Analysis Workflow](#3-ai-analysis-workflow)
+  - [4. Manual Editing \& Detail View](#4-manual-editing--detail-view)
+    - [The Editor](#the-editor)
+    - [Saving](#saving)
+  - [5. Batch Operations](#5-batch-operations)
+  - [6. Advanced Features](#6-advanced-features)
+    - [🧠 Custom AI Profiles](#-custom-ai-profiles)
+    - [📝 Synonyms \& Translation](#-synonyms--translation)
+    - [🌍 Geolocation](#-geolocation)
+  - [7. Settings \& Configuration](#7-settings--configuration)
+  - [8. Keyboard Shortcuts](#8-keyboard-shortcuts)
 
 ---
 
-## 📂 Codebase Structure & Module Description
+## 1. Installation & Setup
 
-The project is modularized to ensure maintainability and separation of concerns. Below is a breakdown of the key files and their functions.
+### System Requirements
+*   **OS**: Windows 10/11 (64-bit).
+*   **Internet**: Required for AI analysis, maps, and online spell checking.
+*   **Dependencies**: The application requires **ExifTool** and **FFmpeg** to function correctly. These are typically bundled with the application in the `exiftool/` and `ffmpeg/` folders.
 
-### 1. Core & Entry Point
-*   **`run.py`**: The main entry point of the application. Initializes the Qt Application, applies styles, and launches the main window.
-*   **`ai_keywording_config.py`**: Central configuration file. Handles paths, constants, and default settings.
-*   **`ai_keywording_license.py`**: Manages licensing logic, trial limitations, and activation security.
-*   **`ai_development_history.py`**: Maintains a changelog and development history log.
-*   **`qt_version.py`** & **`update_version.py`**: Manages application versioning.
-
-### 2. Main GUI & Logic
-*   **`ai_keywording_gui_qt.py`**: The main application class (`ArtushVisionQtApp`). Orchestrates the high-level logic and connects major components.
-*   **`qt_main_window_ui.py`**: Defines the layout and widget initialization for the main window.
-*   **`qt_app_logic.py`**: Contains business logic separated from the GUI implementation.
-*   **`qt_settings.py`**: The Settings dialog implementation, handling user preferences.
-*   **`qt_profiles.py`**: Editor for AI System Prompts (Profiles).
-
-### 3. The Grid System (Gallery)
-The grid view is split into several modules for performance and readability:
-*   **`modern_grid.py`**: The main container widget for the image grid.
-*   **`qt_grid_core.py`**: Core functionality for the grid (layout management, item storage).
-*   **`qt_grid_populate.py`**: Handles the loading and populating of grid items (threading, batching).
-*   **`qt_grid_events.py`**: Manages UI events (mouse clicks, keyboard shortcuts) within the grid.
-*   **`qt_grid_handlers.py`**: Specific handlers for grid interactions.
-*   **`qt_grid_spellcheck.py`**: Manages spell checking specifically for grid cells.
-*   **`grid_tag_actions.py`**: Logic for adding, removing, and editing tags directly in the grid.
-*   **`qt_thumbnails.py`**: Handles asynchronous generation and caching of image/video thumbnails.
-
-### 4. The Detail View (Single Image Editor)
-A complex editor split into mixins:
-*   **`qt_detail.py`**: The main dialog window for editing a single image.
-*   **`qt_detail_ai.py`**: Handles AI generation requests within the detail view.
-*   **`qt_detail_map.py`**: Manages the embedded map widget (QWebEngineView) and GPS data.
-*   **`qt_detail_nav.py`**: Logic for navigating between previous/next images.
-*   **`qt_detail_tags.py`**: Manages the keyword bubbles within the detail view.
-*   **`qt_detail_undo.py`**: Implements a local Undo/Redo stack for the detail editor.
-*   **`qt_detail_loader.py`**: Handles loading high-res previews and metadata.
-*   **`qt_detail_sync.py`**: Synchronizes changes back to the main grid when closing.
-
-### 5. AI & Keywording Engine
-*   **`ai_keywording_ai.py`**: The core AI logic. Communicates with APIs (OpenRouter), handles prompts, and parses JSON responses.
-*   **`qt_ai_handler.py`**: A Qt-based wrapper for the AI engine to run requests in background threads without freezing the UI.
-
-### 6. Metadata & File I/O
-*   **`qt_io.py`**: Handles saving data to disk. Manages ExifTool processes, backups, and CSV export/import.
-*   **`qt_metadata.py`**: Logic for reading metadata from files and mapping it to UI fields.
-*   **`exiftool_utils.py`**: Wrapper functions for interacting with the `exiftool.exe` command-line interface.
-*   **`qt_batch.py`**: Implements batch operations (Find/Replace, Append, etc.).
-
-### 7. Utilities & Helpers
-*   **`qt_utils.py`** & **`qt_core_utils.py`**: General utility functions (file paths, string manipulation, etc.).
-*   **`qt_ui_utils.py`**: Helpers for UI specific tasks.
-*   **`qt_text_utils.py`**: Text processing utilities.
-*   **`qt_lang_utils.py`**: Language detection and localization helpers.
-*   **`persistent_cache.py`**: Manages caching for translations and synonyms to reduce API calls.
-*   **`qt_webengine_utils.py`**: Utilities for the embedded Chromium browser (Map).
-
-### 8. UI Components & Widgets
-*   **`qt_tag_widgets.py`**: Custom widget for rendering interactive keyword bubbles.
-*   **`qt_smart_widgets.py`**: Enhanced text inputs with validation and features.
-*   **`qt_synonym_dialog.py`**: Dialog for finding synonyms using external APIs.
-*   **`qt_spellcheck.py`**: The spell-checking engine integration.
-*   **`qt_highlighter.py`**: Syntax highlighting for text fields (e.g., coloring keywords by source).
-*   **`qt_icons.py`**: Centralized icon management (SVG/Base64).
-*   **`qt_styles.py`**: Manages application stylesheets (CSS) and themes.
+### First Launch
+1.  Run `ArtushVisionAI.exe`.
+2.  **License**: If you have a license key, enter it when prompted. You can also use the Trial version with limited features (limit on daily saves/AI calls).
+3.  **API Key**:
+    *   Navigate to **File** > **API Key**.
+    *   Enter your **OpenRouter API Key**. You can obtain one at openrouter.ai.
+    *   This key is stored securely locally.
 
 ---
 
-## ⚙️ Technical Requirements
+## 2. Interface Overview
 
-*   **Python 3.10+**
-*   **PyQt6**: For the Graphical User Interface.
-*   **ExifTool**: Must be installed/available in the system path for metadata operations.
-*   **FFmpeg**: Required for video thumbnail generation.
-*   **Nuitka**: Used for compiling the application into a standalone executable (`.exe`).
+The application is designed around a central grid view with collapsible panels.
 
-## 📦 External Dependencies
-*   `requests`: For API calls.
-*   `Pillow`: For image processing.
-*   `PyQt6-WebEngine`: For map display.
-*   `pyspellchecker` / `pyenchant`: For spell checking.
-*   `langdetect`: For language identification.
+### Top Toolbar
+*   **Profile**: Select the AI system prompt (e.g., "Stock Photography", "Social Media"). Click the **Gear icon** to edit profiles.
+*   **Run AI**: The green play button starts the analysis for selected images.
+*   **Speed**: Controls the number of parallel threads (1-20). Higher is faster but uses more CPU/Bandwidth.
+*   **Columns**: Adjust the number of columns in the grid or set to "Auto".
+*   **Sorting**: Sort by Name or Date (Ascending/Descending).
+*   **Flat View**: Toggle to see all files from subfolders in a single flat list.
+*   **Backup**: Checkboxes to enable/disable backups for CSV, XMP, and Original files.
+
+### Filter Bar
+Located below the toolbar, this bar helps you organize your workspace.
+*   **Select**: Buttons to Select All / Select None.
+*   **Search**: Filter images by text (Title, Description, Keywords, or Filename).
+    *   **Aa**: Toggle case sensitivity.
+    *   **Target**: Choose which field to search in.
+*   **Status Filter**: Filter by state (Selected, Modified, Done, Error, etc.).
+*   **Type Filter**: Show only RAW, JPG, or Video files.
+*   **Toggle Panels**: Buttons to show/hide the **Rating Bar** and **Batch Edit Bar**.
+
+### The Image Grid
+Each cell represents a media file.
+*   **Visual States**:
+    *   **Gray/White**: Unchanged / Default.
+    *   **Yellow**: Modified (unsaved changes).
+    *   **Green**: Saved / Metadata loaded.
+    *   **Red**: Validation error (e.g., title too long).
+*   **Badges**: Small icons on thumbnails provide quick info:
+    *   📍 **GPS**: File has geolocation data.
+    *   **XMP**: An XMP sidecar file exists.
+    *   **ORIG**: An original backup exists.
+    *   **RAW**: Indicates a RAW file.
+    *   **VIDEO**: Indicates a video file.
+    *   ⚠️: Indicates a corrupted file or load error.
 
 ---
 
-*Generated from project source code analysis.*
+## 3. AI Analysis Workflow
 
+1.  **Load Files**: Click **Load Folders** (bottom right) and select your directory.
+2.  **Select Files**: Click to select images. Use `Shift+Click` for range or `Ctrl+Click` for individual selection.
+3.  **Choose Profile**: Select a profile that matches your content type.
+4.  **Run**: Click **Run AI**.
+    *   A progress dialog will appear.
+    *   You can stop the process at any time.
+    *   **Cost**: The estimated cost (based on input tokens) is displayed after analysis.
+
+**Note**: For videos, the AI analyzes multiple frames (configurable in Settings) to understand the context of the clip.
+
+---
+
+## 4. Manual Editing & Detail View
+
+Double-click any image to enter the **Detail View**. This is a powerful editor for individual files.
+
+### The Editor
+*   **Text Fields**: Edit Title, Description, and Keywords.
+    *   **Counters**: Real-time word and character counts (e.g., `5 | 45`).
+    *   **Spell Check**: Misspelled words are underlined in red. Right-click for suggestions.
+*   **Keywords (Bubbles)**:
+    *   **Add**: Type in the input box or use the `+` button.
+    *   **Remove**: Click the `×` on the bubble.
+    *   **Reorder**: Drag and drop bubbles to change priority.
+    *   **Color Coding**:
+        *   **Blue**: Generated by AI.
+        *   **Green**: Manually added.
+        *   **Black/White**: Original keywords from the file.
+*   **Map**: An interactive map shows the GPS location. You can zoom in/out.
+*   **Navigation**: Use the arrow buttons or keys to move to the next/previous image without closing the window.
+
+### Saving
+*   **Save Changes**: Click **Save Changes** in the bottom right of the main window.
+*   **Backups**:
+    *   **CSV**: Creates a spreadsheet with all metadata.
+    *   **XMP**: Writes metadata to a sidecar file (safer for RAW/Video).
+    *   **Original**: Preserves the original file with a `.original` extension (for JPG).
+
+---
+
+## 5. Batch Operations
+
+Toggle the **Batch Edit** panel using the list icon in the filter bar. This allows you to modify hundreds of files at once.
+
+1.  **Select Target**: Choose where to apply changes (Title, Description, Keywords, or Everywhere).
+2.  **Input Text**: Type the text you want to add, remove, or find.
+3.  **Actions**:
+    *   **Add**: Appends text. For keywords, it adds a new tag. For text, it appends with a space.
+    *   **Remove**: Removes the specified word or tag.
+    *   **Replace**: Replaces "Text A" with "Text B". Use the format `Old->New` or open the dedicated Replace Dialog (`Ctrl+H`).
+    *   **Delete Field**: Clears the entire content of the selected field.
+    *   **Clear All**: Removes ALL metadata from selected files.
+
+---
+
+## 6. Advanced Features
+
+### 🧠 Custom AI Profiles
+Create custom instructions for the AI.
+1.  Click the **Gear Icon** next to the profile selector.
+2.  **Model**: Choose a vision model (e.g., `google/gemini-2.0-flash-001`, `gpt-4o`).
+3.  **Prompts**: Define specific rules.
+    *   **Variables**: Use dynamic placeholders like `{gps_raw}` (coordinates), `{date_info}` (date), `{folder_context}` (folder name).
+    *   *Example*: "Describe this image taken in {loc_hint} on {date_info}."
+4.  **Blacklist**: Words entered here will be automatically removed from AI output.
+
+### 📝 Synonyms & Translation
+*   **Synonyms**: Right-click a keyword to open the Synonym Dialog. It fetches related words from online databases (Datamuse).
+*   **Translation**: If enabled in Settings, the app can show tooltips with translations of keywords into your native language.
+
+### 🌍 Geolocation
+*   The app reads GPS data from EXIF.
+*   AI uses this data to identify landmarks (e.g., knowing coordinates point to "Eiffel Tower").
+*   **Map Provider**: Switch between Google Maps and OpenStreetMap in Settings.
+
+---
+
+## 7. Settings & Configuration
+
+Go to **File** > **Grid Settings**.
+
+*   **Appearance**:
+    *   **Thumbnail Height**: Adjust the size of grid images.
+    *   **Field Heights**: Customize how much space Title/Description/Keywords take up.
+    *   **Font Size**: Scale text for better readability.
+*   **Language & AI**:
+    *   **Spellcheck**: Enable/Disable and select primary/secondary languages.
+    *   **Translation**: Set target language for tooltips.
+*   **Limits**:
+    *   Set min/max character counts for Title and Description.
+    *   Set min/max keyword counts.
+    *   Useful for meeting stock agency requirements (e.g., Shutterstock, Adobe Stock).
+*   **Video & RAW**:
+    *   **AI Frames**: How many frames to analyze per video (default 3).
+    *   **Write RAW to XMP**: Recommended to keep RAW files untouched.
+*   **Advanced**:
+    *   **External Tools**: Paths to `exiftool.exe` and `ffmpeg.exe`.
+
+---
+
+## 8. Keyboard Shortcuts
+
+| Key | Action | Context |
+| :--- | :--- | :--- |
+| `Ctrl + A` | Select All | Grid |
+| `Ctrl + D` | Deselect All | Grid |
+| `Ctrl + S` | Save Changes | Global |
+| `Ctrl + Z` | Undo | Global |
+| `Ctrl + Y` | Redo | Global |
+| `Ctrl + H` | Batch Replace | Grid |
+| `P` | Flag as Picked | Grid |
+| `X` | Flag as Rejected | Grid |
+| `U` | Unflag | Grid |
+| `1` - `5` | Set Star Rating | Grid |
+| `0` | Clear Rating | Grid |
+| `M` | Toggle Map | Detail View |
+| `Ctrl + Enter` | Apply & Close | Detail View |
+| `Left` / `Right` | Navigation | Detail View |
+
+---
+
+*© 2026 ArtushFoto. All rights reserved.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MjMwMTM1XX0=
+eyJoaXN0b3J5IjpbLTYyNjk2NzQ5MV19
 -->
