@@ -43,7 +43,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ---
 
-![](assets/20260301_122658_image.png)*light theme, with text keywords and bigger thumbnail*
+![](assets/20260301_122658_image.png)*Clean Light Mode: Focus on high-impact typography and oversized thumbnails*
 
 ## 1. Installation & Setup
 
