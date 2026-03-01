@@ -121,7 +121,17 @@ Each cell represents a media file.
 
 **Note**: For videos, the AI analyzes multiple frames (configurable in Settings) to understand the context of the clip.
 
-<img src="assets/20260301_120553_image.png" width="5
+z
+
+
+<img src="assets/20260301_155756_image.png" width="100%">
+
+
+
+<img src="assets/20260301_155819_image.png" width="100%">
+
+<img src="assets/20260301_120553_image.png" width="4
+
 
 
 ## 4. Manual Editing & Detail View
@@ -147,11 +157,10 @@ Double-click any image to enter the **Detail View**. This is a powerful editor f
 
 **Map**: An interactive map shows the GPS location. You can zoom in/out.
 
-**Navigation**: Use the arrow buttons or keys to move to the next/previous image without closing the window.
+**Navigation**: Use the arrow buttons or keys to move to the next/previous image without closing the window.<img src="assets/20260301_120719_image.png" width="800">
 
-![](assets/20260301_120719_image.png)
+<img src="assets/20260301_123109_image.png" width="800">
 
-![](assets/20260301_123109_image.png)
 
 ### Saving
 
@@ -175,6 +184,10 @@ Toggle the **Batch Edit** panel using the list icon in the filter bar. This allo
    * **Replace**: Replaces "Text A" with "Text B". Use the format`Old->New` or open the dedicated Replace Dialog (`Ctrl+H`).
    * **Delete Field**: Clears the entire content of the selected field.
    * **Clear All**: Removes ALL metadata from selected files.
+
+
+![](assets/20260301_170027_image.png)
+
 
 ---
 
@@ -208,9 +221,6 @@ Create custom instructions for the AI.
 ![](assets/20260301_121256_image.png)
 
 ![](assets/20260301_124849_image.png)
-
-![](assets/20260301_121308_image.png
-
 
 <img src="assets/20260301_121308_image.png" width="600">
 
