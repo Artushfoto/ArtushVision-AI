@@ -1,18 +1,19 @@
 ArtushVision AI - available in APRIL 2026
 
-**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for **JPG, RAW, and video** assets, while providing robust tools for manual metadata management.
+**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for  d e **JPG, RAW, and video** assets, while providing robust tools for manual metadata management.
 
 Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease.
 
----
+----
+
 
 ![](assets/20260301_121544_image.png)*Dark theme with tag keywords*
 
-![](assets/20260301_122658_image.png)*light theme, with text keywords and bigger thumbnail*
+![](assets/20260301_122658_image.png)*light theme, with text keywords and bigger thumbn
 
 ## 📋 Table of Contents
 
-- [ArtushVision AI - Comprehensive User Manual](#artushvision-ai---comprehensive-user-manual)
+- [ArtushVision AI](#artushvisionnual)
   - [📋 Table of Contents](#-table-of-contents)
   - [1. Installation \& Setup](#1-installation--setup)
     - [System Requirements](#system-requirements)
@@ -45,12 +46,12 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ### First Launch
 
-1. Run`ArtushVisionAI.exe`.
+1. Ru `ArtushVisionAI.exe`.
 2. **License**: If you have a license key, enter it when prompted. You can also use the Trial version with limited features (limit on daily saves/AI calls).
 3. **API Key**:
-   * Navigate to**File** >**API Key**.
-   * Enter your**OpenRouter API Key**. You can obtain one at openrouter.ai.
-   * This key is stored securely locally.
+    Navigate to**File** >**API Key**.
+  Enter your**OpenRouter API Key**. You can obtain one at openrouter.ai.
+  This key is stored securely locally.
 
 ---
 
@@ -70,6 +71,7 @@ The application is designed around a central grid view with collapsible panels.
 * **Flat View**: Toggle to see all files from subfolders in a single flat list.
 * **Backup**: Checkboxes to enable/disable backups for CSV, XMP, and Original files.
 
+
 ![](assets/20260301_121611_image.png)
 
 ### Filter Bar
@@ -78,11 +80,13 @@ Located below the toolbar, this bar helps you organize your workspace.
 
 * **Select**: Buttons to Select All / Select None.
 * **Search**: Filter images by text (Title, Description, Keywords, or Filename).
-  * **Aa**: Toggle case sensitivity.
-  * **Target**: Choose which field to search in.
+ **Aa**: Toggle case sensitivity.
+ **Target**: Choose which field to search in.
 * **Status Filter**: Filter by state (Selected, Modified, Done, Error, etc.).
 * **Type Filter**: Show only RAW, JPG, or Video files.
 * **Toggle Panels**: Buttons to show/hide the**Rating Bar** and**Batch Edit Bar**.
+
+
 
 ![](assets/20260301_121636_image.png)
 
@@ -91,17 +95,17 @@ Located below the toolbar, this bar helps you organize your workspace.
 Each cell represents a media file.
 
 * **Visual States**:
-  * **Gray/White**: Unchanged / Default.
-  * **Yellow**: Modified (unsaved changes).
-  * **Green**: Saved / Metadata loaded.
-  * **Red**: Validation error (e.g., title too long).
+ **Gray/White**: Unchanged / Default.
+ **Yellow**: Modified (unsaved changes).
+ **Green**: Saved / Metadata loaded.
+ **Red**: Validation error (e.g., title too long).
 * **Badges**: Small icons on thumbnails provide quick info:
-  * 📍**GPS**: File has geolocation data.
-  * **XMP**: An XMP sidecar file exists.
-  * **ORIG**: An original backup exists.
-  * **RAW**: Indicates a RAW file.
-  * **VIDEO**: Indicates a video file.
-  * ⚠️: Indicates a corrupted file or load error.
+ 📍 **GPS**: File has geolocation data.
+ **XMP**: An XMP sidecar file exists.
+ **ORIG**: An original backup exists.
+ **RAW**: Indicates a RAW file.
+ **VIDEO**: Indicates a video file.
+ ⚠️: Indicates a corrupted file or load error.
 
 ---
 
@@ -111,9 +115,9 @@ Each cell represents a media file.
 2. **Select Files**: Click to select images. Use`Shift+Click` for range or`Ctrl+Click` for individual selection.
 3. **Choose Profile**: Select a profile that matches your content type.
 4. **Run**: Click**Run AI**.
-   * A progress dialog will appear.
-   * You can stop the process at any time.
-   * **Cost**: The estimated cost (based on input tokens) is displayed after analysis.
+    A progress dialog will appear.
+  You can stop the process at any time.
+  **Cost**: The estimated cost (based on input tokens) is displayed after analysis.
 
 **Note**: For videos, the AI analyzes multiple frames (configurable in Settings) to understand the context of the clip.
 
@@ -131,25 +135,21 @@ Each cell represents a media file.
 Double-click any image to enter the **Detail View**. This is a powerful editor for individual files.
 
 ### The Editor
-
 **Text Fields**: Edit Title, Description, and Keywords.
-
 * **Counters**: Real-time word and character counts (e.g.,`5 | 45`).
 * **Spell Check**: Misspelled words are underlined in red. Right-click for suggestions.
-
 **Keywords (Bubbles)**:
-
 * **Add**: Type in the input box or use the`+` button.
 * **Remove**: Click the`×` on the bubble.
 * **Reorder**: Drag and drop bubbles to change priority.
 * **Color Coding**:
-  * **Blue**: Generated by AI.
-  * **Green**: Manually added.
+ **Blue**: Generated by AI.
+ **Green**: Manually added.
   * **Black/White**: Original keywords from the file.
-
 **Map**: An interactive map shows the GPS location. You can zoom in/out.
-
 **Navigation**: Use the arrow buttons or keys to move to the next/previous image without closing the window.
+
+
 
 ![](assets/20260301_120719_image.png)
 
@@ -159,9 +159,9 @@ Double-click any image to enter the **Detail View**. This is a powerful editor f
 
 * **Save Changes**: Click**Save Changes** in the bottom right of the main window.
 * **Backups**:
-  * **CSV**: Creates a spreadsheet with all metadata.
-  * **XMP**: Writes metadata to a sidecar file (safer for RAW/Video).
-  * **Original**: Preserves the original file with a`.original` extension (for JPG).
+ **CSV**: Creates a spreadsheet with all metadata.
+ **XMP**: Writes metadata to a sidecar file (safer for RAW/Video).
+* **Original**: Preserves the original file with a`.original` extension (for JPG).
 
 ---
 
@@ -172,11 +172,11 @@ Toggle the **Batch Edit** panel using the list icon in the filter bar. This allo
 1. **Select Target**: Choose where to apply changes (Title, Description, Keywords, or Everywhere).
 2. **Input Text**: Type the text you want to add, remove, or find.
 3. **Actions**:
-   * **Add**: Appends text. For keywords, it adds a new tag. For text, it appends with a space.
+  **Add**: Appends text. For keywords, it adds a new tag. For text, it appends with a space.
    * **Remove**: Removes the specified word or tag.
-   * **Replace**: Replaces "Text A" with "Text B". Use the format`Old->New` or open the dedicated Replace Dialog (`Ctrl+H`).
-   * **Delete Field**: Clears the entire content of the selected field.
-   * **Clear All**: Removes ALL metadata from selected files.
+  **Replace**: Replaces "Text A" with "Text B". Use the format`Old->New` or open the dedicated Replace Dialog (`Ctrl+H`).
+    **Delete Field**: Clears the entire content of the selected field.
+  **Clear All**: Removes ALL metadata from selected files.
 
 ---
 
@@ -190,8 +190,9 @@ Create custom instructions for the AI.
 2. **Model**: Choose a vision model (e.g.,`google/gemini-2.0-flash-001`,`gpt-4o`).
 3. **Prompts**: Define specific rules.
    * **Variables**: Use dynamic placeholders like`{gps_raw}` (coordinates),`{date_info}` (date),`{folder_context}` (folder name).
-   * *Example*: "Describe this image taken in {loc_hint} on {date_info}."
+  *Example*: "Describe this image taken in {loc_hint} on {date_info}."
 4. **Blacklist**: Words entered here will be automatically removed from AI output.
+
 
 ![](assets/20260301_121035_image.png)
 
@@ -202,11 +203,15 @@ Create custom instructions for the AI.
 * **Synonyms**: Right-click a keyword to open the Synonym Dialog. It fetches related words from online databases (Datamuse).
 * **Translation**: If enabled in Settings, the app can show tooltips with translations of keywords into your native language.
 
+
 ![](assets/20260301_121256_image.png)
 
 ![](assets/20260301_124849_image.png)
 
 ![](assets/20260301_121308_image.png)
+
+
+
 
 ### 🌍 Geolocation
 
@@ -223,32 +228,36 @@ Create custom instructions for the AI.
 Go to **File** > **Grid Settings**.
 
 * **Appearance**:
-  * **Thumbnail Height**: Adjust the size of grid images.
-  * **Field Heights**: Customize how much space Title/Description/Keywords take up.
-  * **Font Size**: Scale text for better readability.
+***Thumbnail Height**: Adjust the size of grid images.
+ **Field Heights**: Customize how much space Title/Description/Keywords take up.
+ **Font Size**: Scale text for better readability.
 * **Language & AI**:
-  * **Spellcheck**: Enable/Disable and select primary/secondary languages.
-  * **Translation**: Set target language for tooltips.
+ **Spellcheck**: Enable/Disable and select primary/secondary languages.
+ **Translation**: Set target language for tooltips.
 * **Limits**:
-  * Set min/max character counts for Title and Description.
-  * Set min/max keyword counts.
-  * Useful for meeting stock agency requirements (e.g., Shutterstock, Adobe Stock).
+  Set min/max character counts for Title and Description.
+ Set min/max keyword counts.
+ Useful for meeting stock agency requirements (e.g., Shutterstock, Adobe Stock).
 * **Video & RAW**:
-  * **AI Frames**: How many frames to analyze per video (default 3).
-  * **Write RAW to XMP**: Recommended to keep RAW files untouched.
+* **AI Frames**: How many frames to analyze per video (default 3).
+ **Write RAW to XMP**: Recommended to keep RAW files untouched.
 * **Advanced**:
-  * **External Tools**: Paths to`exiftool.exe` and`ffmpeg.exe`.
+* **External Tools**: Paths to`exiftool.exe` and`ffmpeg.exe`.
+
 
 ![](assets/20260301_121337_image.png)
 
+
 ![](assets/20260301_121357_image.png)
+
 
 ---
 
 ## 8. Keyboard Shortcuts
 
+
 | Key                  | Action           | Context     |
-| :------------------- | :--------------- | :---------- |
+| :------------------- | :----------------- | :------------ |
 | `Ctrl + A`         | Select All       | Grid        |
 | `Ctrl + D`         | Deselect All     | Grid        |
 | `Ctrl + S`         | Save Changes     | Global      |
@@ -269,5 +278,5 @@ Go to **File** > **Grid Settings**.
 *© 2026 ArtushFoto. All rights reserved.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjk2NzQ5MV19
+eyJoaXN0b3J5IjpbLTEzMDM1NDg5NDgsLTYyNjk2NzQ5MV19
 -->
