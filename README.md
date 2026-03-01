@@ -10,7 +10,7 @@
 
 </div>
 
-**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for **JPG, RAW, and video** assets, while providing robust tools for manual metadata management.
+**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via [OpenRouter](https://openrouter.ai/)) to automatically generate keywords, titles, and descriptions for **JPG, RAW, and video** assets, while providing robust tools for manual metadata management.
 
 Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease.
 
@@ -58,8 +58,8 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 1. Run`ArtushVisionAI.exe`.
 2. **License**: If you have a license key, enter it when prompted. You can also use the Trial version with limited features (limit on daily saves/AI calls).
 3. **API Key**:
-   * Navigate to**File** >**API Key**.
-   * Enter your**OpenRouter API Key**. You can obtain one at openrouter.ai.
+   * Navigate to **File** >**API Key**.
+   * Enter your **[OpenRouter API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/help/openrouter.md)**. You can obtain one at openrouter.ai.
    * This key is stored securely locally.
 
 ---
