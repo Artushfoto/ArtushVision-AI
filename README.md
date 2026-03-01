@@ -6,11 +6,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ---
 
-
-
-
 <img src="assets/20260301_121544_image.png" width="100%">
-
 
 ## 📋 Table of Contents
 
@@ -62,7 +58,11 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 The application is designed around a central grid view with collapsible panels.
 
-![](assets/20260301_125023_image.png)
+
+![](assets/20260301_170342_image.png)
+
+*Copy/paste metadata to multiple selected files*
+
 
 ### Top Toolbar
 
@@ -121,16 +121,12 @@ Each cell represents a media file.
 
 **Note**: For videos, the AI analyzes multiple frames (configurable in Settings) to understand the context of the clip.
 
-z
-
-
 <img src="assets/20260301_155756_image.png" width="100%">
-
-
 
 <img src="assets/20260301_155819_image.png" width="100%">
 
-<img src="assets/20260301_120553_image.png" width="4
+
+span
 
 
 
@@ -161,7 +157,6 @@ Double-click any image to enter the **Detail View**. This is a powerful editor f
 
 <img src="assets/20260301_123109_image.png" width="800">
 
-
 ### Saving
 
 * **Save Changes**: Click**Save Changes** in the bottom right of the main window.
@@ -185,9 +180,7 @@ Toggle the **Batch Edit** panel using the list icon in the filter bar. This allo
    * **Delete Field**: Clears the entire content of the selected field.
    * **Clear All**: Removes ALL metadata from selected files.
 
-
 ![](assets/20260301_170027_image.png)
-
 
 ---
 
@@ -204,12 +197,7 @@ Create custom instructions for the AI.
    * *Example*: "Describe this image taken in {loc_hint} on {date_info}."
 4. **Blacklist**: Words entered here will be automatically removed from AI output.
 
-
-
-
-
 <img src="assets/20260301_121035_image.png" width="700">
-
 
 *Easily customize settings via the built-in GUI editor or by editing the JSON file.*
 
@@ -224,7 +212,6 @@ Create custom instructions for the AI.
 
 <img src="assets/20260301_121308_image.png" width="600">
 
-
 ### 🌍 Geolocation
 
 * The app reads GPS data from EXIF.
@@ -232,7 +219,6 @@ Create custom instructions for the AI.
 * **Map Provider**: Switch between Google Maps and OpenStreetMap in Settings.
 
 <img src="assets/20260301_122058_image.png" width="600">
-
 
 ---
 
@@ -257,10 +243,10 @@ Go to **File** > **Grid Settings**.
 * **Advanced**:
   * **External Tools**: Paths to`exiftool.exe` and`ffmpeg.exe`.
 
-
 <img src="assets/20260301_121337_image.png" width="800">
 
-<img src="assets/20260301_121357_image.png" width="5
+<img src="assets/20260301_121357_image.png" width="400">
+
 
 
 ---
