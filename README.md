@@ -6,7 +6,13 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ---
 
-![](assets/20260301_121544_image.png)*Dark theme with tag keywords*
+
+
+
+<img src="assets/20260301_121544_image.png" width="100%">
+
+
+<img src="assets/20260301_121544_image.png" width="400
 
 
 ## 📋 Table of Contents
@@ -118,7 +124,10 @@ Each cell represents a media file.
 
 **Note**: For videos, the AI analyzes multiple frames (configurable in Settings) to understand the context of the clip.
 
-![](assets/20260301_120553_image.png)
+<
+
+
+![](assets/20260301_120553_image.png
 
 ---
 
@@ -189,9 +198,14 @@ Create custom instructions for the AI.
    * *Example*: "Describe this image taken in {loc_hint} on {date_info}."
 4. **Blacklist**: Words entered here will be automatically removed from AI output.
 
-![](assets/20260301_121035_image.png)
 
-![](assets/20260301_123406_image.png)*Easily customize settings via the built-in GUI editor or by editing the JSON file.*
+
+
+
+<img src="assets/20260301_121035_image.png" width="700">
+
+
+*Easily customize settings via the built-in GUI editor or by editing the JSON file.*
 
 ### 📝 Synonyms & Translation
 
@@ -202,7 +216,11 @@ Create custom instructions for the AI.
 
 ![](assets/20260301_124849_image.png)
 
-![](assets/20260301_121308_image.png)
+![](assets/20260301_121308_image.png
+
+
+<img src="assets/20260301_121308_image.png" width="600">
+
 
 ### 🌍 Geolocation
 
@@ -210,7 +228,8 @@ Create custom instructions for the AI.
 * AI uses this data to identify landmarks (e.g., knowing coordinates point to "Eiffel Tower").
 * **Map Provider**: Switch between Google Maps and OpenStreetMap in Settings.
 
-![](assets/20260301_122058_image.png)
+<img src="assets/20260301_122058_image.png" width="600">
+
 
 ---
 
@@ -235,29 +254,34 @@ Go to **File** > **Grid Settings**.
 * **Advanced**:
   * **External Tools**: Paths to`exiftool.exe` and`ffmpeg.exe`.
 
-![](assets/20260301_121337_image.png)
 
-![](assets/20260301_121357_image.png)
+<img src="assets/20260301_121337_image.png" width="800">
+
+
+
+<img src="assets/20260301_121357_image.png" width="5
+
 
 ---
 
 ## 8. Keyboard Shortcuts
 
-| Key                  | Action           | Context     |
-| :------------------- | :--------------- | :---------- |
-| `Ctrl + A`         | Select All       | Grid        |
-| `Ctrl + D`         | Deselect All     | Grid        |
-| `Ctrl + S`         | Save Changes     | Global      |
-| `Ctrl + Z`         | Undo             | Global      |
-| `Ctrl + Y`         | Redo             | Global      |
-| `Ctrl + H`         | Batch Replace    | Grid        |
-| `P`                | Flag as Picked   | Grid        |
-| `X`                | Flag as Rejected | Grid        |
-| `U`                | Unflag           | Grid        |
+
+| Key              | Action           | Context     |
+| :----------------- | :----------------- | :------------ |
+| `Ctrl + A`       | Select All       | Grid        |
+| `Ctrl + D`       | Deselect All     | Grid        |
+| `Ctrl + S`       | Save Changes     | Global      |
+| `Ctrl + Z`       | Undo             | Global      |
+| `Ctrl + Y`       | Redo             | Global      |
+| `Ctrl + H`       | Batch Replace    | Grid        |
+| `P`              | Flag as Picked   | Grid        |
+| `X`              | Flag as Rejected | Grid        |
+| `U`              | Unflag           | Grid        |
 | `1` - `5`        | Set Star Rating  | Grid        |
-| `0`                | Clear Rating     | Grid        |
-| `M`                | Toggle Map       | Detail View |
-| `Ctrl + Enter`     | Apply & Close    | Detail View |
+| `0`              | Clear Rating     | Grid        |
+| `M`              | Toggle Map       | Detail View |
+| `Ctrl + Enter`   | Apply & Close    | Detail View |
 | `Left` / `Right` | Navigation       | Detail View |
 
 ---
