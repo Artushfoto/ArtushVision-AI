@@ -4,7 +4,8 @@
 
 ---
 
-![](assets/20260301_120510_image.png)
+
+![](assets/20260301_121544_image.png)
 
 ## 📋 Table of Contents
 
@@ -64,6 +65,9 @@ The application is designed around a central grid view with collapsible panels.
 * **Flat View**: Toggle to see all files from subfolders in a single flat list.
 * **Backup**: Checkboxes to enable/disable backups for CSV, XMP, and Original files.
 
+
+![](assets/20260301_121611_image.png)
+
 ### Filter Bar
 
 Located below the toolbar, this bar helps you organize your workspace.
@@ -75,6 +79,10 @@ Located below the toolbar, this bar helps you organize your workspace.
 * **Status Filter**: Filter by state (Selected, Modified, Done, Error, etc.).
 * **Type Filter**: Show only RAW, JPG, or Video files.
 * **Toggle Panels**: Buttons to show/hide the **Rating Bar** and **Batch Edit Bar**.
+
+
+
+![](assets/20260301_121636_image.png)
 
 ### The Image Grid
 
