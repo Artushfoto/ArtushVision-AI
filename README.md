@@ -260,23 +260,79 @@ Go to **File** > **Grid Settings**.
 
 ## 8. Keyboard Shortcuts
 
+Here is an overview of all keyboard shortcuts used in the application, categorized by context (where they are active).
 
-| Key              | Action           | Context     |
-| :----------------- | :----------------- | :------------ |
-| `Ctrl + A`       | Select All       | Grid        |
-| `Ctrl + D`       | Deselect All     | Grid        |
-| `Ctrl + S`       | Save Changes     | Global      |
-| `Ctrl + Z`       | Undo             | Global      |
-| `Ctrl + Y`       | Redo             | Global      |
-| `Ctrl + H`       | Batch Replace    | Grid        |
-| `P`              | Flag as Picked   | Grid        |
-| `X`              | Flag as Rejected | Grid        |
-| `U`              | Unflag           | Grid        |
-| `1` - `5`        | Set Star Rating  | Grid        |
-| `0`              | Clear Rating     | Grid        |
-| `M`              | Toggle Map       | Detail View |
-| `Ctrl + Enter`   | Apply & Close    | Detail View |
-| `Left` / `Right` | Navigation       | Detail View |
+## ⌨️ Global and Grid
+These shortcuts work in the main application window, provided you are not currently typing in a text input field.
+
+### Navigation and Selection
+| Shortcut | Function | Note |
+| :--- | :--- | :--- |
+| `←` `→` `↑` `↓` | Navigate between items | Moves focus in the grid |
+| `Shift` + `Arrows` | Range selection | Selects items from the last active to the new position |
+| `Home` / `End` | Jump to start / end | Moves to the first or last item |
+| `Shift` + `Home` / `End` | Select to start / end | Selects everything from the current position to the edge |
+| `Ctrl` + `A` | Select all | Selects all *visible* items (respects active filters) |
+| `Ctrl` + `D` | Deselect all | Clears the current selection |
+| `Esc` | Cancel / Clear | Sequentially: Clears search -> Resets filters -> Deselects items |
+
+### Editing and Actions
+| Shortcut | Function | Note |
+| :--- | :--- | :--- |
+| `Ctrl` + `S` | Save selected | Saves metadata of selected items to files |
+| `Ctrl` + `Z` | Undo | Reverts the last change in the grid |
+| `Ctrl` + `Y` / `Ctrl` + `Shift` + `Z` | Redo | Reapplies the reverted change |
+| `Ctrl` + `C` | Copy metadata | Copies Title, Description, and Keywords from the active photo |
+| `Ctrl` + `V` | Paste metadata | Pastes copied data into all selected photos |
+| `Ctrl` + `H` | Batch replace | Opens the Find and Replace dialog |
+
+### Rating and Labels
+*(Disabled while typing in text fields)*
+
+| Shortcut | Function | Note |
+| :--- | :--- | :--- |
+| `1` - `5` | Star rating | Sets 1 to 5 stars for selected items |
+| `` ` `` or `~` | Reset rating | Sets 0 stars (key below Esc) |
+| `P` | Flag: Pick | Marks as picked (green flag) |
+| `X` | Flag: Reject | Marks as rejected (red cross) |
+| `U` | Flag: Unflag | Removes flag |
+| `6` | Label: Red | Applies Red Label |
+| `7` | Label: Yellow | Applies Yellow Label |
+| `8` | Label: Green | Applies Green Label |
+| `9` | Label: Blue | Applies Blue Label |
+| `0` | Label: Purple | Applies Purple Label |
+
+---
+
+## 🖼️ Detail Window
+These shortcuts work when the single photo detail window is open.
+
+| Shortcut | Function | Note |
+| :--- | :--- | :--- |
+| `Ctrl` + `Enter` | Save and Close | Confirms changes and closes the window (like the OK button) |
+| `Esc` | Close / Cancel | Closes the window (if no unsaved changes, otherwise prompts) |
+| `Ctrl` + `Z` | Undo | Local Undo within the detail window |
+| `Ctrl` + `Y` / `Ctrl` + `Shift` + `Z` | Redo | Local Redo within the detail window |
+| `←` / `→` | Previous / Next | Go to the previous/next photo (if not currently typing) |
+| `Ctrl` + `←` / `→` | Previous / Next | Go to the previous/next photo (works even while typing) |
+| `M` | Map | Shows or hides the map panel |
+| `P`, `X`, `U` | Flags | Same as in the grid (Pick, Reject, Unflag) |
+| `1`-`5`, `6`-`0` | Ratings / Labels | Same as in the grid |
+| `Ctrl` + `Mouse Wheel` | Map Zoom | Works when the cursor is hovering over the map |
+
+---
+
+## 🏷️ Tags (Bubbles) and Synonyms
+Specific shortcuts for keyword areas and the synonyms dialog.
+
+| Shortcut | Context | Function |
+| :--- | :--- | :--- |
+| `Enter` / `,` | Tag input field | Confirms and adds the typed tag |
+| `Ctrl` + `C` | Bubbles area | Copies text of selected (or all) bubbles |
+| `Ctrl` + `V` | Bubbles area | Pastes text from the clipboard as new bubbles |
+| `Ctrl` + `Mouse Wheel`| Synonyms window | Increases/decreases bubble font size in the window |
+| `Ctrl` + `Space` | Text field | Triggers autocomplete/suggestions (if available) |
+
 
 ---
 
