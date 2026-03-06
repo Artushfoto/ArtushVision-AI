@@ -260,47 +260,45 @@ Go to **File** > **Grid Settings**.
 
 ## 8. Keyboard Shortcuts
 
-Here is an overview of all keyboard shortcuts used in the application, categorized by context (where they are active).
+Here is an updated and verified list of all active keyboard shortcuts in the application, including the newly implemented ones.
 
-## ⌨️ Global and Grid
-These shortcuts work in the main application window, provided you are not currently typing in a text input field.
+## ⌨️ Main Window (Grid)
+These shortcuts work when the main window with photo thumbnails is active.
 
-### Navigation and Selection
+### Selection and Navigation
 | Shortcut | Function | Note |
 | :--- | :--- | :--- |
-| `←` `→` `↑` `↓` | Navigate between items | Moves focus in the grid |
-| `Shift` + `Arrows` | Range selection | Selects items from the last active to the new position |
+| `←` `→` `↑` `↓` | Move in grid | Moves active selection |
+| `Shift` + `Arrows` | Range selection | Expands selection from the last active item |
 | `Home` / `End` | Jump to start / end | Moves to the first or last item |
 | `Shift` + `Home` / `End` | Select to start / end | Selects everything from the current position to the edge |
-| `Ctrl` + `A` | Select all | Selects all *visible* items (respects active filters) |
-| `Ctrl` + `D` | Deselect all | Clears the current selection |
+| `Ctrl` + `A` | Select all | Selects all *visible* items (respects active filter) |
+| `Ctrl` + `D` | Deselect all | Deselects all items |
 | `Esc` | Cancel / Clear | Sequentially: Clears search -> Resets filters -> Deselects items |
 
 ### Editing and Actions
 | Shortcut | Function | Note |
 | :--- | :--- | :--- |
+| `Delete` | Delete metadata | Clears Title, Description, and Keywords for selected photos |
 | `Ctrl` + `S` | Save selected | Saves metadata of selected items to files |
-| `Ctrl` + `Z` | Undo | Reverts the last change in the grid |
-| `Ctrl` + `Y` / `Ctrl` + `Shift` + `Z` | Redo | Reapplies the reverted change |
-| `Ctrl` + `C` | Copy metadata | Copies Title, Description, and Keywords from the active photo |
-| `Ctrl` + `V` | Paste metadata | Pastes copied data into all selected photos |
+| `Ctrl` + `F` | Search | Moves cursor to the search field |
 | `Ctrl` + `H` | Batch replace | Opens the Find and Replace dialog |
+| `Ctrl` + `C` | Copy metadata | Copies Title, Description, and Keywords from the active photo |
+| `Ctrl` + `V` | Paste metadata | Pastes copied data to all selected photos |
+| `Ctrl` + `Z` | Undo | Reverts the last change in the grid |
+| `Ctrl` + `Y` / `Shift` + `Z` | Redo | Reapplies the reverted change |
 
 ### Rating and Labels
 *(Disabled while typing in text fields)*
 
 | Shortcut | Function | Note |
 | :--- | :--- | :--- |
-| `1` - `5` | Star rating | Sets 1 to 5 stars for selected items |
+| `1` - `5` | Star rating | Sets 1 to 5 stars |
 | `` ` `` or `~` | Reset rating | Sets 0 stars (key below Esc) |
 | `P` | Flag: Pick | Marks as picked (green flag) |
 | `X` | Flag: Reject | Marks as rejected (red cross) |
 | `U` | Flag: Unflag | Removes flag |
-| `6` | Label: Red | Applies Red Label |
-| `7` | Label: Yellow | Applies Yellow Label |
-| `8` | Label: Green | Applies Green Label |
-| `9` | Label: Blue | Applies Blue Label |
-| `0` | Label: Purple | Applies Purple Label |
+| `6` - `0` | Color labels | 6=Red, 7=Yellow, 8=Green, 9=Blue, 0=Purple |
 
 ---
 
@@ -309,31 +307,32 @@ These shortcuts work when the single photo detail window is open.
 
 | Shortcut | Function | Note |
 | :--- | :--- | :--- |
-| `Ctrl` + `Enter` | Save and Close | Confirms changes and closes the window (like the OK button) |
-| `Esc` | Close / Cancel | Closes the window (if no unsaved changes, otherwise prompts) |
+| `Ctrl` + `Enter` | Save and Close | Confirms changes and closes the window |
+| `Ctrl` + `S` | Save | Saves changes to the grid, window remains open |
+| `Esc` | Close / Cancel | Closes the window (if no unsaved changes) |
 | `Ctrl` + `Z` | Undo | Local Undo within the detail window |
-| `Ctrl` + `Y` / `Ctrl` + `Shift` + `Z` | Redo | Local Redo within the detail window |
+| `Ctrl` + `Y` / `Shift` + `Z` | Redo | Local Redo within the detail window |
 | `←` / `→` | Previous / Next | Go to the previous/next photo (if not currently typing) |
-| `Ctrl` + `←` / `→` | Previous / Next | Go to the previous/next photo (works even while typing) |
+| `Ctrl` + `←` / `→` | Previous / Next | Forced transition to the previous/next photo (even while typing) |
 | `M` | Map | Shows or hides the map panel |
-| `P`, `X`, `U` | Flags | Same as in the grid (Pick, Reject, Unflag) |
+| `P`, `X`, `U` | Flags | Same as in the grid |
 | `1`-`5`, `6`-`0` | Ratings / Labels | Same as in the grid |
 | `Ctrl` + `Mouse Wheel` | Map Zoom | Works when the cursor is hovering over the map |
 
 ---
 
-## 🏷️ Tags (Bubbles) and Synonyms
-Specific shortcuts for keyword areas and the synonyms dialog.
+## 🏷️ Tags (Bubbles) and Text
+Specific shortcuts for keyword areas (when bubbles are enabled) and text fields.
 
 | Shortcut | Context | Function |
 | :--- | :--- | :--- |
 | `Enter` / `,` | Tag input field | Confirms and adds the typed tag |
+| `Ctrl` + `A` | Bubbles area | Selects all tags in bubbles |
+| `Delete` | Bubbles area | Deletes selected (highlighted) tags |
 | `Ctrl` + `C` | Bubbles area | Copies text of selected (or all) bubbles |
 | `Ctrl` + `V` | Bubbles area | Pastes text from the clipboard as new bubbles |
-| `Ctrl` + `Mouse Wheel`| Synonyms window | Increases/decreases bubble font size in the window |
 | `Ctrl` + `Space` | Text field | Triggers autocomplete/suggestions (if available) |
-
-
+| `Ctrl` + `Mouse Wheel`| Synonyms window | Increases/decreases bubble font size in the window |
 ---
 
 *© 2026 ArtushFoto. All rights reserved.*
