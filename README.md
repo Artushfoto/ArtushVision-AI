@@ -56,7 +56,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 ### First Launch
 
 1. Run`ArtushVisionAI.exe`.
-2. **License**: If you have a license key, enter it when prompted. You can also use the Trial version with limited features (limit on daily saves/AI calls).
+2. **License**: If you have a license key, enter it when prompted. You can also use the Trial version with limited features (limit on saves/AI calls).
 3. **API Key**:
    * Navigate to **File** >**API Key**.
    * Enter your **[OpenRouter API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/help/openrouter.md)**. You can obtain one at openrouter.ai.
