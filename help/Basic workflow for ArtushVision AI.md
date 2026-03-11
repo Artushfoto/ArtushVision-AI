@@ -2,6 +2,7 @@
 
 Welcome to the official workflow guide for **ArtushVision AI**. This document provides a structured overview of all features, from basic interface setup to advanced AI integration.
 
+## 🎥 Video Tutorials
 ---
 
 ## 01. Interface Overview
@@ -96,13 +97,4 @@ Welcome to the official workflow guide for **ArtushVision AI**. This document pr
 
 ---
 
-## 🎥 Video Tutorials
-
-### Example: Interface Overview
-https://github.com/user/repo/assets/video_id.mp4
-
-### Example: AI Functions
-[![ArtushVision AI Overview](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
----
 *Last updated: 2026*
