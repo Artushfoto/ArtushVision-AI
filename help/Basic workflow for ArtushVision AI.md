@@ -85,6 +85,7 @@ Welcome to the official workflow guide for **ArtushVision AI**. This document pr
   - Set star ratings directly in the Grid or Edit window.
   - Filter assets based on rating values.
 
+[![ArtushVision AI - Working with grid](https://img.youtube.com/vi/jxHmO13mOKU/maxresdefault.jpg)](https://www.youtube.com/watch?v=jxHmO13mOKU)
 ---
 
 ## 08. AI Functions
@@ -94,6 +95,8 @@ Welcome to the official workflow guide for **ArtushVision AI**. This document pr
 - **Grid AI:** Batch process multiple images/videos using AI.
 - **Edit Window AI:** Deep analysis and captioning for individual assets.
 - **Monitoring:** Track your usage with OpenRouter statistics.
+
+[![ArtushVision AI - Interface Overview](https://img.youtube.com/vi/G16A8-x8tKw/maxresdefault.jpg)](https://www.youtube.com/watch?v=G16A8-x8tKw)
 
 ---
 
