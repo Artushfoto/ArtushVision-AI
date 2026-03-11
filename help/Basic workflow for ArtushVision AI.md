@@ -1,4 +1,4 @@
-# 📺 ArtushVision AI – Video Tutorials & Documentation
+# ArtushVision AI – Video Tutorials & Documentation
 
 Welcome to the official workflow guide for **ArtushVision AI**. This document provides a structured overview of all features, from basic interface setup to advanced AI integration.
 
