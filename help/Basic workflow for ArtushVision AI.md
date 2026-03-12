@@ -38,7 +38,7 @@ Welcome to the official workflow guide for **ArtushVision AI**. This document pr
 *Localizing metadata and expanding your reach.*
 
 - **Multi-language Workflow:** Translate Title, Description, and Keywords.
-- **Language Switcher:** Seamlessly move between English, German, Spanish, and Czech.
+- **Language Switcher:** Seamlessly move between English, German, Spanish, Czech and other languages.
 - **Synonym Integration:** Automatically expand metadata with related terms.
 
 ---
@@ -85,10 +85,6 @@ Welcome to the official workflow guide for **ArtushVision AI**. This document pr
   - Set star ratings directly in the Grid or Edit window.
   - Filter assets based on rating values.
 
-<a href="https://www.youtube.com/watch?v=jxHmO13mOKU" target="_blank">
- <img src="https://img.youtube.com/vi/jxHmO13mOKU/maxresdefault.jpg" alt="ArtushVision AI - Working with grid" width="600" />
-</a>
-
 ---
 
 ## 08. AI Functions
@@ -98,10 +94,6 @@ Welcome to the official workflow guide for **ArtushVision AI**. This document pr
 - **Grid AI:** Batch process multiple images/videos using AI.
 - **Edit Window AI:** Deep analysis and captioning for individual assets.
 - **Monitoring:** Track your usage with OpenRouter statistics.
-
-<a href="https://www.youtube.com/watch?v=G16A8-x8tKw" target="_blank">
- <img src="https://img.youtube.com/vi/G16A8-x8tKw/maxresdefault.jpg" alt="ArtushVision AI - Interface Overview" width="600" border="10" />
-</a>
 
 ---
 
