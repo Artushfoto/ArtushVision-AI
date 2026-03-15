@@ -398,5 +398,5 @@ Go to **File > Grid Settings** to customize your workspace.
 ![Grid Screenshot 2](https://photos.smugmug.com/photos/i-SjmDXSV/0/M/i-SjmDXSV-M.jpg)
 
 ---
-*© 2026 ArtushFoto. All rights reserved. Powered by SmugMug.*
+*© 2026 ArtushFoto. All rights reserved.*
 
