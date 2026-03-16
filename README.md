@@ -61,7 +61,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 *Based on processing 10,000 photos/videos per year*
 
 * **Online AI Services (Subscription):** ??? USD
-* **ArtushVision AI (License + API tokens):** **$40.50**
+* **ArtushVision AI (Perpetual License + API tokens):** **$40.50**
 * Gemini 2.0 Flash costs ~$0.50 for 10k assets.
 
 > 💰 **Stop paying for empty subscriptions. Own your tools and pay only for the AI you use.**
