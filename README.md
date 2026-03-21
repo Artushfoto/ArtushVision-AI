@@ -34,5 +34,6 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 Pay once, use forever. Securely processed by Polar & Stripe.
 
 [🔓 Already have a license? Manage or Deactivate your devices](https://www.artushfoto.eu/Software/Manage-ArtushVision-AI-License)
+
 ![alt text](AI_analysis.png)
 </div>
