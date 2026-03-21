@@ -1,0 +1,40 @@
+LICENČNÍ SMLOUVA S KONCOVÝM UŽIVATELEM (EULA) - ArtushVision AI
+Produkt: ArtushVision AI
+Verze: 2026.001 (a následující verze)
+Poslední aktualizace: Březen 2026
+
+Tato Licenční smlouva s koncovým uživatelem ("Smlouva") je právní dohodou mezi vámi ("Uživatel") a vývojářem ArtushVision AI ("Vývojář"). Instalací, kopírováním nebo jiným používáním Softwaru souhlasíte s podmínkami této Smlouvy.
+
+1. Udělení licence
+Vývojář vám uděluje nevýhradní, nepřenosnou, trvalou licenci k používání ArtushVision AI pro osobní nebo komerční účely, za následujících podmínek:
+Lite verze (Trial): Software můžete používat zdarma s omezeními na relaci (3 dotazy AI a 10 uložení souborů na relaci).
+Plná verze: Po zakoupení platného licenčního klíče přes Lemon Squeezy jsou tato omezení odstraněna.
+
+2. Zpracování dat a externí služby (Důležité)
+Používáním ArtushVision AI Uživatel bere na vědomí a souhlasí s tím, že Software komunikuje s cloudovými službami třetích stran přes internet za účelem poskytování svých základních funkcí. Data jsou přenášena následovně:
+AI Analýza: Obrázky a prompty vybrané Uživatelem jsou nahrávány na OpenRouter (a následně vybraným poskytovatelům AI modelů, jako jsou OpenAI, Anthropic nebo Google).
+Překlad: Textová data pro překlad jsou přenášena do Google Translate (nebo podobných překladových API).
+Lingvistická data: Požadavky na synonyma a lingvistická metadata jsou zpracovávány přes Datamuse API.
+Prohlášení o ochraně soukromí: Vývojář neukládá vaše obrázky ani osobní údaje na soukromých serverech. Přenos dat probíhá přímo mezi Softwarem a zmíněnými API třetích stran. Uživatel podléhá Zásadám ochrany osobních údajů a Podmínkám služby těchto poskytovatelů.
+
+3. Žádná podpora a záruka "Tak jak je"
+Žádná podpora: ArtushVision AI je poskytován jako samoobslužný nástroj. Vývojář není povinen poskytovat individuální technickou podporu, údržbu ani vlastní aktualizace.
+Záruka: Software je poskytován "TAK JAK JE" bez jakékoli záruky. Uživatel bere na vědomí dostupnost bezplatné "Lite" verze a je odpovědný za ověření kompatibility se svým hardwarem/OS před nákupem.
+
+4. Zásady vracení peněz
+Vzhledem k digitální povaze softwaru a dostupnosti bezplatné zkušební verze jsou všechny prodeje konečné. Jakmile byl vydán licenční klíč, vrácení peněz se zvažuje pouze v případech duplicitních nákupů nebo prokázaného technického selhání samotného licenčního klíče.
+
+5. Omezení
+NESMÍTE:
+Zpětně analyzovat, dekompilovat nebo disasemblovat Software.
+Pronajímat, půjčovat nebo sublicencovat Software nebo váš unikátní licenční klíč.
+Upravovat nebo vytvářet odvozená díla založená na Softwaru.
+
+6. Knihovny třetích stran
+ArtushVision AI využívá knihovny třetích stran a open-source komponenty. Podrobný seznam konkrétních licencí a kreditů je k dispozici v sekci "O aplikaci" nebo "Právní informace" v aplikaci.
+
+7. Omezení odpovědnosti
+V žádném případě nenese Vývojář odpovědnost za jakékoli škody (včetně, bez omezení, ušlého zisku nebo ztráty informací) vzniklé používáním nebo nemožností používat Software.
+
+8. Rozhodné právo
+Tato Smlouva se řídí zákony České republiky.

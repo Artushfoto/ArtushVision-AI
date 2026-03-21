@@ -1,0 +1,59 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+This software includes the following third-party software components:
+
+1. Qt for Python (PySide6)
+   Copyright (C) The Qt Company Ltd.
+   License: LGPL v3 (GNU Lesser General Public License version 3)
+   Source: https://www.qt.io/qt-for-python
+
+2. Requests
+   Copyright 2019 Kenneth Reitz
+   License: Apache License 2.0
+   Source: https://requests.readthedocs.io/
+
+3. Pillow (PIL Fork)
+   Copyright (c) 2010-2024 Alex Clark and contributors
+   License: HPND License
+   Source: https://python-pillow.org/
+
+4. pyspellchecker
+   Copyright (c) 2014 Tyler Barrus
+   License: MIT License
+   Source: https://github.com/barrust/pyspellchecker
+
+5. deep-translator
+   Copyright (c) 2020 Nidhal Baccouri
+   License: MIT License
+   Source: https://github.com/nidhaloff/deep-translator
+
+6. langdetect
+   Copyright (c) 2014 Michal Mimuni
+   License: Apache License 2.0
+   Source: https://github.com/Mimino666/langdetect
+
+7. spylls
+   Copyright (c) 2020-2021, Matthew Truscott
+   License: MPL 2.0 (Mozilla Public License 2.0)
+   Source: https://github.com/zverok/spylls
+
+8. OpenAI Python Library
+   Copyright (c) OpenAI
+   License: Apache License 2.0
+   Source: https://github.com/openai/openai-python
+
+9. ExifTool (Distributed executable)
+   Copyright (C) 2003-2024 Phil Harvey
+   License: Perl Artistic License / GPL
+   Source: https://exiftool.org/
+
+10. FFmpeg (Distributed executable)
+    Copyright (c) 2000-2024 the FFmpeg developers
+    License: LGPL v2.1+
+    Source: https://ffmpeg.org/
+
+------------------------------------------------------------------------------
+LGPL v3 Notice (Qt for Python / PySide6):
+This application uses the Qt for Python (PySide6) library, licensed under the LGPL v3.
+You can obtain the source code for the Qt library from https://www.qt.io/download.
+This application is dynamically linked with the Qt library.
