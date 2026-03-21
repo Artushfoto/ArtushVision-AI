@@ -1,0 +1,40 @@
+END USER LICENSE AGREEMENT (EULA) - ArtushVision AI
+Product: ArtushVision AI
+Version: 2026.001 (and subsequent versions)
+Last updated: March 2026
+
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and the developer of ArtushVision AI ("Developer"). By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement.
+
+1. License Grant
+The Developer grants you a non-exclusive, non-transferable, perpetual license to use ArtushVision AI for personal or commercial purposes, under the following conditions:
+Lite version (Trial): You may use the Software for free with per-session limitations (3 AI queries and 10 file saves per session).
+Full version: Upon purchasing a valid license key via Polar, these limitations are removed.
+
+2. Data Processing and External Services (Important)
+By using ArtushVision AI, the User acknowledges and agrees that the Software communicates with third-party cloud services over the internet to provide its core functionalities. Data is transmitted as follows:
+AI Analysis: Images and prompts selected by the User are uploaded to OpenRouter (and subsequently to selected AI model providers, such as OpenAI, Anthropic, or Google).
+Translation: Text data for translation is transmitted to Google Translate (or similar translation APIs).
+Linguistic data: Requests for synonyms and linguistic metadata are processed via the Datamuse API.
+Privacy Statement: The Developer does not store your images or personal data on private servers. Data transmission occurs directly between the Software and the aforementioned third-party APIs. The User is subject to the Privacy Policies and Terms of Service of these providers.
+
+3. No Support and "As Is" Warranty
+No Support: ArtushVision AI is provided as a self-service tool. The Developer is under no obligation to provide individual technical support, maintenance, or custom updates.
+Warranty: The Software is provided "AS IS" without any warranty. The User acknowledges the availability of the free "Lite" version and is responsible for verifying compatibility with their hardware/OS prior to purchase.
+
+4. Refund Policy
+Due to the digital nature of the software and the availability of a free trial version, all sales are final. Once a license key has been issued, refunds are considered only in cases of duplicate purchases or proven technical failure of the license key itself.
+
+5. Restrictions
+YOU MAY NOT:
+Reverse engineer, decompile, or disassemble the Software.
+Rent, lease, or sublicense the Software or your unique license key.
+Modify or create derivative works based on the Software.
+
+6. Third-Party Libraries
+ArtushVision AI utilizes third-party libraries and open-source components. A detailed list of specific licenses and credits is available in the "About" or "Legal Information" section of the application.
+
+7. Limitation of Liability
+In no event shall the Developer be liable for any damages (including, without limitation, lost profits or loss of information) arising from the use of or inability to use the Software.
+
+8. Governing Law
+This Agreement is governed by the laws of the Czech Republic.
