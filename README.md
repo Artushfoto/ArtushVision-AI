@@ -17,7 +17,7 @@
 
 Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.
 
-### 📖 Resources & Guides
+#### 📖 Resources & Guides
 * [ArtushVision AI - Overview](https://www.artushfoto.eu/Software/ArtushVisionAI)
 * [ArtushVision AI - Basic workflow introduction video](https://www.artushfoto.eu/Software/ArtushVision-AI-basic-workflow)
 * [ArtushVision AI - OpenRouter API Key Setup](https://www.artushfoto.eu/Software/OpenRouter-API-Key-Setup-Guide-for-Beginners)
@@ -25,13 +25,13 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 ![alt text](AI_analysis.png)
 ---
 
-## 🛠 How to Get Started
+#### 🛠 How to Get Started
 
 1. **Download** the preferred version from the links above.
 2. **Install or Extract** the application.
 3. **Launch** ArtushVision AI and configure your [OpenRouter API key](https://www.artushfoto.eu/Software/OpenRouter-API-Key-Setup-Guide-for-Beginners) in settings.
 4. **Load folder** with your photos and videos to start the AI analysis.
-## 📥 Download Latest Release (v2026.1.00)
+#### 📥 Download Latest Release (v2026.1.00)
 
 | Download Link | Version Type |
 | :--- | :--- |
@@ -40,7 +40,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ---
 
-## 💎 Get Lifetime License for $39.99
+#### 💎 Get Lifetime License for $39.99
 [**Purchase ArtushVision AI here**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)<br>
 *(+ local VAT calculated at checkout)*
 
@@ -51,7 +51,7 @@ Pay once, use forever. Securely processed by Polar & Stripe.
 
 ---
 
-## 🌐 Official Project Page
+#### 🌐 Official Project Page
 For detailed guides, tutorials, and support, visit:
 👉 [**artushfoto.eu/Software/ArtushVisionAI**](https://www.artushfoto.eu/Software/ArtushVisionAI)
 
