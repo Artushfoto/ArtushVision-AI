@@ -1,0 +1,10 @@
+{
+  "latest_version": "2026.1.00",
+  "release_date": "2026-03-22",
+  "download_page": "https://github.com/Artushfoto/ArtushVision-AI/releases/latest",
+  "installer_url": "https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.00/ArtushVisionAI_Setup_v2026.1.00.exe",
+  "portable_url": "https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.00/ArtushVisionAI_Portable_v2026.1.00.zip",
+  "changelog": "Initial public release. Features AI-powered auto-keywording, multi-language metadata support, and OpenRouter vision model integration.",
+  "minimum_required_version": "2026.0.00",
+  "status": "initial version"
+}
