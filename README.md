@@ -22,11 +22,25 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 * [ArtushVision AI - Basic workflow introduction video](https://www.artushfoto.eu/Software/ArtushVision-AI-basic-workflow)
 * [ArtushVision AI - OpenRouter API Key Setup](https://www.artushfoto.eu/Software/OpenRouter-API-Key-Setup-Guide-for-Beginners)
 
+![alt text](AI_analysis.png)
 ---
 
-<div align="center">
+## 🛠 How to Get Started
 
-### 💎 Get Lifetime License for $39.99
+1. **Download** the preferred version from the links above.
+2. **Install or Extract** the application.
+3. **Launch** ArtushVision AI and configure your OpenRouter API key in settings.
+4. **Drag & Drop** your photos to start the AI analysis.
+## 📥 Download Latest Release (v2026.1.00)
+
+| Download Link | Version Type |
+| :--- | :--- |
+| 🚀 [**Download Installer (.exe)**](https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.00/ArtushVisionAI_Setup_v2026.1.00.exe) | Standard Windows Installation |
+| 📦 [**Download Portable (.zip)**](https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.00/ArtushVisionAI_Portable_v2026.1.00.zip) | Portable (No installation required) |
+
+---
+
+## 💎 Get Lifetime License for $39.99
 [**Purchase ArtushVision AI here**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)<br>
 *(+ local VAT calculated at checkout)*
 
@@ -35,5 +49,4 @@ Pay once, use forever. Securely processed by Polar & Stripe.
 
 [🔓 Already have a license? Manage or Deactivate your devices](https://www.artushfoto.eu/Software/Manage-ArtushVision-AI-License)
 
-![alt text](AI_analysis.png)
 </div>
