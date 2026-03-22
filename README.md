@@ -56,5 +56,4 @@ For detailed guides, tutorials, and support, visit:
 👉 [**artushfoto.eu/Software/ArtushVisionAI**](https://www.artushfoto.eu/Software/ArtushVisionAI)
 
 ---
-![GitHub All Releases](https://img.shields.io/github/downloads/Artushfoto/ArtushVision-AI/total?color=blue)
 </div>
