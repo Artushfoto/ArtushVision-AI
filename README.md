@@ -31,7 +31,8 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 2. **Install or Extract** the application.
 3. **Launch** ArtushVision AI and configure your [OpenRouter API key](https://www.artushfoto.eu/Software/OpenRouter-API-Key-Setup-Guide-for-Beginners) in settings.
 4. **Load folder** with your photos and videos to start the AI analysis.
-#### 📥 Download Latest Release (v2026.1.00)
+#### 📥 Download Latest Release (v2026.1.01)
+[What is new in version 2026.1.01](https://www.artushfoto.eu/Software/Artush-Vision-What-is-new)
 
 | Download Link | Version Type |
 | :--- | :--- |
