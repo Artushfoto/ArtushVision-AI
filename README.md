@@ -35,8 +35,9 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 | Download Link | Version Type |
 | :--- | :--- |
-| 🚀 [**Download Installer (.exe)**](https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.00/ArtushVisionAI_Setup_v2026.1.00.exe) | Standard Windows Installation |
-| 📦 [**Download Portable (.zip)**](https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.00/ArtushVisionAI_Portable_v2026.1.00.zip) | Portable (No installation required) |
+| 🚀 [**Download Installer (.exe)**](https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.01/ArtushVisionAI_Setup_v2026.1.01.exe) | Standard Windows Installation |
+| 📦 [**Download Portable (.zip)**](https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.01/ArtushVisionAI_Portable_v2026.1.01.zip) | Portable (No installation required) |
+| 🔗 [**View All Releases**](https://github.com/Artushfoto/ArtushVision-AI/releases) | Changelog and previous versions |
 
 ---
 
