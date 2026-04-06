@@ -22,8 +22,9 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 * [ArtushVision AI - Basic workflow introduction video](https://www.artushfoto.eu/Software/ArtushVision-AI-basic-workflow)
 * [ArtushVision AI - OpenRouter API Key Setup](https://www.artushfoto.eu/Software/OpenRouter-API-Key-Setup-Guide-for-Beginners)
 
-![alt text](AI_analysis.png)
+![ai_analysis](https://github.com/user-attachments/assets/efb83189-65ea-495a-ae70-723fe9c4e17e)
 ---
+
 
 #### 🛠 How to Get Started
 
