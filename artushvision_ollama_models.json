@@ -1,0 +1,46 @@
+{
+  "models": [
+    {
+      "name": "qwen2.5-vl:3b",
+      "type": "Vision",
+      "size": "2.2 GB",
+      "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): Fast and accurate model for image analysis. Ideal compromise between speed and quality for PCs with 8GB VRAM (e.g., RTX 3060 Ti)."
+    },
+    {
+      "name": "gemma4:e2b",
+      "type": "Vision",
+      "size": "1.8 GB",
+      "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): The newest efficient multimodal model from Google. Excellent performance-to-memory ratio, suitable even for less powerful PCs."
+    },
+    {
+      "name": "glm-ocr:latest",
+      "type": "Vision",
+      "size": "0.6 GB",
+      "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): Specialist in extracting text from documents and images (OCR). Extremely fast and lightweight."
+    },
+    {
+      "name": "phi3:mini-instruct",
+      "type": "Text",
+      "size": "2.3 GB",
+      "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): Small but very smart text model. Great choice for PCs with 8GB VRAM for text formatting in 'Enhanced Local AI' mode."
+    },
+    {
+      "name": "llava-qwen2:7b-instruct",
+      "type": "Vision",
+      "size": "5.0 GB",
+      "description": "RECOMMENDED FOR LAPTOP (16GB VRAM): More powerful and accurate Vision model. Recommended for laptops and PCs with 12GB+ VRAM (e.g., Intel Arc 16GB)."
+    },
+    {
+      "name": "mistral:7b-instruct",
+      "type": "Text",
+      "size": "4.1 GB",
+      "description": "RECOMMENDED FOR LAPTOP (16GB VRAM): Top-tier text model, ideal for formatting in 'Enhanced Local AI' mode on PCs with 12GB+ VRAM."
+    },
+    {
+      "name": "llama3:8b-instruct",
+      "type": "Text",
+      "size": "4.7 GB",
+      "description": "RECOMMENDED FOR LAPTOP (16GB VRAM): The newest and smartest model from Meta in this size category. A great alternative to Mistral for PCs with 12GB+ VRAM."
+    }
+  ]
+}
