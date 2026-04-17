@@ -1,7 +1,7 @@
 {
   "models": [
     {
-      "name": "qwen2.5-vl:3b",
+      "name": "qwen2.5vl:3b",
       "type": "Vision",
       "size": "2.2 GB",
       "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): Fast and accurate model for image analysis. Ideal compromise between speed and quality for PCs with 8GB VRAM (e.g., RTX 3060 Ti)."
