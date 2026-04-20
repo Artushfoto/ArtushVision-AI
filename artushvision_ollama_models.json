@@ -4,43 +4,49 @@
       "name": "deepseek-r1:7b",
       "type": "Text",
       "size": "4.7 GB",
-      "description": "RECOMMENDED FOR REASONING (8GB VRAM): State-of-the-art reasoning model. Ideal for the 2nd stage of the hybrid system to fix descriptions and generate complex metadata."
+      "description": "RECOMMENDED FOR REASONING (8GB VRAM): State-of-the-art reasoning model. Ideal for the 2nd stage of the hybrid system to refine descriptions and generate high-quality SEO keywords."
     },
     {
       "name": "qwen2.5:7b",
       "type": "Text",
       "size": "4.4 GB",
-      "description": "RECOMMENDED FOR LAPTOP (16GB VRAM): Current state-of-the-art 7B text model. Superior logic and knowledge for general tasks."
+      "description": "RECOMMENDED FOR GENERAL TASKS (16GB VRAM): Superior logic and knowledge. Excellent for general text processing and structured data generation."
     },
     {
       "name": "aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf:latest",
       "type": "Text",
       "size": "4.2 GB",
-      "description": "RECOMMENDED FOR CREATIVE FREEDOM (16GB VRAM): Special 'unfiltered' version of Qwen 2.5. Ideal for unrestricted creative tasks."
+      "description": "RECOMMENDED FOR CREATIVE FREEDOM (16GB VRAM): Special 'unfiltered' version of Qwen 2.5. Ideal for unrestricted creative tasks and artistic descriptions."
     },
     {
-      "name": "glm-ocr:latest",
+      "name": "gemma3:4b",
       "type": "Vision",
-      "size": "2.1 GB",
-      "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): Specialist in extracting text from documents and images (OCR). Extremely fast."
+      "size": "3.2 GB",
+      "description": "RECOMMENDED FOR FAST ANALYTICS (8GB VRAM): Extremely fast and efficient vision model. Perfect for quick batch processing and initial image descriptions."
     },
     {
       "name": "qwen3-vl:4b",
       "type": "Vision",
       "size": "3.1 GB",
-      "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): Next-gen vision model. Significant improvement in OCR and spatial understanding."
+      "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): Next-gen vision model. Significant improvement in spatial understanding and detailed object recognition."
     },
     {
-      "name": "gemma4:e2b",
+      "name": "glm-ocr:latest",
       "type": "Vision",
-      "size": "6.7 GB",
-      "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): Efficient multimodal model from Google with excellent performance-to-memory ratio."
+      "size": "2.1 GB",
+      "description": "RECOMMENDED FOR OCR SPECIALIST (8GB VRAM): Specialist in extracting text from documents, labels, and complex images. Extremely fast and precise."
     },
     {
       "name": "llama3.2-vision:11b",
       "type": "Vision",
       "size": "7.3 GB",
-      "description": "RECOMMENDED FOR HIGH-END (16GB+ VRAM): Premium multimodal model from Meta. Best-in-class image reasoning."
+      "description": "RECOMMENDED FOR HIGH-END (16GB+ VRAM): Premium multimodal model from Meta. Best-in-class image reasoning for complex scenes."
+    },
+    {
+      "name": "moondream:latest",
+      "type": "Vision",
+      "size": "1.7 GB",
+      "description": "RECOMMENDED FOR LOW-END (CPU/Laptop): Ultra-lightweight vision model. Suitable for basic image tagging on hardware without dedicated GPU."
     }
   ]
 }
