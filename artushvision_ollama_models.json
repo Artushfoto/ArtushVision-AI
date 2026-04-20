@@ -1,16 +1,22 @@
 {
   "models": [
     {
+      "name": "deepseek-r1:1.5b",
+      "type": "Text",
+      "size": "1.1 GB",
+      "description": "ULTRA-LIGHTWEIGHT REASONING (CPU/Laptop): Smallest reasoning model. Perfect for fixing image descriptions and generating tags on laptops without a dedicated GPU."
+    },
+    {
       "name": "gemma3:1b",
       "type": "Text",
       "size": "0.8 GB",
-      "description": "ULTRA-LIGHTWEIGHT (CPU/Integrated GPU): The perfect model for laptops without a dedicated GPU. Extremely fast text generation for basic chat and formatting."
+      "description": "ULTRA-LIGHTWEIGHT TEXT (CPU/Integrated GPU): The perfect model for laptops without a dedicated GPU. Extremely fast text generation for basic tasks."
     },
     {
       "name": "deepseek-r1:7b",
       "type": "Text",
       "size": "4.7 GB",
-      "description": "RECOMMENDED FOR REASONING (8GB VRAM): State-of-the-art reasoning model. Ideal for the 2nd stage of the hybrid system to refine descriptions and generate high-quality SEO keywords."
+      "description": "RECOMMENDED FOR REASONING (8GB VRAM): State-of-the-art reasoning model. Ideal for the 2nd stage of the hybrid system to refine descriptions and metadata."
     },
     {
       "name": "qwen2.5:7b",
@@ -22,7 +28,7 @@
       "name": "aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf:latest",
       "type": "Text",
       "size": "4.2 GB",
-      "description": "RECOMMENDED FOR CREATIVE FREEDOM (16GB VRAM): Special 'unfiltered' version of Qwen 2.5. Ideal for unrestricted creative tasks and artistic descriptions."
+      "description": "RECOMMENDED FOR CREATIVE FREEDOM (16GB VRAM): Special 'unfiltered' version of Qwen 2.5. Ideal for unrestricted creative tasks."
     },
     {
       "name": "gemma4:e2b",
