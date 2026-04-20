@@ -1,6 +1,12 @@
 {
   "models": [
     {
+      "name": "gemma3:1b",
+      "type": "Text",
+      "size": "0.8 GB",
+      "description": "ULTRA-LIGHTWEIGHT (CPU/Integrated GPU): The perfect model for laptops without a dedicated GPU. Extremely fast text generation for basic chat and formatting."
+    },
+    {
       "name": "deepseek-r1:7b",
       "type": "Text",
       "size": "4.7 GB",
