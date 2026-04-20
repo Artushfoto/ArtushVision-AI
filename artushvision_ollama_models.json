@@ -19,6 +19,12 @@
       "description": "RECOMMENDED FOR CREATIVE FREEDOM (16GB VRAM): Special 'unfiltered' version of Qwen 2.5. Ideal for unrestricted creative tasks and artistic descriptions."
     },
     {
+      "name": "gemma4:e2b",
+      "type": "Vision",
+      "size": "7.2 GB",
+      "description": "EXPERIMENTAL (8GB VRAM): Latest April 2026 model from Google. High intelligence, but very demanding on VRAM. Use with all other apps closed."
+    },
+    {
       "name": "gemma3:4b",
       "type": "Vision",
       "size": "3.2 GB",
