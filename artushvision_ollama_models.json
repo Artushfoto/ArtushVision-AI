@@ -1,6 +1,12 @@
 {
   "models": [
     {
+      "name": "deepseek-r1:7b",
+      "type": "Text",
+      "size": "4.7 GB",
+      "description": "RECOMMENDED FOR REASONING (8GB VRAM): State-of-the-art reasoning model. Ideal for the 2nd stage of the hybrid system to fix descriptions and generate complex metadata."
+    },
+    {
       "name": "qwen2.5:7b",
       "type": "Text",
       "size": "4.4 GB",
