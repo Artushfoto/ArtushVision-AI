@@ -1,12 +1,6 @@
 {
   "models": [
     {
-      "name": "deepseek-r1:1.5b",
-      "type": "Text",
-      "size": "1.1 GB",
-      "description": "ULTRA-LIGHTWEIGHT REASONING (CPU/Laptop): Smallest reasoning model. Perfect for fixing image descriptions and generating tags on laptops without a dedicated GPU."
-    },
-    {
       "name": "gemma3:1b",
       "type": "Text",
       "size": "0.8 GB",
