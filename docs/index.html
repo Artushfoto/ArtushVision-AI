@@ -1,12 +1,63 @@
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 0 auto; padding: 32px 32px 16px 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ArtushVision AI - Professional Metadata & Keywording Tool</title>
+    <meta name="description" content="State-of-the-art Vision AI for photographers and videographers. Automatically generate keywords, titles, and descriptions.">
+    
+    <style>
+        /* Základní reset a barva pozadí pro lepší kontrast karet */
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f0f2f5;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        }
 
+        /* Plynulé scrollování k ID kotvám */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Zajištění responzivity obrázků */
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Mezera mezi jednotlivými bloky */
+        .content-block {
+            margin-bottom: 24px;
+        }
+
+        /* Responzivní tabulky pro mobily */
+        @media (max-width: 768px) {
+            table {
+                display: block;
+                overflow-x: auto;
+            }
+            .download-purchase-buttons {
+                flex-direction: column !important;
+                align-items: center !important;
+            }
+            .grid-3-col {
+                grid-template-columns: 1fr !important;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- HERO SECTION -->
+<div class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 0 auto; padding: 32px 32px 16px 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
   <div style="text-align: center; margin-bottom: 32px;">
     <h1 id="artushvision-ai" style="font-size: 2.5em; border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; margin-top: 8px; margin-bottom: 16px; font-weight: 600; color: #0969da;">ArtushVision AI</h1>
     <h3 style="font-size: 1.25em; margin-top: 24px; margin-bottom: 16px; font-weight: 600; color: #24292f;">The Ultimate AI-Powered Metadata & Keywording Tool for Photographers and Videographers</h3>
     
     <p style="margin-top: 0; margin-bottom: 16px;">
-      <img src="https://img.shields.io/badge/Version-v2026.1.0-007abb" alt="Version" style="max-width: 100%; margin-right: 4px;"> 
-      <img src="https://img.shields.io/badge/AI-OpenRouter-ed7d31" alt="AI" style="max-width: 100%;">
+      <img src="https://img.shields.io/badge/Version-v2026.1.0-007abb" alt="Version" style="margin-right: 4px;"> 
+      <img src="https://img.shields.io/badge/AI-OpenRouter-ed7d31" alt="AI">
     </p>
 
     <p style="margin-top: 0; margin-bottom: 16px; color: #57606a; line-height: 1.5;">
@@ -48,18 +99,12 @@
       <span>📖 ArtushVision AI - Basic workflow introduction video</span>
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
     </a>
-
-    <a href="https://www.artushfoto.eu/Software/OpenRouter-API-Key-Setup-Guide-for-Beginners" style="color: #0969da; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
-      <span>📖 ArtushVision AI - OpenRouter API Key Setup</span>
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
-    </a>
   </div>
 
   <hr style="height: 1px; padding: 0; margin: 32px 0; background-color: #d0d7de; border: 0;">
 
   <div style="text-align: center; margin-top: 16px;">
-    
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 24px;">
+    <div class="download-purchase-buttons" style="display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 24px;">
       
       <a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI" style="background-color: #ffffff; color: #24292f; padding: 14px 20px; border-radius: 6px; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; justify-content: center; gap: 12px; border: 1px solid #d0d7de; box-shadow: 0 1px 2px rgba(0,0,0,0.05); width: 350px; max-width: 100%; box-sizing: border-box; margin: 10px;">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0;"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
@@ -76,19 +121,217 @@
           <div style="font-size: 0.7em; font-weight: 400; opacity: 0.85; margin-top: 2px;">+ local VAT (calculated at checkout)</div>
         </div>
       </a>
-
     </div>
     
-    <div style="margin-top: 16px;">
+    <div style="margin-top: 16px; padding-bottom: 16px;">
        <p style="font-size: 0.9em; color: #24292f; font-weight: 600; margin-bottom: 4px;">One-time payment • No monthly fees</p>
        <p style="font-size: 0.8em; color: #57606a; margin-top: 0; margin-bottom: 0;">Pay once, use forever. Securely processed by Polar & Stripe.</p>
     </div>
+  </div>
+</div>
 
-    <div style="margin-top: 24px; margin-bottom: 0;">
-      <a href="https://www.artushfoto.eu/Software/Manage-ArtushVision-AI-License" style="color: #0969da; text-decoration: none; font-size: 0.85em; font-weight: 600; display: inline-flex; align-items: center; gap: 6px; opacity: 0.8;">
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
-        <span>Already have a license? Manage or Deactivate your devices</span>
-      </a>
+<!-- TABLE OF CONTENTS -->
+<div class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 0 auto; padding: 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+    <div style="background-color: #f6f8fa; padding: 24px; border-radius: 6px; border: 1px solid #d0d7de; margin-bottom: 0;">
+        <h2 id="-table-of-contents" style="font-size: 1.5em; margin-top: 0; margin-bottom: 16px; font-weight: 600;">📋 Table of Contents</h2>
+        <ul style="padding-left: 1.2em; margin-top: 0; margin-bottom: 0; list-style-type: disc;">
+            <li style="margin-top: 0.25em;"><a href="#artushvision-ai" style="color: #0969da; text-decoration: none; font-weight: 600;">ArtushVision AI Overview</a></li>
+            <li style="margin-top: 0.5em;"><a href="#desktop-vs-cloud" style="color: #0969da; text-decoration: none; font-weight: 600;">💰 Desktop Power vs. Cloud (Cost & Privacy)</a></li>
+            <li style="margin-top: 0.25em;"><a href="#case-study-stock" style="color: #0969da; text-decoration: none; font-weight: 600;">📈 My Personal Journey: From Expeditions to Automation</a></li>
+            <li style="margin-top: 0.25em;"><a href="#ai-result-demo" style="color: #0969da; text-decoration: none; font-weight: 600;">✨ Real-World Accuracy: Madagascar Case</a></li>
+            <li style="margin-top: 0.5em;"><a href="#1-installation--setup" style="color: #0969da; text-decoration: none; font-weight: 600;">1. Installation & Setup</a></li>
+            <li style="margin-top: 0.25em;"><a href="#2-interface-overview" style="color: #0969da; text-decoration: none; font-weight: 600;">2. Interface Overview</a></li>
+            <li style="margin-top: 0.25em;"><a href="#3-ai-analysis-workflow" style="color: #0969da; text-decoration: none; font-weight: 600;">3. AI Analysis Workflow</a></li>
+            <li style="margin-top: 0.25em;"><a href="#6-advanced-features" style="color: #0969da; text-decoration: none; font-weight: 600;">4. Professional Advanced Tools</a></li>
+            <li style="margin-top: 0.25em;"><a href="#4-manual-editing--detail-view" style="color: #0969da; text-decoration: none; font-weight: 600;">5. Manual Editing & Detail View</a></li>
+            <li style="margin-top: 0.25em;"><a href="#why-professionals-choose" style="color: #0969da; text-decoration: none; font-weight: 600;">🛡️ Why Professionals Choose ArtushVision AI</a></li>
+            <li style="margin-top: 0.25em;"><a href="#7-settings--configuration" style="color: #0969da; text-decoration: none; font-weight: 600;">7. Settings & Configuration</a></li>
+            <li style="margin-top: 0.25em;"><a href="#8-keyboard-shortcuts" style="color: #0969da; text-decoration: none; font-weight: 600;">8. Keyboard Shortcuts</a></li>
+        </ul>
+    </div>
+</div>
+
+<!-- DESKTOP VS CLOUD -->
+<div id="desktop-vs-cloud" class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 24px auto; padding: 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <h2 style="font-size: 1.5em; border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; margin-bottom: 16px; font-weight: 600;">"ArtushVision AI" Desktop Application vs. Cloud Services</h2>
+  <p style="margin-bottom: 24px; color: #57606a;">Why a dedicated local workstation beats generic cloud uploaders every time.</p>
+
+  <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95em; margin-bottom: 40px;">
+    <thead>
+      <tr style="background-color: #f6f8fa; border-top: 1px solid #d0d7de; border-bottom: 1px solid #d0d7de;">
+        <th style="padding: 12px; font-weight: 600;">Feature</th>
+        <th style="padding: 12px; font-weight: 600;">Typical Online AI Tools</th>
+        <th style="padding: 12px; font-weight: 600; color: #0969da;">ArtushVision AI</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #f0f0f0;">
+        <td style="padding: 12px; font-weight: 600; vertical-align: top;">Advanced Metadata Management</td>
+        <td style="padding: 12px; color: #cf222e; vertical-align: top;">Not available / Limited</td>
+        <td style="padding: 12px; color: #1a7f37; font-weight: 600; vertical-align: top;">Precise manual control, Bulk Sync, Batch Replace.</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #f0f0f0;">
+        <td style="padding: 12px; font-weight: 600; vertical-align: top;">Media Privacy</td>
+        <td style="padding: 12px; color: #cf222e; vertical-align: top;">Mandatory cloud upload</td>
+        <td style="padding: 12px; color: #1a7f37; font-weight: 600; vertical-align: top;">Files stay on device. Only thumbnails sent.</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #f0f0f0;">
+        <td style="padding: 12px; font-weight: 600; vertical-align: top;">Pricing Model</td>
+        <td style="padding: 12px; color: #cf222e; vertical-align: top;">Recurring Subscriptions</td>
+        <td style="padding: 12px; color: #1a7f37; font-weight: 600; vertical-align: top;">Perpetual License ($39.99)</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 24px; margin-bottom: 32px;">
+    <div style="text-align: center; margin-bottom: 24px;">
+      <h3 style="font-size: 1.25em; font-weight: 600; margin: 0;">Total Cost of Ownership (Example: 10,000 photos/year)</h3>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 20px;">
+      <div>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 6px; font-size: 0.9em; font-weight: 600;">
+          <span>Online AI Services (Subscription)</span>
+          <span style="color: #cf222e;">??? USD</span>
+        </div>
+        <div style="background-color: #ffffff; border-radius: 12px; height: 16px; width: 100%; border: 1px solid #d0d7de; overflow: hidden;">
+          <div style="background-color: #afb8c1; width: 100%; height: 100%;"></div>
+        </div>
+      </div>
+      <div>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 6px; font-size: 0.9em; font-weight: 600;">
+          <span>ArtushVision AI (License + API tokens)</span>
+          <span style="color: #1a7f37;">$45</span>
+        </div>
+        <div style="background-color: #ffffff; border-radius: 12px; height: 16px; width: 100%; border: 1px solid #d0d7de; overflow: hidden;">
+          <div style="background-color: #2da44e; width: 8.5%; height: 100%;"></div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
+
+<!-- CASE STUDY -->
+<div id="case-study-stock" class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 32px auto; padding: 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #d0d7de;">
+  <div style="text-align: center; margin-bottom: 24px;">
+    <h2 style="font-size: 1.75em; font-weight: 600; color: #0969da; margin-bottom: 8px;">Case Study: Automatically Tagging Thousands of Photos</h2>
+  </div>
+  <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 8px; padding: 24px; margin-bottom: 32px; text-align: center; border-left: 6px solid #0969da;">
+    <p style="margin: 0; font-size: 1.1em; font-weight: 500; color: #24292f;">
+      "Coming back from a big trip with 20,000+ RAW photos was a headache. Typing descriptions for each would take months. I needed a smart tool to skip the boring data entry."
+    </p>
+  </div>
+  <div class="grid-3-col" style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; text-align: center;">
+      <div style="background-color: #f6f8fa; padding: 15px; border-radius: 8px;">
+        <strong style="display: block; font-size: 0.8em; color: #57606a;">AI PROCESSING COST</strong>
+        <span style="font-size: 1.4em; color: #1a7f37;">~$1.00</span>
+      </div>
+      <div style="background-color: #f6f8fa; padding: 15px; border-radius: 8px;">
+        <strong style="display: block; font-size: 0.8em; color: #57606a;">TIME SAVED</strong>
+        <span style="font-size: 1.4em; color: #1a7f37;">~580 Hours</span>
+      </div>
+      <div style="background-color: #f6f8fa; padding: 15px; border-radius: 8px;">
+        <strong style="display: block; font-size: 0.8em; color: #57606a;">SPEED</strong>
+        <span style="font-size: 1.4em; color: #0969da;">10x Faster</span>
+      </div>
+  </div>
+</div>
+
+<!-- AI RESULT DEMO -->
+<div id="ai-result-demo" class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 32px auto; padding: 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #d0d7de;">
+  <div style="text-align: center; margin-bottom: 32px;">
+    <h2 style="font-size: 1.75em; font-weight: 600; color: #24292f;">Real-World AI Accuracy: Madagascar Case</h2>
+  </div>
+  <div style="display: flex; gap: 32px; align-items: flex-start; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px;">
+        <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/sample.jpg" alt="Madagascar AI Analysis" style="width: 100%; border-radius: 8px;">
+    </div>
+    <div style="flex: 1.2; min-width: 300px;">
+      <div style="background-color: #1a1f24; color: #ffffff; padding: 24px; border-radius: 8px;">
+        <div style="margin-bottom: 15px;">
+          <small style="color: #8b949e; text-transform: uppercase; font-size: 0.7em;">Title</small>
+          <div style="color: #79c0ff; font-weight: 600;">Woman with traditional face paint in Madagascar</div>
+        </div>
+        <div style="margin-bottom: 15px;">
+          <small style="color: #8b949e; text-transform: uppercase; font-size: 0.7em;">Description</small>
+          <div style="color: #c9d1d9; font-size: 0.9em;">Miandrivazo, Madagascar - Smiling Malagasy woman with traditional face paint.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 1. INSTALLATION -->
+<div id="1-installation--setup" class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 0 auto; padding: 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <h2 style="font-size: 1.5em; border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; font-weight: 600;">1. Installation & Setup</h2>
+  <h3 style="font-size: 1.25em; margin-top: 24px; font-weight: 600;">System Requirements</h3>
+  <ul>
+    <li><strong>OS</strong>: Windows 10/11 (64-bit).</li>
+    <li><strong>Internet</strong>: Required for AI analysis and maps.</li>
+    <li><strong>Dependencies</strong>: ExifTool and FFmpeg (bundled with the app).</li>
+  </ul>
+  <h3 style="font-size: 1.25em; margin-top: 24px; font-weight: 600;">First Launch</h3>
+  <ol>
+    <li>Run <code>ArtushVisionAI.exe</code>.</li>
+    <li>Enter your License Key (or use Trial).</li>
+    <li>Set your <strong>OpenRouter API Key</strong> in File > API Key.</li>
+  </ol>
+</div>
+
+<!-- 2. INTERFACE -->
+<div id="2-interface-overview" class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 0 auto; padding: 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <h2 style="font-size: 1.5em; border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; font-weight: 600;">2. Interface Overview</h2>
+  <h3 style="font-size: 1.1em; font-weight: 600; margin-top: 20px;">Top Toolbar & Grid</h3>
+  <ul>
+    <li><strong>Profile</strong>: Select AI prompts (Stock, Travel, etc.).</li>
+    <li><strong>Run AI</strong>: The green play button starts analysis.</li>
+    <li><strong>Image Grid</strong>: Color-coded states (Yellow = Modified, Green = Saved).</li>
+  </ul>
+</div>
+
+<!-- 3. AI WORKFLOW -->
+<div id="3-ai-analysis-workflow" class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 0 auto; padding: 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <h2 style="font-size: 1.5em; border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; font-weight: 600;">3. AI Analysis Workflow</h2>
+  <ol>
+    <li><strong>Load Folders</strong>: Select your directory.</li>
+    <li><strong>Select Files</strong>: Click or use Shift+Click.</li>
+    <li><strong>Run AI</strong>: Real-time cost feedback is provided per query.</li>
+  </ol>
+</div>
+
+<!-- 4. ADVANCED TOOLS -->
+<div id="6-advanced-features" class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 0 auto; padding: 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <h2 style="font-size: 1.5em; border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; font-weight: 600;">4. Professional Advanced Tools</h2>
+  <div class="grid-3-col" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+    <div style="background-color: #f6f8fa; padding: 15px; border-radius: 8px;">
+      <strong style="color: #0969da;">🌍 Visual Geolocation</strong>
+      <p style="font-size: 0.85em;">Identify landmarks even without GPS using AI pixels.</p>
+    </div>
+    <div style="background-color: #f6f8fa; padding: 15px; border-radius: 8px;">
+      <strong style="color: #0969da;">📝 OCR Recognition</strong>
+      <p style="font-size: 0.85em;">Automatically extract text from signs or notices.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 8. KEYBOARD SHORTCUTS -->
+<div id="8-keyboard-shortcuts" class="content-block" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #24292f; line-height: 1.6; font-size: 16px; max-width: 1000px; margin: 0 auto; padding: 32px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+  <h2 style="font-size: 1.5em; border-bottom: 1px solid #d0d7de; padding-bottom: 0.3em; font-weight: 600;">8. Keyboard Shortcuts</h2>
+  <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+    <tr style="background-color: #f6f8fa; border-bottom: 1px solid #d0d7de;">
+      <th style="padding: 10px; text-align: left;">Shortcut</th>
+      <th style="padding: 10px; text-align: left;">Function</th>
+    </tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #f0f0f0;"><code>Ctrl + A</code></td><td>Select All</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #f0f0f0;"><code>Ctrl + S</code></td><td>Save Selected</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #f0f0f0;"><code>1 - 5</code></td><td>Star Rating</td></tr>
+    <tr><td style="padding: 8px; border-bottom: 1px solid #f0f0f0;"><code>Del</code></td><td>Clear Metadata</td></tr>
+  </table>
+</div>
+
+<!-- FOOTER -->
+<div style="max-width: 1000px; margin: 40px auto 20px; text-align: center; color: #57606a; font-size: 0.85em;">
+  <p>&copy; 2026 ArtushVision AI. All rights reserved.</p>
+</div>
+
+</body>
+</html>
