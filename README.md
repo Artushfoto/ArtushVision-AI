@@ -1,4 +1,4 @@
-# ArtushVision AI
+# <center>ArtushVision AI<center>
 ### The Ultimate AI-Powered Metadata & Keywording Tool for Photographers and Videographers
 
 ![Version](https://img.shields.io/badge/Version-v2026.1.0-007abb) ![AI](https://img.shields.io/badge/AI-OpenRouter-ed7d31)
@@ -211,3 +211,6 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 
 ---
 *© 2026 ArtushFoto. All rights reserved.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI0NjMwMTEzNV19
+-->
