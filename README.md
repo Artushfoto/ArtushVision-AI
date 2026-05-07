@@ -30,9 +30,9 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ## 📋 Table of Contents
 1. [ArtushVision AI Overview](#artushvision-ai)
-2. [💰 Desktop Power vs. Cloud (Cost & Privacy)](#desktop-vs-cloud)
-3. [📈 My Personal Journey: From Expeditions to Automation](#case-study-stock)
-4. [✨ Real-World Accuracy: Madagascar Case](#ai-result-demo)
+2. [Desktop Power vs. Cloud (Cost & Privacy)](#desktop-vs-cloud)
+3. [My Personal Journey: From Expeditions to Automation](#case-study-stock)
+4. [Real-World Accuracy: Madagascar Case](#ai-result-demo)
 5. [1. Installation & Setup](#1-installation--setup)
 6. [2. Interface Overview](#2-interface-overview)
 7. [3. AI Analysis Workflow](#3-ai-analysis-workflow)
@@ -212,5 +212,5 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *© 2026 ArtushFoto. All rights reserved.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjMwMTEzNV19
+eyJoaXN0b3J5IjpbLTIxNDU2NTgxNzMsMTI0NjMwMTEzNV19
 -->
