@@ -3,7 +3,7 @@
 
 ![Version](https://img.shields.io/badge/Version-v2026.1.0-007abb) ![AI](https://img.shields.io/badge/AI-OpenRouter-ed7d31)
 
-*"Intelligent metadata automation for your Travel, Home, and Stock photography workflow with state-of-the-art Vision AI."*
+*"Intelligent metadata automation for your Travel, Home, and **Stock photography** workflow with state-of-the-art Vision AI."*
 
 **ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for **JPG, RAW, VIDEO, HEIC, TIFF, and PNG** assets, while providing robust tools for manual metadata management. Your data is always safe with automated backups and flexible export options to CSV and XMP sidecars, ensuring you never lose your progress or original file integrity.
 
@@ -212,5 +212,6 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *© 2026 ArtushFoto. All rights reserved.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU2NTgxNzMsMTI0NjMwMTEzNV19
+eyJoaXN0b3J5IjpbMTYwMzQwOTY2NywtMjE0NTY1ODE3MywxMj
+Q2MzAxMTM1XX0=
 -->
