@@ -39,7 +39,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 8. [4. Professional Advanced Tools](#6-advanced-features)
 9. [5. Manual Editing & Detail View](#4-manual-editing--detail-view)
 10. [6. Batch Operations](#5-batch-operations)
-11. [🛡️ Why Professionals Choose ArtushVision AI](#why-professionals-choose)
+11. [Why Professionals Choose ArtushVision AI](#why-professionals-choose)
 12. [7. Settings & Configuration](#7-settings--configuration)
 13. [8. Keyboard Shortcuts](#8-keyboard-shortcuts)
 
@@ -212,6 +212,6 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *© 2026 ArtushFoto. All rights reserved.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzQwOTY2NywtMjE0NTY1ODE3MywxMj
-Q2MzAxMTM1XX0=
+eyJoaXN0b3J5IjpbMjEwMDgxMTYwOCwxNjAzNDA5NjY3LC0yMT
+Q1NjU4MTczLDEyNDYzMDExMzVdfQ==
 -->
