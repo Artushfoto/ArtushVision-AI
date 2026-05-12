@@ -216,7 +216,7 @@ The central workspace where each cell represents a media file. It provides immed
     * **Curation:** Apply Flags, Ratings (1-5 stars), and Color Labels instantly.
 
 
-## 📂 File & Grid Management
+###  File & Grid Management
 ArtushVision AI offers a dynamic and flexible workspace, allowing you to manage large archives with ease.
 
 * **Smart Folder Appending:** Use the **"Add Folder"** button to append new directories to your current grid without clearing your existing work.
@@ -226,18 +226,16 @@ ArtushVision AI offers a dynamic and flexible workspace, allowing you to manage 
     * **Copy, Move, and Delete (to Recycle Bin).**
     * **Sidecar Synchronization:** The app automatically handles all associated files (**XMP sidecars, _original backups**) during any move or rename operation, ensuring your metadata is never detached.
 
----
-
-## 🚀 Powerful Batch Operations
+### Powerful Batch Operations
 Modify thousands of files at once with a robust engine designed for mass-scale metadata synchronization.
 
-### 🔄 Smarter Batch Rename
+### Smarter Batch Rename
 The renaming engine is now fully metadata-aware. It ensures that any name change is instantly reflected across:
 1. The primary media file.
 2. The associated **XMP sidecar**.
 3. Any existing **CSV backup** entries.
 
-### 🏗️ Batch Rename Variables
+### Batch Rename Variables
 Use these dynamic placeholders to create perfectly organized file structures:
 
 | Variable | Description | Example / Result |
@@ -412,11 +410,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjg1OTQzMiwzMDI1MjA4MjgsLTE2OD
-A3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5
-NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMT
-g1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5
-LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NT
-I2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3
-NjRdfQ==
+eyJoaXN0b3J5IjpbODY0Njc3MzQsMzAyNTIwODI4LC0xNjgwNz
+k2NSwtMTQ3ODc3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQs
+LTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NT
+g1NTYzLDU4NzkwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwx
+OTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNj
+MxMDA1LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0
+XX0=
 -->
