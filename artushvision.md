@@ -19,10 +19,10 @@
 ---
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
-* 🛡️ **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
-* 💎 **Getty Optimizer:** 100% submission success with Master Dictionary validation and Resolver tools.
-* 🚀 **Smart FTP:** "Zero-touch" workflow with automated CSV generation and multi-server threading.
-* 📂 **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam) using industry-standard IPTC/XMP.
+*  **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
+*  **Getty Optimizer:** 100% submission success with Master Dictionary validation and Resolver tools.
+*  **Smart FTP:** "Zero-touch" workflow with automated CSV generation and multi-server threading.
+*  **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam) using industry-standard IPTC/XMP.
 
 ---
 <div align="center">
@@ -56,7 +56,7 @@
 
 ---
 
-## 🤖 Versatile AI Engine: Choose Your Workflow
+## Versatile AI Engine: Choose Your Workflow
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **Cloud AI (Fast & Maximum Intelligence):** Uses top-tier models via OpenRouter. Process up to **150,000 photos for just $5** with ultra-low API costs.
@@ -68,7 +68,7 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 
 ---
 
-## 💎 Getty Images Optimizer (Master ESP Tool)
+## Getty Images Optimizer (Master ESP Tool)
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
 
 * **Non-Destructive Sidecars:** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
@@ -79,7 +79,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 ---
 
-## 🌍 Global Distribution & Smart FTP Suite
+## Global Distribution & Smart FTP Suite
 Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
 
 * **Multi-Server Smart FTP:** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
@@ -90,7 +90,7 @@ Distribute your work to all major stock agencies simultaneously with a professio
 
 ---
 
-## 💻 Desktop Application vs. Cloud Services
+## Desktop Application vs. Cloud Services
 Own your tools and pay only for the AI you use.
 
 | Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
@@ -103,7 +103,7 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 🛠️ 1. Installation & Setup
+## 1. Installation & Setup
 
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
@@ -204,11 +204,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMzcwMjEyLDE0MzUwMjAwODAsLTIwNz
-Q2NTAzNjAsNTAwMTAxOTU1LC0xOTMwMjMzMzIwLDI1OTY5Njgy
-NSwxMTQwODc3Njk5LDkwNDcyNjA4LDEwNTg4MDUyMTAsMTA2Nj
-E5ODY1OCwtMTcyOTQ4OTA0Miw3MTQyOTkxOCwxMzgwNzMyMzA0
-LDIwMjM0OTY1NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3OD
-c3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0
-XX0=
+eyJoaXN0b3J5IjpbLTgyNTQ0OTQxNCwxNDM1MDIwMDgwLC0yMD
+c0NjUwMzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMCwyNTk2OTY4
+MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLDEwNj
+YxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMw
+NCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nz
+g3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5
+NF19
 -->
