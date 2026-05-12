@@ -413,7 +413,7 @@ Click the **List Icon** to toggle the **Batch Edit** panel, allowing you to modi
 ## 6. Batch Operations
 Efficiency is the core of ArtushVision AI. Toggle the **Batch Edit** panel using the **List Icon** in the filter bar to modify hundreds of assets simultaneously with surgical precision.
 
-### ✍️ Bulk Metadata Editing
+### Bulk Metadata Editing
 Streamline your workflow by applying changes to your entire selection at once.
 * **Select Target:** Choose exactly where to apply changes—**Title, Description, Keywords**, or **All Fields**.
 * **Smart Actions:**
@@ -490,11 +490,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4OD
-A1MjEwLDEwNjYxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgs
-MTM4MDczMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MD
-c5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0
-LC00MDMwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxOD
-U4NTU2Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDld
-fQ==
+eyJoaXN0b3J5IjpbMjA5ODI1OTMxMywxMTQwODc3Njk5LDkwND
+cyNjA4LDEwNTg4MDUyMTAsMTA2NjE5ODY1OCwtMTcyOTQ4OTA0
+Miw3MTQyOTkxOCwxMzgwNzMyMzA0LDIwMjM0OTY1NTQsMzAyNT
+IwODI4LC0xNjgwNzk2NSwtMTQ3ODc3MTA5MywtMTQ4MTU4NDUz
+NiwtNDAzMDYwOTQsLTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4Mz
+I5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUxNSwtMTE5MTc5Mzgz
+MV19
 -->
