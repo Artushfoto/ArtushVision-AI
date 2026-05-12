@@ -456,6 +456,51 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 * **Advanced Matrices:** Direct access to your **CSV Templates**, **FTP Server Management**, and the **Category Mapping Matrix**.
 * **System Paths:** Configure local paths for essential tools like `FFmpeg` and `ExifTool`.
 
+
+
+
+## 7. Settings & Configuration
+Access the full suite of customization options via **File > Grid Settings** to tailor ArtushVision AI to your specific hardware capabilities and professional workflow requirements.
+
+### Workspace & Grid Appearance
+* **Visual Layout:** Fully customize the main grid by adjusting **Thumbnail Height**, **Font Size**, and individual heights for **Title, Description, and Keyword** fields for optimal readability.
+* **Smart Grid Info:** Toggle visibility for filenames, technical file info, and **FTP Status Badges** directly on your thumbnails.
+* **Tag Visualization:** Choose between a classic text list or modern **Keyword Tags**, with an option to **Crop to Square** for a cleaner, gallery-style look.
+
+### 🌐 Language, AI & Translation
+* **AI Engine & Ollama Tuning:** Switch between **Cloud AI** (OpenRouter) and **Local AI**. For local workflows, precisely set the **Ollama Context (VRAM)** and API URL to match your GPU power.
+* **Linguistic Toolkit:** Enable **Multilingual Spell Check**, Autocomplete, and online suggestions for synonyms.
+* **Integrated Translator:** Set your **Target Translation Language** to see instant tooltips for keywords in your native tongue.
+* **AI Diacritics Toggle:** While disabled by default for strict microstock compatibility, enabling this is perfect for **local and family photo albums** where accents (é, š, č) are required.
+
+### 📹 Video & RAW Processing
+* **AI Video Context:** Define the **number of video frames** extracted for analysis (default is 3). Use **Economy Mode (Collage)** to save on API costs by combining these frames into a single image.
+* **Metadata Handling:** Protect your original assets by forcing the application to write metadata to **XMP sidecar files** for RAW/Video.
+* **Original Integrity:** Preserve the original **File Modification Time** and keep RAW files untouched by utilizing sidecars for all metadata operations.
+
+### 📏 Validation & Limits
+* **Field Constraints:** Set mandatory **Min/Max character lengths** for Titles and Descriptions.
+* **Agency Compliance:** Define **Keyword Counts** to meet specific requirements (e.g., the 50-keyword limit for Shutterstock).
+* **Visual Error Feedback:** Enable **Limits Validation** and choose a custom **Error Color** to instantly highlight any fields that violate your defined rules.
+* **Advanced Color Coding:** Customize background/text colors for **Original**, **AI-generated**, and **Manually edited** keywords for perfect visual organization.
+
+### 📊 CSV Export & Template Editor
+Finalize your distribution workflow with a powerful engine for mass-upload metadata structures.
+* **Agency Presets:** Create and save specific templates for **Adobe Stock, Shutterstock, Alamy**, and more.
+* **Reverse Template Engineering:** Instantly create a custom template by loading an existing agency CSV file. The app automatically analyzes and maps the structure for you.
+* **Field Mapping:** Map internal ArtushVision fields to the specific CSV column names required by each unique agency.
+* **Fixed Values:** Automatically add custom columns with fixed text (e.g., "Editorial" status) to every row in the export.
+
+### 🗺️ Maps & Geodata
+* **Map Integration:** Select your preferred **Map Provider** (Google Maps) and set default **Zoom levels**.
+* **GPS Smart Parsing:** Choose between **OpenStreetMap** or **ArcGIS** for reverse geocoding. Features intelligent parsing for regions, streets, and neighborhoods to provide the AI with precise context and prevent "hallucinations."
+
+### 🛠️ Advanced Configuration
+* **Backup & Sync:** Quickly **Export/Import Settings** to sync your configuration across multiple workstations.
+* **System Paths:** Configure local paths for essential external tools: `exiftool.exe` and `ffmpeg.exe`.
+* **Advanced Matrices:** Direct access to your **CSV Templates**, **FTP Server Management**, and the **Category Mapping Matrix**.
+
+
 ---
 
 ### [Get Started Now]
@@ -466,11 +511,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExND
-A4Nzc2OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4
-LC0xNzI5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMz
-Q5NjU1NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkz
-LC0xNDgxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczND
-k3NDYxOCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1
+eyJoaXN0b3J5IjpbNTAwMTAxOTU1LC0xOTMwMjMzMzIwLDI1OT
+Y5NjgyNSwxMTQwODc3Njk5LDkwNDcyNjA4LDEwNTg4MDUyMTAs
+MTA2NjE5ODY1OCwtMTcyOTQ4OTA0Miw3MTQyOTkxOCwxMzgwNz
+MyMzA0LDIwMjM0OTY1NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwt
+MTQ3ODc3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMz
+A2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYz
 XX0=
 -->
