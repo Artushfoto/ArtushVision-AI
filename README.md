@@ -69,7 +69,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 <div id="case-study-stock"></div>
 <div id="ai-result-demo"></div>
 
-## ✨ Real-World Accuracy: Madagascar Case
+## Cloud AI Keywording  Accuracy
 ![Portrait of a Woman, Madagascar](https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/sample.jpg)
 
 **Location Identified:** Miandrivazo, Madagascar.
@@ -203,6 +203,6 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *© 2026 ArtushFoto. All rights reserved.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NzM5OTE2LDIxMDA4MTE2MDgsMTYwMz
-QwOTY2NywtMjE0NTY1ODE3MywxMjQ2MzAxMTM1XX0=
+eyJoaXN0b3J5IjpbLTQ0MjU4MjE3MywyMTAwODExNjA4LDE2MD
+M0MDk2NjcsLTIxNDU2NTgxNzMsMTI0NjMwMTEzNV19
 -->
