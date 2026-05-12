@@ -17,6 +17,25 @@
 **Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.**
 
 ---
+## Quick Navigation
+* [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
+* [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
+* [Global Distribution & Smart FTP](#global-distribution--smart-ftp)
+* [Smart FTP & Automated CSV Metadata](#smart-ftp--automated-csv-metadata)
+* [FTP Profiles & One-Click Batch Uploads](#ftp-profiles--one-click-batch-uploads)
+* [Professional Workflow & Productivity](#professional-workflow--productivity)
+* [Desktop App vs. Cloud Services](#artushvision-ai-desktop-application-vs-cloud-services)
+* [1. Installation & Setup](#1-installation--setup)
+* [2. Interface Overview](#2-interface-overview)
+* [3. AI Analysis Workflow](#3-ai-analysis-workflow)
+* [4. Professional Advanced Tools](#4-professional-advanced-tools)
+* [Available Variables Reference](#available-variables)
+* [Advanced AI Logic & Metadata Control](#advanced-ai-logic--metadata-control)
+* [5. Manual Editing & Detail View](#5-manual-editing--detail-view)
+* [6. Batch Operations](#6-batch-operations)
+* [7. Settings & Configuration](#7-settings--configuration)
+
+---
 
 ## Versatile AI Engine: Choose Your Workflow
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
@@ -288,10 +307,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMT
-g1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5
-LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NT
-I2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3
-NjQsMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OT
-cyNDIxODMsMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
+eyJoaXN0b3J5IjpbLTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4Mz
+I5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUxNSwtMTE5MTc5Mzgz
+MSw3OTMwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NT
+g0OTk0NiwxODUyNjMxMDA1LDEzMDU2MDQyOSwxMDc0ODA0ODQ5
+LC0xMjMwOTU4NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMz
+A4NTk1MjAsNTk3MjQyMTgzLDM3NDYyMzk3NywtNzI1MTMxMTk5
+XX0=
 -->
