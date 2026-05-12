@@ -138,6 +138,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 
 
 ## 1. Installation & Setup
+
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI analysis, maps, and online spell checking.
@@ -159,12 +160,26 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 
 ## 2. Interface Overview
+
 ### Top Toolbar
 * **Profile:** Select AI prompts (Editorial, Stock, Wildlife, Family, etc.).
 * **Run AI:** Play button starts analysis for selected images.
 * **Absolute Priority AI Hint:** User hints (Latin names/locations) are treated as unquestionable facts.
 * **Speed:** Cloud AI Parallel threads (1-20). Higher is faster but uses more CPU.
 * **Flat View:** Toggle to see all files from subfolders in a single list.
+
+### 🛠️ Top Toolbar
+
+* **Profile:** Select the AI system prompt (e.g., "Stock Photography", "Travel Photography", "Social Media", or "Family photos"). Click the **Gear icon** next to the dropdown to edit or create customizable profiles.
+* **Run AI:** The **green play button** starts the AI analysis for all currently selected images in the grid.
+* **Absolute Priority AI Hint:** Treats manual user hints (e.g., specific Latin animal/plant names or precise locations) as unquestionable facts. This is highly recommended for uncommon species or complex botanical/zoological subjects where visual AI identification typically fails.
+* **Speed:** Controls the number of parallel threads (1-20). Higher values significantly increase processing speed but consume more CPU and network bandwidth.
+* **Columns:** Manually adjust the number of columns in the thumbnail grid or set it to **"Auto"** for a responsive layout.
+* **Sorting:** Organize your media assets by **Name** or **Date** in either Ascending or Descending order.
+* **Flat View:** Toggle this to see all files from all subfolders in a single, unified flat list.
+* **Backup:** Safety checkboxes to enable/disable automated backups for **CSV, XMP, and Original JPG** files, ensuring your progress and original data are always protected.
+
+
 
 ### Filter Bar
 * **Search:** Filter by text (All, Title, Description, Keywords, Filename).
@@ -336,11 +351,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3OD
-c3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0
-LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4Nz
-kwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5
-LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-M119
+eyJoaXN0b3J5IjpbMTc0MzgxOTIwMSwzMDI1MjA4MjgsLTE2OD
+A3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5
+NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMT
+g1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5
+LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NT
+I2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3
+NjRdfQ==
 -->
