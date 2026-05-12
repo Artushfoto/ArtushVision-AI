@@ -159,11 +159,7 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 -   **AI Diacritics Toggle:**  Added an option to allow diacritics (accents/special characters) in AI outputs. While disabled by default for strict microstock compatibility, turning this on is perfect for local and family photo albums!
 -   **Context-Aware AI:**  You can now pass existing IPTC/XMP data directly into the AI prompt using new variables. This allows the AI to build upon current titles, descriptions, or keywords already present in the file.
 
-### Custom AI Profiles
-* **AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
-* **Text & OCR Recognition:** Extract text from signs using `{text_ocr}`.
-* **Technical EXIF Analysis:** Inject `{camera_model}` or `{exposure_info}` for tech tags.
-* **Smart Metadata Protection:** Preserves existing keywords and People tags.
+
 
 ---
 
@@ -174,13 +170,13 @@ Use these dynamic placeholders in your AI prompts to inject specific file contex
 ### User & File Context
 | Variable | Description | Example Output |
 | :--- | :--- | :--- |
-| `{user_hint}` | Manual hint entered in the main window. | `"Golden Retriever"` |
+| `{user_hint}` | **Manual hint for AI entered in the main window**. | `"Golden Retriever"` |
 | `{folder_context}` | Name of the parent folder (useful for event context). | `"Wedding 2025"` |
 | `{filename}` | Original filename without extension. | `"IMG_4821"` |
 | `{date_info}` | Capture date (DD.MM.YYYY). | `"24.09.2025"` |
 | `{local_vision_text}` | Raw text description from local Ollama (Hybrid/Enhanced mode). | `"A photo of a forest..."` |
 
-### 🏷️ Existing Metadata (IPTC/XMP)
+### Existing Metadata (IPTC/XMP)
 | Variable | Description | Example Output |
 | :--- | :--- | :--- |
 | `{existing_keywords}` | Keywords already saved in the file. | `"nature, sunrise"` |
@@ -224,6 +220,13 @@ These parameters help the AI identify photographic context (e.g., recognizing dr
 > [!TIP]
 > **Pro Tip:** To keep your AI instructions concise and minimize token usage, simply remove any variables from your prompt that you don't intend to use for a specific profile.
 
+### Custom AI Profiles
+* **AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
+* **Text & OCR Recognition:** Extract text from signs using `{text_ocr}`.
+* **Technical EXIF Analysis:** Inject `{camera_model}` or `{exposure_info}` for tech tags.
+* **Smart Metadata Protection:** Preserves existing keywords and People tags.
+
+
 
 ---
 
@@ -260,9 +263,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU0NTUxOTIsLTY1Njg1Njk3NSwtNz
-g1ODQ5OTQ2LDE4NTI2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4
-NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQzLDEyMzY4MTExNTIsMT
-EzMDg1OTUyMCw1OTcyNDIxODMsMzc0NjIzOTc3LC03MjUxMzEx
-OTldfQ==
+eyJoaXN0b3J5IjpbMTk2ODg3ODQ0OSwtNjU2ODU2OTc1LC03OD
+U4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0MjksMTA3NDgwNDg0
+OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNjgxMTE1MiwxMT
+MwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5NzcsLTcyNTEzMTE5
+OV19
 -->
