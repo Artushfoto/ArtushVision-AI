@@ -132,7 +132,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 
 ## 3. AI Analysis Workflow
-1.  
+1. ** Settings - select AI mode (Cloud AI, Local Ai, Hybrid AI, Pass Local AI)
 2. **Load Files:** Click **Load Folders** and select your directory.
 3.  **Select Files:** Use `Shift+Click` or `Ctrl+Click`.
 4.  **Choose Profile:** Select the profile matching your content.
@@ -196,8 +196,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDM1NzM4MSwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbLTIxMDc3NjY3ODksMTg1MjYzMTAwNSwxMz
+A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
+NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
+Q2MjM5NzcsLTcyNTEzMTE5OV19
 -->
