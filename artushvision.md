@@ -166,21 +166,21 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 Use these dynamic placeholders in your AI prompts to inject specific file context, metadata, and technical details for more accurate and professional results.
 | Category | Variable | Description | Example Output |
 | :--- | :--- | :--- | :--- |
-| **User & File** | `{user_hint}` | Manual hint entered in the main window | `"Golden Retriever"` |
+| **User & File Context** | `{user_hint}` | Manual hint entered in the main window | `"Golden Retriever"` |
 | | `{folder_context}` | Name of the parent folder (event context) | `"Wedding 2025"` |
 | | `{filename}` | Original filename without extension | `"IMG_4821"` |
 | | `{date_info}` | Capture date (DD.MM.YYYY) | `"24.09.2025"` |
 | | `{local_vision_text}` | Raw description from local Ollama | `"A photo of a forest..."` |
-| **Existing Metadata** | `{existing_keywords}` | Keywords already saved in the file | `"nature, sunrise"` |
+| **Existing Metadata (IPTC/XMP)** | `{existing_keywords}` | Keywords already saved in the file | `"nature, sunrise"` |
 | | `{existing_title}` | Original Headline/Title | `"Sunset over hills"` |
 | | `{existing_description}`| Original Caption/Description | `"Photo taken at..."` |
 | | `{existing_rating}` | Star rating (1-5) | `"5"` |
-| **Live Geolocation** | `{city}` / `{country}` | City and Country from live GPS coords | `"Paris", "France"` |
+| **Current Geolocation & AI Vision** | `{city}` / `{country}` | City and Country from live GPS coords | `"Paris", "France"` |
 | | `{loc_hint}` | Full address string from reverse geocoding | `"Prague, Czechia"` |
 | | `{gps_raw}` | Raw decimal coordinates | `"50.08, 14.43"` |
 | | `{maps_link}` | Direct link to Google Maps | `http://maps.google.com/...` |
 | | `{text_ocr}` | Text extracted visually from the image | `"Route 66"` |
-| **Stored Geodata** | `{existing_location}` | Specific place names (IPTC/XMP) | `"Central Park"` |
+| **Stored Geodata for files with pre-filled location data from tools like Lightroom or digiKam.** | `{existing_location}` | Specific place names (IPTC/XMP) | `"Central Park"` |
 | | `{existing_city}` | City saved in file metadata | `"New York"` |
 | | `{existing_state}` | Region or State saved in file | `"NY"` |
 | | `{existing_country}` | Country and 2-letter code | `"United States", "US"` |
@@ -237,9 +237,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODg3ODk4OSw3OTMwMjU0OSwxOTY4OD
-c4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1
-LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MD
-I4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgz
-LDM3NDYyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2OD
+g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
+NSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzND
+AyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4
+MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
 -->
