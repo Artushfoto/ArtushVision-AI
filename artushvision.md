@@ -91,35 +91,14 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 ---
 
-## Global Distribution & Smart FTP
-Distribute your work to all major stock agencies with a single click.
+## Global Distribution & Smart FTP Suite
+Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
 
-* **Universal Category Mapping:** A smart editable matrix that automatically translates your categories for Adobe Stock, Shutterstock, Dreamstime or other agencies.
-* **Media Intelligence:** Separate category logic for photos and videos (e.g., specialized "ME Video" categories for Motion Elements).
-* **Per-Server Threading:** Configure unique thread counts for each server (e.g., 1 thread for sensitive servers like Zoonar, up to 10 for high-speed uploads to Shutterstock).
-* **FTP Status Badges:** Visual indicators in the grid provide an immediate overview of which files have been successfully uploaded to each agency. **The upload history is written directly into the photograph's XMP metadata**, making it persistent even if the file is moved and eliminating the need for additional sidecar files.**
-
----
-
-## Smart FTP & Automated CSV Metadata
-**Simultaneously upload your media and metadata files for a "zero-touch" submission workflow.**
-
-ArtushVision AI eliminates the manual step of generating and uploading sidecar data. The application intelligently handles the requirements of different stock agencies during the FTP process.
-
-* **Per-Agency CSV Templates:** You can assign specific CSV templates to each individual FTP server (e.g., a "Shutterstock" template for Shutterstock server and a "Dreamstime" template for Dreamstime).
-* **Automated CSV Generation:** The application automatically generates the required metadata files on-the-fly and uploads them to the target server alongside your images or videos. This streamlined workflow is fully optimized for major agencies such as **Shutterstock** and **Dreamstime**, and supports custom templates for any other agency requiring sidecar CSV data.
-* **Mapped Category Support:** Automatically includes agency-specific categories (e.g., 'Mapped Category 1 & 2, Editorial Status, Country ...') directly into your CSV columns during the upload process.
-
----
-
-## FTP Profiles & One-Click Batch Uploads
-**Organize your distribution channels into custom groups for maximum efficiency.**
-
-Managing multiple stock agencies is seamless with **FTP Profiles**. Instead of selecting servers individually, you can group them into named batches based on your content strategy.
-
-* **Custom Batch Naming:** Create and name your own profiles, such as **"Stock Photo"** or **"Editorial Photo"**, to instantly target specific agencies.
-* **Automated Batch Distribution:** Selecting a named profile automatically prepares all assigned FTP servers within that batch, allowing you to send your photos to multiple destinations at once.
-* **Flexible Configuration:** All server profiles and settings are managed in a dedicated `ftp.json` configuration file, making your workflow both stable and easy to back up.
+* **Multi-Server Smart FTP:** Connect to an unlimited number of agencies. Configure unique **thread counts per server** (e.g., 1 thread for sensitive servers like Zoonar, up to 10 for high-speed uploads to Shutterstock) to maximize throughput without risking bans.
+* **Automated CSV Metadata Generation:** Eliminate manual spreadsheet work. ArtushVision AI generates agency-specific CSV files on-the-fly and uploads them alongside your media. It includes support for **Per-Agency Templates**, allowing you to map internal fields to specific columns required by each distributor.
+* **Universal Category Mapping:** Use the smart editable matrix to automatically translate your internal categories into agency-specific ones (Adobe Stock, Shutterstock, Dreamstime, etc.). Features separate logic for **Photo vs. Video categories** (e.g., specialized Motion Elements tags).
+* **FTP Profiles & Batch Uploads:** Organize your distribution channels into custom groups. Create profiles like **"Stock Photo"** or **"Editorial Video"** to trigger one-click batch uploads to multiple destinations. All configurations are stored in a portable `ftp.json` file for easy backup.
+* **Persistent Status Tracking:** Visual **FTP Status Badges** in the grid provide an immediate overview of successful uploads. To ensure data integrity, upload history is written **directly into the file's XMP metadata**, making it persistent even if you move or rename the file.
 
 ---
 
@@ -474,11 +453,11 @@ Finalize your distribution workflow with a powerful engine for mass-upload metad
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1MD
-AxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4Nzc2
-OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNz
-I5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1
-NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xND
-gxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYx
-OF19
+eyJoaXN0b3J5IjpbMTkzODgxODA5NSwxNDM1MDIwMDgwLC0yMD
+c0NjUwMzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMCwyNTk2OTY4
+MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLDEwNj
+YxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMw
+NCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nz
+g3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5
+NF19
 -->
