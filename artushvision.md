@@ -465,7 +465,6 @@ Finalize your distribution workflow with a powerful engine for mass-upload metad
 * **System Paths:** Configure local paths for essential external tools: `exiftool.exe` and `ffmpeg.exe`.
 * **Advanced Matrices:** Direct access to your **CSV Templates**, **FTP Server Management**, and the **Category Mapping Matrix**.
 
-
 ---
 
 ### [Get Started Now]
@@ -476,7 +475,7 @@ Finalize your distribution workflow with a powerful engine for mass-upload metad
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDEwNDQ3NSwtMjA3NDY1MDM2MCw1MD
+eyJoaXN0b3J5IjpbMTk3MTk3NTQ2OSwtMjA3NDY1MDM2MCw1MD
 AxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4Nzc2
 OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNz
 I5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1
