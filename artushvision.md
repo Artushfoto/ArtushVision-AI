@@ -234,6 +234,47 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 *  **Upload to FTP**
 * 
 
+
+
+## 5. Manual Editing & Detail View
+Double-click any image in the grid to enter the **Detail Photo View** for precise per-file adjustments.
+
+* **Smart Text Fields:** Edit Titles and Descriptions with real-time character counters and integrated multilingual spell-check.
+* **Color-Coded Keyword Bubbles:** Instantly distinguish the source of your tags:
+    * <span style="color: #007abb;">●</span> **Blue:** AI-generated.
+    * <span style="color: #28a745;">●</span> **Green:** Manually added.
+    * <span style="color: #000000;">●</span> **Black:** Original metadata from file.
+    * *Tip: Drag and drop bubbles to reorder or move them between fields.*
+* **Asset Categorization:** Assign professional star ratings (1-5), pick/reject flags, and map assets to specific stock agency categories.
+* **Interactive Geolocation:** View and adjust GPS coordinates on an integrated map with full zoom and satellite support.
+* **Technical Inspection:** Access a comprehensive **EXIF Data** panel or open the original file in your preferred **External Image Viewer** with a single click.
+* **Fluid Navigation:** Use the **Arrow Keys** to seamlessly move between images while staying in the Detail View.
+
+---
+
+## 6. Batch Operations
+Click the **List Icon** to toggle the **Batch Edit** panel, allowing you to modify hundreds of assets simultaneously.
+
+### Analysis & Resolution
+* **Bulk AI Processing:** Trigger the AI engine for all selected files using your active profile.
+* **Getty Images Resolver:** Batch-validate and resolve keywords against the Getty Master Dictionary for your entire selection.
+
+### Metadata & Content Editing
+* **Smart Add/Remove:** Append or prepend text to titles/descriptions, or batch-delete specific keywords and tags.
+* **Advanced Replace:** Use the `Old -> New` syntax for quick fixes or the powerful **Search & Replace** (`Ctrl+H`) dialog for complex string manipulations.
+
+### File & Workflow Management
+* **Smarter Rename:** Batch-rename files using dynamic patterns:
+    * `{TITLE}` – Use the asset title.
+    * `{DATE}` – Use the capture date.
+    * `{CC}` – Sequential counter for perfect ordering.
+    * `{FOLDER_NAME}` – Maintain directory context.
+* **File Operations:** Safely **Copy**, **Move**, or **Delete** selected files directly within the application workspace.
+* **Instant Distribution:** Initiate a **Multi-Server FTP Upload** for your entire selection, including automated CSV metadata generation.
+
+
+
+
 ---
 
 ## 7. Settings & Configuration
@@ -252,10 +293,10 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAxOTUwMTAsLTMxODU4NTU2Myw1OD
-c5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0
-OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMz
-A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
-NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
-Q2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbLTc1NzI0NjgxLC0zMTg1ODU1NjMsNTg3OT
+A2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDks
+LTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NTI2MzEwMDUsMTMwNT
+YwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQz
+LDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0Nj
+IzOTc3LC03MjUxMzExOTldfQ==
 -->
