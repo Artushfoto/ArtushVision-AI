@@ -202,14 +202,15 @@ Located directly below the top toolbar, this bar is your primary tool for organi
 * **Deep Discovery:** Access specialized dialogs for complex, multi-criteria **Advanced Metadata filtering**.
 
 ### The Image Grid
-The central workspace where each cell represents a media file. It provides immediate visual feedback on the status and metadata of your assets.
+The central workspace where each cell represents a media file. It provides immediate visual feedback on the status, metadata, and distribution history of your assets.
 
 * **Visual Status Indicators:** Small colored markers in the top-right corner of each thumbnail indicate the current state of the file:
     * ⚪ **Gray/White:** Unchanged or default state.
     * 🟡 **Yellow:** Modified (contains unsaved changes).
     * 🟢 **Green:** Successfully saved or metadata fully loaded.
     * 🔴 **Red:** Validation error (e.g., title exceeds character limits or missing required fields).
-* **Thumbnail Badges:** High-visibility icons in the top-left corner provide quick technical insights:
+ 
+* **Thumbnail Badges:** High-visibility icons in the top-left corner provide quick technical and workflow insights:
     * **GPS:** The file contains embedded geolocation coordinates.
     * **XMP:** An XMP sidecar file exists for this asset.
     * **ORIG:** An original backup of the file is safely stored.
@@ -218,10 +219,8 @@ The central workspace where each cell represents a media file. It provides immed
     * **GETTY:** Indicates the asset has been processed via the **Getty Optimizer**. It confirms that a `.getty` sidecar file exists and that keywords have been validated against the Getty Master Dictionary.
     * **FTP:** Displays the upload status. This badge identifies the specific servers where the file has been successfully delivered. Since the upload history is written **directly into the file's XMP metadata**, this badge remains persistent even if you move the file between folders.
     * **CAT:** Confirms that **Stock Categories** have been assigned to the image or video. This ensures the asset is ready for agency-specific mapping and automated CSV generation during export or upload.
-
-
-
     * **⚠️:** Critical warning (e.g., corrupted file or loading error).
+ 
 * **Inline Metadata Editing:** Each cell features dedicated fields for **Title**, **Description**, and **Keywords** directly below the thumbnail, allowing for lightning-fast manual adjustments without leaving the grid view.
 * **Context Menu (Right-Click):** Right-click any cell to access a comprehensive suite of professional actions:
     * **Quick Tools:** Open file location, rename, or view full EXIF data.
@@ -451,11 +450,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0Mjk5MTgsMTM4MDczMjMwNCwyMDIzND
-k2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEwOTMs
-LTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OT
-c0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2Myw1ODc5MDY1MTUs
-LTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2OD
-U2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0Mjld
-fQ==
+eyJoaXN0b3J5IjpbLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MD
+czMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUs
+LTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MD
+MwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2
+Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2OD
+g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
+NV19
 -->
