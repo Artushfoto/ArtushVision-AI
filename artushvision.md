@@ -59,7 +59,7 @@ ArtushVision AI eliminates the manual step of generating and uploading sidecar d
 
 * **Per-Agency CSV Templates:** You can assign specific CSV templates to each individual FTP server (e.g., a "Shutterstock" template for Shutterstock server and a "Dreamstime" template for Dreamstime).
 * **Automated CSV Generation:** The application automatically generates the required metadata files on-the-fly and uploads them to the target server alongside your images or videos. This streamlined workflow is fully optimized for major agencies such as **Shutterstock** and **Dreamstime**, and supports custom templates for any other agency requiring sidecar CSV data.
-* **Mapped Category Support:** Automatically includes agency-specific categories (e.g., 'Mapped Category 1 & 2, Editorial status') directly into your CSV columns during the upload process.
+* **Mapped Category Support:** Automatically includes agency-specific categories (e.g., 'Mapped Category 1 & 2, Editorial Status, Country ...') directly into your CSV columns during the upload process.
 
 ---
 
@@ -96,6 +96,90 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 | **Cost per 10,000 Photos** | Expensive "Credits" ($$$) | **Ultra-low (~$0.50 via OpenRouter API)** |
 
 
+## 1. Installation & Setup
+### System Requirements
+* **OS:** Windows 10/11 (64-bit).
+* **Internet:** Required for AI analysis, maps, and online spell checking.
+* **Dependencies:** Requires `ExifTool` and `FFmpeg` (bundled in the application folders).
+
+### First Launch
+1.  Run `ArtushVisionAI.exe`.
+2.  **License:** Enter your key or use the Trial version (10 saves / 3 AI calls).
+3.  **API Key:** Navigate to **File > API Key** and enter your [OpenRouter Key](https://openrouter.ai).
+
+---
+
+## 2. Interface Overview
+### Top Toolbar
+* **Profile:** Select AI prompts (Stock, Travel, Family, etc.).
+* **Run AI:** Green play button starts analysis for selected images.
+* **Absolute Priority AI Hint:** User hints (Latin names/locations) are treated as unquestionable facts.
+* **Speed:** Parallel threads (1-20). Higher is faster but uses more CPU.
+* **Flat View:** Toggle to see all files from subfolders in a single list.
+
+### Filter Bar
+* **Search:** Filter by text (Title, Description, Keywords, Filename).
+* **Folder Filtering:** Isolate specific folders with photo counts.
+* **Type Filter:** Show only RAW, JPG, Video, HEIF, TIFF, or PNG.
+
+---
+
+## 3. AI Analysis Workflow
+1.  **Load Files:** Click **Load Folders** and select your directory.
+2.  **Select Files:** Use `Shift+Click` or `Ctrl+Click`.
+3.  **Choose Profile:** Select the profile matching your content.
+4.  **Run:** Click **Run AI**. Monitor real-time costs and progress.
+
+---
+
+<div id="6-advanced-features"></div>
+
+## 4. Professional Advanced Tools
+### 🧠 Custom AI Profiles
+* **🌍 AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
+* **📝 Text & OCR Recognition:** Extract text from signs using `{text_ocr}`.
+* **📸 Technical EXIF Analysis:** Inject `{camera_model}` or `{exposure_info}` for tech tags.
+* **🛡️ Metadata Protection:** Preserves existing keywords and People tags.
+
+### Available Variables for AI Prompts
+| Variable | Description |
+| :--- | :--- |
+| `{user_hint}` | Manual hint entered in main window |
+| `{folder_context}` | Name of the parent folder |
+| `{filename}` | Original filename without extension |
+| `{existing_keywords}` | Keywords already saved in the file |
+| `{city}` / `{country}` | City and Country from live GPS |
+| `{text_ocr}` | Text extracted visually from image |
+| `{camera_model}` | Camera or Device model |
+| `{exposure_info}` | Shutter, Aperture and ISO |
+
+---
+
+## 5. Manual Editing & Detail View
+Double-click any image to enter the **Detail View**.
+* **Text Fields:** Edit with real-time counters and spell check.
+* **Keyword Bubbles:** Drag and drop to reorder, Blue (AI), Green (Manual), Black (Original).
+* **Interactive Map:** Shows GPS location with zoom support.
+* **Navigation:** Arrow keys move to the next/previous image.
+
+---
+
+## 6. Batch Operations
+Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
+* **Add/Remove:** Appends text or deletes specific words/tags.
+* **Replace:** Use `Old->New` format or `Ctrl+H` dialog.
+* **Smarter Rename:** Supports `{TITLE}`, `{DATE}`, `{CC}` (counter), `{FOLDER_NAME}`.
+
+---
+
+## 7. Settings & Configuration
+* **Appearance:** Adjust thumbnail sizes, font scales, and field heights.
+* **AI Diacritics:** Toggle to allow accents in AI outputs (perfect for family albums).
+* **CSV Export:** Create templates for AdobeStock, Shutterstock, Alamy, etc.
+* **GPS Provider:** Switch between OpenStreetMap and ArcGIS.
+
+
+
 ### [Get Started Now]
 * [Download Fully Functional Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
@@ -104,7 +188,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzUwNDM4MiwxODUyNjMxMDA1LDEzMD
+eyJoaXN0b3J5IjpbLTczMTQyNzUyNSwxODUyNjMxMDA1LDEzMD
 U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
 MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
 YyMzk3NywtNzI1MTMxMTk5XX0=
