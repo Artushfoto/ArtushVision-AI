@@ -378,6 +378,12 @@ Manage your tags visually with an intuitive "bubble" system:
 * **Technical Tools:** Access the comprehensive **EXIF Data** panel or open the asset in your preferred **External Viewer** with a single click.
 * **Fluid Navigation:** Use the on-screen arrow buttons or **keyboard arrow keys** to move to the next or previous image without closing the Detail View window.
 
+### Synonyms & Translation
+Enhance your metadata depth and accuracy with integrated linguistic tools designed for global stock requirements.
+
+* **Smart Synonyms:** Right-click any keyword bubble to open the **Synonym Dialog**. This tool fetches contextually related terms and expanded vocabulary from the **Datamuse online database**, allowing you to maximize your discoverability and SEO with professional alternatives.
+* **Live Translation Tooltips:** Perfect for non-native workflows. When enabled in Settings, the application provides instant **translation tooltips** for your keywords in your native language, ensuring you always select the most precise terms for your content.
+
 ### Saving & Data Integrity
 Click **Save Changes** in the bottom right of the main GUI to commit your work. ArtushVision AI supports a "safety-first" workflow with optional backups:
 * **XMP Sidecars:** Writes metadata to standard XMP files—the safest method for RAW and Video assets.
@@ -460,11 +466,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5Njk2ODI1LDExNDA4Nzc2OTksOTA0Nz
-I2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNzI5NDg5MDQy
-LDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1NCwzMDI1Mj
-A4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2
-LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMj
-kzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMx
+eyJoaXN0b3J5IjpbLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExND
+A4Nzc2OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4
+LC0xNzI5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMz
+Q5NjU1NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkz
+LC0xNDgxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczND
+k3NDYxOCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1
 XX0=
 -->
