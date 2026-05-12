@@ -42,11 +42,20 @@ Distribute your work to all major stock agencies with a single click.
 * **Media Intelligence:** Separate category logic for photos and videos (e.g., specialized "ME Video" categories for Motion Elements).
 * **Per-Server Threading:** Configure unique thread counts for each server (e.g., 1 thread for sensitive servers like Zoonar, up to 10 for high-speed uploads to Shutterstock).
 * **FTP Status Badges:** Visual indicators in the grid provide an immediate overview of which files have been successfully uploaded to each agency.
-* 
+* ---
+
+## Smart FTP & Automated CSV Metadata
+**Simultaneously upload your media and metadata files for a "zero-touch" submission workflow.**
+
+ArtushVision AI eliminates the manual step of generating and uploading sidecar data. The application intelligently handles the requirements of different stock agencies during the FTP process.
+
+* **Per-Agency CSV Templates:** You can assign specific CSV templates to each individual FTP server (e.g., a "Shutterstock" template for one server and a "Dreamstime" template for another).
+* **Automated CSV Generation:** The application automatically generates the required metadata file on-the-fly and uploads it to the target server alongside your images or videos.
+* **Dreamstime & Shutterstock Optimized:** Includes built-in compatibility fixes, such as the removal of the UTF-8 BOM (Byte Order Mark) to ensure headers are readable on older systems like Dreamstime.
+* **Mapped Category Support:** Automatically includes agency-specific categories (e.g., 'Mapped Category 1 & 2') directly into your CSV columns during the upload process.
 
 ---
-
-## 🛠️ Professional Workflow & Productivity
+## Professional Workflow & Productivity
 Built for high-volume photography management and seamless integration.
 
 * **Zoner Photo Studio Sync:** Priority loading for star ratings and labels from Zoner Photo Studio ensures your existing organization remains perfectly synchronized.
@@ -76,5 +85,5 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
 -->
