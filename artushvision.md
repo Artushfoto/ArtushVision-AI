@@ -224,35 +224,6 @@ Double-click any image to enter the **Detail Photo View**.
 ---
 
 ## 6. Batch Operations
-Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
-* **Run AI for selected files**
-* **Getty resolver for selected files**
-* **Add/Remove:** Appends text or deletes specific words/tags in selected fields.
-* **Replace:** Use `Old->New` format or `Ctrl+H` dialog.
-* **Smarter Rename:** Supports `{TITLE}`, `{DATE}`, `{CC}` (counter), `{FOLDER_NAME}`.
-*  **Copy/Move/Delete selected files**
-*  **Upload to FTP**
-* 
-
-
-
-## 5. Manual Editing & Detail View
-Double-click any image in the grid to enter the **Detail Photo View** for precise per-file adjustments.
-
-* **Smart Text Fields:** Edit Titles and Descriptions with real-time character counters and integrated multilingual spell-check.
-* **Color-Coded Keyword Bubbles:** Instantly distinguish the source of your tags:
-    * <span style="color: #007abb;">●</span> **Blue:** AI-generated.
-    * <span style="color: #28a745;">●</span> **Green:** Manually added.
-    * <span style="color: #000000;">●</span> **Black:** Original metadata from file.
-    * *Tip: Drag and drop bubbles to reorder or move them between fields.*
-* **Asset Categorization:** Assign professional star ratings (1-5), pick/reject flags, and map assets to specific stock agency categories.
-* **Interactive Geolocation:** View and adjust GPS coordinates on an integrated map with full zoom and satellite support.
-* **Technical Inspection:** Access a comprehensive **EXIF Data** panel or open the original file in your preferred **External Image Viewer** with a single click.
-* **Fluid Navigation:** Use the **Arrow Keys** to seamlessly move between images while staying in the Detail View.
-
----
-
-## 6. Batch Operations
 Click the **List Icon** to toggle the **Batch Edit** panel, allowing you to modify hundreds of assets simultaneously.
 
 ### Analysis & Resolution
@@ -293,10 +264,10 @@ Click the **List Icon** to toggle the **Batch Edit** panel, allowing you to modi
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzI0NjgxLC0zMTg1ODU1NjMsNTg3OT
-A2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDks
-LTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NTI2MzEwMDUsMTMwNT
-YwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQz
-LDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0Nj
-IzOTc3LC03MjUxMzExOTldfQ==
+eyJoaXN0b3J5IjpbMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4Nz
+kwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5
+LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMD
+U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
+MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
+YyMzk3NywtNzI1MTMxMTk5XX0=
 -->
