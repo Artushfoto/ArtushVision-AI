@@ -48,6 +48,12 @@ Distribute your work to all major stock agencies with a single click.
 * **Media Intelligence:** Separate category logic for photos and videos (e.g., specialized "ME Video" categories for Motion Elements).
 * **Per-Server Threading:** Configure unique thread counts for each server (e.g., 1 thread for sensitive servers like Zoonar, up to 10 for high-speed uploads to Shutterstock).
 * **FTP Status Badges:** Visual indicators in the grid provide an immediate overview of which files have been successfully uploaded to each agency.
+
+
+
+
+* **FTP Status Badges:** Visual indicators in the grid provide an immediate overview of which files have been successfully uploaded to each agency. **The upload history is written directly into the photograph's XMP metadata, making it persistent even if the file is moved and eliminating the need for additional sidecar files.**
+* 
 ---
 ---
 
@@ -105,7 +111,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzND
-AyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4
-MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbMzU0NzYzODM5LDEwNzQ4MDQ4NDksLTEyMz
+A5NTg3NjQsMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUy
+MCw1OTcyNDIxODMsMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
 -->
