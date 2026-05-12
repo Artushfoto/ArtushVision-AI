@@ -28,6 +28,7 @@
 | Test the full professional workflow now | One-time payment • No monthly fees |
 
 **One-time payment • No monthly fees** Pay once, use forever. Securely processed by **Polar & Stripe**.
+**Please try before buy**
 
 [Already have a license? Manage or Deactivate your devices](https://polar.sh)
 
@@ -324,7 +325,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE5NDE1MjIsLTQwMzA2MDk0LC00MD
+eyJoaXN0b3J5IjpbLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MD
 MwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2
 Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2OD
 g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
