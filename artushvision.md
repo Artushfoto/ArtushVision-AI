@@ -251,7 +251,23 @@ Use these dynamic placeholders to create perfectly organized file structures:
 > **Final Result:** `01 - Golden Sunset - 2026-04-14.jpg`
 ---
 
+## 🚀 3. AI Analysis Workflow
 
+Follow this proven workflow to achieve the best results when generating metadata automatically.
+
+1. **AI Engine Selection:** Before starting, ensure your preferred processing engine is selected in the settings:
+   * **Cloud AI** (Maximum intelligence via OpenRouter).
+   * **Local AI** (100% privacy via Ollama).
+   * **Hybrid AI** (Local vision analysis + Cloud text formatting).
+   * **2-Pass Local** (Deep offline synthesis for elite results).
+2. **Load Assets:** Click the **Load Folders** (or **Add Folder**) button in the bottom-right corner and select your directory. The app will instantly scan the folder and display all supported image and video formats.
+3. **Select Files:** Highlight the assets you wish to analyze:
+   * `Shift + Click` to select a range of images.
+   * `Ctrl + Click` to select individual files within the grid.
+4. **Choose Profile:** Select the AI system prompt profile from the dropdown that best matches your content (e.g., **"Stock Photography"**, **"Editorial"**, or your own **Custom Profile**).
+5. **Run & Monitor:** Click the green **Run AI** (Play icon) button to begin processing.
+   * **Progress Tracking:** Monitor the analysis in real-time via the progress dialog. You can stop the process at any time if needed.
+   * **Real-time Cost Statistics:** For cloud-based modes, the app displays the exact cost of each query immediately after analysis with **6-decimal precision**, keeping your budget fully transparent.
 
 
 
@@ -417,11 +433,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDczMjMwNCwyMDIzNDk2NTU0LDMwMj
-UyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1
-MzYsLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OTc0NjE4LDE0OD
-MyOTM3OTcsLTMxODU4NTU2Myw1ODc5MDY1MTUsLTExOTE3OTM4
-MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2ODU2OTc1LC03OD
-U4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0MjksMTA3NDgwNDg0
+eyJoaXN0b3J5IjpbMTY2NDU0NzkxOCwxMzgwNzMyMzA0LDIwMj
+M0OTY1NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3ODc3MTA5
+MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0LDE3Mz
+Q5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUx
+NSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5LC02NT
+Y4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMDU2MDQy
 OV19
 -->
