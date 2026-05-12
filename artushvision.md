@@ -287,19 +287,6 @@ Follow this proven workflow to achieve the best results when generating metadata
    * **Progress Tracking:** Monitor the analysis in real-time via the progress dialog. You can stop the process at any time if needed.
    * **Real-time Cost Statistics:** For cloud-based modes, the app displays the exact cost of each query immediately after analysis with **6-decimal precision**, keeping your budget fully transparent.
 
-
-
-
-
-
-## 3. AI Analysis Workflow
-
-1.  **AI Mode Selection:** Navigate to the settings to choose your processing engine: **Cloud AI**, **Local AI** (via Ollama), **Hybrid AI**, or the high-precision **2-Pass Local AI**.
-2.  **Load Files:** Click the **Load Folders** button at the bottom right and select your directory; the app will scan for all supported image and video formats.
-3.  **Select Files:** Highlight the assets you wish to analyze using `Shift+Click` for ranges or `Ctrl+Click` for individual selections within the grid.
-4.  **Choose Profile:** Select an AI system prompt profile (e.g., "Stock Photography" or "Editorial") from the dropdown that best matches your content type.
-5.  **Run:** Click the green **Run AI** play button to begin processing. Monitor the **Progress Bar** and real-time **Cost Statistics**, which track your API spend with 6-decimal precision.
-
 ---
 
 ## 4. Professional Advanced Tools
@@ -449,11 +436,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTQ3MTYsLTE3Mjk0ODkwNDIsNzE0Mj
-k5MTgsMTM4MDczMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwt
-MTY4MDc5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMz
-A2MDk0LC00MDMwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcs
-LTMxODU4NTU2Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMD
-I1NDksMTk2ODg3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDZd
-fQ==
+eyJoaXN0b3J5IjpbMTA2NjE5ODY1OCwtMTcyOTQ4OTA0Miw3MT
+QyOTkxOCwxMzgwNzMyMzA0LDIwMjM0OTY1NTQsMzAyNTIwODI4
+LC0xNjgwNzk2NSwtMTQ3ODc3MTA5MywtMTQ4MTU4NDUzNiwtND
+AzMDYwOTQsLTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5
+NywtMzE4NTg1NTYzLDU4NzkwNjUxNSwtMTE5MTc5MzgzMSw3OT
+MwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0
+Nl19
 -->
