@@ -7,9 +7,9 @@
 
 **ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for **JPG, RAW, VIDEO, HEIC, TIFF, and PNG** assets, while providing robust tools for manual metadata management. Your data is always safe with automated backups and flexible export options to CSV and XMP sidecars, ensuring you never lose your progress or original file integrity.
 
-> ⚡ **Exceptional Value:** Using our recommended model, **google/gemini-2.0-flash-001**, you can professionally describe approximately **100,000 to 150,000 photos for only $5** with perfect, high-quality results.
+> **Exceptional Value:** Using our recommended model, **google/gemini-2.0-flash-001**, you can professionally describe approximately **100,000 to 150,000 photos for only $5** with perfect, high-quality results.
 > 
-> 📊 **Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query.
+>**Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query.
 
 Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.
 
@@ -20,7 +20,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ---
 
-### 📥 Get Started
+### Get Started
 * [**Download Free Fully Functional Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) – Test the full professional workflow now.
 * [**Purchase Lifetime License ($39.99)**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) – One-time payment, no monthly fees. Securely processed by Polar & Stripe.
 
@@ -28,7 +28,7 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 1. [ArtushVision AI Overview](#artushvision-ai)
 2. [Desktop Power vs. Cloud (Cost & Privacy)](#desktop-vs-cloud)
 3. [My Personal Journey: From Expeditions to Automation](#case-study-stock)
@@ -203,6 +203,7 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *© 2026 ArtushFoto. All rights reserved.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzODg1NDI0LDIxMDA4MTE2MDgsMTYwMz
-QwOTY2NywtMjE0NTY1ODE3MywxMjQ2MzAxMTM1XX0=
+eyJoaXN0b3J5IjpbLTYwNTgxMTAyNCw1NTM4ODU0MjQsMjEwMD
+gxMTYwOCwxNjAzNDA5NjY3LC0yMTQ1NjU4MTczLDEyNDYzMDEx
+MzVdfQ==
 -->
