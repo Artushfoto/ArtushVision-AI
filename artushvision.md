@@ -277,7 +277,6 @@ Follow this proven workflow to achieve the best results when generating metadata
 		The **2-Pass Local** mode is the flagship **offline workflow** of ArtushVision AI. It is designed to deliver cloud-level metadata quality while running entirely on your local hardware via Ollama, ensuring 100% privacy and zero per-image costs.
 		* **Pass 1: Deep Visual Analysis:** The application first utilizes a powerful dedicated **Vision Model** to perform an exhaustive scan of the image. It identifies subjects, textures, colors, lighting conditions, and specific details that smaller models might miss.
 		* **Pass 2: Professional Metadata Synthesis:** In the second pass, the raw visual data is handed over to a high-performance **Text Model**. This model synthesizes the visual findings into professional-grade titles, SEO-optimized descriptions, and relevant keywords, following the specific logic of your chosen profile (e.g., Stock or Editorial).
-
 2. **Load Assets:** Click the **Load Folders** (or **Add Folder**) button in the bottom-right corner and select your directory. The app will instantly scan the folder and display all supported image and video formats.
 3. **Select Files:** Highlight the assets you wish to analyze:
    * `Shift + Click` to select a range of images.
@@ -436,11 +435,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjE5ODY1OCwtMTcyOTQ4OTA0Miw3MT
-QyOTkxOCwxMzgwNzMyMzA0LDIwMjM0OTY1NTQsMzAyNTIwODI4
-LC0xNjgwNzk2NSwtMTQ3ODc3MTA5MywtMTQ4MTU4NDUzNiwtND
-AzMDYwOTQsLTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5
-NywtMzE4NTg1NTYzLDU4NzkwNjUxNSwtMTE5MTc5MzgzMSw3OT
-MwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0
-Nl19
+eyJoaXN0b3J5IjpbMTc3OTc2OTk0MCwxMDY2MTk4NjU4LC0xNz
+I5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1
+NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xND
+gxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYx
+OCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1LC0xMT
+kxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDksLTY1Njg1Njk3
+NV19
 -->
