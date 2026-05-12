@@ -216,8 +216,10 @@ ArtushVision AI goes beyond simple tagging by combining visual recognition with 
 Double-click any image to enter the **Detail View**.
 * **Text Fields:** Edit with real-time counters and spell check.
 * **Keyword Bubbles:** Drag and drop to reorder, Blue (AI), Green (Manual), Black (Original).
-* **Interactive Map:** Shows GPS location with zoom support.
+*  ** Select Categories** and other Metadata 
+* **Interactive Map:** Shows GPS location on map with zoom support.
 * **Navigation:** Arrow keys move to the next/previous image.
+* 
 
 ---
 
@@ -245,10 +247,10 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODU4NTU2Myw1ODc5MDY1MTUsLTExOT
-E3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2ODU2OTc1
-LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0MjksMTA3ND
-gwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNjgxMTE1
-MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5NzcsLTcyNT
-EzMTE5OV19
+eyJoaXN0b3J5IjpbOTk0Nzk3NjYsLTMxODU4NTU2Myw1ODc5MD
+Y1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwt
+NjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1Nj
+A0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMs
+MTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2Mj
+M5NzcsLTcyNTEzMTE5OV19
 -->
