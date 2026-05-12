@@ -9,12 +9,12 @@ Create your account and generate a secure access token in just a few minutes.
 
 1. **Visit the Website:** Navigate to the [OpenRouter.ai](https://openrouter.ai/) platform.
 2. **Registration:** Click on **Sign Up** and register using your email address and a secure password.
-   ![Registration Step](url_tveho_obrazku_zde)
+    * ![Registration Step](url_tveho_obrazku_zde)
 3. **Confirm Your Email:** Check your inbox and click the verification link in the confirmation email from OpenRouter.
 4. **Create Your API Key:** * Navigate to the **Keys** section in your dashboard.
-   * Click the **"Create Key"** button.
-   * Give your key a recognizable name (e.g., `ArtushVision AI`).
-   ![Create Key](!https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/001.png)
+    * Click the **"Create Key"** button.
+    * Give your key a recognizable name (e.g., ArtushVision AI ).
+    * ![Create Key](url_tveho_obrazku_zde)
 
 > [!IMPORTANT]
 > **Save Your Key Immediately!**
@@ -36,7 +36,7 @@ For high-volume stock photography or large archives, purchasing credits is the m
 * **Minimum Deposit:** 5 USD (+ local VAT).
 * **Extreme Efficiency:** With a $5 credit, you can describe approximately **100,000 – 150,000 photos** using optimized models.
 * **Recommended Model:** `google/gemini-2.0-flash-001`
-![Buy Credits](url_tveho_obrazku_zde)
+* ![Buy Credits](url_tveho_obrazku_zde)
 
 > [!TIP]
 > **Why Gemini 2.0 Flash?**
@@ -55,6 +55,6 @@ Once you have copied your key:
 ---
 *Last updated: March 2026 • ArtushVision AI Documentation*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA1NjY3NTgsLTE1MjY0OTYxOTYsOD
+eyJoaXN0b3J5IjpbLTE0Mjk2Nzg5MTEsLTE1MjY0OTYxOTYsOD
 cwMTAzMjYzXX0=
 -->
