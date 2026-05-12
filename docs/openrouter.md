@@ -22,7 +22,9 @@ Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/)
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" target="_blank">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png">
 </a>
+
 ---
+
 Registration: Sign up using your email and a chosen password.  
 Confirmation: Check your inbox and confirm your email address.
 
@@ -89,5 +91,6 @@ Create Key: Click "Create API Key" and set a name, e.g., ArtushVision AI.
   Last updated: March 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc3NjcwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE0NjI2MjI5NDEsLTE3MTc3NjcwMDVdfQ
+==
 -->
