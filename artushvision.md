@@ -1,7 +1,7 @@
 
 
 
-# ArtushVision AI 
+<center> # ArtushVision AI <center>
 ### The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals
 ![Version](https://img.shields.io/badge/Version-v2026.1.204-007abb) 
 ![AI](https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31)
@@ -327,7 +327,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjI2NjM4MywtMTQ4MTU4NDUzNiwtND
+eyJoaXN0b3J5IjpbLTY0MzQwNTcwNSwtMTQ4MTU4NDUzNiwtND
 AzMDYwOTQsLTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5
 NywtMzE4NTg1NTYzLDU4NzkwNjUxNSwtMTE5MTc5MzgzMSw3OT
 MwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0
