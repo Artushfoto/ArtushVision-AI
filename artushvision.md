@@ -216,6 +216,9 @@ The central workspace where each cell represents a media file. It provides immed
     * **RAW:** Indicates a RAW camera format.
     * **VIDEO:** Indicates a video file.
     *  **GETTY:** 
+
+
+
     * **⚠️:** Critical warning (e.g., corrupted file or loading error).
 * **Inline Metadata Editing:** Each cell features dedicated fields for **Title**, **Description**, and **Keywords** directly below the thumbnail, allowing for lightning-fast manual adjustments without leaving the grid view.
 * **Context Menu (Right-Click):** Right-click any cell to access a comprehensive suite of professional actions:
@@ -446,11 +449,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc1MjkxODIsMTM4MDczMjMwNCwyMD
-IzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEw
-OTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5NCwxNz
-M0OTc0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2Myw1ODc5MDY1
-MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNj
-U2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0
-MjldfQ==
+eyJoaXN0b3J5IjpbLTUwNjM2NjU0OCwxMzgwNzMyMzA0LDIwMj
+M0OTY1NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3ODc3MTA5
+MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0LDE3Mz
+Q5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUx
+NSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5LC02NT
+Y4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMDU2MDQy
+OV19
 -->
