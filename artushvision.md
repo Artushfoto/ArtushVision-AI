@@ -11,8 +11,10 @@
 > **Exceptional Value:** Using our recommended model, **google/gemini-2.0-flash-001**, you can professionally describe approximately **100,000 to 150,000 photos for only $5** with perfect, high-quality results.
 > 
 >**Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query.
+---
 
 **Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.**
+
 ---
 
 ## Versatile AI Engine: Choose Your Workflow
@@ -44,7 +46,8 @@ Distribute your work to all major stock agencies with a single click.
 * **Media Intelligence:** Separate category logic for photos and videos (e.g., specialized "ME Video" categories for Motion Elements).
 * **Per-Server Threading:** Configure unique thread counts for each server (e.g., 1 thread for sensitive servers like Zoonar, up to 10 for high-speed uploads to Shutterstock).
 * **FTP Status Badges:** Visual indicators in the grid provide an immediate overview of which files have been successfully uploaded to each agency.
-* ---
+---
+---
 
 ## Smart FTP & Automated CSV Metadata
 **Simultaneously upload your media and metadata files for a "zero-touch" submission workflow.**
@@ -56,8 +59,9 @@ ArtushVision AI eliminates the manual step of generating and uploading sidecar d
 * **Dreamstime & Shutterstock Optimized:** Includes built-in compatibility fixes, such as the removal of the UTF-8 BOM (Byte Order Mark) to ensure headers are readable on older systems like Dreamstime.
 * **Mapped Category Support:** Automatically includes agency-specific categories (e.g., 'Mapped Category 1 & 2') directly into your CSV columns during the upload process.
 ---
+---
 
-## ⚡ FTP Profiles & One-Click Batch Uploads
+## FTP Profiles & One-Click Batch Uploads
 **Organize your distribution channels into custom groups for maximum efficiency.**
 
 Managing multiple stock agencies is seamless with **FTP Profiles**. Instead of selecting servers individually, you can group them into named batches based on your content strategy.
@@ -99,6 +103,6 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzIxNzcxMjIsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbNzQwNzI4NTA4LDU5NzI0MjE4MywzNzQ2Mj
+M5NzcsLTcyNTEzMTE5OV19
 -->
