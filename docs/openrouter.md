@@ -18,6 +18,7 @@ Follow these steps to create your account and generate your secure API key.
 Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/).
 
 **OpenRouter Homepage**
+
 ---
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" target="_blank">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png">
@@ -61,15 +62,21 @@ Confirmation: Check your inbox and confirm your email address.
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png">
 </a>
 
+---
+
 **Use Any Name For Your API Key.**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/005.png" target="_blank">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/005.png">
 </a>
 
+---
+
 **IMPORTANT - Save Your API key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/006.png" target="_blank">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/006.png">
 </a>
+
+---
 
 **Your API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/007.png" target="_blank">
@@ -87,9 +94,13 @@ Confirmation: Check your inbox and confirm your email address.
 > 💡 **TIP:** Gemini 2.0 Flash is an extremely efficient model for bulk captioning, even with long descriptions.
 
 **Buy Credits on OpenRouter**
+
+---
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/008.png" target="_blank">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/008.png">
 </a>
+
+---
 
 **Minimum Price is 5 USD+VAT**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/009.png" target="_blank">
@@ -100,8 +111,8 @@ Confirmation: Check your inbox and confirm your email address.
 
 <p align="center">
   <b>ArtushVision AI Documentation</b><br>
-  Last updated: March 2026
+  Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNTUyNDM5LC0xNzE3NzY3MDA1XX0=
+eyJoaXN0b3J5IjpbMTYyNTg4Njk0OCwtMTcxNzc2NzAwNV19
 -->
