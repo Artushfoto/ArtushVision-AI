@@ -58,7 +58,7 @@ Distribute your work to all major stock agencies with a single click.
 ArtushVision AI eliminates the manual step of generating and uploading sidecar data. The application intelligently handles the requirements of different stock agencies during the FTP process.
 
 * **Per-Agency CSV Templates:** You can assign specific CSV templates to each individual FTP server (e.g., a "Shutterstock" template for Shutterstock server and a "Dreamstime" template for Dreamstime).
-* **Automated CSV Generation:** The application automatically generates the required metadata file on-the-fly and uploads it to the target server alongside your images or videos. (Works with Dreamstine, Shutterstock, maybe other agencies ...)
+* **Automated CSV Generation:** The application automatically generates the required metadata files on-the-fly and uploads them to the target server alongside your images or videos. This streamlined workflow is fully optimized for major agencies such as **Shutterstock** and **Dreamstime**, and supports custom templates for any other agency requiring sidecar CSV data.
 * **Mapped Category Support:** Automatically includes agency-specific categories (e.g., 'Mapped Category 1 & 2') directly into your CSV columns during the upload process.
 ---
 ---
@@ -105,7 +105,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE5NjM2NjYsMTA3NDgwNDg0OSwtMT
+eyJoaXN0b3J5IjpbLTE1NzUyMzAxNzgsMTA3NDgwNDg0OSwtMT
 IzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5
 NTIwLDU5NzI0MjE4MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
 -->
