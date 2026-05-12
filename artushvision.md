@@ -34,9 +34,9 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 * **Interactive Getty Resolver (Single & Batch Mode):** The resolver can be used for a single photograph or an entire batch of images simultaneously. 
 * **Visual Context Highlighting:** The resolver intelligently highlights which photo thumbnails in your batch contain a specific term, enabling you to tag large collections with absolute accuracy and professional-grade speed.
-* **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from Qhero to ensure 100% valid submissions.
+* **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from my 25 000 photos archive to ensure 100% valid submissions.
 * **Custom User Dictionary:** Easily save your own specialized terms or unique translations that are not present in the internal Master Dictionary. Once a term is saved, the application automatically recognizes and applies it in all future sessions.
-* **Semantic Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
+* **Semantic AI Disambiguation (beta):** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
 * **In-Place Editing:** Double-click to edit or split terms directly in the table; the app then re-validates them against both Master and User dictionaries.
 
 ---
@@ -105,7 +105,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDY1ODgzNiwzNDAyODQ3NDMsMTIzNj
-gxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5Nzcs
-LTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbLTEyMzA5NTg3NjQsMzQwMjg0NzQzLDEyMz
+Y4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0NjIzOTc3
+LC03MjUxMzExOTldfQ==
 -->
