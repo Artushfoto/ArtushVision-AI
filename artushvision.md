@@ -27,8 +27,8 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 * **2-Pass Local (Elite Offline Results):** A high-performance offline workflow that performs a deep visual scan followed by a secondary synthesis pass to achieve cloud-like results without internet dependencies. This mode utilizes a **powerful dedicated vision model** for precise image analysis and a **high-performance text model** for professional metadata generation. 
     * **Hardware Flexibility:** While top-tier vision and text models require a high-performance machine, you have the flexibility to choose **smaller, optimized models** for less powerful computers, ensuring great results across various hardware setups.
 
-
 ---
+
 ## Getty Images Optimizer (Master ESP Tool)
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
 
@@ -105,7 +105,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDQ4ODM4NiwtMTIzMDk1ODc2NCwzND
-AyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4
-MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbLTEzOTI1NDczNTQsLTEyMzA5NTg3NjQsMz
+QwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIx
+ODMsMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
 -->
