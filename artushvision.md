@@ -28,20 +28,12 @@ ArtushVision AI v2026.1.204 provides four distinct AI pathways to balance privac
 ## Getty Images Optimizer (Master ESP Tool)
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
 
-* **Interactive Getty Resolver:** A modern UI featuring interactive "chips" for visual term selection and immediate feedback.
-* **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extrahced from Qhero to ensure 100% valid submissions.
-* **Semantic Disambiguation (beta):** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on your photo's visual context.
-* **In-Place Editing:** Double-click to edit or split terms (e.g., 'cooked food' -> 'cooked, food') with automatic re-validation against the Master Dictionary.
-
----
-## 💎 Getty Images Optimizer (Master ESP Tool)
-Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
-
-* **Interactive Getty Resolver:** A modern UI featuring interactive "chips" for visual term selection and immediate feedback.
+* **Interactive Getty Resolver (Single & Batch Mode):** The resolver can be used for a single photograph or an entire batch of images simultaneously. To ensure maximum speed and precision, the interface provides a real-time preview of the photo being edited, allowing you to instantly verify the context of every term.
+* **Visual Context Highlighting:** The resolver intelligently highlights which photo thumbnails in your batch contain a specific term, enabling you to tag large collections with absolute accuracy and professional-grade speed.
 * **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from Qhero to ensure 100% valid submissions.
-* **Custom User Dictionary:** Easily save your own specialized terms or unique translations that are not present in the internal Master Dictionary. Once a term is saved to your personal dictionary, the application automatically recognizes and works with it in all future sessions, perfectly adapting to your specific workflow.
-* **Semantic Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on your photo's visual context.
-* **In-Place Editing:** Double-click to edit or split terms (e.g., 'cooked food' -> 'cooked, food') with automatic re-validation against both Master and User dictionaries.
+* **Custom User Dictionary:** Easily save your own specialized terms or unique translations that are not present in the internal Master Dictionary. Once a term is saved, the application automatically recognizes and applies it in all future sessions.
+* **Semantic Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
+* **In-Place Editing:** Double-click to edit or split terms directly in the table; the app then re-validates them against both Master and User dictionaries.
 
 ---
 ---
@@ -108,6 +100,6 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTc3ODEwOSwzNzQ2MjM5NzcsLTcyNT
-EzMTE5OV19
+eyJoaXN0b3J5IjpbNTk3MjQyMTgzLDM3NDYyMzk3NywtNzI1MT
+MxMTk5XX0=
 -->
