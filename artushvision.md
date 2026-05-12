@@ -203,6 +203,26 @@ Use these dynamic placeholders in your AI prompts to inject specific file contex
 
 
 
+## 🧠 Advanced AI Logic & Metadata Control
+
+ArtushVision AI goes beyond simple tagging by combining visual recognition with deep file logic. You have full control over how the AI interprets and preserves your data.
+
+### 🔬 Intelligent Recognition Features
+* **AI Visual Geolocation:** Even without GPS data, the AI identifies world landmarks and streets directly from pixels. You can toggle between **OpenStreetMap** and **ArcGIS** providers in Settings for the most accurate reverse geocoding.
+* **Text & OCR Recognition:** Automatically extract text from signs, notices, or handwritten notes within the image using the `{text_ocr}` variable—ideal for travel and editorial shots.
+* **Technical Hardware Analysis:** By injecting `{camera_model}` or `{exposure_info}`, the AI understands the photographic context (e.g., automatically adding "aerial view" for drones or "long exposure" for night shots).
+
+### 🛡️ Metadata Integrity & Logic
+* **Context-Aware Analysis:** Pass existing IPTC/XMP titles and keywords directly into the AI prompt. This allows the AI to "build upon" your existing work rather than starting from scratch.
+* **Smart Metadata Protection:** Protect your manual work. The application intelligently preserves existing keywords, ratings, and **People tags**, ensuring AI automation never overwrites your critical data.
+* **AI Diacritics Toggle:** Switch between strict **Microstock Compatibility** (diacritics disabled) and **Natural Language** (diacritics enabled). Turn this on for family albums or local archives where accents (é, š, č) are required.
+
+---
+
+> [!TIP]
+> **Pro Tip:** Use the **GPS Smart Parsing** feature to prevent "AI hallucinations." By feeding the AI verified neighborhoods and street names from your provider, the generated descriptions will be geographically precise.
+
+
 ---
 
 ## 5. Manual Editing & Detail View
@@ -238,7 +258,7 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjQzMzEzMSwtMTE5MTc5MzgzMSw3OT
+eyJoaXN0b3J5IjpbMTU4MzA2NTEzMywtMTE5MTc5MzgzMSw3OT
 MwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0
 NiwxODUyNjMxMDA1LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMj
 MwOTU4NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1
