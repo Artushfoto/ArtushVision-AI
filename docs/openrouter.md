@@ -31,7 +31,7 @@ Click on **Sign Up**. Use your professional email and choose a secure password. 
 </a>
 
 ### Step 3: Accessing the Keys Dashboard
-Once logged in, navigate to the **Keys** section in the menu and click the **Create Key** button.
+Once logged in, navigate to the **Keys** section in the menu and click the **Create API Key** button.
 
 **Click to Create API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/003.png" target="_blank">
@@ -108,6 +108,6 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODczOTMyOTYsLTE4MzAwODQzNTcsLT
-E3MTc3NjcwMDVdfQ==
+eyJoaXN0b3J5IjpbLTg3MDUwNTAxNCwtMTgzMDA4NDM1NywtMT
+cxNzc2NzAwNV19
 -->
