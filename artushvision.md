@@ -387,30 +387,6 @@ Click **Save Changes** in the bottom right of the main GUI to commit your work. 
 ---
 
 ## 6. Batch Operations
-Click the **List Icon** to toggle the **Batch Edit** panel, allowing you to modify hundreds of assets simultaneously.
-
-### Analysis & Resolution
-* **Bulk AI Processing:** Trigger the AI engine for all selected files using your active profile.
-* **Getty Images Resolver:** Batch-validate and resolve keywords against the Getty Master Dictionary for your entire selection.
-
-### Metadata & Content Editing
-* **Smart Add/Remove:** Append or prepend text to titles/descriptions, or batch-delete specific keywords and tags.
-* **Advanced Replace:** Use the `Old -> New` syntax for quick fixes or the powerful **Search & Replace** (`Ctrl+H`) dialog for complex string manipulations.
-
-### File & Workflow Management
-* **Smarter Rename:** Batch-rename files using dynamic patterns:
-    * `{TITLE}` – Use the asset title.
-    * `{DATE}` – Use the capture date.
-    * `{CC}` – Sequential counter for perfect ordering.
-    * `{FOLDER_NAME}` – Maintain directory context.
-* **File Operations:** Safely **Copy**, **Move**, or **Delete** selected files directly within the application workspace.
-* **Instant Distribution:** Initiate a **Multi-Server FTP Upload** for your entire selection, including automated CSV metadata generation.
-
-
-
-
-
-## 6. Batch Operations
 Efficiency is the core of ArtushVision AI. Toggle the **Batch Edit** panel using the **List Icon** in the filter bar to modify hundreds of assets simultaneously with surgical precision.
 
 ### Bulk Metadata Editing
@@ -423,11 +399,11 @@ Streamline your workflow by applying changes to your entire selection at once.
     * **Search & Replace (Ctrl+H):** Open the dedicated dialog for advanced string manipulations across your library.
 * **Field Cleanup:** Use **Delete Field** to clear specific metadata (e.g., just Titles) or **Clear All** to completely reset the metadata of selected files.
 
-### 🏷️ Analysis & Optimization
+### Analysis & Optimization
 * **Bulk AI Processing:** Trigger the AI engine for all selected files using your active profile (Stock, Editorial, etc.).
 * **Getty Images Resolver:** Batch-validate and resolve keywords against the Getty Master Dictionary for your entire selection to ensure 100% agency compatibility.
 
-### 🏗️ Dynamic Batch Renaming
+### Dynamic Batch Renaming
 The renaming engine is fully metadata-aware and synchronizes changes across media files, **XMP sidecars**, and **CSV backups**.
 * **Variable Patterns:** Create perfectly organized filenames using dynamic placeholders:
     * `{TITLE}` – Uses the asset's Title from metadata.
@@ -436,17 +412,11 @@ The renaming engine is fully metadata-aware and synchronizes changes across medi
     * `{FOLDER_NAME}` – Maintains the directory context in the filename.
 * **Sidecar Integrity:** The app ensures that associated XMP and backup files are renamed alongside the primary media to prevent data detachment.
 
-### 📦 Workflow & Distribution
+### Workflow & Distribution
 * **File Operations:** Perform full file management—**Copy, Move, or Delete (to Recycle Bin)**—directly within the workspace.
 * **Instant Distribution:** Initiate a **Multi-Server FTP Upload** for your entire selection. The app automatically handles concurrent uploads and generates necessary CSV metadata files for a "zero-touch" submission process.
 
-
-
-
-
-
-
-
+---
 
 ## 7. Settings & Configuration
 Tailor ArtushVision AI to your specific hardware capabilities and professional workflow requirements.
@@ -490,11 +460,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODI1OTMxMywxMTQwODc3Njk5LDkwND
-cyNjA4LDEwNTg4MDUyMTAsMTA2NjE5ODY1OCwtMTcyOTQ4OTA0
-Miw3MTQyOTkxOCwxMzgwNzMyMzA0LDIwMjM0OTY1NTQsMzAyNT
-IwODI4LC0xNjgwNzk2NSwtMTQ3ODc3MTA5MywtMTQ4MTU4NDUz
-NiwtNDAzMDYwOTQsLTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4Mz
-I5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUxNSwtMTE5MTc5Mzgz
-MV19
+eyJoaXN0b3J5IjpbMjU5Njk2ODI1LDExNDA4Nzc2OTksOTA0Nz
+I2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNzI5NDg5MDQy
+LDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1NCwzMDI1Mj
+A4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2
+LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMj
+kzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMx
+XX0=
 -->
