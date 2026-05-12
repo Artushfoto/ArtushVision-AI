@@ -37,8 +37,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 * **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from my 25 000 photos archive to ensure 100% valid submissions.
 * **Custom User Dictionary:** Easily save your own specialized terms or unique translations that are not present in the internal Master Dictionary. Once a term is saved, the application automatically recognizes and applies it in all future sessions.
 * **Semantic AI Disambiguation (beta):** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
-* **In-Place Editing:** Double-click to edit or split terms directly in the table; the app then re-validates them against both Master and User dictionaries.
-
+* **In-Place Editing & Term Splitting:** Double-click to edit or split **multi-word unknown terms** directly in the table. When you split a complex phrase by inserting a comma (e.g., changing 'cooked food' to 'cooked, food'), the application intelligently creates new individual entries, deduplicates them, and performs a fresh validation against both the Master and User dictionaries. This ensures that new terms start with a "clean slate" and are correctly matched against valid Getty-approved vocabulary.
 ---
 
 ## Global Distribution & Smart FTP
@@ -105,7 +104,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI1NDczNTQsLTEyMzA5NTg3NjQsMz
+eyJoaXN0b3J5IjpbLTEzNTk3Mjk1NDMsLTEyMzA5NTg3NjQsMz
 QwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIx
 ODMsMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
 -->
