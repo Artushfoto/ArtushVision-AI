@@ -288,7 +288,7 @@ Follow this proven workflow to achieve the best results when generating metadata
 
 ---
 
-## 4. Professional Advanced Tools
+## 4. Professional Advanced AI Tools
 
 ### Unlimited Customization with AI Profiles
 
@@ -337,9 +337,7 @@ Use these dynamic placeholders in your AI prompts to inject specific file contex
 > [!TIP]
 **Pro Tip:** To keep your AI instructions concise and minimize token usage, simply remove any variables from your prompt that you don't intend to use for a specific profile.
 
----
-
-## Advanced AI Logic & Metadata Control
+### Advanced AI Logic & Metadata Control
 
 ArtushVision AI goes beyond simple tagging by combining visual recognition with deep file logic. You have full control over how the AI interprets and preserves your data.
 
@@ -436,11 +434,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzYzMTY2NDIsMTA2NjE5ODY1OCwtMT
-cyOTQ4OTA0Miw3MTQyOTkxOCwxMzgwNzMyMzA0LDIwMjM0OTY1
-NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3ODc3MTA5MywtMT
-Q4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0LDE3MzQ5NzQ2
-MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUxNSwtMT
-E5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5
-NzVdfQ==
+eyJoaXN0b3J5IjpbOTEwMTYyNTk0LDEwNjYxOTg2NTgsLTE3Mj
+k0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMwNCwyMDIzNDk2NTU0
+LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEwOTMsLTE0OD
+E1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OTc0NjE4
+LDE0ODMyOTM3OTcsLTMxODU4NTU2Myw1ODc5MDY1MTUsLTExOT
+E3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2ODU2OTc1
+XX0=
 -->
