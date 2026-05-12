@@ -1,20 +1,3 @@
-<style>
-  .markdown-body table {
-    width: 100% !important;
-    display: table !important;
-    table-layout: fixed !important;
-    margin-bottom: 20px !important;
-  }
-
-  .markdown-body th, .markdown-body td {
-    word-wrap: break-word !important;
-  }
-</style>
-
-| První | Druhý |
-| :--- | :--- |
-| Text | Text |
-
 # ArtushVision AI 
 ### The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals
 ![Version](https://img.shields.io/badge/Version-v2026.1.204-007abb) 
@@ -280,9 +263,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NDU2ODg1LDE5Njg4Nzg0NDksLTY1Nj
-g1Njk3NSwtNzg1ODQ5OTQ2LDE4NTI2MzEwMDUsMTMwNTYwNDI5
-LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQzLDEyMz
-Y4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0NjIzOTc3
-LC03MjUxMzExOTldfQ==
+eyJoaXN0b3J5IjpbMTk2ODg3ODQ0OSwxOTY4ODc4NDQ5LC02NT
+Y4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMDU2MDQy
+OSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0MywxMj
+M2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3NDYyMzk3
+NywtNzI1MTMxMTk5XX0=
 -->
