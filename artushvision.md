@@ -192,7 +192,6 @@ Located directly below the top toolbar, this bar is your primary tool for organi
 * **Workspace Toggles:** Dedicated buttons to show or hide the **Rating Bar** and the **Batch Edit Bar**, allowing you to maximize your screen real estate.
 * **Deep Discovery:** Access specialized dialogs for complex, multi-criteria **Advanced Metadata filtering**.
 
-
 ### The Image Grid
 The central workspace where each cell represents a media file. It provides immediate visual feedback on the status and metadata of your assets.
 
@@ -214,7 +213,6 @@ The central workspace where each cell represents a media file. It provides immed
     * **AI & Optimization:** Trigger AI analysis for the selection or launch the **Getty Optimizer**.
     * **Workflow Management:** Copy/Paste metadata between files, manage FTP history, or move/delete assets.
     * **Curation:** Apply Flags, Ratings (1-5 stars), and Color Labels instantly.
-
 
 ###  File & Grid Management
 ArtushVision AI offers a dynamic and flexible workspace, allowing you to manage large archives with ease.
@@ -252,6 +250,10 @@ Use these dynamic placeholders to create perfectly organized file structures:
 > **Rename Pattern:** `{CC} - {TITLE} - {ORIG_DATE}`  
 > **Final Result:** `01 - Golden Sunset - 2026-04-14.jpg`
 ---
+
+
+
+
 
 ## 3. AI Analysis Workflow
 
@@ -410,11 +412,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0Njc3MzQsMzAyNTIwODI4LC0xNjgwNz
-k2NSwtMTQ3ODc3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQs
-LTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NT
-g1NTYzLDU4NzkwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwx
-OTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNj
-MxMDA1LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0
-XX0=
+eyJoaXN0b3J5IjpbMjAyMzQ5NjU1NCwzMDI1MjA4MjgsLTE2OD
+A3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5
+NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMT
+g1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5
+LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NT
+I2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3
+NjRdfQ==
 -->
