@@ -12,7 +12,7 @@
 > 
 >**Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query.
 
-Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.
+**Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.**
 ---
 
 ## Versatile AI Engine: Choose Your Workflow
@@ -35,7 +35,6 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 * **Semantic Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
 * **In-Place Editing:** Double-click to edit or split terms directly in the table; the app then re-validates them against both Master and User dictionaries.
 
----
 ---
 
 ## Global Distribution & Smart FTP
@@ -100,6 +99,6 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MjQyMTgzLDM3NDYyMzk3NywtNzI1MT
-MxMTk5XX0=
+eyJoaXN0b3J5IjpbLTIxMzIxNzcxMjIsNTk3MjQyMTgzLDM3ND
+YyMzk3NywtNzI1MTMxMTk5XX0=
 -->
