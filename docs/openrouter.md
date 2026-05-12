@@ -22,10 +22,10 @@ Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/)
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png"></td></tr></table>
 </a>
 
----
-
 **Registration:** Sign up using your email and a chosen password.  
 **Confirmation:** Check your inbox and confirm your email address.
+
+---
 
 **Click to Sign Up**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/002.png" target="_blank">
@@ -37,6 +37,8 @@ Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/)
 **Create Key:** Click "Create API Key" and set a name, e.g., ArtushVision AI.
 
 > ⚠️ **IMPORTANT:** Copy the generated key immediately and write it down somewhere safe. You will not be able to see it again.
+
+---
 
 **Click to Create API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/003.png" target="_blank">
@@ -81,6 +83,8 @@ Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/)
 
 > 💡 **TIP:** Gemini 2.0 Flash is an extremely efficient model for bulk captioning, even with long descriptions.
 
+---
+
 **Buy Credits on OpenRouter**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/008.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/008.png"></td></tr></table>
@@ -100,6 +104,5 @@ Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/)
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMzMTQ4MDgsLTE3MTc3NjcwMDVdfQ
-==
+eyJoaXN0b3J5IjpbLTYxMzk4MDM4LC0xNzE3NzY3MDA1XX0=
 -->
