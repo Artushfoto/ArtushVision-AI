@@ -4,10 +4,18 @@
 ![AI](https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31)
 
 **"Intelligent metadata automation for your Travel and Stock photography workflow with state-of-the-art Hybrid Vision AI."**
+*"Intelligent metadata automation for your Travel, Home, and **Stock photography** workflow with state-of-the-art Vision AI."*
 
+**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for **JPG, RAW, VIDEO, HEIC, TIFF, and PNG** assets, while providing robust tools for manual metadata management. Your data is always safe with automated backups and flexible export options to CSV and XMP sidecars, ensuring you never lose your progress or original file integrity.
+
+> **Exceptional Value:** Using our recommended model, **google/gemini-2.0-flash-001**, you can professionally describe approximately **100,000 to 150,000 photos for only $5** with perfect, high-quality results.
+> 
+>**Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query.
+
+Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.
 ---
 
-## 🤖 Versatile AI Engine: Choose Your Workflow
+## Versatile AI Engine: Choose Your Workflow
 ArtushVision AI v2026.1.204 provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **Cloud AI (Maximum Intelligence):** Uses state-of-the-art models like Gemini 2.0 Flash via OpenRouter for high-quality titles and descriptions. Process up to 150,000 photos for just $5 with ultra-low API costs.
@@ -66,3 +74,6 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MDg3NjAyMThdfQ==
+-->
