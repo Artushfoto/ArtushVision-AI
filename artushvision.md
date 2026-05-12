@@ -189,36 +189,24 @@ Use these dynamic placeholders in your AI prompts to inject specific file contex
 > [!TIP]
 **Pro Tip:** To keep your AI instructions concise and minimize token usage, simply remove any variables from your prompt that you don't intend to use for a specific profile.
 
-### AI & Smart Metadata
--   **GPS Provider Toggle:**  You can now choose your preferred reverse geocoding source in Settings (OpenStreetMap vs. ArcGIS). Features smart parsing for regions, streets, and neighborhoods to prevent AI hallucinations.
--   **AI Diacritics Toggle:**  Added an option to allow diacritics (accents/special characters) in AI outputs. While disabled by default for strict microstock compatibility, turning this on is perfect for local and family photo albums!
--   **Context-Aware AI:**  You can now pass existing IPTC/XMP data directly into the AI prompt using new variables. This allows the AI to build upon current titles, descriptions, or keywords already present in the file.
 
+---
 
-### Custom AI Profiles
-* **AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
-* **Text & OCR Recognition:** Extract text from signs using `{text_ocr}`.
-* **Technical EXIF Analysis:** Inject `{camera_model}` or `{exposure_info}` for tech tags.
-* **Smart Metadata Protection:** Preserves existing keywords and People tags.
-
-
-
-## 🧠 Advanced AI Logic & Metadata Control
+## Advanced AI Logic & Metadata Control
 
 ArtushVision AI goes beyond simple tagging by combining visual recognition with deep file logic. You have full control over how the AI interprets and preserves your data.
 
-### 🔬 Intelligent Recognition Features
+### Intelligent Recognition Features
 * **AI Visual Geolocation:** Even without GPS data, the AI identifies world landmarks and streets directly from pixels. You can toggle between **OpenStreetMap** and **ArcGIS** providers in Settings for the most accurate reverse geocoding.
 * **Text & OCR Recognition:** Automatically extract text from signs, notices, or handwritten notes within the image using the `{text_ocr}` variable—ideal for travel and editorial shots.
 * **Technical Hardware Analysis:** By injecting `{camera_model}` or `{exposure_info}`, the AI understands the photographic context (e.g., automatically adding "aerial view" for drones or "long exposure" for night shots).
 
-### 🛡️ Metadata Integrity & Logic
+### Metadata Integrity & Logic
 * **Context-Aware Analysis:** Pass existing IPTC/XMP titles and keywords directly into the AI prompt. This allows the AI to "build upon" your existing work rather than starting from scratch.
 * **Smart Metadata Protection:** Protect your manual work. The application intelligently preserves existing keywords, ratings, and **People tags**, ensuring AI automation never overwrites your critical data.
 * **AI Diacritics Toggle:** Switch between strict **Microstock Compatibility** (diacritics disabled) and **Natural Language** (diacritics enabled). Turn this on for family albums or local archives where accents (é, š, č) are required.
 
 ---
-
 > [!TIP]
 > **Pro Tip:** Use the **GPS Smart Parsing** feature to prevent "AI hallucinations." By feeding the AI verified neighborhoods and street names from your provider, the generated descriptions will be geographically precise.
 
@@ -258,9 +246,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzA2NTEzMywtMTE5MTc5MzgzMSw3OT
-MwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0
-NiwxODUyNjMxMDA1LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMj
-MwOTU4NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1
-MjAsNTk3MjQyMTgzLDM3NDYyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5Mz
+AyNTQ5LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2
+LDE4NTI2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMz
+A5NTg3NjQsMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUy
+MCw1OTcyNDIxODMsMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
 -->
