@@ -19,7 +19,7 @@
 >**Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query.
 ---
 
-**Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.**
+**Beyond AI automation, it offers a complete organization and distribution toolkit. Manage your library with **star ratings, pick/reject flags, and color-coded labels**, or use the professional **Getty Images Resolver** to batch-validate keywords against master dictionaries for 100% submission success. Distribute your work instantly via **Multi-Server Smart FTP** with automated **CSV metadata generation** for a "zero-touch" submission workflow. Fully compatible with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**, we use industry-standard IPTC/XMP metadata that works everywhere.**
 
 ---
 <div align="center">
@@ -329,11 +329,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLT
-QwMzA2MDk0LC00MDMwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3
-OTcsLTMxODU4NTU2Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNz
-kzMDI1NDksMTk2ODg3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5
-NDYsMTg1MjYzMTAwNSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMT
-IzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5
-NTIwXX0=
+eyJoaXN0b3J5IjpbLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xND
+gxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYx
+OCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1LC0xMT
+kxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDksLTY1Njg1Njk3
+NSwtNzg1ODQ5OTQ2LDE4NTI2MzEwMDUsMTMwNTYwNDI5LDEwNz
+Q4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQzLDEyMzY4MTEx
+NTJdfQ==
 -->
