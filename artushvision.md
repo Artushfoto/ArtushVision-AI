@@ -358,19 +358,6 @@ ArtushVision AI goes beyond simple tagging by combining visual recognition with 
 ---
 
 ## 5. Manual Editing & Detail View
-Double-click any image to enter the **Detail Photo View**.
-* **Text Fields:** Edit with real-time counters and spell check.
-* **Keyword Bubbles:** Drag and drop to reorder, Blue (AI), Green (Manual), Black (Original).
-*  **Ratings**
-*  **Categories** and other Metadata 
-* **Interactive Map:** Shows GPS location on map with zoom support.
-*  **Show Exif and open in external Viewer**
-* **Navigation:** Arrow keys move to the next/previous image.
-
-
-
-
-## 5. Manual Editing & Detail View
 Double-click any image to enter the **Detail Photo View**, a specialized environment designed for precise, individual file adjustments and final curation.
 
 ### The Editor
@@ -386,12 +373,12 @@ Manage your tags visually with an intuitive "bubble" system:
     * 🟢 **Green:** Manually added by the user.
     * ⚫ **Black/White:** Original keywords loaded from the file.
 
-### 🗺️ Inspection & Navigation
+### Inspection & Navigation
 * **Interactive Map:** View the exact GPS location of your shot on an integrated map with full zoom and satellite support.
 * **Technical Tools:** Access the comprehensive **EXIF Data** panel or open the asset in your preferred **External Viewer** with a single click.
 * **Fluid Navigation:** Use the on-screen arrow buttons or **keyboard arrow keys** to move to the next or previous image without closing the Detail View window.
 
-### 💾 Saving & Data Integrity
+### Saving & Data Integrity
 Click **Save Changes** in the bottom right of the main GUI to commit your work. ArtushVision AI supports a "safety-first" workflow with optional backups:
 * **XMP Sidecars:** Writes metadata to standard XMP files—the safest method for RAW and Video assets.
 * **CSV Export:** Automatically generates a spreadsheet containing all metadata for bulk agency uploads.
@@ -473,11 +460,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MT
-k4NjU4LC0xNzI5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQs
-MjAyMzQ5NjU1NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4Nz
-cxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQs
-MTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OT
-A2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDld
+eyJoaXN0b3J5IjpbLTc3NzE5MTEzMSw5MDQ3MjYwOCwxMDU4OD
+A1MjEwLDEwNjYxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgs
+MTM4MDczMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MD
+c5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0
+LC00MDMwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxOD
+U4NTU2Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDld
 fQ==
 -->
