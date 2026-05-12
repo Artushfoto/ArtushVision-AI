@@ -1,3 +1,5 @@
+--- layout: default title: ArtushVision AI - Documentation --- <style> /* Sjednocení všech tabulek na 100% šířky s pevnou strukturou */ .markdown-body table { width: 100% !important; display: table !important; table-layout: fixed !important; margin-bottom: 20px !important; } .markdown-body th, .markdown-body td { word-wrap: break-word !important; padding: 10px !important; vertical-align: top !important; } /* Specifické nastavení pro tabulku proměnných (Variable Reference) */ .variables-table th:nth-child(1), .variables-table td:nth-child(1) { width: 20%; } .variables-table th:nth-child(2), .variables-table td:nth-child(2) { width: 25%; } </style>
+
 # ArtushVision AI 
 ### The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals
 ![Version](https://img.shields.io/badge/Version-v2026.1.204-007abb) 
@@ -17,41 +19,7 @@
 **Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.**
 
 ---
-<div align="center" style="margin: 40px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  <table style="border: none; border-collapse: collapse; width: 100%; max-width: 800px;">
-    <tr style="border: none;">
-      <td style="border: none; width: 50%; padding: 10px;">
-        <a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI" style="text-decoration: none;">
-          <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: white; text-align: left; transition: transform 0.2s;">
-            <span style="font-size: 24px; float: left; margin-right: 15px;"></span>
-            <div style="font-size: 18px; font-weight: 600; color: #24292e;">Download Free Fully Functional Lite Version</div>
-            <div style="font-size: 14px; color: #586069; margin-top: 4px;">Test the full professional workflow now</div>
-          </div>
-        </a>
-      </td>
-      <td style="border: none; width: 50%; padding: 10px;">
-        <a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI" style="text-decoration: none;">
-          <div style="border-radius: 8px; padding: 20px; background: #0062ff; text-align: left; color: white;">
-            <span style="font-size: 24px; float: left; margin-right: 15px;"></span>
-            <div style="font-size: 18px; font-weight: 600;">Get Lifetime License for only $39.99</div>
-            <div style="font-size: 13px; opacity: 0.9; margin-top: 4px;">+ local VAT (calculated at checkout)</div>
-          </div>
-        </a>
-      </td>
-    </tr>
-  </table>
 
-  <div style="margin-top: 20px;">
-    <p style="font-weight: 600; color: #24292e; margin-bottom: 4px;">One-time payment • No monthly fees</p>
-    <p style="font-size: 14px; color: #586069; margin-top: 0;">Pay once, use forever. Securely processed by Polar & Stripe.</p>
-  </div>
-
-  <div style="margin-top: 15px;">
-    <a href="https://polar.sh" style="color: #0062ff; text-decoration: none; font-size: 14px;">
-      Already have a license? Manage or Deactivate your devices
-    </a>
-  </div>
-</div>
 
 ---
 ## Quick Navigation
@@ -344,11 +312,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NjI1NjY1LC00MDMwNjA5NCwtNDAzMD
-YwOTQsMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMs
-NTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nz
-g0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NTI2MzEwMDUs
-MTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMj
-g0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODNd
-fQ==
+eyJoaXN0b3J5IjpbLTE3OTY1ODczMjMsLTQwMzA2MDk0LC00MD
+MwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2
+Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2OD
+g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
+NSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzND
+AyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4
+M119
 -->
