@@ -33,10 +33,10 @@
 ---
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
-* 🛡️ **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
-* 💎 **Getty Optimizer:** 100% submission success with Master Dictionary validation.
-* 🚀 **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
-* 📂 **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
+*  **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
+*  **Getty Optimizer:** 100% submission success with Master Dictionary validation.
+*  **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
+*  **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
 
 ---
 
@@ -205,11 +205,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDk3MzcyOCwxMDczMTk0Mjc5LDE0Mz
-UwMjAwODAsLTIwNzQ2NTAzNjAsNTAwMTAxOTU1LC0xOTMwMjMz
-MzIwLDI1OTY5NjgyNSwxMTQwODc3Njk5LDkwNDcyNjA4LDEwNT
-g4MDUyMTAsMTA2NjE5ODY1OCwtMTcyOTQ4OTA0Miw3MTQyOTkx
-OCwxMzgwNzMyMzA0LDIwMjM0OTY1NTQsMzAyNTIwODI4LC0xNj
-gwNzk2NSwtMTQ3ODc3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYw
-OTRdfQ==
+eyJoaXN0b3J5IjpbMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNz
+MxOTQyNzksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5
+NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4Nzc2OTksOT
+A0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNzI5NDg5
+MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1NCwzMD
+I1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0
+NTM2XX0=
 -->
