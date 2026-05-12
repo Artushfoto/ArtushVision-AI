@@ -427,21 +427,6 @@ The renaming engine is fully metadata-aware and synchronizes changes across medi
 ## 7. Settings & Configuration
 Tailor ArtushVision AI to your specific hardware capabilities and professional workflow requirements.
 
-### Workspace & Grid Appearance
-* **Visual Layout:** Fully customize the main grid by adjusting **Thumbnail Height**, **Font Size**, and individual heights for **Title, Description, and Keyword** fields.
-* **Smart Grid Info:** Toggle visibility for filenames, technical file info, and **FTP Status Badges** directly on your thumbnails.
-* **Tag Visualization:** Choose between a classic text list or modern **Keyword Tags**, with an option to **Crop to Square** for a cleaner gallery look.
-
-### Language, AI & Translation
-* **AI Engine & Ollama Tuning:** Switch between **Cloud AI** (OpenRouter) and **Local AI**. For local workflows, you can precisely set the **Ollama Context (VRAM)** and API URL to match your GPU power.
-* **Linguistic Toolkit:** Enable **Multilingual Spell Check**, Autocomplete, and online suggestions for synonyms.
-* **Integrated Translator:** Use the built-in translator to automatically convert metadata into your **Target Translation Language**.
-* **AI Diacritics Toggle:** Allow special characters/accents in AI output for local/family projects, or keep it disabled for strict microstock compatibility.
-
-### Video & RAW Processing
-* **AI Video Context:** Define the **Number of video frames** extracted for analysis. Use **Economy Mode (Collage)** to save on API costs by combining frames into a single image.
-* **Metadata Handling:** Force the application to write metadata to **XMP sidecar files** for RAW assets and preserve the original **File Modification Time**.
-
 ### Validation & Limits
 * **Field Constraints:** Set mandatory **Min/Max lengths** for Titles and Descriptions, or **Keyword Counts** to meet specific agency requirements.
 * **Visual Error Feedback:** Enable **Limits Validation** and choose a custom **Error Color** to instantly highlight fields that violate your rules.
@@ -505,11 +490,11 @@ Finalize your distribution workflow with a powerful engine for mass-upload metad
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ2NTAzNjAsNTAwMTAxOTU1LC0xOT
-MwMjMzMzIwLDI1OTY5NjgyNSwxMTQwODc3Njk5LDkwNDcyNjA4
-LDEwNTg4MDUyMTAsMTA2NjE5ODY1OCwtMTcyOTQ4OTA0Miw3MT
-QyOTkxOCwxMzgwNzMyMzA0LDIwMjM0OTY1NTQsMzAyNTIwODI4
-LC0xNjgwNzk2NSwtMTQ3ODc3MTA5MywtMTQ4MTU4NDUzNiwtND
-AzMDYwOTQsLTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5
-N119
+eyJoaXN0b3J5IjpbLTgzMzkyMDc2LC0yMDc0NjUwMzYwLDUwMD
+EwMTk1NSwtMTkzMDIzMzMyMCwyNTk2OTY4MjUsMTE0MDg3NzY5
+OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLDEwNjYxOTg2NTgsLTE3Mj
+k0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMwNCwyMDIzNDk2NTU0
+LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEwOTMsLTE0OD
+E1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OTc0NjE4
+XX0=
 -->
