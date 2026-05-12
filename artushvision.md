@@ -121,8 +121,13 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ### Filter Bar
 * **Search:** Filter by text (All, Title, Description, Keywords, Filename).
 * **Folder Filtering:** Isolate specific folders with photo counts.
-* **Type Filter:** Show only RAW, JPG, Video, HEIF, TIFF, or PNG.
-* ** Advances filters: metadata, FTP upload history, Edit status ...
+* **File Type Filter:** Show only RAW, JPG, Video, HEIF, TIFF, or PNG.
+* **Advanced Productivity Filters:** Streamline your workspace with professional filters designed for high-volume archives.
+    * **Metadata Search:** Quickly locate files by searching through Titles, Descriptions, Keywords, or Filenames.
+    * **3-State FTP Filter:** Track your distribution progress with specialized filters for "Sent," "Not Sent," or "Ignore" status per individual server.
+    * **Smart Status Filtering:** Isolate files based on their current state, including Selected, Modified (unsaved), Done, or Validation Error.
+    * **File Type & Folder Isolation:** Filter your grid by format—supporting RAW, Video, HEIF, and TIFF—or isolate specific sub-folders with a single click.
+
 ---
 
 ## 3. AI Analysis Workflow
@@ -189,8 +194,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTE0NTEzOCwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbLTIwNTg3NzQzODksMTg1MjYzMTAwNSwxMz
+A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
+NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
+Q2MjM5NzcsLTcyNTEzMTE5OV19
 -->
