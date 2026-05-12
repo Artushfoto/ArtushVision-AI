@@ -23,7 +23,7 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 
 * **Cloud AI (Fast & Maximum Intelligence):** Uses state-of-the-art models like Gemini 2.0 Flash via OpenRouter for high-quality titles and descriptions. Process up to **150,000 photos for just $5 with ultra-low API costs.**
 * **Local AI (Local Vision and Text - Total Privacy):** Run everything on your hardware using Ollama. Your photos stay on your device, and analysis is completely free.
-* **Hybrid AI (Local Vision and Cloud text):** Phase 1 uses local analysis for detection, while Phase 2 utilizes cloud threading for professional SEO formatting. Includes parallel thread controls to maximize throughput during cloud-based text processing.
+* **Hybrid AI (Local Vision and Cloud text):** Phase 1 uses local visual analysis for detection, while Phase 2 utilizes cloud threading for professional text formatting. Includes parallel thread controls to maximize throughput during cloud-based text processing.
 * **2-Pass Local (Elite Offline Results):** A high-performance offline workflow that performs a deep visual scan followed by a secondary synthesis pass to achieve cloud-like results without internet dependencies.
 
 ---
@@ -103,6 +103,6 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0Nj
-IzOTc3LC03MjUxMzExOTldfQ==
+eyJoaXN0b3J5IjpbMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5Nz
+I0MjE4MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
 -->
