@@ -164,13 +164,6 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 ## Available Variables
 
 Use these dynamic placeholders in your AI prompts to inject specific file context, metadata, and technical details for more accurate and professional results.
-
-> [!TIP]
-> **Pro Tip:** To keep your AI instructions concise and minimize token usage, simply remove any variables from your prompt that you don't intend to use for a specific profile.
-
-
-One unified table for all dynamic placeholders. Use these in your AI prompts to inject precise context from your files.
-
 | Category | Variable | Description | Example Output |
 | :--- | :--- | :--- | :--- |
 | **User & File** | `{user_hint}` | Manual hint entered in the main window | `"Golden Retriever"` |
@@ -199,7 +192,7 @@ One unified table for all dynamic placeholders. Use these in your AI prompts to 
 | | `{allowed_categories}`| Categories from your Category Matrix | `"Nature, Wildlife"` |
 
 > [!TIP]
-> **Pro Tip:** To keep your AI instructions concise, only include variables that are relevant to your specific AI Profile. For example, use `{camera_model}` only for profiles where you want the AI to distinguish between drone and handheld shots.
+**Pro Tip:** To keep your AI instructions concise and minimize token usage, simply remove any variables from your prompt that you don't intend to use for a specific profile.
 
 ### Custom AI Profiles
 * **AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
@@ -244,9 +237,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEyNjczNDIsNzkzMDI1NDksMTk2OD
-g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
-NSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzND
-AyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4
-MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbMTEwODg3ODk4OSw3OTMwMjU0OSwxOTY4OD
+c4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1
+LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MD
+I4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgz
+LDM3NDYyMzk3NywtNzI1MTMxMTk5XX0=
 -->
