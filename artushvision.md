@@ -8,8 +8,7 @@
   <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
 </p>
 
-**"Intelligent metadata automation for your Travel and Stock photography workflow with state-of-the-art Hybrid Vision AI."**
-*"Intelligent metadata automation for your Travel, Home, and **Stock photography** workflow with state-of-the-art Vision AI."*
+*"Intelligent metadata automation for your **Travel, Home, and Stock photography** workflow with state-of-the-art Vision AI."*
 
 **ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via Cloud OpenRouter or local Ollama) to automatically generate keywords, titles, and descriptions for **JPG, RAW, VIDEO, HEIC, TIFF, and PNG** assets, while providing robust tools for manual metadata management. Your data is always safe with automated backups and flexible export options to CSV and XMP sidecars, ensuring you never lose your progress or original file integrity.
 
@@ -475,7 +474,7 @@ Finalize your distribution workflow with a powerful engine for mass-upload metad
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTk3NTQ2OSwtMjA3NDY1MDM2MCw1MD
+eyJoaXN0b3J5IjpbMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1MD
 AxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4Nzc2
 OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNz
 I5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1
