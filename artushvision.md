@@ -30,7 +30,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 * **Interactive Getty Resolver:** A modern UI featuring interactive "chips" for visual term selection and immediate feedback.
 * **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extrahced from Qhero to ensure 100% valid submissions.
-* **Semantic Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on your photo's visual context.
+* **Semantic Disambiguation (beta):** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on your photo's visual context.
 * **In-Place Editing:** Double-click to edit or split terms (e.g., 'cooked food' -> 'cooked, food') with automatic re-validation against the Master Dictionary.
 
 ---
@@ -97,6 +97,6 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDk2MDkxNywzNzQ2MjM5NzcsLTcyNT
+eyJoaXN0b3J5IjpbMjA4Mjg2MDc5MCwzNzQ2MjM5NzcsLTcyNT
 EzMTE5OV19
 -->
