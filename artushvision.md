@@ -1,13 +1,19 @@
 <style>
-  table {
+  .markdown-body table {
     width: 100% !important;
+    display: table !important;
     table-layout: fixed !important;
+    margin-bottom: 20px !important;
   }
-  /* Nastavení šířky prvního sloupce u všech tabulek */
-  th:first-child, td:first-child {
-    width: 30%;
+
+  .markdown-body th, .markdown-body td {
+    word-wrap: break-word !important;
   }
 </style>
+
+| První | Druhý |
+| :--- | :--- |
+| Text | Text |
 
 # ArtushVision AI 
 ### The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals
@@ -274,9 +280,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI4MzEzMzcsMTk2ODg3ODQ0OSwtNj
-U2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0
-MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMT
-IzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5
-NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbNjg4NDU2ODg1LDE5Njg4Nzg0NDksLTY1Nj
+g1Njk3NSwtNzg1ODQ5OTQ2LDE4NTI2MzEwMDUsMTMwNTYwNDI5
+LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQzLDEyMz
+Y4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0NjIzOTc3
+LC03MjUxMzExOTldfQ==
 -->
