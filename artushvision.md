@@ -165,58 +165,41 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 
 Use these dynamic placeholders in your AI prompts to inject specific file context, metadata, and technical details for more accurate and professional results.
 
-### User & File Context
-| Variable | Description | Example Output |
-| :--- | :--- | :--- |
-| `{user_hint}` | **Manual hint for AI entered in the main window**. | `"Golden Retriever"` |
-| `{folder_context}` | Name of the parent folder (useful for event context). | `"Wedding 2025"` |
-| `{filename}` | Original filename without extension. | `"IMG_4821"` |
-| `{date_info}` | Capture date (DD.MM.YYYY). | `"24.09.2025"` |
-| `{local_vision_text}` | Raw text description from local Ollama (Hybrid/Enhanced mode). | `"A photo of a forest..."` |
-
-### Existing Metadata (IPTC/XMP)
-| Variable | Description | Example Output |
-| :--- | :--- | :--- |
-| `{existing_keywords}` | Keywords already saved in the file. | `"nature, sunrise"` |
-| `{existing_title}` | Original Headline/Title. | `"Sunset over hills"` |
-| `{existing_description}` | Original Caption/Description. | `"Photo taken at..."` |
-| `{existing_rating}` | Star rating (1-5). | `"5"` |
-
-### Geolocation & AI Vision
-**1. Automatically generated from GPS coordinates:**
-| Variable | Description | Example Output |
-| :--- | :--- | :--- |
-| `{city}` / `{country}` | City and Country from live GPS coords. | `"Paris", "France"` |
-| `{loc_hint}` | Full address string from reverse geocoding. | `"Prague, Czechia"` |
-| `{gps_raw}` | Raw decimal coordinates. | `"50.08, 14.43"` |
-| `{maps_link}` | Direct link to Google Maps. | `https://maps.google.com/...` |
-| `{text_ocr}` | Text extracted visually from the image. | `"Route 66"` |
-
-**2. Loaded from existing IPTC/XMP Geodata:**
-| Variable | Description | Example Output |
-| :--- | :--- | :--- |
-| `{existing_location}` | Specific place names (e.g. Central Park). | `"Central Park"` |
-| `{existing_sublocation}` | Sub-location/Street level data. | `"West Side"` |
-| `{existing_city}` | City saved in file metadata. | `"New York"` |
-| `{existing_state}` | Region or State saved in file. | `"NY"` |
-| `{existing_country}` | Country and 2-letter code. | `"United States", "US"` |
-
-### Technical EXIF & Hardware
-These parameters help the AI identify photographic context (e.g., recognizing drone shots, long exposures, or studio lighting).
-
-| Variable | Description | Example Output |
-| :--- | :--- | :--- |
-| `{camera_model}` | Camera or Drone model (e.g. DJI Mavic 3). | `"Sony A7IV"` |
-| `{lens_hint}` | Detailed lens information from EXIF. | `"FE 24-70mm GM"` |
-| `{exposure_info}` | Shutter speed, Aperture, and ISO. | `"1/500s, f/2.8, ISO 100"` |
-| `{aspect_ratio}` | Image orientation (Landscape, Portrait, Panorama). | `"Landscape"` |
-| `{flash_used}` | Flash status (Yes/No). | `"No"` |
-| `{allowed_categories}` | List of categories from your Category Matrix. | `"Nature, Wildlife"` |
-
----
-
 > [!TIP]
 > **Pro Tip:** To keep your AI instructions concise and minimize token usage, simply remove any variables from your prompt that you don't intend to use for a specific profile.
+
+
+One unified table for all dynamic placeholders. Use these in your AI prompts to inject precise context from your files.
+
+| Category | Variable | Description | Example Output |
+| :--- | :--- | :--- | :--- |
+| **User & File** | `{user_hint}` | Manual hint entered in the main window | `"Golden Retriever"` |
+| | `{folder_context}` | Name of the parent folder (event context) | `"Wedding 2025"` |
+| | `{filename}` | Original filename without extension | `"IMG_4821"` |
+| | `{date_info}` | Capture date (DD.MM.YYYY) | `"24.09.2025"` |
+| | `{local_vision_text}` | Raw description from local Ollama | `"A photo of a forest..."` |
+| **Existing Metadata** | `{existing_keywords}` | Keywords already saved in the file | `"nature, sunrise"` |
+| | `{existing_title}` | Original Headline/Title | `"Sunset over hills"` |
+| | `{existing_description}`| Original Caption/Description | `"Photo taken at..."` |
+| | `{existing_rating}` | Star rating (1-5) | `"5"` |
+| **Live Geolocation** | `{city}` / `{country}` | City and Country from live GPS coords | `"Paris", "France"` |
+| | `{loc_hint}` | Full address string from reverse geocoding | `"Prague, Czechia"` |
+| | `{gps_raw}` | Raw decimal coordinates | `"50.08, 14.43"` |
+| | `{maps_link}` | Direct link to Google Maps | `http://maps.google.com/...` |
+| | `{text_ocr}` | Text extracted visually from the image | `"Route 66"` |
+| **Stored Geodata** | `{existing_location}` | Specific place names (IPTC/XMP) | `"Central Park"` |
+| | `{existing_city}` | City saved in file metadata | `"New York"` |
+| | `{existing_state}` | Region or State saved in file | `"NY"` |
+| | `{existing_country}` | Country and 2-letter code | `"United States", "US"` |
+| **Technical EXIF** | `{camera_model}` | Camera or Drone model | `"Sony A7IV"` |
+| | `{lens_hint}` | Detailed lens information | `"FE 24-70mm GM"` |
+| | `{exposure_info}` | Shutter speed, Aperture, and ISO | `"1/500s, f/2.8, ISO 100"` |
+| | `{aspect_ratio}` | Image orientation (Landscape/Portrait) | `"Landscape"` |
+| | `{flash_used}` | Flash status (Yes/No) | `"No"` |
+| | `{allowed_categories}`| Categories from your Category Matrix | `"Nature, Wildlife"` |
+
+> [!TIP]
+> **Pro Tip:** To keep your AI instructions concise, only include variables that are relevant to your specific AI Profile. For example, use `{camera_model}` only for profiles where you want the AI to distinguish between drone and handheld shots.
 
 ### Custom AI Profiles
 * **AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
@@ -261,9 +244,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2OD
-U2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0Mjks
-MTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNj
-gxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5Nzcs
-LTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbLTEzNzEyNjczNDIsNzkzMDI1NDksMTk2OD
+g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
+NSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzND
+AyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4
+MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
 -->
