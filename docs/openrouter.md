@@ -38,11 +38,13 @@ Confirmation: Check your inbox and confirm your email address.
 
 ---
 
-Registration: Sign up using your email and a chosen password.  
-Confirmation: Check your inbox and confirm your email address.  
-Create Key: Click "Create API Key" and set a name, e.g., ArtushVision AI.
+**Registration:** Sign up using your email and a chosen password.  
+**Confirmation:** Check your inbox and confirm your email address.  
+**Create Key:** Click "Create API Key" and set a name, e.g., ArtushVision AI.
 
+---
 > ⚠️ **IMPORTANT:** Copy the generated key immediately and write it down somewhere safe. You will not be able to see it again.
+---
 
 **Click to Create API Key**
 
@@ -101,5 +103,5 @@ Create Key: Click "Create API Key" and set a name, e.g., ArtushVision AI.
   Last updated: March 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTc3NDM4NywtMTcxNzc2NzAwNV19
+eyJoaXN0b3J5IjpbMjIwNTUyNDM5LC0xNzE3NzY3MDA1XX0=
 -->
