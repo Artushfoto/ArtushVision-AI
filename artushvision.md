@@ -304,7 +304,7 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 > **Smart Metadata Protection**
 > Your manual work is untouchable. ArtushVision AI is designed with a "safety-first" logic—it intelligently preserves all existing keywords and **Face Recognition (People tags)**. Instead of overwriting your progress, the AI acts as a creative partner, appending new visual insights without disturbing the organization you've already built.
 
-### Available Variables
+### Master Variable Reference for AI Context & Recognition
 
 Use these dynamic placeholders in your AI prompts to inject specific file context, metadata, and technical details for more accurate and professional results.
 | Category | Variable | Description | Example Output |
@@ -434,11 +434,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMTYyNTk0LDEwNjYxOTg2NTgsLTE3Mj
-k0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMwNCwyMDIzNDk2NTU0
-LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEwOTMsLTE0OD
-E1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OTc0NjE4
-LDE0ODMyOTM3OTcsLTMxODU4NTU2Myw1ODc5MDY1MTUsLTExOT
-E3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2ODU2OTc1
-XX0=
+eyJoaXN0b3J5IjpbMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNz
+I5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1
+NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xND
+gxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYx
+OCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1LC0xMT
+kxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDksLTY1Njg1Njk3
+NV19
 -->
