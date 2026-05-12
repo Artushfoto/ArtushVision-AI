@@ -142,11 +142,16 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 
 ## 4. Professional Advanced Tools
-### 🧠 Custom AI Profiles
-* **🌍 AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
-* **📝 Text & OCR Recognition:** Extract text from signs using `{text_ocr}`.
-* **📸 Technical EXIF Analysis:** Inject `{camera_model}` or `{exposure_info}` for tech tags.
-* **🛡️ Metadata Protection:** Preserves existing keywords and People tags.
+
+### Unlimited Customization with AI Profiles
+
+Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables**, you feed the AI technical and contextual data hidden in your files, allowing it to "understand" your photos far beyond just pixels.
+
+### Custom AI Profiles
+* **AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
+* **Text & OCR Recognition:** Extract text from signs using `{text_ocr}`.
+* **Technical EXIF Analysis:** Inject `{camera_model}` or `{exposure_info}` for tech tags.
+* **Metadata Protection:** Preserves existing keywords and People tags.
 
 ### Available Variables for AI Prompts
 | Variable | Description |
@@ -195,7 +200,7 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTY3MzQ2NCwxODUyNjMxMDA1LDEzMD
+eyJoaXN0b3J5IjpbLTI0ODg0NzU3NCwxODUyNjMxMDA1LDEzMD
 U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
 MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
 YyMzk3NywtNzI1MTMxMTk5XX0=
