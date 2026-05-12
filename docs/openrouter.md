@@ -17,35 +17,42 @@ Follow these steps to create your account and generate your secure API key.
 
 Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/).
 
-**OpenRouter Homepage**
-![OpenRouter Homepage](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/001.png?raw=true)
+**OpenRouter Homepage** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" width="50%">
+</a>
 
-Registration: Sign up using your email and a chosen password.
+Registration: Sign up using your email and a chosen password.  
 Confirmation: Check your inbox and confirm your email address.
 
-**Click to Sign Up**
-![Click to Sign Up](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/002.png?raw=true)
+**Click to Sign Up** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/002.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/002.png" width="50%">
+</a>
 
-Registration: Sign up using your email and a chosen password.
-Confirmation: Check your inbox and confirm your email address.
+Registration: Sign up using your email and a chosen password.  
+Confirmation: Check your inbox and confirm your email address.  
 Create Key: Click "Create API Key" and set a name, e.g., ArtushVision AI.
 
 > ⚠️ **IMPORTANT:** Copy the generated key immediately and write it down somewhere safe. You will not be able to see it again.
 
-**Click to Create API Key**
-![Click to Create API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/003.png?raw=true)
+**Click to Create API Key** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/003.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/003.png" width="50%">
+</a>
 
-**Create Your free API Key**
-![Create Your free API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/004.png?raw=true)
+**Create Your free API Key** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png" width="50%">
+</a>
 
-**Use Any Name For Your API Key.**
-![Use Any Name For Your API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/005.png?raw=true)
+**Use Any Name For Your API Key.** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/005.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/005.png" width="50%">
+</a>
 
-**IMPORTANT - Save Your API key**
-![IMPORTANT - Save Your API key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/006.png?raw=true)
+**IMPORTANT - Save Your API key** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/006.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/006.png" width="50%">
+</a>
 
-**Your API Key**
-![Your API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/007.png?raw=true)
+**Your API Key** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/007.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/007.png" width="50%">
+</a>
 
 ---
 
@@ -57,13 +64,17 @@ Create Key: Click "Create API Key" and set a name, e.g., ArtushVision AI.
 
 > 💡 **TIP:** Gemini 2.0 Flash is an extremely efficient model for bulk captioning, even with long descriptions.
 
-**Buy Credits on OpenRouter**
-![Buy Credits on OpenRouter](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/008.png?raw=true)
+**Buy Credits on OpenRouter** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/008.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/008.png" width="50%">
+</a>
 
-**Minimum Price is 5 USD+VAT**
-![Minimum Price is 5 USD+VAT](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/009.png?raw=true)
+**Minimum Price is 5 USD+VAT** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/009.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/009.png" width="50%">
+</a>
 
 ---
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNzA4NDM1N119
--->
+
+<p align="center">
+  <b>ArtushVision AI Documentation</b><br>
+  Last updated: March 2026
+</p>
