@@ -83,21 +83,8 @@ Built for high-volume photography management and seamless integration.
 
 ---
 
-## 💰 Desktop Power vs. Cloud Services
-Stop paying for empty subscriptions. Own your tools and pay only for the AI you use.
-
-| Feature | Generic Online Tools | ArtushVision AI (Desktop) |
-| :--- | :--- | :--- |
-| **Cost per 10k Photos** | Expensive Credits ($$$) | ~$0.50 (via Gemini API) |
-| **Media Privacy** | Mandatory Cloud Upload | Files stay on your device |
-| **RAW & Video Support**| Limited (Mostly JPG) | Full Native Support |
-| **License Model** | Recurring Subscription | Perpetual Lifetime License ($39.99) |
-
----
-
-
 ## "ArtushVision AI" Desktop Application vs. Cloud Services
-**Why a dedicated local workstation beats generic cloud uploaders every time.**
+Stop paying for empty subscriptions. Own your tools and pay only for the AI you use.
 
 | Feature | Typical Online AI Tools | ArtushVision AI (Desktop Application) |
 | :--- | :--- | :--- |
@@ -117,7 +104,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDczMDkzNSwxMDc0ODA0ODQ5LC0xMj
-MwOTU4NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1
-MjAsNTk3MjQyMTgzLDM3NDYyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMz
+A5NTg3NjQsMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUy
+MCw1OTcyNDIxODMsMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
 -->
