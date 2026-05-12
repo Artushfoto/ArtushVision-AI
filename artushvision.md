@@ -26,6 +26,9 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 * **Hybrid AI (Local Vision and Cloud text):** Phase 1 uses local visual analysis for detection, while Phase 2 utilizes cloud threading for professional text formatting. Includes parallel thread controls to maximize throughput during cloud-based text processing.
 * **2-Pass Local (Elite Offline Results):** A high-performance offline workflow that performs a deep visual scan followed by a secondary synthesis pass to achieve cloud-like results without internet dependencies.
 
+* **2-Pass Local (Elite Offline Results):** A high-performance offline workflow that performs a deep visual scan followed by a secondary synthesis pass to achieve cloud-like results without internet dependencies. This mode utilizes a **powerful dedicated vision model** for precise image analysis and a **high-performance text model** for professional metadata generation. 
+    * <span style="color: #ed7d31;">**Hardware Flexibility:**</span> While top-tier vision and text models require a high-performance machine, you have the flexibility to choose **smaller, optimized models** for less powerful computers, ensuring great results across various hardware setups.
+
 ---
 ## Getty Images Optimizer (Master ESP Tool)
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
@@ -103,6 +106,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5Nz
-I0MjE4MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMD
+g1OTUyMCw1OTcyNDIxODMsMzc0NjIzOTc3LC03MjUxMzExOTld
+fQ==
 -->
