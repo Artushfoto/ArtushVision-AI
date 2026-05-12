@@ -147,6 +147,9 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 
 Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables**, you feed the AI technical and contextual data hidden in your files, allowing it to "understand" your photos far beyond just pixels.
 
+
+
+
 ### Custom AI Profiles
 * **AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
 * **Text & OCR Recognition:** Extract text from signs using `{text_ocr}`.
@@ -200,8 +203,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODg0NzU3NCwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbMzIxNjEyMTQ4LDE4NTI2MzEwMDUsMTMwNT
+YwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQz
+LDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0Nj
+IzOTc3LC03MjUxMzExOTldfQ==
 -->
