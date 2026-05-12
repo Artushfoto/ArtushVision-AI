@@ -260,6 +260,11 @@ Follow this proven workflow to achieve the best results when generating metadata
    * **Local AI** (100% privacy via Ollama).
    * **Hybrid AI** (Local vision analysis + Cloud OpenRouter text formatting).
    * **2-Pass Local** (Deep offline synthesis for elite results).
+		The **2-Pass Local** mode is the flagship offline workflow of ArtushVision AI. It is designed to deliver cloud-level metadata quality while running entirely on your local hardware via Ollama, ensuring 100% privacy and zero per-image costs.
+
+		* **Pass 1: Deep Visual Analysis:** The application first utilizes a powerful dedicated **Vision Model** to perform an exhaustive scan of the image. It identifies subjects, textures, colors, lighting conditions, and specific details that smaller models might miss.
+		* **Pass 2: Professional Metadata Synthesis:** In the second pass, the raw visual data is handed over to a high-performance **Text Model**. This model synthesizes the visual findings into professional-grade titles, SEO-optimized descriptions, and relevant keywords, following the specific logic of your chosen profile (e.g., Stock or Editorial).
+
 2. **Load Assets:** Click the **Load Folders** (or **Add Folder**) button in the bottom-right corner and select your directory. The app will instantly scan the folder and display all supported image and video formats.
 3. **Select Files:** Highlight the assets you wish to analyze:
    * `Shift + Click` to select a range of images.
@@ -269,17 +274,6 @@ Follow this proven workflow to achieve the best results when generating metadata
    * **Progress Tracking:** Monitor the analysis in real-time via the progress dialog. You can stop the process at any time if needed.
    * **Real-time Cost Statistics:** For cloud-based modes, the app displays the exact cost of each query immediately after analysis with **6-decimal precision**, keeping your budget fully transparent.
 
-### 🔄 2-Pass Local AI (Deep Offline Synthesis)
-The **2-Pass Local** mode is the flagship offline workflow of ArtushVision AI. It is designed to deliver cloud-level metadata quality while running entirely on your local hardware via Ollama, ensuring 100% privacy and zero per-image costs.
-
-* **Pass 1: Deep Visual Analysis:** The application first utilizes a powerful dedicated **Vision Model** to perform an exhaustive scan of the image. It identifies subjects, textures, colors, lighting conditions, and specific details that smaller models might miss.
-* **Pass 2: Professional Metadata Synthesis:** In the second pass, the raw visual data is handed over to a high-performance **Text Model**. This model synthesizes the visual findings into professional-grade titles, SEO-optimized descriptions, and relevant keywords, following the specific logic of your chosen profile (e.g., Stock or Editorial).
-
-
-* **Elite Results Offline:** By separating visual recognition from text generation, this mode achieves a level of descriptive depth and linguistic accuracy that surpasses standard single-pass local models, rivaling the performance of top-tier cloud engines.
-* **Hardware & Model Flexibility:** * **High-Performance Machines:** Users with powerful GPUs can pair elite vision models with large language models for maximum precision.
-    * **Balanced Hardware:** You have the flexibility to choose **optimized, smaller models** to ensure a smooth and efficient workflow even on mid-range systems.
-* **Total Privacy & Zero Cost:** Since all processing happens locally, your high-resolution assets never leave your computer, and you can analyze hundreds of thousands of photos without ever receiving an API bill.
 
 
 
@@ -443,7 +437,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTU3OTc0OSwxMzgwNzMyMzA0LDIwMj
+eyJoaXN0b3J5IjpbLTcyNDU3NjAzMCwxMzgwNzMyMzA0LDIwMj
 M0OTY1NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3ODc3MTA5
 MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0LDE3Mz
 Q5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUx
