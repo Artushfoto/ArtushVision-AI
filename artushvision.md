@@ -251,14 +251,14 @@ Use these dynamic placeholders to create perfectly organized file structures:
 > **Final Result:** `01 - Golden Sunset - 2026-04-14.jpg`
 ---
 
-## 🚀 3. AI Analysis Workflow
+##  3. AI Analysis Workflow
 
 Follow this proven workflow to achieve the best results when generating metadata automatically.
 
 1. **AI Engine Selection:** Before starting, ensure your preferred processing engine is selected in the settings:
    * **Cloud AI** (Maximum intelligence via OpenRouter).
    * **Local AI** (100% privacy via Ollama).
-   * **Hybrid AI** (Local vision analysis + Cloud text formatting).
+   * **Hybrid AI** (Local vision analysis + Cloud OpenRouter text formatting).
    * **2-Pass Local** (Deep offline synthesis for elite results).
 2. **Load Assets:** Click the **Load Folders** (or **Add Folder**) button in the bottom-right corner and select your directory. The app will instantly scan the folder and display all supported image and video formats.
 3. **Select Files:** Highlight the assets you wish to analyze:
@@ -433,7 +433,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDU0NzkxOCwxMzgwNzMyMzA0LDIwMj
+eyJoaXN0b3J5IjpbMTk4MDE2NjE0OCwxMzgwNzMyMzA0LDIwMj
 M0OTY1NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3ODc3MTA5
 MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0LDE3Mz
 Q5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUx
