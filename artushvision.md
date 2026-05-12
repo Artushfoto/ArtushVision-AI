@@ -255,6 +255,11 @@ Use these dynamic placeholders to create perfectly organized file structures:
 
 
 
+
+
+
+
+
 ## 3. AI Analysis Workflow
 
 1.  **AI Mode Selection:** Navigate to the settings to choose your processing engine: **Cloud AI**, **Local AI** (via Ollama), **Hybrid AI**, or the high-precision **2-Pass Local AI**.
@@ -412,11 +417,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzQ5NjU1NCwzMDI1MjA4MjgsLTE2OD
-A3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5
-NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMT
-g1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5
-LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NT
-I2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3
-NjRdfQ==
+eyJoaXN0b3J5IjpbMTM4MDczMjMwNCwyMDIzNDk2NTU0LDMwMj
+UyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1
+MzYsLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OTc0NjE4LDE0OD
+MyOTM3OTcsLTMxODU4NTU2Myw1ODc5MDY1MTUsLTExOTE3OTM4
+MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2ODU2OTc1LC03OD
+U4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0MjksMTA3NDgwNDg0
+OV19
 -->
