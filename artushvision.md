@@ -2,9 +2,8 @@
 
 
 # <center>ArtushVision AI</center>
-### The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals
-![Version](https://img.shields.io/badge/Version-v2026.1.204-007abb) 
-![AI](https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31)
+### <center>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</center>
+<center> ![Version](https://img.shields.io/badge/Version-v2026.1.204-007abb) ![AI](https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31)</center>
 
 **"Intelligent metadata automation for your Travel and Stock photography workflow with state-of-the-art Hybrid Vision AI."**
 *"Intelligent metadata automation for your Travel, Home, and **Stock photography** workflow with state-of-the-art Vision AI."*
@@ -327,11 +326,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDg2MjMyNCwtMTQ4MTU4NDUzNiwtND
-AzMDYwOTQsLTQwMzA2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5
-NywtMzE4NTg1NTYzLDU4NzkwNjUxNSwtMTE5MTc5MzgzMSw3OT
-MwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0
-NiwxODUyNjMxMDA1LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMj
-MwOTU4NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTczNzQ5MDg0LC0xNDgxNTg0NTM2LC00MD
+MwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMjkzNzk3
+LC0zMTg1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5Mz
+AyNTQ5LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2
+LDE4NTI2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMz
+A5NTg3NjQsMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUy
+MF19
 -->
