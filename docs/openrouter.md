@@ -47,7 +47,7 @@ Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/)
 
 ---
 
-**Create Your free API Key**
+**Click to Create**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png"></td></tr></table>
 </a>
@@ -104,5 +104,6 @@ Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/)
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzk4MDM4LC0xNzE3NzY3MDA1XX0=
+eyJoaXN0b3J5IjpbLTE4MzAwODQzNTcsLTE3MTc3NjcwMDVdfQ
+==
 -->
