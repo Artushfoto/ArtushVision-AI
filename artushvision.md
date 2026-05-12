@@ -107,7 +107,7 @@ Own your tools and pay only for the AI you use.
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
-* **[Ollama](https://ollama.com/):** Required for Local AI analysis.
+* **[Ollama](https://ollama.com):** Required for Local AI analysis.
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
@@ -116,7 +116,7 @@ Own your tools and pay only for the AI you use.
    > [!IMPORTANT]
    > **Trial Limits (per session):** 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads.
    > 
-3. **AI Configuration:** Enter your [OpenRouter API Key](https://openrouter.ai) for Cloud or ensure Ollama is running for Local.
+3. **AI Configuration:** Enter your [OpenRouter API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter.md) for Cloud or ensure Ollama is running for Local.
 
 ---
 
@@ -205,11 +205,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNz
-MxOTQyNzksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5
-NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4Nzc2OTksOT
-A0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNzI5NDg5
-MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1NCwzMD
-I1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0
-NTM2XX0=
+eyJoaXN0b3J5IjpbMjEzNjkzOTQzNiwxMDM2ODE0ODI2LDE2OT
+A5NzM3MjgsMTA3MzE5NDI3OSwxNDM1MDIwMDgwLC0yMDc0NjUw
+MzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMCwyNTk2OTY4MjUsMT
+E0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLDEwNjYxOTg2
+NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMwNCwyMD
+IzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEw
+OTNdfQ==
 -->
