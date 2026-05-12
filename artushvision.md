@@ -216,7 +216,43 @@ The central workspace where each cell represents a media file. It provides immed
     * **Curation:** Apply Flags, Ratings (1-5 stars), and Color Labels instantly.
 
 
+## 📂 File & Grid Management
+ArtushVision AI offers a dynamic and flexible workspace, allowing you to manage large archives with ease.
 
+* **Smart Folder Appending:** Use the **"Add Folder"** button to append new directories to your current grid without clearing your existing work.
+* **Manual Refresh:** Instantly rescan your active folders for newly added or deleted assets with a single click.
+* **Quick Workspace Cleanup:** Remove entire directories from your view using the **'Close folder'** (x) button located directly on the grid's folder separators.
+* **Full File Operations:** Perform professional file management directly from the right-click context menu:
+    * **Copy, Move, and Delete (to Recycle Bin).**
+    * **Sidecar Synchronization:** The app automatically handles all associated files (**XMP sidecars, _original backups**) during any move or rename operation, ensuring your metadata is never detached.
+
+---
+
+## 🚀 Powerful Batch Operations
+Modify thousands of files at once with a robust engine designed for mass-scale metadata synchronization.
+
+### 🔄 Smarter Batch Rename
+The renaming engine is now fully metadata-aware. It ensures that any name change is instantly reflected across:
+1. The primary media file.
+2. The associated **XMP sidecar**.
+3. Any existing **CSV backup** entries.
+
+### 🏗️ Batch Rename Variables
+Use these dynamic placeholders to create perfectly organized file structures:
+
+| Variable | Description | Example / Result |
+| :--- | :--- | :--- |
+| `{C}` / `{CC}` | Dynamic counter (starts from 1 or 01) | `01, 02...` |
+| `{CCC-5}` | Counter with specific start point | `005, 006...` |
+| `{TITLE}` | Uses the asset's Title from metadata | `"Golden Sunset"` |
+| `{DATE}` | Today's current date | `2026-05-12` |
+| `{ORIG_DATE}` | Original capture date from EXIF | `2026-04-14` |
+| `{FOLDER_NAME}` | Name of the parent directory | `"Madagascar_2026"` |
+| `{ORIG_FILENAME}`| The original name before any changes | `"IMG_4821"` |
+
+> [!EXAMPLE]
+> **Rename Pattern:** `{CC} - {TITLE} - {ORIG_DATE}`  
+> **Final Result:** `01 - Golden Sunset - 2026-04-14.jpg`
 ---
 
 ## 3. AI Analysis Workflow
@@ -376,11 +412,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMDA0MDQ5LDMwMjUyMDgyOCwtMTY4MD
-c5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0
-LC00MDMwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxOD
-U4NTU2Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDks
-MTk2ODg3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1Mj
-YzMTAwNSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2
-NF19
+eyJoaXN0b3J5IjpbMTkxMjg1OTQzMiwzMDI1MjA4MjgsLTE2OD
+A3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5
+NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMT
+g1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5
+LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NT
+I2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3
+NjRdfQ==
 -->
