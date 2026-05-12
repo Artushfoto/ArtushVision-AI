@@ -119,10 +119,10 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 * **Flat View:** Toggle to see all files from subfolders in a single list.
 
 ### Filter Bar
-* **Search:** Filter by text (Title, Description, Keywords, Filename).
+* **Search:** Filter by text (All, Title, Description, Keywords, Filename).
 * **Folder Filtering:** Isolate specific folders with photo counts.
 * **Type Filter:** Show only RAW, JPG, Video, HEIF, TIFF, or PNG.
-
+* ** Advances filters: metadata, FTP upload history, Edit status ...
 ---
 
 ## 3. AI Analysis Workflow
@@ -189,8 +189,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTcyMTQwMzcsMTg1MjYzMTAwNSwxMz
-A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
-NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
-Q2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbNTU1MzMyNDU4LDE4NTI2MzEwMDUsMTMwNT
+YwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQz
+LDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0Nj
+IzOTc3LC03MjUxMzExOTldfQ==
 -->
