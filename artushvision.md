@@ -112,10 +112,10 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 
 ## 2. Interface Overview
 ### Top Toolbar
-* **Profile:** Select AI prompts (Stock, Travel, Family, etc.).
-* **Run AI:** Green play button starts analysis for selected images.
+* **Profile:** Select AI prompts (Editorial, Stock, Wildlife, Family, etc.).
+* **Run AI:** Play button starts analysis for selected images.
 * **Absolute Priority AI Hint:** User hints (Latin names/locations) are treated as unquestionable facts.
-* **Speed:** Parallel threads (1-20). Higher is faster but uses more CPU.
+* **Speed:** Cloud AI Parallel threads (1-20). Higher is faster but uses more CPU.
 * **Flat View:** Toggle to see all files from subfolders in a single list.
 
 ### Filter Bar
@@ -189,8 +189,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjUyMjAzMiwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbLTEwOTcyMTQwMzcsMTg1MjYzMTAwNSwxMz
+A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
+NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
+Q2MjM5NzcsLTcyNTEzMTE5OV19
 -->
