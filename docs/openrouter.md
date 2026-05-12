@@ -1,101 +1,105 @@
-# OpenRouter API Key Setup Guide for Beginners
-Step-by-step guide to register and generate your secure API key.
+# OpenRouter API Key Setup Guide
 
-1. **Go to the Website:** Navigate to the [OpenRouter platform](https://openrouter.ai/).
-2. **Create Your Account:** Sign up using your email address and a chosen password.
-3. **Confirm Your Email:** Check your inbox and confirm your email address as instructed in the confirmation email.
-4. **Create the API Key:** Navigate to the API key section and click "Create". Set a name, for example: ArtushVision AI.
-
-> ⚠️ **IMPORTANT:** Please copy the generated key immediately and write it down somewhere safe. You will not be able to see this key again after this step.
-
-Once these steps are complete, you have the API key ready for ArtushVision AI.
+Step-by-step guide to register, generate, and secure your API key for ArtushVision AI.
 
 ---
 
-## 01. How to Get Your OpenRouter API Key
-Follow these steps to create your account and generate your secure API key.
+## Quick Start Summary
+1. **Visit:** [OpenRouter.ai](https://openrouter.ai/)
+2. **Register:** Create an account via email.
+3. **Verify:** Confirm your email address.
+4. **Generate:** Create a new API key, name it, and **save it safely**.
 
-Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/).
+---
+
+## 01. Detailed Visual Walkthrough
+
+### Step 1: Visit the Platform
+Navigate to the [OpenRouter platform](https://openrouter.ai/). This is the unified interface for state-of-the-art AI models.
 
 **OpenRouter Homepage**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png"></td></tr></table>
 </a>
 
-**Registration:** Sign up using your email and a chosen password.  
-**Confirmation:** Check your inbox and confirm your email address.
-
----
+### Step 2: Registration
+Click on **Sign Up**. Use your professional email and choose a secure password. Don't forget to check your inbox and click the **confirmation link**.
 
 **Click to Sign Up**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/002.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/002.png"></td></tr></table>
 </a>
 
-**Registration:** Sign up using your email and a chosen password.  
-**Confirmation:** Check your inbox and confirm your email address.  
-**Create Key:** Click "Create API Key" and set a name, e.g., ArtushVision AI.
-
-> ⚠️ **IMPORTANT:** Copy the generated key immediately and write it down somewhere safe. You will not be able to see it again.
-
----
+### Step 3: Accessing the Keys Dashboard
+Once logged in, navigate to the **Keys** section in the menu and click the **Create Key** button.
 
 **Click to Create API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/003.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/003.png"></td></tr></table>
 </a>
 
----
+### Step 4: Name and Create Your Key
+A dialog will appear. Click **Create** to proceed with generating your access token.
 
-**Click to Create**
+**Initial Create Dialog**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png"></td></tr></table>
 </a>
 
----
+Give your key a recognizable name, for example: `ArtushVision AI`.
 
-**Use Any Name For Your API Key.**
+**Naming Your API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/005.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/005.png"></td></tr></table>
 </a>
 
----
+### Step 5: Secure Your Key (Critical)
+> [!IMPORTANT]
+> **Copy the generated key immediately!** For security reasons, OpenRouter will only show you this code **once**. Store it in a password manager or a secure offline file.
 
-**IMPORTANT - Save Your API key**
+**IMPORTANT - Your Secret API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/006.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/006.png"></td></tr></table>
 </a>
 
----
+After saving, you will see your active key in the dashboard list.
 
-**Your API Key**
+**Final Dashboard View**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/007.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/007.png"></td></tr></table>
 </a>
 
 ---
 
-## 02. Using Models (Free vs. Paid)
+## 02. Usage & Credits (Free vs. Paid)
 
-* **Free Models:** Explore 25+ models with a limit of 50 requests per day („It works intermittently.“).
-* **Paid Usage:** Purchasing credits (e.g., 5 USD) is recommended for bulk work. With 5 USD, you can describe up to 100,000 - 150,000 photos.
-* Recommended model: **google/gemini-2.0-flash-001**.
+To use ArtushVision AI effectively for large batches of photos, it is highly recommended to add a small amount of credit to your account.
 
-> 💡 **TIP:** Gemini 2.0 Flash is an extremely efficient model for bulk captioning, even with long descriptions.
+* **Free Models:** Good for testing, but limited to 50 requests per day and may work intermittently.
+* **Paid Credits:** A deposit of **$5 USD** allows you to process up to **150,000 photos** using elite models.
+* **Recommended Model:** `google/gemini-2.0-flash-001` (Fast, cheap, and extremely intelligent).
 
----
+> [!TIP]
+> Gemini 2.0 Flash is an extremely efficient model for bulk captioning, providing deep descriptive details for near-zero cost.
 
-**Buy Credits on OpenRouter**
+**Adding Credits via Credit Card or Crypto**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/008.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/008.png"></td></tr></table>
 </a>
 
----
-
-**Minimum Price is 5 USD+VAT**
+**Minimum Deposit Information**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/009.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/009.png"></td></tr></table>
 </a>
+
+---
+
+## How to Apply in ArtushVision AI
+1. Copy your secret key from Step 5.
+2. Open **ArtushVision AI**.
+3. Go to **File > API Key**.
+4. Paste the key into the field and click **Save**.
+5. You are ready to analyze!
 
 ---
 
@@ -104,6 +108,6 @@ Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/)
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAwODQzNTcsLTE3MTc3NjcwMDVdfQ
-==
+eyJoaXN0b3J5IjpbLTEzODczOTMyOTYsLTE4MzAwODQzNTcsLT
+E3MTc3NjcwMDVdfQ==
 -->
