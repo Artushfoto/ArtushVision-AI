@@ -40,6 +40,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 * **Semantic Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
 * **In-Place Editing:** Double-click to edit or split terms directly in the table; the app then re-validates them against both Master and User dictionaries.
 
+
 ---
 
 ## Global Distribution & Smart FTP
@@ -106,7 +107,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMD
-g1OTUyMCw1OTcyNDIxODMsMzc0NjIzOTc3LC03MjUxMzExOTld
-fQ==
+eyJoaXN0b3J5IjpbLTI4MDQxNDQzOSwzNDAyODQ3NDMsMTIzNj
+gxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5Nzcs
+LTcyNTEzMTE5OV19
 -->
