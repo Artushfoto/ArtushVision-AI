@@ -18,16 +18,15 @@
 
 ---
 
-## Versatile AI Engine: Choose Your Workflow
+## Versatile AI Engine: Choose Your Preffered Workflow
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **Cloud AI (Fast & Maximum Intelligence):** Uses state-of-the-art models like Gemini 2.0 Flash via OpenRouter for high-quality titles and descriptions. Process up to **150,000 photos for just $5 with ultra-low API costs.**
 * **Local AI (Local Vision and Text - Total Privacy):** Run everything on your hardware using Ollama. Your photos stay on your device, and analysis is completely free.
 * **Hybrid AI (Local Vision and Cloud text):** Phase 1 uses local visual analysis for detection, while Phase 2 utilizes cloud threading for professional text formatting. Includes parallel thread controls to maximize throughput during cloud-based text processing.
-* **2-Pass Local (Elite Offline Results):** A high-performance offline workflow that performs a deep visual scan followed by a secondary synthesis pass to achieve cloud-like results without internet dependencies.
-
 * **2-Pass Local (Elite Offline Results):** A high-performance offline workflow that performs a deep visual scan followed by a secondary synthesis pass to achieve cloud-like results without internet dependencies. This mode utilizes a **powerful dedicated vision model** for precise image analysis and a **high-performance text model** for professional metadata generation. 
-    * <span style="color: #ed7d31;">**Hardware Flexibility:**</span> While top-tier vision and text models require a high-performance machine, you have the flexibility to choose **smaller, optimized models** for less powerful computers, ensuring great results across various hardware setups.
+    * **Hardware Flexibility:** While top-tier vision and text models require a high-performance machine, you have the flexibility to choose **smaller, optimized models** for less powerful computers, ensuring great results across various hardware setups.
+
 
 ---
 ## Getty Images Optimizer (Master ESP Tool)
@@ -39,7 +38,6 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 * **Custom User Dictionary:** Easily save your own specialized terms or unique translations that are not present in the internal Master Dictionary. Once a term is saved, the application automatically recognizes and applies it in all future sessions.
 * **Semantic Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
 * **In-Place Editing:** Double-click to edit or split terms directly in the table; the app then re-validates them against both Master and User dictionaries.
-
 
 ---
 
@@ -107,7 +105,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDQxNDQzOSwzNDAyODQ3NDMsMTIzNj
-gxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5Nzcs
-LTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbNzMzOTA4ODU5LDM0MDI4NDc0MywxMjM2OD
+ExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3NDYyMzk3Nywt
+NzI1MTMxMTk5XX0=
 -->
