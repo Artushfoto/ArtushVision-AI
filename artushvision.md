@@ -132,7 +132,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 | **Advanced Metadata Management** | Not available / Limited | **Manual Editing:** Precise control over Title, Description, Keywords, and Ratings.<br><br>**Streamlined Workflow:** Efficiently organize and categorize large-scale asset collections. |
 | **JPG, RAW, Video, TIFF, PNG, & HEIC Support** | Not available (JPG only) | **Full Native Support** |
 | **Sync & Batch keywording** | Not available | **Sync Metadata & Batch Edit and Replace in all fields** |
-| **Media Privacy** | Mandatory cloud upload | **100% Media Privacy** when using offline AI models (files never leave your computer). For cloud modes, only low-resolution thumbnails are sent for analysis. |
+| **Media Privacy** | Mandatory cloud upload | **100% Media Privacy** when using offline AI models (files never leave your computer). For cloud modes, only **low-resolution thumbnails** are sent for analysis. |
 | **Pricing Model** | Recurring Subscriptions | **Perpetual License (Only $39.99)** |
 | **Cost per 10,000 Photos** | Expensive "Credits" ($$$) | **Ultra-low (~$0.50 via OpenRouter API)** |
 
@@ -329,11 +329,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xND
-gxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYx
-OCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1LC0xMT
-kxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDksLTY1Njg1Njk3
-NSwtNzg1ODQ5OTQ2LDE4NTI2MzEwMDUsMTMwNTYwNDI5LDEwNz
-Q4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQzLDEyMzY4MTEx
-NTJdfQ==
+eyJoaXN0b3J5IjpbMTI3MDI2NjA4MywtMTY4MDc5NjUsLTE0Nz
+g3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5
+NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2Myw1OD
+c5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0
+OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMz
+A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
+NDNdfQ==
 -->
