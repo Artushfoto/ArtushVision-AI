@@ -1,3 +1,14 @@
+<style>
+  table {
+    width: 100% !important;
+    table-layout: fixed !important;
+  }
+  /* Nastavení šířky prvního sloupce u všech tabulek */
+  th:first-child, td:first-child {
+    width: 30%;
+  }
+</style>
+
 # ArtushVision AI 
 ### The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals
 ![Version](https://img.shields.io/badge/Version-v2026.1.204-007abb) 
@@ -263,9 +274,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODg3ODQ0OSwtNjU2ODU2OTc1LC03OD
-U4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0MjksMTA3NDgwNDg0
-OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNjgxMTE1MiwxMT
-MwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5NzcsLTcyNTEzMTE5
-OV19
+eyJoaXN0b3J5IjpbLTE1NTI4MzEzMzcsMTk2ODg3ODQ0OSwtNj
+U2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0
+MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMT
+IzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5
+NzcsLTcyNTEzMTE5OV19
 -->
