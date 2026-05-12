@@ -301,7 +301,11 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 | **Text & OCR Recognition** | Automatically extract text from signs, handwritten notes, or notices found directly within the image. | `"Transcribe the text {text_ocr} from this image and add it to the description."` |
 | **Technical EXIF Analysis** | Inject technical metadata like `{camera_model}` or `{exposure_info}` to help AI derive tags like 'long exposure' or 'bokeh'. | `"Photo taken with {camera_model}. Settings: {exposure_info}. Describe the lighting."` |
 
----
+
+> **Smart Metadata Protection**
+> Your manual work is untouchable. ArtushVision AI is designed with a "safety-first" logic—it intelligently preserves all existing keywords and **Face Recognition (People tags)**. Instead of overwriting your progress, the AI acts as a creative partner, appending new visual insights without disturbing the organization you've already built.
+-
+--
 
 ## Available Variables
 
@@ -435,7 +439,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTc2OTk0MCwxMDY2MTk4NjU4LC0xNz
+eyJoaXN0b3J5IjpbMTEyMDQ5OTgwNSwxMDY2MTk4NjU4LC0xNz
 I5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1
 NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xND
 gxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYx
