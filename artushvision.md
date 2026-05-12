@@ -309,7 +309,7 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 Use these dynamic placeholders in your AI prompts to inject specific file context, metadata, and technical details for more accurate and professional results.
 | Category | Variable | Description | Example Output |
 | :--- | :--- | :--- | :--- |
-| **User & File Context** | `{user_hint}` | **Manual hint entered in the main window** | `"Golden Retriever"` |
+| **User & File Context** | `{user_hint}` | **Manual hint entered in the main window** (for example latin name of animal) | `"Euphonia laniirostris"` |
 | | `{folder_context}` | Name of the parent folder (event context) | `"Wedding 2025"` |
 | | `{filename}` | Original filename without extension | `"IMG_4821"` |
 | | `{date_info}` | Capture date (DD.MM.YYYY) | `"24.09.2025"` |
@@ -436,11 +436,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzExNTY3MywxMDY2MTk4NjU4LC0xNz
-I5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1
-NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xND
-gxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYx
-OCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1LC0xMT
-kxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDksLTY1Njg1Njk3
-NV19
+eyJoaXN0b3J5IjpbLTEzMzYzMTY2NDIsMTA2NjE5ODY1OCwtMT
+cyOTQ4OTA0Miw3MTQyOTkxOCwxMzgwNzMyMzA0LDIwMjM0OTY1
+NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3ODc3MTA5MywtMT
+Q4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0LDE3MzQ5NzQ2
+MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUxNSwtMT
+E5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5
+NzVdfQ==
 -->
