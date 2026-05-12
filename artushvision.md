@@ -126,16 +126,17 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
     * **Metadata Search:** Quickly locate files by searching through Titles, Descriptions, Keywords, or Filenames.
     * **Advanced FTP Filter:** Track your distribution progress with specialized filters for "Sent," "Not Sent," or "Ignore" status per individual server.
     * **Smart Status Filtering:** Isolate files based on their current state, including Selected, Modified (unsaved), Done, or Validation Error.
-    *  **Quality & Validation Control:** Exceeded Limits** (character/keyword counts), **Misspelled** terms, or **Corrupted** files. 
-* **Deep Discovery Dialogs:** Access specialized windows for **Advanced Metadata**, **Category Mapping**, and **Advanced FTP Filtering**.
+  *  **Quality & Validation Control:** Exceeded Limits** (character/keyword counts), **Misspelled** terms, or **Corrupted** files. 
+  * **Deep Discovery Dialogs:** Access specialized windows for **Advanced Metadata filtering**
 
 ---
 
 ## 3. AI Analysis Workflow
-1.  **Load Files:** Click **Load Folders** and select your directory.
-2.  **Select Files:** Use `Shift+Click` or `Ctrl+Click`.
-3.  **Choose Profile:** Select the profile matching your content.
-4.  **Run:** Click **Run AI**. Monitor real-time costs and progress.
+1.  
+2. **Load Files:** Click **Load Folders** and select your directory.
+3.  **Select Files:** Use `Shift+Click` or `Ctrl+Click`.
+4.  **Choose Profile:** Select the profile matching your content.
+5.  **Run:** Click **Run AI**. Monitor real-time costs and progress.
 
 ---
 
@@ -195,8 +196,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE3NTA1NzksMTg1MjYzMTAwNSwxMz
-A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
-NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
-Q2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbMTg1NDM1NzM4MSwxODUyNjMxMDA1LDEzMD
+U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
+MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
+YyMzk3NywtNzI1MTMxMTk5XX0=
 -->
