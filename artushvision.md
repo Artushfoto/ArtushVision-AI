@@ -159,8 +159,6 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 -   **AI Diacritics Toggle:**  Added an option to allow diacritics (accents/special characters) in AI outputs. While disabled by default for strict microstock compatibility, turning this on is perfect for local and family photo albums!
 -   **Context-Aware AI:**  You can now pass existing IPTC/XMP data directly into the AI prompt using new variables. This allows the AI to build upon current titles, descriptions, or keywords already present in the file.
 
-
-
 ---
 
 ## Available Variables
@@ -263,9 +261,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODg3ODQ0OSwxOTY4ODc4NDQ5LC02NT
-Y4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMDU2MDQy
-OSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0MywxMj
-M2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3NDYyMzk3
-NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2OD
+U2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0Mjks
+MTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNj
+gxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5Nzcs
+LTcyNTEzMTE5OV19
 -->
