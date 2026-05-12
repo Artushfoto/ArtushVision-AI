@@ -132,15 +132,14 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 
 ## 3. AI Analysis Workflow
-1. ** Settings - select AI mode (Cloud AI, Local Ai, Hybrid AI, Pass Local AI)
-2. **Load Files:** Click **Load Folders** and select your directory.
-3.  **Select Files:** Use `Shift+Click` or `Ctrl+Click`.
-4.  **Choose Profile:** Select the profile matching your content.
-5.  **Run:** Click **Run AI**. Monitor real-time costs and progress.
+
+1.  **AI Mode Selection:** Navigate to the settings to choose your processing engine: **Cloud AI**, **Local AI** (via Ollama), **Hybrid AI**, or the high-precision **2-Pass Local AI**.
+2.  **Load Files:** Click the **Load Folders** button at the bottom right and select your directory; the app will scan for all supported image and video formats.
+3.  **Select Files:** Highlight the assets you wish to analyze using `Shift+Click` for ranges or `Ctrl+Click` for individual selections within the grid.
+4.  **Choose Profile:** Select an AI system prompt profile (e.g., "Stock Photography" or "Editorial") from the dropdown that best matches your content type.
+5.  **Run:** Click the green **Run AI** play button to begin processing. Monitor the **Progress Bar** and real-time **Cost Statistics**, which track your API spend with 6-decimal precision.
 
 ---
-
-<div id="6-advanced-features"></div>
 
 ## 4. Professional Advanced Tools
 ### 🧠 Custom AI Profiles
@@ -196,8 +195,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc3NjY3ODksMTg1MjYzMTAwNSwxMz
-A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
-NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
-Q2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbMTk0MTY3MzQ2NCwxODUyNjMxMDA1LDEzMD
+U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
+MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
+YyMzk3NywtNzI1MTMxMTk5XX0=
 -->
