@@ -193,6 +193,30 @@ Located directly below the top toolbar, this bar is your primary tool for organi
 * **Deep Discovery:** Access specialized dialogs for complex, multi-criteria **Advanced Metadata filtering**.
 
 
+### The Image Grid
+The central workspace where each cell represents a media file. It provides immediate visual feedback on the status and metadata of your assets.
+
+* **Visual Status Indicators:** Small colored markers in the top-right corner of each thumbnail indicate the current state of the file:
+    * ⚪ **Gray/White:** Unchanged or default state.
+    * 🟡 **Yellow:** Modified (contains unsaved changes).
+    * 🟢 **Green:** Successfully saved or metadata fully loaded.
+    * 🔴 **Red:** Validation error (e.g., title exceeds character limits or missing required fields).
+* **Thumbnail Badges:** High-visibility icons in the top-left corner provide quick technical insights:
+    * **GPS:** The file contains embedded geolocation coordinates.
+    * **XMP:** An XMP sidecar file exists for this asset.
+    * **ORIG:** An original backup of the file is safely stored.
+    * **RAW:** Indicates a RAW camera format.
+    * **VIDEO:** Indicates a video file.
+    * **⚠️:** Critical warning (e.g., corrupted file or loading error).
+* **Inline Metadata Editing:** Each cell features dedicated fields for **Title**, **Description**, and **Keywords** directly below the thumbnail, allowing for lightning-fast manual adjustments without leaving the grid view.
+* **Context Menu (Right-Click):** Right-click any cell to access a comprehensive suite of professional actions:
+    * **Quick Tools:** Open file location, rename, or view full EXIF data.
+    * **AI & Optimization:** Trigger AI analysis for the selection or launch the **Getty Optimizer**.
+    * **Workflow Management:** Copy/Paste metadata between files, manage FTP history, or move/delete assets.
+    * **Curation:** Apply Flags, Ratings (1-5 stars), and Color Labels instantly.
+
+
+
 ---
 
 ## 3. AI Analysis Workflow
@@ -352,11 +376,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODE2ODM2NiwzMDI1MjA4MjgsLTE2OD
-A3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5
-NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMT
-g1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5
-LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NT
-I2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3
-NjRdfQ==
+eyJoaXN0b3J5IjpbODEzMDA0MDQ5LDMwMjUyMDgyOCwtMTY4MD
+c5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0
+LC00MDMwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxOD
+U4NTU2Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDks
+MTk2ODg3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1Mj
+YzMTAwNSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2
+NF19
 -->
