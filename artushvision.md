@@ -131,7 +131,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 --- 
 Advanced Productivity Filters Streamline your workspace with professional filters designed for high-volume photo and video archives. 
 * **Workflow Status:** Isolate assets by  **Selected**, **Todo**, **Done**, or **Modified** (unsaved changes). 
-* * **Quality & Validation Control:** Exceeded Limits** (character/keyword counts), **Misspelled** terms, or **Corrupted** files. 
+* **Quality & Validation Control:** Exceeded Limits** (character/keyword counts), **Misspelled** terms, or **Corrupted** files. 
 * **Deep Discovery Dialogs:** Access specialized windows for **Advanced Metadata**, **Category Mapping**, and **Advanced FTP Filtering**.
 
 
@@ -201,8 +201,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUyMzU2NSwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbLTIxMDQ1MDQzMTEsMTg1MjYzMTAwNSwxMz
+A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
+NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
+Q2MjM5NzcsLTcyNTEzMTE5OV19
 -->
