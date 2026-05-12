@@ -22,14 +22,14 @@
 ---
 <div align="center">
 
-| [📥 **Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [🛍️ **Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
+| [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
 | :---: | :---: |
 | **Fully Functional Version** | **Only $39.99** (+ local VAT) |
 | Test the full professional workflow now | One-time payment • No monthly fees |
 
 **One-time payment • No monthly fees** Pay once, use forever. Securely processed by **Polar & Stripe**.
 
-[🔒 Already have a license? Manage or Deactivate your devices](https://polar.sh)
+[Already have a license? Manage or Deactivate your devices](https://polar.sh)
 
 </div>
 
@@ -324,11 +324,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjM3MDU0MCwtNDAzMDYwOTQsLTQwMz
-A2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYz
-LDU4NzkwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4OD
-c4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1
-LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MD
-I4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgz
-XX0=
+eyJoaXN0b3J5IjpbLTExNTE5NDE1MjIsLTQwMzA2MDk0LC00MD
+MwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2
+Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2OD
+g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
+NSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzND
+AyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4
+M119
 -->
