@@ -215,7 +215,9 @@ The central workspace where each cell represents a media file. It provides immed
     * **ORIG:** An original backup of the file is safely stored.
     * **RAW:** Indicates a RAW camera format.
     * **VIDEO:** Indicates a video file.
-    *  **GETTY:** 
+    * **GETTY:** Indicates the asset has been processed via the **Getty Optimizer**. It confirms that a `.getty` sidecar file exists and that keywords have been validated against the Getty Master Dictionary.
+    * **FTP:** Displays the upload status. This badge identifies the specific servers where the file has been successfully delivered. Since the upload history is written **directly into the file's XMP metadata**, this badge remains persistent even if you move the file between folders.
+    * **CAT:** Confirms that **Stock Categories** have been assigned to the image or video. This ensures the asset is ready for agency-specific mapping and automated CSV generation during export or upload.
 
 
 
@@ -449,11 +451,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjM2NjU0OCwxMzgwNzMyMzA0LDIwMj
-M0OTY1NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3ODc3MTA5
-MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0LDE3Mz
-Q5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4NzkwNjUx
-NSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5LC02NT
-Y4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMDU2MDQy
-OV19
+eyJoaXN0b3J5IjpbNzE0Mjk5MTgsMTM4MDczMjMwNCwyMDIzND
+k2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEwOTMs
+LTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OT
+c0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2Myw1ODc5MDY1MTUs
+LTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2OD
+U2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0Mjld
+fQ==
 -->
