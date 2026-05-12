@@ -38,10 +38,11 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 ## Global Distribution & Smart FTP
 Distribute your work to all major stock agencies with a single click.
 
-* **Universal Category Mapping:** A smart matrix that automatically translates your categories for Adobe Stock, Shutterstock, Dreamstime or other agen.
+* **Universal Category Mapping:** A smart matrix that automatically translates your categories for Adobe Stock, Shutterstock, Dreamstime or other agencies.
 * **Media Intelligence:** Separate category logic for photos and videos (e.g., specialized "ME Video" categories for Motion Elements).
 * **Per-Server Threading:** Configure unique thread counts for each server (e.g., 1 thread for sensitive servers like Zoonar, up to 10 for high-speed uploads to Shutterstock).
 * **FTP Status Badges:** Visual indicators in the grid provide an immediate overview of which files have been successfully uploaded to each agency.
+* 
 
 ---
 
@@ -75,5 +76,5 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNzU3NjIxXX0=
+eyJoaXN0b3J5IjpbLTcyNTEzMTE5OV19
 -->
