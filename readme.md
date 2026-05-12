@@ -1,6 +1,4 @@
----
-layout: default
----
+<h1 align="center">ArtushVision AI</h1>
 
 <p align="center">
   <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
@@ -24,7 +22,7 @@ layout: default
 
 <div align="center">
 
-### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
+### 💡 **ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!**
 *Test the full professional workflow with our Lite Version before committing to a license.*
 
 | [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
@@ -32,7 +30,7 @@ layout: default
 | **Fully Functional Version** | **Only $39.99** (+ local VAT) |
 | No time limits for testing | One-time payment • No monthly fees |
 
-**Securely processed by Polar & Stripe.** [Already have a license? Manage or Deactivate your devices](https://polar.sh)
+**Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
 
 </div>
 
@@ -48,166 +46,3 @@ layout: default
 ---
 
 ## Quick Navigation
-* [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
-* [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
-* [Global Distribution & Smart FTP Suite](#global-distribution--smart-ftp-suite)
-* [Desktop App vs. Cloud Services](#artushvision-ai-desktop-application-vs-cloud-services)
-* [1. Installation & Setup](#1-installation--setup)
-* [2. Interface Overview](#2-interface-overview)
-* [3. AI Analysis Workflow](#3-ai-analysis-workflow)
-* [4. Professional Advanced AI Tools](#4-professional-advanced-ai-tools)
-* [5. Manual Editing & Detail View](#5-manual-editing--detail-view)
-* [6. Batch Operations](#6-batch-operations)
-* [7. Settings & Configuration](#7-settings--configuration)
-
----
-
-## Versatile AI Engine: Choose Your Workflow
-ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
-
-* **Cloud AI (Fast & Maximum Intelligence):** Uses top-tier models via OpenRouter. Process up to **150,000 photos for just $5** with ultra-low API costs.
-* **Local AI (Total Privacy):** Run everything on your hardware using offline **Ollama** models. Your photos stay on your device; analysis is completely free.
-* **Hybrid AI (Local Vision + Cloud Description):** Phase 1 uses local visual analysis, while Phase 2 utilizes cloud threading for professional text formatting. **Photos never leave your device; only generated text is sent for SEO processing.**
-* **2-Pass Local AI (Deep Offline Synthesis):** The flagship offline workflow designed for elite results without API costs.
-  * **Pass 1:** Deep Visual Analysis using a powerful dedicated Vision Model.
-  * **Pass 2:** Professional Synthesis using a high-performance Text Model.
-
----
-
-## Getty Images Optimizer (Master ESP Tool)
-Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
-
-* **Non-Destructive Sidecars:** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
-* **Interactive Getty Resolver:** Batch-validate keywords against a **Master Dictionary of 11,746+ commercial terms**.
-* **Visual Context Highlighting:** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
-* **Semantic AI Disambiguation:** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
-* **Term Splitting:** Double-click to split multi-word phrases (e.g., 'cooked food' to 'cooked, food') and fresh validation is triggered instantly.
-
----
-
-## Global Distribution & Smart FTP Suite
-Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
-
-* **Multi-Server Smart FTP:** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed uploads).
-* **Automated CSV Metadata:** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
-* **Universal Category Mapping:** A smart matrix that translates your internal categories into agency-specific ones, with separate logic for **Photo vs. Video**.
-* **FTP Profiles:** Organize servers into custom groups (e.g., "Stock Photo") for one-click batch distribution.
-* **Persistent Status Tracking:** Visual **FTP Status Badges** are written **directly into the file's XMP metadata**, ensuring history is never lost even if files are moved.
-
----
-
-## Desktop Application vs. Cloud Services
-Own your tools and pay only for the AI you use.
-
-| Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
-| :--- | :--- | :--- |
-| **Advanced Metadata** | Limited / Not available | Full Manual & Batch Control |
-| **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
-| **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** (Local AI) or Thumbnails only |
-| **Pricing Model** | Recurring Subscriptions | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via OpenRouter** |
-
----
-
-## 1. Installation & Setup
-
-### System Requirements
-* **OS:** Windows 10/11 (64-bit).
-* **Internet:** Required for Cloud AI, Maps, and Spell Check.
-* **[Ollama](https://ollama.com):** Required for Local AI analysis.
-* **[OpenRouter API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter.md):** Required for Cloud AI analysis.
-
-### First Launch
-1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
-2. **License Activation:** Enter your key or continue with the **Trial Version**.
-   
-   > [!IMPORTANT]
-   > **Trial Limits (per session):** 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads.
-   
-3. **AI Configuration:** Enter your [OpenRouter API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter.md) for Cloud or ensure Ollama is running for Local.
-
----
-
-## 2. Interface Overview
-
-### Top Toolbar
-* **Profile:** Select AI prompts (e.g., "Stock Photography"). Click the **Gear icon** to customize.
-* **Run AI:** The **green play button** starts analysis for all selected images.
-* **Absolute Priority AI Hint:** Treats manual user hints (e.g., Latin names) as unquestionable facts.
-* **Flat View:** Toggle to see all files from all subfolders in a single unified list.
-* **Backup:** Safety checkboxes for automated **CSV, XMP, and Original JPG** backups.
-
-### Filter Bar
-* **Smart Search:** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
-* **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
-* **Status Filtering:** Isolate files based on workflow state (**Modified, Done, Error**).
-* **Advanced FTP Filter:** Track your progress showing **Sent, Not Sent**, or **Ignore** status.
-
----
-
-## 3. AI Analysis Workflow
-1. **AI Mode Selection:** Choose **Cloud, Local, Hybrid,** or **2-Pass Local** in settings.
-2. **Load Assets:** Click **Load Folders** to scan your directory.
-3. **Select Files:** Highlight assets using `Shift + Click` or `Ctrl + Click`.
-4. **Choose Profile:** Select the system prompt profile (e.g., "Editorial").
-5. **Run & Monitor:** Monitor real-time **Cost Statistics** with 6-decimal precision.
-
----
-
-## 4. Professional Advanced AI Tools
-
-### Master Variable Reference for AI Context
-Use these dynamic placeholders in your AI profiles to inject specific file context.
-
-| Category | Variable | Description | Example Output |
-| :--- | :--- | :--- | :--- |
-| **User Context** | `{user_hint}` | Manual hint entered in the window | `"Euphonia laniirostris"` |
-| | `{folder_context}` | Name of the parent folder | `"Wedding 2025"` |
-| **Current Geodata**| `{city}` / `{country}` | Live GPS location data | `"Paris", "France"` |
-| | `{text_ocr}` | Text extracted visually from image | `"Route 66"` |
-| **Technical EXIF** | `{camera_model}` | Camera or Drone model | `"Sony A7IV"` |
-| | `{exposure_info}` | Shutter, Aperture, and ISO | `"1/500s, f/2.8, ISO 100"` |
-
-> [!TIP]
-> **Smart Metadata Protection:** 🛡️ ArtushVision AI intelligently preserves all existing keywords and **Face Recognition (People tags)**. AI appends insights without overwriting your manual work.
-
----
-
-## 5. Manual Editing & Detail View
-Double-click any image to enter the **Detail Photo View**.
-
-* **The Editor:** Features real-time word counters and **Multilingual Spell Check**.
-* **Keyword Bubbles:** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
-* **Linguistic Tools:** Right-click a bubble for **Synonyms** (Datamuse) or view native **Translation Tooltips**.
-* **Interactive Map:** View exact GPS locations with zoom and satellite support.
-
----
-
-## 6. Batch Operations
-Modify thousands of assets simultaneously with surgical precision.
-
-* **Smart Actions:** Bulk **Add, Remove, or Replace** text across Title, Description, or Keywords.
-* **Search & Replace (Ctrl+H):** Advanced string manipulations across your entire library.
-* **Dynamic Batch Rename:** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}`.
-* **File Operations:** Safely Copy, Move, or Delete files along with their **XMP and sidecars**.
-
----
-
-## 7. Settings & Configuration
-* **Workspace:** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
-* **Video Tuning:** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
-* **CSV Editor:** Reverse-engineer templates by loading existing agency CSV files.
-* **Maps:** Choose between **OpenStreetMap** or **ArcGIS** for reverse geocoding.
-
----
-
-### [Get Started Now]
-* [Download Fully Functional Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
-* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
-
----
-*ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA1MjU5NDYsMTA3ODE0MDY0LC0xMD
-U1NzMwNzE5LC05MjkwODczMDIsMTcyNTYxNzEyMl19
--->
