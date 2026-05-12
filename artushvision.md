@@ -154,12 +154,20 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 | **Text & OCR Recognition** | Automatically extract text from signs, handwritten notes, or notices found directly within the image. | `"Transcribe the text {text_ocr} from this image and add it to the description."` |
 | **Technical EXIF Analysis** | Inject technical metadata like `{camera_model}` or `{exposure_info}` to help AI derive tags like 'long exposure' or 'bokeh'. | `"Photo taken with {camera_model}. Settings: {exposure_info}. Describe the lighting."` |
 
+### AI & Smart Metadata
+-   **GPS Provider Toggle:**  You can now choose your preferred reverse geocoding source in Settings (OpenStreetMap vs. ArcGIS). Features smart parsing for regions, streets, and neighborhoods to prevent AI hallucinations.
+-   **AI Diacritics Toggle:**  Added an option to allow diacritics (accents/special characters) in AI outputs. While disabled by default for strict microstock compatibility, turning this on is perfect for local and family photo albums!
+-   **Context-Aware AI:**  You can now pass existing IPTC/XMP data directly into the AI prompt using new variables. This allows the AI to build upon current titles, descriptions, or keywords already present in the file.
+
 
 ### Custom AI Profiles
 * **AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
 * **Text & OCR Recognition:** Extract text from signs using `{text_ocr}`.
 * **Technical EXIF Analysis:** Inject `{camera_model}` or `{exposure_info}` for tech tags.
-* **Metadata Protection:** Preserves existing keywords and People tags.
+* **Smart Metadata Protection:** Preserves existing keywords and People tags.
+
+
+
 
 ### Available Variables for AI Prompts
 | Variable | Description |
@@ -208,8 +216,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbLTEyODg0NzczNTQsLTc4NTg0OTk0NiwxOD
+UyNjMxMDA1LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4
+NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNT
+k3MjQyMTgzLDM3NDYyMzk3NywtNzI1MTMxMTk5XX0=
 -->
