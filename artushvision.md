@@ -105,7 +105,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 
 ### First Launch
 1.  Run `ArtushVisionAI.exe`.
-2.  **License:** Enter your key or use the Trial version (10 saves / 3 AI calls / 3 Getty ).
+2. **License Activation:** Enter your license key or continue with the Trial version, which is limited to 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads per session.
 3.  **API Key:** Navigate to **File > API Key** and enter your [OpenRouter Key](https://openrouter.ai).
 
 ---
@@ -189,8 +189,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE3MTI3NzYsMTg1MjYzMTAwNSwxMz
-A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
-NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
-Q2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbLTMwNjUyMjAzMiwxODUyNjMxMDA1LDEzMD
+U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
+MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
+YyMzk3NywtNzI1MTMxMTk5XX0=
 -->
