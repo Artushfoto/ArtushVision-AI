@@ -1,4 +1,4 @@
-<style> /* Sjednocení všech tabulek na 100% šířky s pevnou strukturou */ .markdown-body table { width: 100% !important; display: table !important; table-layout: fixed !important; margin-bottom: 20px !important; } .markdown-body th, .markdown-body td { word-wrap: break-word !important; padding: 10px !important; vertical-align: top !important; } /* Specifické nastavení pro tabulku proměnných (Variable Reference) */ .variables-table th:nth-child(1), .variables-table td:nth-child(1) { width: 20%; } .variables-table th:nth-child(2), .variables-table td:nth-child(2) { width: 25%; } </style>
+
 
 
 # ArtushVision AI 
@@ -20,16 +20,18 @@
 **Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.**
 
 ---
+<div align="center">
 
-| [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
-| :--- | :--- |
+| [📥 **Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [🛍️ **Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
+| :---: | :---: |
 | **Fully Functional Version** | **Only $39.99** (+ local VAT) |
 | Test the full professional workflow now | One-time payment • No monthly fees |
 
-<p align="center">
-  Pay once, use forever. Securely processed by <b>Polar & Stripe</b>.<br>
-  <a href="https://polar.sh"> Already have a license? Manage or Deactivate your devices</a>
-</p>
+**One-time payment • No monthly fees** Pay once, use forever. Securely processed by **Polar & Stripe**.
+
+[🔒 Already have a license? Manage or Deactivate your devices](https://polar.sh)
+
+</div>
 
 ---
 ## Quick Navigation
@@ -322,7 +324,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTE2MzM4MSwtNDAzMDYwOTQsLTQwMz
+eyJoaXN0b3J5IjpbLTI1NjM3MDU0MCwtNDAzMDYwOTQsLTQwMz
 A2MDk0LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYz
 LDU4NzkwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4OD
 c4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1
