@@ -32,12 +32,15 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 ## Getty Images Optimizer (Master ESP Tool)
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
 
+* **Non-Destructive Workflow:** The Getty Optimizer does not modify your original keywords. Instead, it creates individual sidecar files (`.getty`) for each photograph to store optimized terms, ensuring your original metadata remains untouched while providing absolute portability for your work.
 * **Interactive Getty Resolver (Single & Batch Mode):** The resolver can be used for a single photograph or an entire batch of images simultaneously. 
 * **Visual Context Highlighting:** The resolver intelligently highlights which photo thumbnails in your batch contain a specific term, enabling you to tag large collections with absolute accuracy and professional-grade speed.
-* **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from my 25 000 photos archive to ensure 100% valid submissions.
+* **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from a professional archive to ensure 100% valid submissions.
 * **Custom User Dictionary:** Easily save your own specialized terms or unique translations that are not present in the internal Master Dictionary. Once a term is saved, the application automatically recognizes and applies it in all future sessions.
-* **Semantic AI Disambiguation (beta):** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
+* **Semantic AI Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
 * **In-Place Editing & Term Splitting:** Double-click to edit or split **multi-word unknown terms** directly in the table. When you split a complex phrase by inserting a comma (e.g., changing 'cooked food' to 'cooked, food'), the application intelligently creates new individual entries, deduplicates them, and performs a fresh validation against both the Master and User dictionaries. This ensures that new terms start with a "clean slate" and are correctly matched against valid Getty-approved vocabulary.
+
+
 
 ---
 
@@ -105,7 +108,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjM4Mzk1MSwxMDc0ODA0ODQ5LC0xMj
+eyJoaXN0b3J5IjpbLTQ5OTEzMTg1MywxMDc0ODA0ODQ5LC0xMj
 MwOTU4NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1
 MjAsNTk3MjQyMTgzLDM3NDYyMzk3NywtNzI1MTMxMTk5XX0=
 -->
