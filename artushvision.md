@@ -246,15 +246,39 @@ Click the **List Icon** to toggle the **Batch Edit** panel, allowing you to modi
 
 
 
----
-
 ## 7. Settings & Configuration
-* **Appearance:** Adjust thumbnail sizes, font scales, and field heights.
-* **AI Diacritics:** Toggle to allow accents in AI outputs (perfect for family albums).
-* **CSV Export:** Create templates for AdobeStock, Shutterstock, Alamy, etc.
-* **GPS Provider:** Switch between OpenStreetMap and ArcGIS.
+Tailor ArtushVision AI to your specific hardware capabilities and professional workflow requirements.
 
+### Workspace & Grid Appearance
+* **Visual Layout:** Fully customize the main grid by adjusting **Thumbnail Height**, **Font Size**, and individual heights for **Title, Description, and Keyword** fields.
+* **Smart Grid Info:** Toggle visibility for filenames, technical file info, and **FTP Status Badges** directly on your thumbnails.
+* **Tag Visualization:** Choose between a classic text list or modern **Keyword Tags**, with an option to **Crop to Square** for a cleaner gallery look.
 
+### Language, AI & Translation
+* **AI Engine & Ollama Tuning:** Switch between **Cloud AI** (OpenRouter) and **Local AI**. For local workflows, you can precisely set the **Ollama Context (VRAM)** and API URL to match your GPU power.
+* **Linguistic Toolkit:** Enable **Multilingual Spell Check**, Autocomplete, and online suggestions for synonyms.
+* **Integrated Translator:** Use the built-in translator to automatically convert metadata into your **Target Translation Language**.
+* **AI Diacritics Toggle:** Allow special characters/accents in AI output for local/family projects, or keep it disabled for strict microstock compatibility.
+
+### Video & RAW Processing
+* **AI Video Context:** Define the **Number of video frames** extracted for analysis. Use **Economy Mode (Collage)** to save on API costs by combining frames into a single image.
+* **Metadata Handling:** Force the application to write metadata to **XMP sidecar files** for RAW assets and preserve the original **File Modification Time**.
+
+### Validation & Limits
+* **Field Constraints:** Set mandatory **Min/Max lengths** for Titles and Descriptions, or **Keyword Counts** to meet specific agency requirements.
+* **Visual Error Feedback:** Enable **Limits Validation** and choose a custom **Error Color** to instantly highlight fields that violate your rules.
+* **Advanced Color Coding:** Customize the background and text colors for **Original**, **AI-generated**, and **Manually edited** keywords for perfect visual organization.
+
+### Maps & Geodata
+* **Map Integration:** Select your preferred **Map Provider** (e.g., Google Maps) and set default **Zoom levels**.
+* **GPS Translation:** Choose the source for reverse geocoding (OpenStreetMap or ArcGIS) to ensure localized landmarks are correctly identified.
+
+### Configuration Management
+* **Backup & Sync:** Quickly **Export/Import Settings** to sync your configuration across multiple workstations.
+* **Advanced Matrices:** Direct access to your **CSV Templates**, **FTP Server Management**, and the **Category Mapping Matrix**.
+* **System Paths:** Configure local paths for essential tools like `FFmpeg` and `ExifTool`.
+
+---
 
 ### [Get Started Now]
 * [Download Fully Functional Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
@@ -264,10 +288,10 @@ Click the **List Icon** to toggle the **Batch Edit** panel, allowing you to modi
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4Nz
-kwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5
-LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMT
+g1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5
+LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2LDE4NT
+I2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3
+NjQsMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OT
+cyNDIxODMsMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
 -->
