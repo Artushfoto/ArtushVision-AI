@@ -154,11 +154,6 @@ Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables
 | **Text & OCR Recognition** | Automatically extract text from signs, handwritten notes, or notices found directly within the image. | `"Transcribe the text {text_ocr} from this image and add it to the description."` |
 | **Technical EXIF Analysis** | Inject technical metadata like `{camera_model}` or `{exposure_info}` to help AI derive tags like 'long exposure' or 'bokeh'. | `"Photo taken with {camera_model}. Settings: {exposure_info}. Describe the lighting."` |
 
-### AI & Smart Metadata
--   **GPS Provider Toggle:**  You can now choose your preferred reverse geocoding source in Settings (OpenStreetMap vs. ArcGIS). Features smart parsing for regions, streets, and neighborhoods to prevent AI hallucinations.
--   **AI Diacritics Toggle:**  Added an option to allow diacritics (accents/special characters) in AI outputs. While disabled by default for strict microstock compatibility, turning this on is perfect for local and family photo albums!
--   **Context-Aware AI:**  You can now pass existing IPTC/XMP data directly into the AI prompt using new variables. This allows the AI to build upon current titles, descriptions, or keywords already present in the file.
-
 ---
 
 ## Available Variables
@@ -193,6 +188,12 @@ Use these dynamic placeholders in your AI prompts to inject specific file contex
 
 > [!TIP]
 **Pro Tip:** To keep your AI instructions concise and minimize token usage, simply remove any variables from your prompt that you don't intend to use for a specific profile.
+
+### AI & Smart Metadata
+-   **GPS Provider Toggle:**  You can now choose your preferred reverse geocoding source in Settings (OpenStreetMap vs. ArcGIS). Features smart parsing for regions, streets, and neighborhoods to prevent AI hallucinations.
+-   **AI Diacritics Toggle:**  Added an option to allow diacritics (accents/special characters) in AI outputs. While disabled by default for strict microstock compatibility, turning this on is perfect for local and family photo albums!
+-   **Context-Aware AI:**  You can now pass existing IPTC/XMP data directly into the AI prompt using new variables. This allows the AI to build upon current titles, descriptions, or keywords already present in the file.
+
 
 ### Custom AI Profiles
 * **AI Visual Geolocation:** AI recognizes landmarks from pixels or live GPS.
@@ -237,9 +238,9 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2OD
-g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
-NSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzND
-AyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4
-MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbMTU4NjQzMzEzMSwtMTE5MTc5MzgzMSw3OT
+MwMjU0OSwxOTY4ODc4NDQ5LC02NTY4NTY5NzUsLTc4NTg0OTk0
+NiwxODUyNjMxMDA1LDEzMDU2MDQyOSwxMDc0ODA0ODQ5LC0xMj
+MwOTU4NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1
+MjAsNTk3MjQyMTgzLDM3NDYyMzk3NywtNzI1MTMxMTk5XX0=
 -->
