@@ -113,8 +113,10 @@ Own your tools and pay only for the AI you use.
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **Trial Version**.
+   
    > [!IMPORTANT]
    > **Trial Limits (per session):** 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads.
+   > 
 3. **AI Configuration:** Enter your [OpenRouter API Key](https://openrouter.ai) for Cloud or ensure Ollama is running for Local.
 
 ---
@@ -204,11 +206,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzE5NDI3OSwxNDM1MDIwMDgwLC0yMD
-c0NjUwMzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMCwyNTk2OTY4
-MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLDEwNj
-YxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMw
-NCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nz
-g3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5
+eyJoaXN0b3J5IjpbLTcyNjc0NzY1LDEwNzMxOTQyNzksMTQzNT
+AyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5NTUsLTE5MzAyMzMz
+MjAsMjU5Njk2ODI1LDExNDA4Nzc2OTksOTA0NzI2MDgsMTA1OD
+gwNTIxMCwxMDY2MTk4NjU4LC0xNzI5NDg5MDQyLDcxNDI5OTE4
+LDEzODA3MzIzMDQsMjAyMzQ5NjU1NCwzMDI1MjA4MjgsLTE2OD
+A3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5
 NF19
 -->
