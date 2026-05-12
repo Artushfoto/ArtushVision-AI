@@ -1,4 +1,3 @@
-
 <h1 align="center">ArtushVision AI</h1>
 
 <p align="center">
@@ -43,10 +42,6 @@
 * **Getty Optimizer:** 100% submission success with Master Dictionary validation.
 * **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
 * **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
-
----
-
-## Quick Navigation
 
 ---
 
@@ -216,5 +211,5 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTYxNzEyMl19
+eyJoaXN0b3J5IjpbLTkyOTA4NzMwMiwxNzI1NjE3MTIyXX0=
 -->
