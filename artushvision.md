@@ -100,7 +100,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI analysis, maps, and online spell checking.
-*  **[Ollama](https://ollama.com/)** Required for Local AI analysis
+*  **[Ollama](https://ollama.com/)** Required for Local AI analysis. 
 * **Dependencies:** Requires `ExifTool` and `FFmpeg` (bundled in the application folders).
 
 ### First Launch
@@ -201,8 +201,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ1MDQzMTEsMTg1MjYzMTAwNSwxMz
-A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
-NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
-Q2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbLTY4ODM4MjM0MSwxODUyNjMxMDA1LDEzMD
+U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
+MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
+YyMzk3NywtNzI1MTMxMTk5XX0=
 -->
