@@ -148,6 +148,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 1.  Run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your license key or continue with the Trial version, which is limited to **10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads per session**.
 3.  **API Key:** Navigate to **File > API Key** and enter your [OpenRouter Key](https://openrouter.ai).
+4. Install Ollama if You want use local AI, Artush Vision have in build simple model management a and recomendation for some models to try.
 
 ---
 
@@ -329,11 +330,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDI2NjA4MywtMTY4MDc5NjUsLTE0Nz
-g3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5
-NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2Myw1OD
-c5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0
-OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMz
-A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
-NDNdfQ==
+eyJoaXN0b3J5IjpbNzAwMzAzMzYzLC0xNjgwNzk2NSwtMTQ3OD
+c3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0
+LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4Nz
+kwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5
+LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMD
+U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
+M119
 -->
