@@ -189,7 +189,6 @@ Use these dynamic placeholders in your AI prompts to inject specific file contex
 > [!TIP]
 **Pro Tip:** To keep your AI instructions concise and minimize token usage, simply remove any variables from your prompt that you don't intend to use for a specific profile.
 
-
 ---
 
 ## Advanced AI Logic & Metadata Control
@@ -246,9 +245,10 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5Mz
-AyNTQ5LDE5Njg4Nzg0NDksLTY1Njg1Njk3NSwtNzg1ODQ5OTQ2
-LDE4NTI2MzEwMDUsMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMz
-A5NTg3NjQsMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUy
-MCw1OTcyNDIxODMsMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
+eyJoaXN0b3J5IjpbLTMxODU4NTU2Myw1ODc5MDY1MTUsLTExOT
+E3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2ODU2OTc1
+LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0MjksMTA3ND
+gwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNjgxMTE1
+MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5NzcsLTcyNT
+EzMTE5OV19
 -->
