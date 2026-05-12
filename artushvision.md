@@ -1,6 +1,4 @@
-
-
-<h1 align="center">ArtushVision AI</h1>
+# <h1 align="center">ArtushVision AI</h1>
 <h3 align="center">The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</h3>
 
 <p align="center">
@@ -8,17 +6,23 @@
   <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
 </p>
 
-*"Intelligent metadata automation for your **Travel, Home, and Stock photography** workflow with state-of-the-art Vision AI."*
+<p align="center">
+<i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
+</p>
 
-**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via Cloud OpenRouter or local Ollama) to automatically generate keywords, titles, and descriptions for **JPG, RAW, VIDEO, HEIC, TIFF, and PNG** assets, while providing robust tools for manual metadata management. Your data is always safe with automated backups and flexible export options to CSV and XMP sidecars, ensuring you never lose your progress or original file integrity.
+**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via Cloud OpenRouter or local Ollama) to automatically generate keywords, titles, and descriptions for **JPG, RAW, VIDEO, HEIC, TIFF, and PNG** assets.
 
 ---
 > **Exceptional Value:** Using our recommended model, **google/gemini-2.0-flash-001**, you can professionally describe approximately **100,000 to 150,000 photos for only $5** with perfect, high-quality results.
 > 
->**Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query.
+>**Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query with 6-decimal precision.
 ---
 
-**Beyond AI automation, it offers a complete organization and distribution toolkit. Manage your library with **star ratings, pick/reject flags, and color-coded labels**, or use the professional **Getty Images Resolver** to batch-validate keywords against master dictionaries for 100% submission success. Distribute your work instantly via **Multi-Server Smart FTP** with automated **CSV metadata generation** for a "zero-touch" submission workflow. Fully compatible with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**, we use industry-standard IPTC/XMP metadata that works everywhere.**
+**Beyond AI automation, it offers a complete organization and distribution toolkit:**
+* 🛡️ **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
+* 💎 **Getty Optimizer:** 100% submission success with Master Dictionary validation and Resolver tools.
+* 🚀 **Smart FTP:** "Zero-touch" workflow with automated CSV generation and multi-server threading.
+* 📂 **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam) using industry-standard IPTC/XMP.
 
 ---
 <div align="center">
@@ -28,10 +32,9 @@
 | **Fully Functional Version** | **Only $39.99** (+ local VAT) |
 | Test the full professional workflow now | One-time payment • No monthly fees |
 
-**One-time payment • No monthly fees**
-Pay once, use forever. Securely processed by **Polar & Stripe**.
+**One-time payment • No monthly fees** Pay once, use forever. Securely processed by **Polar & Stripe**.
 
-###  **PLEASE TRY BEFORE YOU BUY!**
+### 💡 **PLEASE TRY BEFORE YOU BUY!**
 
 [Already have a license? Manage or Deactivate your devices](https://polar.sh)
 
@@ -41,423 +44,171 @@ Pay once, use forever. Securely processed by **Polar & Stripe**.
 ## Quick Navigation
 * [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
 * [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
-* [Global Distribution & Smart FTP](#global-distribution--smart-ftp)
-* [Smart FTP & Automated CSV Metadata](#smart-ftp--automated-csv-metadata)
-* [FTP Profiles & One-Click Batch Uploads](#ftp-profiles--one-click-batch-uploads)
-* [Professional Workflow & Productivity](#professional-workflow--productivity)
+* [Global Distribution & Smart FTP Suite](#global-distribution--smart-ftp-suite)
 * [Desktop App vs. Cloud Services](#artushvision-ai-desktop-application-vs-cloud-services)
 * [1. Installation & Setup](#1-installation--setup)
 * [2. Interface Overview](#2-interface-overview)
 * [3. AI Analysis Workflow](#3-ai-analysis-workflow)
-* [4. Professional Advanced Tools](#4-professional-advanced-tools)
-* [Available Variables Reference](#available-variables)
-* [Advanced AI Logic & Metadata Control](#advanced-ai-logic--metadata-control)
+* [4. Professional Advanced AI Tools](#4-professional-advanced-ai-tools)
 * [5. Manual Editing & Detail View](#5-manual-editing--detail-view)
 * [6. Batch Operations](#6-batch-operations)
 * [7. Settings & Configuration](#7-settings--configuration)
 
 ---
 
-## Versatile AI Engine: Choose Your Workflow
+## 🤖 Versatile AI Engine: Choose Your Workflow
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
-* **Cloud AI (Fast & Maximum Intelligence):** Uses state-of-the-art models like Gemini 2.0 Flash via OpenRouter for high-quality titles, descriptions, keywords and categories. Process up to **150,000 photos for just $5 with ultra-low API costs.**
-
-* **Local AI (Local Vision and Description - Total Privacy):** Run everything on your hardware using offline AI Ollama models. Your photos stay on your device, and analysis is completely free.
-
-* **Hybrid AI (Local Vision and Cloud Description):** Phase 1 uses local visual analysis for detection, while Phase 2 utilizes cloud threading for professional text formatting. **In this mode, your photos never leave your device; only the text generated by the local vision model is sent to the cloud for professional SEO and formatting. This approach is exceptionally cost-effective as text-only API queries are significantly cheaper than image processing.** Includes parallel thread controls to maximize throughput during cloud-based text processing.
-
-* **2-Pass Local AI (Deep Offline Synthesis)**
-The **2-Pass Local** mode is the flagship offline workflow of ArtushVision AI. It is designed to deliver cloud-level metadata quality while running entirely on your local hardware via Ollama, ensuring 100% privacy and zero per-image costs.
-  * **Pass 1: Deep Visual Analysis:** The application first utilizes a powerful dedicated **Vision Model** to perform an exhaustive scan of the image. It identifies subjects, textures, colors, lighting conditions, and specific details that smaller models might miss.
-  * **Pass 2: Professional Metadata Synthesis:** In the second pass, the raw visual data is handed over to a high-performance **Text Model**. This model synthesizes the visual findings into professional-grade titles, SEO-optimized descriptions, and relevant keywords, following the specific logic of your chosen profile (e.g., Stock or Editorial).
-  * **Elite Results Offline:** By separating visual recognition from text generation, this mode achieves a level of descriptive depth and linguistic accuracy that surpasses standard single-pass local models, rivaling the performance of top-tier cloud engines.
-  * **Hardware & Model Flexibility:** * **High-Performance Machines:** Users with powerful GPUs can pair elite vision models with large language models for maximum precision.
-    * **Balanced Hardware:** You have the flexibility to choose **optimized, smaller models** to ensure a smooth and efficient workflow even on mid-range systems.
-  * **Total Privacy & Zero Cost:** Since all processing happens locally, your high-resolution assets never leave your computer, and you can analyze hundreds of thousands of photos without ever receiving an API bill.
+* **Cloud AI (Fast & Maximum Intelligence):** Uses top-tier models via OpenRouter. Process up to **150,000 photos for just $5** with ultra-low API costs.
+* **Local AI (Total Privacy):** Run everything on your hardware using offline **Ollama** models. Your photos stay on your device; analysis is completely free.
+* **Hybrid AI (Local Vision + Cloud Description):** Phase 1 uses local visual analysis, while Phase 2 utilizes cloud threading for text formatting. **Photos never leave your device; only generated text is sent for SEO processing.**
+* **2-Pass Local AI (Deep Offline Synthesis):** The flagship offline workflow.
+  * **Pass 1:** Deep Visual Analysis using a powerful dedicated Vision Model.
+  * **Pass 2:** Professional Synthesis using a high-performance Text Model for elite results without API costs.
 
 ---
 
-## Getty Images Optimizer (Master ESP Tool)
+## 💎 Getty Images Optimizer (Master ESP Tool)
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
 
-* **Non-Destructive Workflow:** The Getty Optimizer does not modify your original keywords. Instead, it creates individual sidecar files (`.getty`) for each photograph to store optimized terms, ensuring your original metadata remains untouched while providing absolute portability for your work.
-* **Interactive Getty Resolver (Single & Batch Mode):** The resolver can be used for a single photograph or an entire batch of images simultaneously. 
-* **Visual Context Highlighting:** The resolver intelligently highlights which photo thumbnails in your batch contain a specific term, enabling you to tag large collections with absolute accuracy and professional-grade speed.
-* **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from a my archive to ensure 100% valid submissions.
-* **Custom User Dictionary:** Easily save your own specialized terms or unique translations that are not present in the internal Master Dictionary. Once a term is saved, the application automatically recognizes and applies it in all future sessions.
-* **Semantic AI Disambiguation (beta):** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
-* **In-Place Editing & Term Splitting:** Double-click to edit or split **multi-word unknown terms** directly in the table. When you split a complex phrase by inserting a comma (e.g., changing 'cooked food' to 'cooked, food'), the application intelligently creates new individual entries, deduplicates them, and performs a fresh validation against both the Master and User dictionaries. This ensures that new terms start with a "clean slate" and are correctly matched against valid Getty-approved vocabulary.
+* **Non-Destructive Sidecars:** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
+* **Interactive Getty Resolver:** Batch-validate keywords against a **Master Dictionary of 11,746+ commercial terms**.
+* **Visual Context Highlighting:** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
+* **Semantic AI Disambiguation:** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
+* **Term Splitting:** Double-click to split multi-word phrases (e.g., 'cooked food' to 'cooked, food') and fresh validation is triggered instantly.
 
 ---
 
-## Global Distribution & Smart FTP Suite
+## 🌍 Global Distribution & Smart FTP Suite
 Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
 
-* **Multi-Server Smart FTP:** Connect to an unlimited number of agencies. Configure unique **thread counts per server** (e.g., 1 thread for sensitive servers like Zoonar, up to 10 for high-speed uploads to Shutterstock) to maximize throughput without risking bans.
-* **Automated CSV Metadata Generation:** Eliminate manual spreadsheet work. ArtushVision AI generates agency-specific CSV files on-the-fly and uploads them alongside your media. It includes support for **Per-Agency Templates**, allowing you to map internal fields to specific columns required by each distributor.
-* **Universal Category Mapping:** Use the smart editable matrix to automatically translate your internal categories into agency-specific ones (Adobe Stock, Shutterstock, Dreamstime, etc.). Features separate logic for **Photo vs. Video categories** (e.g., specialized Motion Elements tags).
-* **FTP Profiles & Batch Uploads:** Organize your distribution channels into custom groups. Create profiles like **"Stock Photo"** or **"Editorial Video"** to trigger one-click batch uploads to multiple destinations. All configurations are stored in a portable `ftp.json` file for easy backup.
-* **Persistent Status Tracking:** Visual **FTP Status Badges** in the grid provide an immediate overview of successful uploads. To ensure data integrity, upload history is written **directly into the file's XMP metadata**, making it persistent even if you move or rename the file.
+* **Multi-Server Smart FTP:** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
+* **Automated CSV Metadata:** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
+* **Universal Category Mapping:** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
+* **FTP Profiles:** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
+* **Persistent Status Tracking:** Visual **FTP Status Badges** are written **directly into the file's XMP metadata**, ensuring history is never lost even if files are moved.
 
 ---
 
-## Professional Workflow & Productivity
-Built for high-volume photography management and seamless integration.
+## 💻 Desktop Application vs. Cloud Services
+Own your tools and pay only for the AI you use.
 
-* **Non-Destructive Sidecars:** All metadata is stored in industry-standard XMP or specialized .getty sidecar files, leaving your original assets untouched.
-* **Advanced Batch Operations:** Use dynamic variables like `{TITLE}`, `{DATE}`, or `{FOLDER_NAME}` to rename thousands of files instantly.
-* **Auto-GPS Country Lookup:** Automatically populate country and state metadata using GPS coordinates with an integrated world-country autocomplete selector.
-
----
-
-## "ArtushVision AI" Desktop Application vs. Cloud Services
-Stop paying for empty subscriptions. Own your tools and pay only for the AI you use.
-
-| Feature | Typical Online AI Tools | ArtushVision AI (Desktop Application) |
+| Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
 | :--- | :--- | :--- |
-| **Advanced Metadata Management** | Not available / Limited | **Manual Editing:** Precise control over Title, Description, Keywords, and Ratings.<br><br>**Streamlined Workflow:** Efficiently organize and categorize large-scale asset collections. |
-| **JPG, RAW, Video, TIFF, PNG, & HEIC Support** | Not available (JPG only) | **Full Native Support** |
-| **Sync & Batch keywording** | Not available | **Sync Metadata & Batch Edit and Replace in all fields** |
-| **Media Privacy** | Mandatory cloud upload | **100% Media Privacy** when using offline AI models (files never leave your computer). For cloud modes, only **low-resolution thumbnails** are sent for analysis. |
-| **Pricing Model** | Recurring Subscriptions | **Perpetual License (Only $39.99)** |
-| **Cost per 10,000 Photos** | Expensive "Credits" ($$$) | **Ultra-low (~$0.50 via OpenRouter API)** |
+| **Advanced Metadata** | Limited / Not available | Full Manual & Batch Control |
+| **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
+| **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** (Local AI) or Thumbnails only |
+| **Pricing Model** | Recurring Subscriptions | **Perpetual License ($39.99)** |
+| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via OpenRouter** |
 
+---
 
-## 1. Installation & Setup
+## 🛠️ 1. Installation & Setup
 
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
-* **Internet:** Required for Cloud AI analysis, maps, and online spell checking.
-*  **[Ollama](https://ollama.com/)** Required for Local AI analysis. 
-* **Dependencies:** Requires `ExifTool` and `FFmpeg` (bundled in the application folders).
+* **Internet:** Required for Cloud AI, Maps, and Spell Check.
+* **[Ollama](https://ollama.com/):** Required for Local AI analysis.
 
 ### First Launch
-
-1. **Run the Application:** Locate and run `ArtushVisionAI.exe` from your installation folder.
-2. **License Activation:** * Enter your license key to unlock all professional features.
-   * Or continue with the **Trial Version** to explore the workflow.
-   * > [!IMPORTANT]
-     > **Trial Limits (per session):** 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads.
-3. **Cloud AI Configuration:** Navigate to **File > API Key** and enter your [OpenRouter API Key](https://openrouter.ai). This enables high-speed analysis using state-of-the-art cloud models.
-4. **Local AI Setup (Ollama):** If you prefer 100% private offline analysis, ensure **[Ollama](https://ollama.com/)** is installed and running. ArtushVision AI includes:
-   * **Smart Model Management:** Download and switch models directly within the app.
-   * **Recommended Models:** Access a curated list of the best-performing vision and text models for optimal results on your hardware.
+1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
+2. **License Activation:** Enter your key or continue with the **Trial Version**.
+   > [!IMPORTANT]
+   > **Trial Limits (per session):** 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads.
+3. **AI Configuration:** Enter your [OpenRouter API Key](https://openrouter.ai) for Cloud or ensure Ollama is running for Local.
 
 ---
 
-## 2. Interface Overview
+## 🖥️ 2. Interface Overview
 
 ### Top Toolbar
-
-* **Profile:** Select the AI system prompt (e.g., "Stock Photography", "Travel Photography", "Social Media", or "Family photos"). Click the **Gear icon** next to the dropdown to edit or create customizable profiles.
-* **Run AI:** The **green play button** starts the AI analysis for all currently selected images in the grid.
-* **Absolute Priority AI Hint:** Treats manual user hints (e.g., specific Latin animal/plant names or precise locations) as unquestionable facts. This is highly recommended for uncommon species or complex botanical/zoological subjects where visual AI identification typically fails.
-* **Speed:** Controls the number of parallel threads (1-20). Higher values significantly increase processing speed but consume more CPU and network bandwidth.
-* **Columns:** Manually adjust the number of columns in the thumbnail grid or set it to **"Auto"** for a responsive layout.
-* **Sorting:** Organize your media assets by **Name** or **Date** in either Ascending or Descending order.
-* **Flat View:** Toggle this to see all files from all subfolders in a single, unified flat list.
-* **Backup:** Safety checkboxes to enable/disable automated backups for **CSV, XMP, and Original JPG** files, ensuring your progress and original data are always protected.
+* **Profile:** Select AI prompts (e.g., "Stock Photography"). Click the **Gear icon** to customize.
+* **Run AI:** The **green play button** starts analysis for all selected images.
+* **Absolute Priority AI Hint:** Treats manual user hints (e.g., Latin names) as unquestionable facts.
+* **Flat View:** Toggle to see all files from all subfolders in a single unified list.
+* **Backup:** Safety checkboxes for automated **CSV, XMP, and Original JPG** backups.
 
 ### Filter Bar
-Located directly below the top toolbar, this bar is your primary tool for organizing the workspace and isolating specific assets within high-volume archives.
-
-* **Selection Tools:** Quick-action buttons to **Select All** or **Select None** of the currently visible assets.
-* **Smart Search:**
-    * **Text Filter:** Search through assets by Title, Description, Keywords, or Filename.
-    * **Aa (Case Sensitivity):** Toggle whether the search should respect upper/lower case.
-    * **Target Selector:** Choose exactly which metadata field to search in for maximum precision.
-* **Navigation & Formats:**
-    * **Folder Filtering:** A dynamic dropdown to isolate specific directories. It includes real-time **photo counts** for each folder and a quick-clear **'×'** button to return to the full view.
-    * **File Type Filter:** Instantly narrow your view to specific formats: **RAW, JPG, Video, HEIF, TIFF, or PNG**.
-* **Advanced Productivity & Status:**
-    * **Smart Status Filtering:** Isolate files based on their current workflow state: **Selected, Modified (unsaved), Done**, or those with **Validation Errors**.
-    * **Advanced FTP Filter:** Track your distribution progress with specialized filters showing **Sent, Not Sent**, or **Ignore** status for each individual server.
-* **Quality & Validation Control:**
-    * **Constraint Check:** Quickly find files that have **Exceeded Limits** (character or keyword counts).
-    * **Integrity Check:** Identify **Misspelled** terms or **Corrupted** files that need attention before submission.
-* **Workspace Toggles:** Dedicated buttons to show or hide the **Rating Bar** and the **Batch Edit Bar**, allowing you to maximize your screen real estate.
-* **Deep Discovery:** Access specialized dialogs for complex, multi-criteria **Advanced Metadata filtering**.
+* **Smart Search:** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
+* **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
+* **Status Filtering:** Isolate files based on workflow state (**Modified, Done, Error**) or **FTP status**.
+* **Quality Control:** Find files that have **Exceeded Limits** or are **Corrupted**.
 
 ### The Image Grid
-The central workspace where each cell represents a media file. It provides immediate visual feedback on the status, metadata, and distribution history of your assets.
-
-* **Visual Status Indicators:** Small colored markers in the top-right corner of each thumbnail indicate the current state of the file:
-    * ⚪ **Gray/White:** Unchanged or default state.
-    * 🟡 **Yellow:** Modified (contains unsaved changes).
-    * 🟢 **Green:** Successfully saved or metadata fully loaded.
-    * 🔴 **Red:** Validation error (e.g., title exceeds character limits or missing required fields).
- 
-* **Thumbnail Badges:** High-visibility icons in the top-left corner provide quick technical and workflow insights:
-    * **GPS:** The file contains embedded geolocation coordinates.
-    * **XMP:** An XMP sidecar file exists for this asset.
-    * **ORIG:** An original backup of the file is safely stored.
-    * **RAW:** Indicates a RAW camera format.
-    * **VIDEO:** Indicates a video file.
-    * **GETTY:** Indicates the asset has been processed via the **Getty Optimizer**. It confirms that a `.getty` sidecar file exists and that keywords have been validated against the Getty Master Dictionary.
-    * **FTP:** Displays the upload status. This badge identifies the specific servers where the file has been successfully delivered. Since the upload history is written **directly into the file's XMP metadata**, this badge remains persistent even if you move the file between folders.
-    * **CAT:** Confirms that **Stock Categories** have been assigned to the image or video. This ensures the asset is ready for agency-specific mapping and automated CSV generation during export or upload.
-    * **⚠️:** Critical warning (e.g., corrupted file or loading error).
- 
-* **Inline Metadata Editing:** Each cell features dedicated fields for **Title**, **Description**, and **Keywords** directly below the thumbnail, allowing for lightning-fast manual adjustments without leaving the grid view.
-* **Context Menu (Right-Click):** Right-click any cell to access a comprehensive suite of professional actions:
-    * **Quick Tools:** Open file location, rename, or view full EXIF data.
-    * **AI & Optimization:** Trigger AI analysis for the selection or launch the **Getty Optimizer**.
-    * **Workflow Management:** Copy/Paste metadata between files, manage FTP history, or move/delete assets.
-    * **Curation:** Apply Flags, Ratings (1-5 stars), and Color Labels instantly.
-
-###  File & Grid Management
-ArtushVision AI offers a dynamic and flexible workspace, allowing you to manage large archives with ease.
-
-* **Smart Folder Appending:** Use the **"Add Folder"** button to append new directories to your current grid without clearing your existing work.
-* **Manual Refresh:** Instantly rescan your active folders for newly added or deleted assets with a single click.
-* **Quick Workspace Cleanup:** Remove entire directories from your view using the **'Close folder'** (x) button located directly on the grid's folder separators.
-* **Full File Operations:** Perform professional file management directly from the right-click context menu:
-    * **Copy, Move, and Delete (to Recycle Bin).**
-    * **Sidecar Synchronization:** The app automatically handles all associated files (**XMP sidecars, _original backups**) during any move or rename operation, ensuring your metadata is never detached.
-
-### Powerful Batch Operations
-Modify thousands of files at once with a robust engine designed for mass-scale metadata synchronization.
-
-### Smarter Batch Rename
-The renaming engine is now fully metadata-aware. It ensures that any name change is instantly reflected across:
-1. The primary media file.
-2. The associated **XMP sidecar**.
-3. Any existing **CSV backup** entries.
-
-### Batch Rename Variables
-Use these dynamic placeholders to create perfectly organized file structures:
-
-| Variable | Description | Example / Result |
-| :--- | :--- | :--- |
-| `{C}` / `{CC}` | Dynamic counter (starts from 1 or 01) | `01, 02...` |
-| `{CCC-5}` | Counter with specific start point | `005, 006...` |
-| `{TITLE}` | Uses the asset's Title from metadata | `"Golden Sunset"` |
-| `{DATE}` | Today's current date | `2026-05-12` |
-| `{ORIG_DATE}` | Original capture date from EXIF | `2026-04-14` |
-| `{FOLDER_NAME}` | Name of the parent directory | `"Madagascar_2026"` |
-| `{ORIG_FILENAME}`| The original name before any changes | `"IMG_4821"` |
-
-> [!EXAMPLE]
-> **Rename Pattern:** `{CC} - {TITLE} - {ORIG_DATE}`  
-> **Final Result:** `01 - Golden Sunset - 2026-04-14.jpg`
----
-
-##  3. AI Analysis Workflow
-
-Follow this proven workflow to achieve the best results when generating metadata automatically.
-
-1. **AI Engine Selection:** Before starting, ensure your preferred processing engine is selected in the settings:
-   * **Cloud AI** (Maximum intelligence via OpenRouter).
-   * **Local AI** (100% privacy via Ollama).
-   * **Hybrid AI** (Local vision analysis + Cloud OpenRouter text formatting).
-   * **2-Pass Local** (Deep offline synthesis for elite results).
-		The **2-Pass Local** mode is the flagship **offline workflow** of ArtushVision AI. It is designed to deliver cloud-level metadata quality while running entirely on your local hardware via Ollama, ensuring 100% privacy and zero per-image costs.
-		* **Pass 1: Deep Visual Analysis:** The application first utilizes a powerful dedicated **Vision Model** to perform an exhaustive scan of the image. It identifies subjects, textures, colors, lighting conditions, and specific details that smaller models might miss.
-		* **Pass 2: Professional Metadata Synthesis:** In the second pass, the raw visual data is handed over to a high-performance **Text Model**. This model synthesizes the visual findings into professional-grade titles, SEO-optimized descriptions, and relevant keywords, following the specific logic of your chosen profile (e.g., Stock or Editorial).
-2. **Load Assets:** Click the **Load Folders** (or **Add Folder**) button in the bottom-right corner and select your directory. The app will instantly scan the folder and display all supported image and video formats.
-3. **Select Files:** Highlight the assets you wish to analyze:
-   * `Shift + Click` to select a range of images.
-   * `Ctrl + Click` to select individual files within the grid.
-4. **Choose Profile:** Select the AI system prompt profile from the dropdown that best matches your content (e.g., **"Stock Photography"**, **"Editorial"**, or your own **Custom Profile**).
-5. **Run & Monitor:** Click the **Run AI** (Play icon) button to begin processing.
-   * **Progress Tracking:** Monitor the analysis in real-time via the progress dialog. You can stop the process at any time if needed.
-   * **Real-time Cost Statistics:** For cloud-based modes, the app displays the exact cost of each query immediately after analysis with **6-decimal precision**, keeping your budget fully transparent.
+* **Visual Status Indicators:** Small markers in the top-right corner: ⚪ (Unchanged), 🟡 (Modified), 🟢 (Saved), 🔴 (Error).
+* **Thumbnail Badges:** Top-left icons: **GPS, XMP, ORIG, RAW, VIDEO, GETTY, FTP, CAT,** or **⚠️**.
+* **Context Menu (Right-Click):** Access Quick Tools, AI analysis, Getty Optimizer, and full File Operations (Copy/Move/Delete).
 
 ---
 
-## 4. Professional Advanced AI Tools
+## 🚀 3. AI Analysis Workflow
+1. **AI Mode Selection:** Choose **Cloud, Local, Hybrid,** or **2-Pass Local** in settings.
+2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
+3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
+4. **Choose Profile:** Select the system prompt profile (e.g., "Editorial").
+5. **Run & Monitor:** Click the green **Run AI** button. Monitor real-time **Cost Statistics** with 6-decimal precision.
+
+---
+
+## 🧠 4. Professional Advanced AI Tools
 
 ### Unlimited Customization with AI Profiles
+Use **Dynamic Variables** to feed the AI technical data hidden in your files.
 
-Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables**, you feed the AI technical and contextual data hidden in your files, allowing it to "understand" your photos far beyond just pixels.
-
-| Feature / Function | Description & Variable Usage | AI Prompt Example |
-| :--- | :--- | :--- |
-| **Family & Event Archiving** | Use `{folder_context}` to tell AI about specific people or celebrations based on your folder names. | `"This photo is from {folder_context}. Identify the people and the event name."` |
-| **AI Visual Geolocation** | Even without GPS, the AI recognizes world landmarks and streets from pixels—or use `{city}` and `{country}` for precise tagging. | `"Recognize the landmark in {city}, {country}. If unsure, use {loc_hint}."` |
-| **Text & OCR Recognition** | Automatically extract text from signs, handwritten notes, or notices found directly within the image. | `"Transcribe the text {text_ocr} from this image and add it to the description."` |
-| **Technical EXIF Analysis** | Inject technical metadata like `{camera_model}` or `{exposure_info}` to help AI derive tags like 'long exposure' or 'bokeh'. | `"Photo taken with {camera_model}. Settings: {exposure_info}. Describe the lighting."` |
-
-> **Smart Metadata Protection**
-> Your manual work is untouchable. ArtushVision AI is designed with a "safety-first" logic—it intelligently preserves all existing keywords and **Face Recognition (People tags)**. Instead of overwriting your progress, the AI acts as a creative partner, appending new visual insights without disturbing the organization you've already built.
-
-### Master Variable Reference for AI Context & Recognition
-
-Use these dynamic placeholders in your AI prompts to inject specific file context, metadata, and technical details for more accurate and professional results.
 | Category | Variable | Description | Example Output |
 | :--- | :--- | :--- | :--- |
-| **User & File Context** | `{user_hint}` | **Manual hint entered in the main window** (for example latin name of animal) | `"Euphonia laniirostris"` |
-| | `{folder_context}` | Name of the parent folder (event context) | `"Wedding 2025"` |
-| | `{filename}` | Original filename without extension | `"IMG_4821"` |
-| | `{date_info}` | Capture date (DD.MM.YYYY) | `"24.09.2025"` |
-| | `{local_vision_text}` | Raw description from local Ollama | `"A photo of a forest..."` |
-| **Existing Metadata (IPTC/XMP)** | `{existing_keywords}` | Keywords already saved in the file | `"nature, sunrise"` |
-| | `{existing_title}` | Original Headline/Title | `"Sunset over hills"` |
-| | `{existing_description}`| Original Caption/Description | `"Photo taken at..."` |
-| | `{existing_rating}` | Star rating (1-5) | `"5"` |
-| **Current Geolocation & AI Vision** | `{city}` / `{country}` | City and Country from live GPS coords | `"Paris", "France"` |
-| | `{loc_hint}` | Full address string from reverse geocoding | `"Prague, Czechia"` |
-| | `{gps_raw}` | Raw decimal coordinates | `"50.08, 14.43"` |
-| | `{maps_link}` | Direct link to Google Maps | `http://maps.google.com/...` |
-| | `{text_ocr}` | Text extracted visually from the image | `"Route 66"` |
-| **Stored Geodata for files with pre-filled location data from tools like Lightroom or digiKam.** | `{existing_location}` | Specific place names (IPTC/XMP) | `"Central Park"` |
-| | `{existing_city}` | City saved in file metadata | `"New York"` |
-| | `{existing_state}` | Region or State saved in file | `"NY"` |
-| | `{existing_country}` | Country and 2-letter code | `"United States", "US"` |
+| **User Context** | `{user_hint}` | **Manual hint entered in the window** | `"Euphonia laniirostris"` |
+| | `{folder_context}` | Name of the parent folder | `"Wedding 2025"` |
+| **Current Geodata**| `{city}` / `{country}` | Live GPS location data | `"Paris", "France"` |
+| | `{text_ocr}` | Text extracted visually from image | `"Route 66"` |
 | **Technical EXIF** | `{camera_model}` | Camera or Drone model | `"Sony A7IV"` |
-| | `{lens_hint}` | Detailed lens information | `"FE 24-70mm GM"` |
-| | `{exposure_info}` | Shutter speed, Aperture, and ISO | `"1/500s, f/2.8, ISO 100"` |
-| | `{aspect_ratio}` | Image orientation (Landscape/Portrait) | `"Landscape"` |
-| | `{flash_used}` | Flash status (Yes/No) | `"No"` |
-| | `{allowed_categories}`| Categories from your Category Matrix | `"Nature, Wildlife"` |
+| | `{exposure_info}` | Shutter, Aperture, and ISO | `"1/500s, f/2.8, ISO 100"` |
 
 > [!TIP]
-**Pro Tip:** To keep your AI instructions concise and minimize token usage, simply remove any variables from your prompt that you don't intend to use for a specific profile.
-
-### Advanced AI Logic & Metadata Control
-
-ArtushVision AI goes beyond simple tagging by combining visual recognition with deep file logic. You have full control over how the AI interprets and preserves your data.
-
-### Intelligent Recognition Features
-* **AI Visual Geolocation:** Even without GPS data, the AI identifies world landmarks and streets directly from pixels. You can toggle between **OpenStreetMap** and **ArcGIS** providers in Settings for the most accurate reverse geocoding.
-* **Text & OCR Recognition:** Automatically extract text from signs, notices, or handwritten notes within the image using the `{text_ocr}` variable—ideal for travel and editorial shots.
-* **Technical Hardware Analysis:** By injecting `{camera_model}` or `{exposure_info}`, the AI understands the photographic context (e.g., automatically adding "aerial view" for drones or "long exposure" for night shots).
-
-### Metadata Integrity & Logic
-* **Context-Aware Analysis:** Pass existing IPTC/XMP titles and keywords directly into the AI prompt. This allows the AI to "build upon" your existing work rather than starting from scratch.
-* **Smart Metadata Protection:** Protect your manual work. The application intelligently preserves existing keywords, ratings, and **People tags**, ensuring AI automation never overwrites your critical data.
-* **AI Diacritics Toggle:** Switch between strict **Microstock Compatibility** (diacritics disabled) and **Natural Language** (diacritics enabled). Turn this on for family albums or local archives where accents (é, š, č) are required.
-
----
-> [!TIP]
-> **Pro Tip:** Use the **GPS Smart Parsing** feature to prevent "AI hallucinations." By feeding the AI verified neighborhoods and street names from your provider, the generated descriptions will be geographically precise.
+> **Smart Metadata Protection:** 🛡️ ArtushVision AI is designed with a "safety-first" logic—it intelligently preserves all existing keywords and **Face Recognition (People tags)**. AI appends new insights without overwriting your manual progress.
 
 ---
 
-## 5. Manual Editing & Detail View
-Double-click any image to enter the **Detail Photo View**, a specialized environment designed for precise, individual file adjustments and final curation.
+## 🖼️ 5. Manual Editing & Detail View
+Double-click any image to enter the **Detail Photo View**.
 
-### The Editor
-* **Text Fields:** Edit Titles and Descriptions with real-time word and character counters (e.g., `5 | 45`) to stay within agency limits.
-* **Multilingual Spell Check:** Misspelled words are underlined in red. Simply right-click to see suggested corrections.
-* **Asset Curation:** Apply professional star **Ratings** (1-5), pick/reject flags, and assign stock agency **Categories** directly within the view.
-
-### Keyword Bubbles
-Manage your tags visually with an intuitive "bubble" system:
-* **Interaction:** Add tags via the input box (separate by comma or Enter), remove with the **×**, or **Drag and Drop** bubbles to perfectly reorder your keyword hierarchy.
-* **Visual Color Coding:** Instantly identify the source of your metadata (colors are fully customizable):
-    * 🔵 **Blue:** Generated by AI.
-    * 🟢 **Green:** Manually added by the user.
-    * ⚫ **Black/White:** Original keywords loaded from the file.
-
-### Inspection & Navigation
-* **Interactive Map:** View the exact GPS location of your shot on an integrated map with full zoom and satellite support.
-* **Technical Tools:** Access the comprehensive **EXIF Data** panel or open the asset in your preferred **External Viewer** with a single click.
-* **Fluid Navigation:** Use the on-screen arrow buttons or **keyboard arrow keys** to move to the next or previous image without closing the Detail View window.
-
-### Synonyms & Translation
-Enhance your metadata depth and accuracy with integrated linguistic tools designed for global stock requirements.
-
-* **Smart Synonyms:** Right-click any keyword bubble to open the **Synonym Dialog**. This tool fetches contextually related terms and expanded vocabulary from the **Datamuse online database**, allowing you to maximize your discoverability and SEO with professional alternatives.
-* **Live Translation Tooltips:** Perfect for non-native workflows. When enabled in Settings, the application provides instant **translation tooltips** for your keywords in your native language, ensuring you always select the most precise terms for your content.
-
-### Saving & Data Integrity
-Click **Save Changes** in the bottom right of the main GUI to commit your work. ArtushVision AI supports a "safety-first" workflow with optional backups:
-* **XMP Sidecars:** Writes metadata to standard XMP files—the safest method for RAW and Video assets.
-* **CSV Export:** Automatically generates a spreadsheet containing all metadata for bulk agency uploads.
-* **Original Backup:** Preserves your original JPG file by creating a copy with the `.original` extension before any changes are applied.
+* **The Editor:** Features real-time word counters and **Multilingual Spell Check** (right-click for suggestions).
+* **Keyword Bubbles:** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
+* **Linguistic Tools:** Right-click a bubble for **Synonyms** (Datamuse) or view native **Translation Tooltips**.
+* **Interactive Map:** View exact GPS locations with zoom and satellite support.
 
 ---
 
-## 6. Batch Operations
-Efficiency is the core of ArtushVision AI. Toggle the **Batch Edit** panel using the **List Icon** in the filter bar to modify hundreds of assets simultaneously with surgical precision.
+## 🚀 6. Batch Operations
+Modify thousands of assets simultaneously with surgical precision.
 
-### Bulk Metadata Editing
-Streamline your workflow by applying changes to your entire selection at once.
-* **Select Target:** Choose exactly where to apply changes—**Title, Description, Keywords**, or **All Fields**.
-* **Smart Actions:**
-    * **Add:** Append text to the beginning or end of fields. For keywords, this intelligently adds new tags or appends text with proper spacing.
-    * **Remove:** Instantly strip specific words or tags from your selection.
-    * **Replace:** Swap "Text A" for "Text B" using the quick `Old -> New` syntax.
-    * **Search & Replace (Ctrl+H):** Open the dedicated dialog for advanced string manipulations across your library.
-* **Field Cleanup:** Use **Delete Field** to clear specific metadata (e.g., just Titles) or **Clear All** to completely reset the metadata of selected files.
-
-### Analysis & Optimization
-* **Bulk AI Processing:** Trigger the AI engine for all selected files using your active profile (Stock, Editorial, etc.).
-* **Getty Images Resolver:** Batch-validate and resolve keywords against the Getty Master Dictionary for your entire selection to ensure 100% agency compatibility.
-
-### Dynamic Batch Renaming
-The renaming engine is fully metadata-aware and synchronizes changes across media files, **XMP sidecars**, and **CSV backups**.
-* **Variable Patterns:** Create perfectly organized filenames using dynamic placeholders:
-    * `{TITLE}` – Uses the asset's Title from metadata.
-    * `{DATE}` / `{ORIG_DATE}` – Today's date vs. original capture date.
-    * `{CC}` – A sequential counter (01, 02...) for perfect ordering.
-    * `{FOLDER_NAME}` – Maintains the directory context in the filename.
-* **Sidecar Integrity:** The app ensures that associated XMP and backup files are renamed alongside the primary media to prevent data detachment.
-
-### Workflow & Distribution
-* **File Operations:** Perform full file management—**Copy, Move, or Delete (to Recycle Bin)**—directly within the workspace.
-* **Instant Distribution:** Initiate a **Multi-Server FTP Upload** for your entire selection. The app automatically handles concurrent uploads and generates necessary CSV metadata files for a "zero-touch" submission process.
+* **Smart Actions:** Bulk **Add, Remove, or Replace** text across Title, Description, or Keywords.
+* **Search & Replace (Ctrl+H):** Advanced string manipulations across your entire library.
+* **Dynamic Batch Rename:** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}` (counter).
+* **File Operations:** Safely Copy, Move, or Delete files along with their **XMP and sidecars**.
 
 ---
 
-## 7. Settings & Configuration
-Access the full suite of customization options via **File > Grid Settings** to tailor ArtushVision AI to your specific hardware capabilities and professional workflow requirements.
-
-### Workspace & Grid Appearance
-* **Visual Layout:** Fully customize the main grid by adjusting **Thumbnail Height**, **Font Size**, and individual heights for **Title, Description, and Keyword** fields for optimal readability.
-* **Smart Grid Info:** Toggle visibility for filenames, technical file info, and **FTP Status Badges** directly on your thumbnails.
-* **Tag Visualization:** Choose between a classic text list or modern **Keyword Tags**, with an option to **Crop to Square** for a cleaner, gallery-style look.
-
-### Language, AI & Translation
-* **AI Engine & Ollama Tuning:** Switch between **Cloud AI** (OpenRouter) and **Local AI**. For local workflows, precisely set the **Ollama Context (VRAM)** and API URL to match your GPU power.
-* **Linguistic Toolkit:** Enable **Multilingual Spell Check**, Autocomplete, and online suggestions for synonyms.
-* **Integrated Translator:** Set your **Target Translation Language** to see instant tooltips for keywords in your native tongue.
-* **AI Diacritics Toggle:** While disabled by default for strict microstock compatibility, enabling this is perfect for **local and family photo albums** where accents (é, š, č) are required.
-
-### Video & RAW Processing
-* **AI Video Context:** Define the **number of video frames** extracted for analysis (default is 3). Use **Economy Mode (Collage)** to save on API costs by combining these frames into a single image.
-* **Metadata Handling:** Protect your original assets by forcing the application to write metadata to **XMP sidecar files** for RAW/Video.
-* **Original Integrity:** Preserve the original **File Modification Time** and keep RAW files untouched by utilizing sidecars for all metadata operations.
-
-### Validation & Limits
-* **Field Constraints:** Set mandatory **Min/Max character lengths** for Titles and Descriptions.
-* **Agency Compliance:** Define **Keyword Counts** to meet specific requirements (e.g., the 50-keyword limit for Shutterstock).
-* **Visual Error Feedback:** Enable **Limits Validation** and choose a custom **Error Color** to instantly highlight any fields that violate your defined rules.
-* **Advanced Color Coding:** Customize background/text colors for **Original**, **AI-generated**, and **Manually edited** keywords for perfect visual organization.
-
-### CSV Export & Template Editor
-Finalize your distribution workflow with a powerful engine for mass-upload metadata structures.
-* **Agency Presets:** Create and save specific templates for **Adobe Stock, Shutterstock, Alamy**, and more.
-* **Reverse Template Engineering:** Instantly create a custom template by loading an existing agency CSV file. The app automatically analyzes and maps the structure for you.
-* **Field Mapping:** Map internal ArtushVision fields to the specific CSV column names required by each unique agency.
-* **Fixed Values:** Automatically add custom columns with fixed text (e.g., "Editorial" status) to every row in the export.
-
-### Maps & Geodata
-* **Map Integration:** Select your preferred **Map Provider** (Google Maps) and set default **Zoom levels**.
-* **GPS Smart Parsing:** Choose between **OpenStreetMap** or **ArcGIS** for reverse geocoding. Features intelligent parsing for regions, streets, and neighborhoods to provide the AI with precise context and prevent "hallucinations."
-
-### Advanced Configuration
-* **Backup & Sync:** Quickly **Export/Import Settings** to sync your configuration across multiple workstations.
-* **System Paths:** Configure local paths for essential external tools: `exiftool.exe` and `ffmpeg.exe`.
-* **Advanced Matrices:** Direct access to your **CSV Templates**, **FTP Server Management**, and the **Category Mapping Matrix**.
+## ⚙️ 7. Settings & Configuration
+* **Workspace:** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
+* **Video Tuning:** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
+* **CSV Editor:** Reverse-engineer templates by loading existing agency CSV files.
+* **Maps:** Choose between **OpenStreetMap** or **ArcGIS** for reverse geocoding to prevent AI hallucinations.
 
 ---
 
 ### [Get Started Now]
 * [Download Fully Functional Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
-* [Read the Full Documentation](https://www.artushfoto.eu/Software/ArtushVisionAI)
 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODgxODA5NSwxNDM1MDIwMDgwLC0yMD
-c0NjUwMzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMCwyNTk2OTY4
-MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLDEwNj
-YxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMw
-NCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nz
-g3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5
-NF19
+eyJoaXN0b3J5IjpbODMyMzcwMjEyLDE0MzUwMjAwODAsLTIwNz
+Q2NTAzNjAsNTAwMTAxOTU1LC0xOTMwMjMzMzIwLDI1OTY5Njgy
+NSwxMTQwODc3Njk5LDkwNDcyNjA4LDEwNTg4MDUyMTAsMTA2Nj
+E5ODY1OCwtMTcyOTQ4OTA0Miw3MTQyOTkxOCwxMzgwNzMyMzA0
+LDIwMjM0OTY1NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3OD
+c3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0
+XX0=
 -->
