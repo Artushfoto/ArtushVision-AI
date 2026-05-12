@@ -17,6 +17,42 @@
 **Beyond AI automation, it offers a complete organization toolkit, including **star ratings, pick/reject flags, and color-coded labels** to help you curate and filter your media with ease. Full compatibility with **Adobe Lightroom, Bridge, Zoner, DigiKam and others**. We use industry-standard IPTC/XMP metadata that works everywhere.**
 
 ---
+<div align="center" style="margin: 40px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <table style="border: none; border-collapse: collapse; width: 100%; max-width: 800px;">
+    <tr style="border: none;">
+      <td style="border: none; width: 50%; padding: 10px;">
+        <a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI" style="text-decoration: none;">
+          <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: white; text-align: left; transition: transform 0.2s;">
+            <span style="font-size: 24px; float: left; margin-right: 15px;"></span>
+            <div style="font-size: 18px; font-weight: 600; color: #24292e;">Download Free Fully Functional Lite Version</div>
+            <div style="font-size: 14px; color: #586069; margin-top: 4px;">Test the full professional workflow now</div>
+          </div>
+        </a>
+      </td>
+      <td style="border: none; width: 50%; padding: 10px;">
+        <a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI" style="text-decoration: none;">
+          <div style="border-radius: 8px; padding: 20px; background: #0062ff; text-align: left; color: white;">
+            <span style="font-size: 24px; float: left; margin-right: 15px;"></span>
+            <div style="font-size: 18px; font-weight: 600;">Get Lifetime License for only $39.99</div>
+            <div style="font-size: 13px; opacity: 0.9; margin-top: 4px;">+ local VAT (calculated at checkout)</div>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <div style="margin-top: 20px;">
+    <p style="font-weight: 600; color: #24292e; margin-bottom: 4px;">One-time payment • No monthly fees</p>
+    <p style="font-size: 14px; color: #586069; margin-top: 0;">Pay once, use forever. Securely processed by Polar & Stripe.</p>
+  </div>
+
+  <div style="margin-top: 15px;">
+    <a href="https://polar.sh" style="color: #0062ff; text-decoration: none; font-size: 14px;">
+      Already have a license? Manage or Deactivate your devices
+    </a>
+  </div>
+</div>
+---
 ## Quick Navigation
 * [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
 * [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
@@ -307,11 +343,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OT
-c0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2Myw1ODc5MDY1MTUs
-LTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2OD
-U2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0Mjks
-MTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNj
-gxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5Nzdd
-fQ==
+eyJoaXN0b3J5IjpbLTIwMTg4MzA4MjksLTQwMzA2MDk0LC00MD
+MwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2
+Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2OD
+g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
+NSwxMzA1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzND
+AyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4
+M119
 -->
