@@ -8,7 +8,7 @@
 
 **ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via Cloud OpenRouter or local Ollama) to automatically generate keywords, titles, and descriptions for **JPG, RAW, VIDEO, HEIC, TIFF, and PNG** assets, while providing robust tools for manual metadata management. Your data is always safe with automated backups and flexible export options to CSV and XMP sidecars, ensuring you never lose your progress or original file integrity.
 
-> [!]
+---
 > **Exceptional Value:** Using our recommended model, **google/gemini-2.0-flash-001**, you can professionally describe approximately **100,000 to 150,000 photos for only $5** with perfect, high-quality results.
 > 
 >**Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query.
@@ -307,11 +307,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY3NTUxMCwtNDAzMDYwOTQsMTczND
-k3NDYxOCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OTA2NTE1
-LC0xMTkxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDksLTY1Nj
-g1Njk3NSwtNzg1ODQ5OTQ2LDE4NTI2MzEwMDUsMTMwNTYwNDI5
-LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQzLDEyMz
-Y4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0NjIzOTc3
-XX0=
+eyJoaXN0b3J5IjpbLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OT
+c0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2Myw1ODc5MDY1MTUs
+LTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0OSwtNjU2OD
+U2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMzA1NjA0Mjks
+MTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNj
+gxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5Nzdd
+fQ==
 -->
