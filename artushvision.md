@@ -145,10 +145,16 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 * **Dependencies:** Requires `ExifTool` and `FFmpeg` (bundled in the application folders).
 
 ### First Launch
-1.  Run `ArtushVisionAI.exe`.
-2. **License Activation:** Enter your license key or continue with the Trial version, which is limited to **10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads per session**.
-3.  **API Key:** Navigate to **File > API Key** and enter your [OpenRouter Key](https://openrouter.ai).
-4. Install Ollama if You want use local AI, Artush Vision have in build simple model management a and recomendation for some models to try.
+
+1. **Run the Application:** Locate and run `ArtushVisionAI.exe` from your installation folder.
+2. **License Activation:** * Enter your license key to unlock all professional features.
+   * Or continue with the **Trial Version** to explore the workflow.
+   * > [!IMPORTANT]
+     > **Trial Limits (per session):** 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads.
+3. **Cloud AI Configuration:** Navigate to **File > API Key** and enter your [OpenRouter API Key](https://openrouter.ai). This enables high-speed analysis using state-of-the-art cloud models.
+4. **Local AI Setup (Ollama):** If you prefer 100% private offline analysis, ensure **[Ollama](https://ollama.com/)** is installed and running. ArtushVision AI includes:
+   * **Smart Model Management:** Download and switch models directly within the app.
+   * **Recommended Models:** Access a curated list of the best-performing vision and text models for optimal results on your hardware.
 
 ---
 
@@ -330,7 +336,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMzAzMzYzLC0xNjgwNzk2NSwtMTQ3OD
+eyJoaXN0b3J5IjpbMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3OD
 c3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0
 LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4Nz
 kwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5
