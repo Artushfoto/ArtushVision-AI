@@ -29,9 +29,14 @@ Registration: Sign up using your email and a chosen password.
 Confirmation: Check your inbox and confirm your email address.
 
 **Click to Sign Up**
+
+---
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/002.png" target="_blank">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/002.png">
 </a>
+
+---
 
 Registration: Sign up using your email and a chosen password.  
 Confirmation: Check your inbox and confirm your email address.  
@@ -40,9 +45,14 @@ Create Key: Click "Create API Key" and set a name, e.g., ArtushVision AI.
 > ⚠️ **IMPORTANT:** Copy the generated key immediately and write it down somewhere safe. You will not be able to see it again.
 
 **Click to Create API Key**
+
+---
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/003.png" target="_blank">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/003.png">
 </a>
+
+---
 
 **Create Your free API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png" target="_blank">
@@ -91,6 +101,5 @@ Create Key: Click "Create API Key" and set a name, e.g., ArtushVision AI.
   Last updated: March 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI2MjI5NDEsLTE3MTc3NjcwMDVdfQ
-==
+eyJoaXN0b3J5IjpbMTk2MTc3NDM4NywtMTcxNzc2NzAwNV19
 -->
