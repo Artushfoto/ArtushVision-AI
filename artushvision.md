@@ -18,7 +18,7 @@
 
 ---
 
-## Versatile AI Engine: Choose Your Preffered Workflow
+## Versatile AI Engine: Choose Your Workflow
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **Cloud AI (Fast & Maximum Intelligence):** Uses state-of-the-art models like Gemini 2.0 Flash via OpenRouter for high-quality titles and descriptions. Process up to **150,000 photos for just $5 with ultra-low API costs.**
@@ -32,7 +32,7 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 ## Getty Images Optimizer (Master ESP Tool)
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
 
-* **Interactive Getty Resolver (Single & Batch Mode):** The resolver can be used for a single photograph or an entire batch of images simultaneously. To ensure maximum speed and precision, the interface provides a real-time preview of the photo being edited, allowing you to instantly verify the context of every term.
+* **Interactive Getty Resolver (Single & Batch Mode):** The resolver can be used for a single photograph or an entire batch of images simultaneously. 
 * **Visual Context Highlighting:** The resolver intelligently highlights which photo thumbnails in your batch contain a specific term, enabling you to tag large collections with absolute accuracy and professional-grade speed.
 * **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from Qhero to ensure 100% valid submissions.
 * **Custom User Dictionary:** Easily save your own specialized terms or unique translations that are not present in the internal Master Dictionary. Once a term is saved, the application automatically recognizes and applies it in all future sessions.
@@ -105,7 +105,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzOTA4ODU5LDM0MDI4NDc0MywxMjM2OD
-ExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3NDYyMzk3Nywt
-NzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbMTg3NDY1ODgzNiwzNDAyODQ3NDMsMTIzNj
+gxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5Nzcs
+LTcyNTEzMTE5OV19
 -->
