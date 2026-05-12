@@ -24,15 +24,13 @@ Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/)
 
 ---
 
-Registration: Sign up using your email and a chosen password.  
-Confirmation: Check your inbox and confirm your email address.
+**Registration:** Sign up using your email and a chosen password.  
+**Confirmation:** Check your inbox and confirm your email address.
 
 **Click to Sign Up**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/002.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/002.png"></td></tr></table>
 </a>
-
----
 
 **Registration:** Sign up using your email and a chosen password.  
 **Confirmation:** Check your inbox and confirm your email address.  
@@ -102,5 +100,6 @@ Confirmation: Check your inbox and confirm your email address.
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzA0MDQ1MSwtMTcxNzc2NzAwNV19
+eyJoaXN0b3J5IjpbLTIwNjMzMTQ4MDgsLTE3MTc3NjcwMDVdfQ
+==
 -->
