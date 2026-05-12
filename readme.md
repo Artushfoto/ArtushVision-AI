@@ -1,4 +1,6 @@
-<h1 align="center">ArtushVision AI</h1>
+---
+layout: default
+---
 
 <p align="center">
   <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
@@ -22,7 +24,7 @@
 
 <div align="center">
 
-### 💡 **ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!**
+### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
 *Test the full professional workflow with our Lite Version before committing to a license.*
 
 | [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
@@ -30,7 +32,7 @@
 | **Fully Functional Version** | **Only $39.99** (+ local VAT) |
 | No time limits for testing | One-time payment • No monthly fees |
 
-**Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
+**Securely processed by Polar & Stripe.** [Already have a license? Manage or Deactivate your devices](https://polar.sh)
 
 </div>
 
@@ -211,5 +213,6 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTA4NzMwMiwxNzI1NjE3MTIyXX0=
+eyJoaXN0b3J5IjpbLTEwNTU3MzA3MTksLTkyOTA4NzMwMiwxNz
+I1NjE3MTIyXX0=
 -->
