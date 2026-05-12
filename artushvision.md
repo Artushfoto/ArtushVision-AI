@@ -119,7 +119,7 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 🖥️ 2. Interface Overview
+## 2. Interface Overview
 
 ### Top Toolbar
 * **Profile:** Select AI prompts (e.g., "Stock Photography"). Click the **Gear icon** to customize.
@@ -141,7 +141,7 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 🚀 3. AI Analysis Workflow
+## 3. AI Analysis Workflow
 1. **AI Mode Selection:** Choose **Cloud, Local, Hybrid,** or **2-Pass Local** in settings.
 2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
 3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
@@ -150,7 +150,7 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 🧠 4. Professional Advanced AI Tools
+## 4. Professional Advanced AI Tools
 
 ### Unlimited Customization with AI Profiles
 Use **Dynamic Variables** to feed the AI technical data hidden in your files.
@@ -169,7 +169,7 @@ Use **Dynamic Variables** to feed the AI technical data hidden in your files.
 
 ---
 
-## 🖼️ 5. Manual Editing & Detail View
+## 5. Manual Editing & Detail View
 Double-click any image to enter the **Detail Photo View**.
 
 * **The Editor:** Features real-time word counters and **Multilingual Spell Check** (right-click for suggestions).
@@ -179,7 +179,7 @@ Double-click any image to enter the **Detail Photo View**.
 
 ---
 
-## 🚀 6. Batch Operations
+## 6. Batch Operations
 Modify thousands of assets simultaneously with surgical precision.
 
 * **Smart Actions:** Bulk **Add, Remove, or Replace** text across Title, Description, or Keywords.
@@ -189,7 +189,7 @@ Modify thousands of assets simultaneously with surgical precision.
 
 ---
 
-## ⚙️ 7. Settings & Configuration
+## 7. Settings & Configuration
 * **Workspace:** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
 * **Video Tuning:** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
 * **CSV Editor:** Reverse-engineer templates by loading existing agency CSV files.
@@ -204,7 +204,7 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTQ0OTQxNCwxNDM1MDIwMDgwLC0yMD
+eyJoaXN0b3J5IjpbMTA3MzE5NDI3OSwxNDM1MDIwMDgwLC0yMD
 c0NjUwMzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMCwyNTk2OTY4
 MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLDEwNj
 YxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMw
