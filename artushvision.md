@@ -231,7 +231,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 * **Replace:** Use `Old->New` format or `Ctrl+H` dialog.
 * **Smarter Rename:** Supports `{TITLE}`, `{DATE}`, `{CC}` (counter), `{FOLDER_NAME}`.
 *  **Copy/Move/Delete selected files**
-*  ** Upload to FTP**
+*  **Upload to FTP**
+* 
 
 ---
 
@@ -251,10 +252,10 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTIyODU5OCwtMzE4NTg1NTYzLDU4Nz
-kwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5
-LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbLTE1MjAxOTUwMTAsLTMxODU4NTU2Myw1OD
+c5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0
+OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMz
+A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
+NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
+Q2MjM5NzcsLTcyNTEzMTE5OV19
 -->
