@@ -67,15 +67,6 @@ Beyond AI automation, it offers a complete organization toolkit, including **sta
 ---
 
 <div id="case-study-stock"></div>
-
-## 📈 My Personal Journey: From Expeditions to Automation
-> *"Coming back from a big trip brings a huge headache: a massive pile of over 20,000 RAW photos and videos from my GoPro, phone, and main camera. Typing out descriptions for each one by hand would take months. I needed a smart tool to skip the boring data entry."*
-
-* **❌ The Old Way:** 2-3 mins per photo, ~600 hours of work, language struggles.
-* **✅ The AI Way:** Smart recognition, 1,000+ photos tagged while grabbing coffee, consistent trip context using `{folder_context}`.
-
----
-
 <div id="ai-result-demo"></div>
 
 ## ✨ Real-World Accuracy: Madagascar Case
@@ -212,6 +203,6 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *© 2026 ArtushFoto. All rights reserved.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDgxMTYwOCwxNjAzNDA5NjY3LC0yMT
-Q1NjU4MTczLDEyNDYzMDExMzVdfQ==
+eyJoaXN0b3J5IjpbNTU1NzM5OTE2LDIxMDA4MTE2MDgsMTYwMz
+QwOTY2NywtMjE0NTY1ODE3MywxMjQ2MzAxMTM1XX0=
 -->
