@@ -40,8 +40,6 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 * **Semantic AI Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
 * **In-Place Editing & Term Splitting:** Double-click to edit or split **multi-word unknown terms** directly in the table. When you split a complex phrase by inserting a comma (e.g., changing 'cooked food' to 'cooked, food'), the application intelligently creates new individual entries, deduplicates them, and performs a fresh validation against both the Master and User dictionaries. This ensures that new terms start with a "clean slate" and are correctly matched against valid Getty-approved vocabulary.
 
-
-
 ---
 
 ## Global Distribution & Smart FTP
@@ -50,7 +48,7 @@ Distribute your work to all major stock agencies with a single click.
 * **Universal Category Mapping:** A smart editable matrix that automatically translates your categories for Adobe Stock, Shutterstock, Dreamstime or other agencies.
 * **Media Intelligence:** Separate category logic for photos and videos (e.g., specialized "ME Video" categories for Motion Elements).
 * **Per-Server Threading:** Configure unique thread counts for each server (e.g., 1 thread for sensitive servers like Zoonar, up to 10 for high-speed uploads to Shutterstock).
-* **FTP Status Badges:** Visual indicators in the grid provide an immediate overview of which files have been successfully uploaded to each agency. **The upload history is written directly into the photograph's XMP metadata, making it persistent even if the file is moved and eliminating the need for additional sidecar files.**
+* **FTP Status Badges:** Visual indicators in the grid provide an immediate overview of which files have been successfully uploaded to each agency. **The upload history is written directly into the photograph's XMP metadata**, making it persistent even if the file is moved and eliminating the need for additional sidecar files.**
 
 ---
 
@@ -59,7 +57,7 @@ Distribute your work to all major stock agencies with a single click.
 
 ArtushVision AI eliminates the manual step of generating and uploading sidecar data. The application intelligently handles the requirements of different stock agencies during the FTP process.
 
-* **Per-Agency CSV Templates:** You can assign specific CSV templates to each individual FTP server (e.g., a "Shutterstock" template for one server and a "Dreamstime" template for another).
+* **Per-Agency CSV Templates:** You can assign specific CSV templates to each individual FTP server (e.g., a "Shutterstock" template for Shutter server and a "Dreamstime" template for another).
 * **Automated CSV Generation:** The application automatically generates the required metadata file on-the-fly and uploads it to the target server alongside your images or videos.
 * **Dreamstime & Shutterstock Optimized:** Includes built-in compatibility fixes, such as the removal of the UTF-8 BOM (Byte Order Mark) to ensure headers are readable on older systems like Dreamstime.
 * **Mapped Category Support:** Automatically includes agency-specific categories (e.g., 'Mapped Category 1 & 2') directly into your CSV columns during the upload process.
@@ -108,7 +106,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTEzMTg1MywxMDc0ODA0ODQ5LC0xMj
-MwOTU4NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1
-MjAsNTk3MjQyMTgzLDM3NDYyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbLTE2Mzc0NzQ1NjIsMTA3NDgwNDg0OSwtMT
+IzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5
+NTIwLDU5NzI0MjE4MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
 -->
