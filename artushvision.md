@@ -378,7 +378,7 @@ Double-click any image to enter the **Detail Photo View**, a specialized environ
 * **Multilingual Spell Check:** Misspelled words are underlined in red. Simply right-click to see suggested corrections.
 * **Asset Curation:** Apply professional star **Ratings** (1-5), pick/reject flags, and assign stock agency **Categories** directly within the view.
 
-### 🫧 Keyword Bubbles
+### Keyword Bubbles
 Manage your tags visually with an intuitive "bubble" system:
 * **Interaction:** Add tags via the input box (separate by comma or Enter), remove with the **×**, or **Drag and Drop** bubbles to perfectly reorder your keyword hierarchy.
 * **Visual Color Coding:** Instantly identify the source of your metadata (colors are fully customizable):
@@ -473,11 +473,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MjkwMjU1LDEwNTg4MDUyMTAsMTA2Nj
-E5ODY1OCwtMTcyOTQ4OTA0Miw3MTQyOTkxOCwxMzgwNzMyMzA0
-LDIwMjM0OTY1NTQsMzAyNTIwODI4LC0xNjgwNzk2NSwtMTQ3OD
-c3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYwOTQsLTQwMzA2MDk0
-LDE3MzQ5NzQ2MTgsMTQ4MzI5Mzc5NywtMzE4NTg1NTYzLDU4Nz
-kwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5
-XX0=
+eyJoaXN0b3J5IjpbOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MT
+k4NjU4LC0xNzI5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQs
+MjAyMzQ5NjU1NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4Nz
+cxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQs
+MTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMTg1ODU1NjMsNTg3OT
+A2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5LDE5Njg4Nzg0NDld
+fQ==
 -->
