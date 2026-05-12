@@ -95,6 +95,20 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 
 ---
 
+
+## Desktop Application vs. Cloud Services
+*Why a dedicated local workstation beats generic cloud uploaders every time.*
+
+| Feature | Typical Online AI Tools | ArtushVision AI (Desktop) |
+| :--- | :--- | :--- |
+| **Advanced Metadata Management** | Not available / Limited | **Manual control over Title, Keywords, Ratings** |
+| **JPG, RAW, Video, TIFF, PNG, HEIC Support** | Not available (JPG only) | **Full Native Support** |
+| **Sync & Batch keywording** | Not available | **Sync Metadata & Batch Edit/Replace** |
+| **Media Privacy** | Mandatory cloud upload | **Original files stay on your device or .** |
+| **Pricing Model** | Recurring Subscriptions | **Perpetual License (Only $39.99)** |
+| **Cost per 10,000 Photos** | Expensive Credits ($$$) | **Ultra-low (~$0.50 via API)** |
+
+
 ### [Get Started Now]
 * [Download Fully Functional Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
@@ -103,7 +117,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzM2NjUzNSwxMDc0ODA0ODQ5LC0xMj
-MwOTU4NzY0LDM0MDI4NDc0MywxMjM2ODExMTUyLDExMzA4NTk1
-MjAsNTk3MjQyMTgzLDM3NDYyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbLTE3NDYzNTQzMzYsMTA3NDgwNDg0OSwtMT
+IzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNjgxMTE1MiwxMTMwODU5
+NTIwLDU5NzI0MjE4MywzNzQ2MjM5NzcsLTcyNTEzMTE5OV19
 -->
