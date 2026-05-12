@@ -274,8 +274,7 @@ Follow this proven workflow to achieve the best results when generating metadata
    * **Local AI** (100% privacy via Ollama).
    * **Hybrid AI** (Local vision analysis + Cloud OpenRouter text formatting).
    * **2-Pass Local** (Deep offline synthesis for elite results).
-		The **2-Pass Local** mode is the flagship offline workflow of ArtushVision AI. It is designed to deliver cloud-level metadata quality while running entirely on your local hardware via Ollama, ensuring 100% privacy and zero per-image costs.
-
+		The **2-Pass Local** mode is the flagship **offline workflow** of ArtushVision AI. It is designed to deliver cloud-level metadata quality while running entirely on your local hardware via Ollama, ensuring 100% privacy and zero per-image costs.
 		* **Pass 1: Deep Visual Analysis:** The application first utilizes a powerful dedicated **Vision Model** to perform an exhaustive scan of the image. It identifies subjects, textures, colors, lighting conditions, and specific details that smaller models might miss.
 		* **Pass 2: Professional Metadata Synthesis:** In the second pass, the raw visual data is handed over to a high-performance **Text Model**. This model synthesizes the visual findings into professional-grade titles, SEO-optimized descriptions, and relevant keywords, following the specific logic of your chosen profile (e.g., Stock or Editorial).
 
@@ -450,11 +449,11 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MD
-czMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5NjUs
-LTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0LC00MD
-MwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcsLTMxODU4NTU2
-Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2OD
-g3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAw
-NV19
+eyJoaXN0b3J5IjpbMTA5NTQ3MTYsLTE3Mjk0ODkwNDIsNzE0Mj
+k5MTgsMTM4MDczMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwt
+MTY4MDc5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMz
+A2MDk0LC00MDMwNjA5NCwxNzM0OTc0NjE4LDE0ODMyOTM3OTcs
+LTMxODU4NTU2Myw1ODc5MDY1MTUsLTExOTE3OTM4MzEsNzkzMD
+I1NDksMTk2ODg3ODQ0OSwtNjU2ODU2OTc1LC03ODU4NDk5NDZd
+fQ==
 -->
