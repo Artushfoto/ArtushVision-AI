@@ -108,6 +108,7 @@ Own your tools and pay only for the AI you use.
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
 * **[Ollama](https://ollama.com):** Required for Local AI analysis.
+* **[OpenRouter API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter.md)** Required for Cloud AI analysis.
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
@@ -205,7 +206,7 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQzNTg1MzEsMTAzNjgxNDgyNiwxNj
+eyJoaXN0b3J5IjpbLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNiwxNj
 kwOTczNzI4LDEwNzMxOTQyNzksMTQzNTAyMDA4MCwtMjA3NDY1
 MDM2MCw1MDAxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LD
 ExNDA4Nzc2OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4
