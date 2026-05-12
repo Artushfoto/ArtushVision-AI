@@ -209,7 +209,6 @@ ArtushVision AI goes beyond simple tagging by combining visual recognition with 
 > [!TIP]
 > **Pro Tip:** Use the **GPS Smart Parsing** feature to prevent "AI hallucinations." By feeding the AI verified neighborhoods and street names from your provider, the generated descriptions will be geographically precise.
 
-
 ---
 
 ## 5. Manual Editing & Detail View
@@ -219,8 +218,8 @@ Double-click any image to enter the **Detail Photo View**.
 *  **Ratings**
 *  **Categories** and other Metadata 
 * **Interactive Map:** Shows GPS location on map with zoom support.
+*  **Show Exif and open in external Viewer**
 * **Navigation:** Arrow keys move to the next/previous image.
-* 
 
 ---
 
@@ -248,10 +247,10 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMxNDQ0NzQsLTMxODU4NTU2Myw1OD
-c5MDY1MTUsLTExOTE3OTM4MzEsNzkzMDI1NDksMTk2ODg3ODQ0
-OSwtNjU2ODU2OTc1LC03ODU4NDk5NDYsMTg1MjYzMTAwNSwxMz
-A1NjA0MjksMTA3NDgwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3
-NDMsMTIzNjgxMTE1MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNz
-Q2MjM5NzcsLTcyNTEzMTE5OV19
+eyJoaXN0b3J5IjpbMTY2MjcwNzY3NiwtMzE4NTg1NTYzLDU4Nz
+kwNjUxNSwtMTE5MTc5MzgzMSw3OTMwMjU0OSwxOTY4ODc4NDQ5
+LC02NTY4NTY5NzUsLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMD
+U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
+MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
+YyMzk3NywtNzI1MTMxMTk5XX0=
 -->
