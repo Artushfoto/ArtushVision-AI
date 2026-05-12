@@ -12,7 +12,7 @@ Step-by-step guide to register, generate, and secure your API key for ArtushVisi
 
 ---
 
-## 01. Detailed Visual Walkthrough
+## Detailed Visual Walkthrough
 
 ### Step 1: Visit the Platform
 Navigate to the [OpenRouter platform](https://openrouter.ai/). This is the unified interface for state-of-the-art AI models.
@@ -71,7 +71,7 @@ After saving, you will see your active key in the dashboard list.
 
 ---
 
-## 02. Usage & Credits (Free vs. Paid)
+## Usage & Credits (Free vs. Paid)
 
 To use ArtushVision AI effectively for large batches of photos, it is highly recommended to add a small amount of credit to your account.
 
@@ -108,6 +108,6 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDUwNTAxNCwtMTgzMDA4NDM1NywtMT
+eyJoaXN0b3J5IjpbLTM1OTE1MjY5MywtMTgzMDA4NDM1NywtMT
 cxNzc2NzAwNV19
 -->
