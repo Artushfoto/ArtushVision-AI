@@ -64,8 +64,6 @@ Create Key: Click "Create API Key" and set a name, e.g., ArtushVision AI.
 ![Minimum Price is 5 USD+VAT](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/009.png?raw=true)
 
 ---
-
-<p align="center">
-  <b>ArtushVision AI Documentation</b><br>
-  Last updated: March 2026
-</p>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgwNzA4NDM1N119
+-->
