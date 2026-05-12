@@ -105,7 +105,7 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 
 ### First Launch
 1.  Run `ArtushVisionAI.exe`.
-2. **License Activation:** Enter your license key or continue with the Trial version, which is limited to 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads per session.
+2. **License Activation:** Enter your license key or continue with the Trial version, which is limited to **10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads per session**.
 3.  **API Key:** Navigate to **File > API Key** and enter your [OpenRouter Key](https://openrouter.ai).
 
 ---
@@ -124,16 +124,10 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 * **File Type Filter:** Show only RAW, JPG, Video, HEIF, TIFF, or PNG.
 * **Advanced Productivity Filters:** Streamline your workspace with professional filters designed for high-volume archives.
     * **Metadata Search:** Quickly locate files by searching through Titles, Descriptions, Keywords, or Filenames.
-    * **3-State FTP Filter:** Track your distribution progress with specialized filters for "Sent," "Not Sent," or "Ignore" status per individual server.
+    * **Advanced FTP Filter:** Track your distribution progress with specialized filters for "Sent," "Not Sent," or "Ignore" status per individual server.
     * **Smart Status Filtering:** Isolate files based on their current state, including Selected, Modified (unsaved), Done, or Validation Error.
-    * **File Type & Folder Isolation:** Filter your grid by format—supporting RAW, Video, HEIF, and TIFF—or isolate specific sub-folders with a single click.
-
---- 
-Advanced Productivity Filters Streamline your workspace with professional filters designed for high-volume photo and video archives. 
-* **Workflow Status:** Isolate assets by  **Selected**, **Todo**, **Done**, or **Modified** (unsaved changes). 
-* **Quality & Validation Control:** Exceeded Limits** (character/keyword counts), **Misspelled** terms, or **Corrupted** files. 
+    * * **Quality & Validation Control:** Exceeded Limits** (character/keyword counts), **Misspelled** terms, or **Corrupted** files. 
 * **Deep Discovery Dialogs:** Access specialized windows for **Advanced Metadata**, **Category Mapping**, and **Advanced FTP Filtering**.
-
 
 ---
 
@@ -201,8 +195,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODM4MjM0MSwxODUyNjMxMDA1LDEzMD
-U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
-MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
-YyMzk3NywtNzI1MTMxMTk5XX0=
+eyJoaXN0b3J5IjpbMTIyMjcwMjgzLDE4NTI2MzEwMDUsMTMwNT
+YwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQz
+LDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0Nj
+IzOTc3LC03MjUxMzExOTldfQ==
 -->
