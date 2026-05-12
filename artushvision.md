@@ -162,13 +162,6 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ## 2. Interface Overview
 
 ### Top Toolbar
-* **Profile:** Select AI prompts (Editorial, Stock, Wildlife, Family, etc.).
-* **Run AI:** Play button starts analysis for selected images.
-* **Absolute Priority AI Hint:** User hints (Latin names/locations) are treated as unquestionable facts.
-* **Speed:** Cloud AI Parallel threads (1-20). Higher is faster but uses more CPU.
-* **Flat View:** Toggle to see all files from subfolders in a single list.
-
-### 🛠️ Top Toolbar
 
 * **Profile:** Select the AI system prompt (e.g., "Stock Photography", "Travel Photography", "Social Media", or "Family photos"). Click the **Gear icon** next to the dropdown to edit or create customizable profiles.
 * **Run AI:** The **green play button** starts the AI analysis for all currently selected images in the grid.
@@ -191,6 +184,29 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
     * **Smart Status Filtering:** Isolate files based on their current state, including Selected, Modified (unsaved), Done, or Validation Error.
   *  **Quality & Validation Control:** Exceeded Limits** (character/keyword counts), **Misspelled** terms, or **Corrupted** files. 
   * **Deep Discovery Dialogs:** Access specialized windows for **Advanced Metadata filtering**
+
+
+
+### 🔍 Filter Bar
+Located directly below the top toolbar, this bar is your primary tool for organizing the workspace and isolating specific assets within high-volume archives.
+
+* **Selection Tools:** Quick-action buttons to **Select All** or **Select None** of the currently visible assets.
+* **Smart Search:**
+    * **Text Filter:** Search through assets by Title, Description, Keywords, or Filename.
+    * **Aa (Case Sensitivity):** Toggle whether the search should respect upper/lower case.
+    * **Target Selector:** Choose exactly which metadata field to search in for maximum precision.
+* **Navigation & Formats:**
+    * **Folder Filtering:** A dynamic dropdown to isolate specific directories. It includes real-time **photo counts** for each folder and a quick-clear **'×'** button to return to the full view.
+    * **File Type Filter:** Instantly narrow your view to specific formats: **RAW, JPG, Video, HEIF, TIFF, or PNG**.
+* **Advanced Productivity & Status:**
+    * **Smart Status Filtering:** Isolate files based on their current workflow state: **Selected, Modified (unsaved), Done**, or those with **Validation Errors**.
+    * **Advanced FTP Filter:** Track your distribution progress with specialized filters showing **Sent, Not Sent**, or **Ignore** status for each individual server.
+* **Quality & Validation Control:**
+    * **Constraint Check:** Quickly find files that have **Exceeded Limits** (character or keyword counts).
+    * **Integrity Check:** Identify **Misspelled** terms or **Corrupted** files that need attention before submission.
+* **Workspace Toggles:** Dedicated buttons to show or hide the **Rating Bar** and the **Batch Edit Bar**, allowing you to maximize your screen real estate.
+* **Deep Discovery:** Access specialized dialogs for complex, multi-criteria **Advanced Metadata filtering**.
+
 
 ---
 
@@ -351,7 +367,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzgxOTIwMSwzMDI1MjA4MjgsLTE2OD
+eyJoaXN0b3J5IjpbLTQ5MTEzODYzMSwzMDI1MjA4MjgsLTE2OD
 A3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5
 NCwtNDAzMDYwOTQsMTczNDk3NDYxOCwxNDgzMjkzNzk3LC0zMT
 g1ODU1NjMsNTg3OTA2NTE1LC0xMTkxNzkzODMxLDc5MzAyNTQ5
