@@ -10,37 +10,36 @@
 <i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
 </p>
 
-**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via Cloud OpenRouter or local Ollama) to automatically generate keywords, titles, and descriptions for **JPG, RAW, VIDEO, HEIC, TIFF, and PNG** assets.
-
 ---
-> **Exceptional Value:** Using our recommended model, **google/gemini-2.0-flash-001**, you can professionally describe approximately **100,000 to 150,000 photos for only $5** with perfect, high-quality results.
-> 
->**Full Cost Control:** Monitor your budget with built-in **spending statistics**. The app provides real-time feedback on the exact cost of every single query with 6-decimal precision.
+> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
+> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 ---
 
-**Beyond AI automation, it offers a complete organization and distribution toolkit:**
-*  **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
-*  **Getty Optimizer:** 100% submission success with Master Dictionary validation and Resolver tools.
-*  **Smart FTP:** "Zero-touch" workflow with automated CSV generation and multi-server threading.
-*  **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam) using industry-standard IPTC/XMP.
-
----
 <div align="center">
+
+### 💡 **ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!**
+*Test the full professional workflow with our Lite Version before committing to a license.*
 
 | [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
 | :---: | :---: |
 | **Fully Functional Version** | **Only $39.99** (+ local VAT) |
-| Test the full professional workflow now | One-time payment • No monthly fees |
+| No time limits for testing | One-time payment • No monthly fees |
 
-**One-time payment • No monthly fees** Pay once, use forever. Securely processed by **Polar & Stripe**.
-
-### 💡 **PLEASE TRY BEFORE YOU BUY!**
-
-[Already have a license? Manage or Deactivate your devices](https://polar.sh)
+**Securely processed by Polar & Stripe.**
+[Already have a license? Manage your devices](https://polar.sh)
 
 </div>
 
 ---
+
+**Beyond AI automation, it offers a complete organization and distribution toolkit:**
+* 🛡️ **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
+* 💎 **Getty Optimizer:** 100% submission success with Master Dictionary validation.
+* 🚀 **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
+* 📂 **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
+
+---
+
 ## Quick Navigation
 * [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
 * [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
@@ -206,11 +205,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjc0NzY1LDEwNzMxOTQyNzksMTQzNT
-AyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5NTUsLTE5MzAyMzMz
-MjAsMjU5Njk2ODI1LDExNDA4Nzc2OTksOTA0NzI2MDgsMTA1OD
-gwNTIxMCwxMDY2MTk4NjU4LC0xNzI5NDg5MDQyLDcxNDI5OTE4
-LDEzODA3MzIzMDQsMjAyMzQ5NjU1NCwzMDI1MjA4MjgsLTE2OD
-A3OTY1LC0xNDc4NzcxMDkzLC0xNDgxNTg0NTM2LC00MDMwNjA5
-NF19
+eyJoaXN0b3J5IjpbMTY5MDk3MzcyOCwxMDczMTk0Mjc5LDE0Mz
+UwMjAwODAsLTIwNzQ2NTAzNjAsNTAwMTAxOTU1LC0xOTMwMjMz
+MzIwLDI1OTY5NjgyNSwxMTQwODc3Njk5LDkwNDcyNjA4LDEwNT
+g4MDUyMTAsMTA2NjE5ODY1OCwtMTcyOTQ4OTA0Miw3MTQyOTkx
+OCwxMzgwNzMyMzA0LDIwMjM0OTY1NTQsMzAyNTIwODI4LC0xNj
+gwNzk2NSwtMTQ3ODc3MTA5MywtMTQ4MTU4NDUzNiwtNDAzMDYw
+OTRdfQ==
 -->
