@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <p align="center">
   <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
 </p>
@@ -213,6 +209,6 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU3MzA3MTksLTkyOTA4NzMwMiwxNz
-I1NjE3MTIyXX0=
+eyJoaXN0b3J5IjpbMTA3ODE0MDY0LC0xMDU1NzMwNzE5LC05Mj
+kwODczMDIsMTcyNTYxNzEyMl19
 -->
