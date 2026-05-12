@@ -384,15 +384,6 @@ Click **Save Changes** in the bottom right of the main GUI to commit your work. 
 * **CSV Export:** Automatically generates a spreadsheet containing all metadata for bulk agency uploads.
 * **Original Backup:** Preserves your original JPG file by creating a copy with the `.original` extension before any changes are applied.
 
-
-
-
-
-
-
-
-
-
 ---
 
 ## 6. Batch Operations
@@ -460,7 +451,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzE5MTEzMSw5MDQ3MjYwOCwxMDU4OD
+eyJoaXN0b3J5IjpbLTc5ODc2ODU3Myw5MDQ3MjYwOCwxMDU4OD
 A1MjEwLDEwNjYxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgs
 MTM4MDczMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MD
 c5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0
