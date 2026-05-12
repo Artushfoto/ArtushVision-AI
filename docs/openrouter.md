@@ -18,7 +18,7 @@ Follow these steps to create your account and generate your secure API key.
 Go to the Website: Navigate to the [OpenRouter platform](https://openrouter.ai/).
 
 **OpenRouter Homepage** <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" width="50%">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" width="75%">
 </a>
 
 Registration: Sign up using your email and a chosen password.  
