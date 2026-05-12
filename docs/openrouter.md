@@ -58,6 +58,9 @@ Confirmation: Check your inbox and confirm your email address.
 ---
 
 **Create Your free API Key**
+
+---
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png" target="_blank">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/004.png">
 </a>
@@ -114,5 +117,5 @@ Confirmation: Check your inbox and confirm your email address.
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTg4Njk0OCwtMTcxNzc2NzAwNV19
+eyJoaXN0b3J5IjpbLTY0OTQ3MzM1NSwtMTcxNzc2NzAwNV19
 -->
