@@ -9,7 +9,7 @@ Create your account and generate a secure access token in just a few minutes.
 
 1. **Visit the Website:** Navigate to the [OpenRouter.ai](https://openrouter.ai/) platform.
 2. **Registration:** Click on **Sign Up** and register using your email address and a secure password.
-   ![Registration Step](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/001.png)
+   ![Registration Step](url_tveho_obrazku_zde)
 3. **Confirm Your Email:** Check your inbox and click the verification link in the confirmation email from OpenRouter.
 4. **Create Your API Key:** * Navigate to the **Keys** section in your dashboard.
    * Click the **"Create Key"** button.
@@ -55,6 +55,6 @@ Once you have copied your key:
 ---
 *Last updated: March 2026 • ArtushVision AI Documentation*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg3ODA1MjIsLTE1MjY0OTYxOTYsOD
+eyJoaXN0b3J5IjpbLTE2NDA1NjY3NTgsLTE1MjY0OTYxOTYsOD
 cwMTAzMjYzXX0=
 -->
