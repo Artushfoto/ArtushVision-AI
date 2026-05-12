@@ -53,6 +53,18 @@ ArtushVision AI eliminates the manual step of generating and uploading sidecar d
 * **Automated CSV Generation:** The application automatically generates the required metadata file on-the-fly and uploads it to the target server alongside your images or videos.
 * **Dreamstime & Shutterstock Optimized:** Includes built-in compatibility fixes, such as the removal of the UTF-8 BOM (Byte Order Mark) to ensure headers are readable on older systems like Dreamstime.
 * **Mapped Category Support:** Automatically includes agency-specific categories (e.g., 'Mapped Category 1 & 2') directly into your CSV columns during the upload process.
+---
+
+## ⚡ FTP Profiles & One-Click Batch Uploads
+**Organize your distribution channels into custom groups for maximum efficiency.**
+
+Managing multiple stock agencies is seamless with **FTP Profiles**. Instead of selecting servers individually, you can group them into named batches based on your content strategy.
+
+* **Custom Batch Naming:** Create and name your own profiles, such as **"Stock Photo"** or **"Editorial Photo"**, to instantly target specific agencies.
+* **Automated Batch Distribution:** Selecting a named profile automatically prepares all assigned FTP servers within that batch, allowing you to send your photos to multiple destinations at once.
+* **Flexible Configuration:** All server profiles and settings are managed in a dedicated `ftp.json` configuration file, making your workflow both stable and easy to back up.
+
+---
 
 ---
 ## Professional Workflow & Productivity
@@ -85,5 +97,6 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
+eyJoaXN0b3J5IjpbMTExNDk2MDkxNywzNzQ2MjM5NzcsLTcyNT
+EzMTE5OV19
 -->
