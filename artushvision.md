@@ -425,20 +425,6 @@ The renaming engine is fully metadata-aware and synchronizes changes across medi
 ---
 
 ## 7. Settings & Configuration
-Tailor ArtushVision AI to your specific hardware capabilities and professional workflow requirements.
-
-### Validation & Limits
-* **Field Constraints:** Set mandatory **Min/Max lengths** for Titles and Descriptions, or **Keyword Counts** to meet specific agency requirements.
-* **Visual Error Feedback:** Enable **Limits Validation** and choose a custom **Error Color** to instantly highlight fields that violate your rules.
-* **Advanced Color Coding:** Customize the background and text colors for **Original**, **AI-generated**, and **Manually edited** keywords for perfect visual organization.
-
-### Maps & Geodata
-* **Map Integration:** Select your preferred **Map Provider** (e.g., Google Maps) and set default **Zoom levels**.
-* **GPS Translation:** Choose the source for reverse geocoding (OpenStreetMap or ArcGIS) to ensure localized landmarks are correctly identified.
-
-
-
-## 7. Settings & Configuration
 Access the full suite of customization options via **File > Grid Settings** to tailor ArtushVision AI to your specific hardware capabilities and professional workflow requirements.
 
 ### Workspace & Grid Appearance
@@ -490,11 +476,11 @@ Finalize your distribution workflow with a powerful engine for mass-upload metad
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzkyMDc2LC0yMDc0NjUwMzYwLDUwMD
-EwMTk1NSwtMTkzMDIzMzMyMCwyNTk2OTY4MjUsMTE0MDg3NzY5
-OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLDEwNjYxOTg2NTgsLTE3Mj
-k0ODkwNDIsNzE0Mjk5MTgsMTM4MDczMjMwNCwyMDIzNDk2NTU0
-LDMwMjUyMDgyOCwtMTY4MDc5NjUsLTE0Nzg3NzEwOTMsLTE0OD
-E1ODQ1MzYsLTQwMzA2MDk0LC00MDMwNjA5NCwxNzM0OTc0NjE4
-XX0=
+eyJoaXN0b3J5IjpbMTg0MDEwNDQ3NSwtMjA3NDY1MDM2MCw1MD
+AxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4Nzc2
+OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNz
+I5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1
+NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4NzcxMDkzLC0xND
+gxNTg0NTM2LC00MDMwNjA5NCwtNDAzMDYwOTQsMTczNDk3NDYx
+OF19
 -->
