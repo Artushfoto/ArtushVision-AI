@@ -14,7 +14,7 @@ Create your account and generate a secure access token in just a few minutes.
 4. **Create Your API Key:** * Navigate to the **Keys** section in your dashboard.
    * Click the **"Create Key"** button.
    * Give your key a recognizable name (e.g., `ArtushVision AI`).
-   ![Create Key](url_tveho_obrazku_zde)
+   ![Create Key](![url_tveho_obrazku_zde](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter/001.png))
 
 > [!IMPORTANT]
 > **Save Your Key Immediately!**
@@ -55,5 +55,5 @@ Once you have copied your key:
 ---
 *Last updated: March 2026 • ArtushVision AI Documentation*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMTAzMjYzXX0=
+eyJoaXN0b3J5IjpbLTE1MjY0OTYxOTYsODcwMTAzMjYzXX0=
 -->
