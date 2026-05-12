@@ -147,7 +147,12 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 
 Turn ArtushVision AI into your personal assistant. By using  **Dynamic Variables**, you feed the AI technical and contextual data hidden in your files, allowing it to "understand" your photos far beyond just pixels.
 
-
+| Feature / Function | Description & Variable Usage | AI Prompt Example |
+| :--- | :--- | :--- |
+| **Family & Event Archiving** | Use `{folder_context}` to tell AI about specific people or celebrations based on your folder names. | `"This photo is from {folder_context}. Identify the people and the event name."` |
+| **AI Visual Geolocation** | Even without GPS, the AI recognizes world landmarks and streets from pixels—or use `{city}` and `{country}` for precise tagging. | `"Recognize the landmark in {city}, {country}. If unsure, use {loc_hint}."` |
+| **Text & OCR Recognition** | Automatically extract text from signs, handwritten notes, or notices found directly within the image. | `"Transcribe the text {text_ocr} from this image and add it to the description."` |
+| **Technical EXIF Analysis** | Inject technical metadata like `{camera_model}` or `{exposure_info}` to help AI derive tags like 'long exposure' or 'bokeh'. | `"Photo taken with {camera_model}. Settings: {exposure_info}. Describe the lighting."` |
 
 
 ### Custom AI Profiles
@@ -203,8 +208,8 @@ Toggle the **Batch Edit** panel (List icon) to modify hundreds of files:
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNjEyMTQ4LDE4NTI2MzEwMDUsMTMwNT
-YwNDI5LDEwNzQ4MDQ4NDksLTEyMzA5NTg3NjQsMzQwMjg0NzQz
-LDEyMzY4MTExNTIsMTEzMDg1OTUyMCw1OTcyNDIxODMsMzc0Nj
-IzOTc3LC03MjUxMzExOTldfQ==
+eyJoaXN0b3J5IjpbLTc4NTg0OTk0NiwxODUyNjMxMDA1LDEzMD
+U2MDQyOSwxMDc0ODA0ODQ5LC0xMjMwOTU4NzY0LDM0MDI4NDc0
+MywxMjM2ODExMTUyLDExMzA4NTk1MjAsNTk3MjQyMTgzLDM3ND
+YyMzk3NywtNzI1MTMxMTk5XX0=
 -->
