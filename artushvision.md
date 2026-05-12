@@ -35,9 +35,9 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 * **Non-Destructive Workflow:** The Getty Optimizer does not modify your original keywords. Instead, it creates individual sidecar files (`.getty`) for each photograph to store optimized terms, ensuring your original metadata remains untouched while providing absolute portability for your work.
 * **Interactive Getty Resolver (Single & Batch Mode):** The resolver can be used for a single photograph or an entire batch of images simultaneously. 
 * **Visual Context Highlighting:** The resolver intelligently highlights which photo thumbnails in your batch contain a specific term, enabling you to tag large collections with absolute accuracy and professional-grade speed.
-* **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from a professional archive to ensure 100% valid submissions.
+* **Master Dictionary:** Access a hard-coded database of 11,746+ commercial terms extracted from a my archive to ensure 100% valid submissions.
 * **Custom User Dictionary:** Easily save your own specialized terms or unique translations that are not present in the internal Master Dictionary. Once a term is saved, the application automatically recognizes and applies it in all future sessions.
-* **Semantic AI Disambiguation:** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
+* **Semantic AI Disambiguation (beta):** The AI automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine) based on the visual context of your entire batch.
 * **In-Place Editing & Term Splitting:** Double-click to edit or split **multi-word unknown terms** directly in the table. When you split a complex phrase by inserting a comma (e.g., changing 'cooked food' to 'cooked, food'), the application intelligently creates new individual entries, deduplicates them, and performs a fresh validation against both the Master and User dictionaries. This ensures that new terms start with a "clean slate" and are correctly matched against valid Getty-approved vocabulary.
 
 ---
@@ -104,7 +104,8 @@ Stop paying for empty subscriptions. Own your tools and pay only for the AI you 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTYwNDI5LDEwNzQ4MDQ4NDksLTEyMz
-A5NTg3NjQsMzQwMjg0NzQzLDEyMzY4MTExNTIsMTEzMDg1OTUy
-MCw1OTcyNDIxODMsMzc0NjIzOTc3LC03MjUxMzExOTldfQ==
+eyJoaXN0b3J5IjpbMTg1MjYzMTAwNSwxMzA1NjA0MjksMTA3ND
+gwNDg0OSwtMTIzMDk1ODc2NCwzNDAyODQ3NDMsMTIzNjgxMTE1
+MiwxMTMwODU5NTIwLDU5NzI0MjE4MywzNzQ2MjM5NzcsLTcyNT
+EzMTE5OV19
 -->
