@@ -409,6 +409,45 @@ Click the **List Icon** to toggle the **Batch Edit** panel, allowing you to modi
 
 
 
+
+## 6. Batch Operations
+Efficiency is the core of ArtushVision AI. Toggle the **Batch Edit** panel using the **List Icon** in the filter bar to modify hundreds of assets simultaneously with surgical precision.
+
+### ✍️ Bulk Metadata Editing
+Streamline your workflow by applying changes to your entire selection at once.
+* **Select Target:** Choose exactly where to apply changes—**Title, Description, Keywords**, or **All Fields**.
+* **Smart Actions:**
+    * **Add:** Append text to the beginning or end of fields. For keywords, this intelligently adds new tags or appends text with proper spacing.
+    * **Remove:** Instantly strip specific words or tags from your selection.
+    * **Replace:** Swap "Text A" for "Text B" using the quick `Old -> New` syntax.
+    * **Search & Replace (Ctrl+H):** Open the dedicated dialog for advanced string manipulations across your library.
+* **Field Cleanup:** Use **Delete Field** to clear specific metadata (e.g., just Titles) or **Clear All** to completely reset the metadata of selected files.
+
+### 🏷️ Analysis & Optimization
+* **Bulk AI Processing:** Trigger the AI engine for all selected files using your active profile (Stock, Editorial, etc.).
+* **Getty Images Resolver:** Batch-validate and resolve keywords against the Getty Master Dictionary for your entire selection to ensure 100% agency compatibility.
+
+### 🏗️ Dynamic Batch Renaming
+The renaming engine is fully metadata-aware and synchronizes changes across media files, **XMP sidecars**, and **CSV backups**.
+* **Variable Patterns:** Create perfectly organized filenames using dynamic placeholders:
+    * `{TITLE}` – Uses the asset's Title from metadata.
+    * `{DATE}` / `{ORIG_DATE}` – Today's date vs. original capture date.
+    * `{CC}` – A sequential counter (01, 02...) for perfect ordering.
+    * `{FOLDER_NAME}` – Maintains the directory context in the filename.
+* **Sidecar Integrity:** The app ensures that associated XMP and backup files are renamed alongside the primary media to prevent data detachment.
+
+### 📦 Workflow & Distribution
+* **File Operations:** Perform full file management—**Copy, Move, or Delete (to Recycle Bin)**—directly within the workspace.
+* **Instant Distribution:** Initiate a **Multi-Server FTP Upload** for your entire selection. The app automatically handles concurrent uploads and generates necessary CSV metadata files for a "zero-touch" submission process.
+
+
+
+
+
+
+
+
+
 ## 7. Settings & Configuration
 Tailor ArtushVision AI to your specific hardware capabilities and professional workflow requirements.
 
@@ -451,7 +490,7 @@ Tailor ArtushVision AI to your specific hardware capabilities and professional w
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODc2ODU3Myw5MDQ3MjYwOCwxMDU4OD
+eyJoaXN0b3J5IjpbMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4OD
 A1MjEwLDEwNjYxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgs
 MTM4MDczMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MD
 c5NjUsLTE0Nzg3NzEwOTMsLTE0ODE1ODQ1MzYsLTQwMzA2MDk0
