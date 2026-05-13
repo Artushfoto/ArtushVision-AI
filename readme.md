@@ -1,6 +1,8 @@
+<div style="display: none;">
 <style>
-  header, .page-header, .header { display: none !important; }
+header, .page-header, .site-header { display: none !important; }
 </style>
+</div>
 
 <h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
@@ -222,11 +224,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjM1ODgyNSw3NzM2MjI2MjMsLTI5Mz
-YzNDQxMCwtODI4NjQwNzMsLTE3OTA4NjU5ODgsMzUxMjk0MjIz
-LDE4OTU0MjYwNzUsLTEyOTYxMDI0NDEsLTMxNTUwMjQ2MSwxND
-E3Mzg1NTE2LDU0NDE4OTQ2Myw1OTk1NzEzMzQsLTE1ODExNTk0
-MjEsMTY0MzI1NTMwMywtMTA0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC
-01NjU1MTg4MDQsLTEwNDkzNjM3OTksMzEwNTcwOTA0LDE2NjQ5
-OTkxMTVdfQ==
+eyJoaXN0b3J5IjpbLTkwNDIyMzQ3MSwxNjAyMzU4ODI1LDc3Mz
+YyMjYyMywtMjkzNjM0NDEwLC04Mjg2NDA3MywtMTc5MDg2NTk4
+OCwzNTEyOTQyMjMsMTg5NTQyNjA3NSwtMTI5NjEwMjQ0MSwtMz
+E1NTAyNDYxLDE0MTczODU1MTYsNTQ0MTg5NDYzLDU5OTU3MTMz
+NCwtMTU4MTE1OTQyMSwxNjQzMjU1MzAzLC0xMDQ5MzYzNzk5LD
+E3OTEzNDQzNzYsLTU2NTUxODgwNCwtMTA0OTM2Mzc5OSwzMTA1
+NzA5MDRdfQ==
 -->
