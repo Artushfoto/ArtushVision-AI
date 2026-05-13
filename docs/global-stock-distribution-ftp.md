@@ -1,6 +1,6 @@
 ---
-title: "Smart FTP & Global Distribution | ArtushVision AI Documentation"
-description: "Master multi-agency stock photography distribution. Learn how to use multi-server threading, category mapping, and automated CSV generation."
+title: "Global Stock Distribution and Smart FTP Uploader | ArtushVision AI"
+description: "Streamline your microstock workflow with the Smart FTP Uploader. Features per-server multi-threading, automated CSV generation, and visual status tracking."
 ---
 <div style="display: none;">
 <style>
@@ -9,60 +9,62 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Global Distribution & Smart FTP Suite
+# Global Distribution and Smart FTP Uploader
 
-**Eliminate the bottleneck of manual uploads. ArtushVision AI provides a high-performance "zero-touch" workflow to distribute your media to unlimited agencies simultaneously.**
+**Distribute your portfolio to dozens of stock agencies in just a few clicks. ArtushVision AI eliminates the manual work of microstock distribution with intelligent tracking, auto-reconnects, and dynamic CSV generation.**
 
-Distributing stock photography and video is often a tedious process of managing multiple FTP clients and manual spreadsheets. ArtushVision AI integrates professional-grade distribution tools directly into your metadata workstation.
+Uploading photos and videos to multiple stock agencies can be a full-time job. Dropped connections, strict rate limits, and the difficulty of tracking what was uploaded where can ruin a professional workflow. The ArtushVision AI FTP Uploader handles the heavy lifting in the background, allowing you to focus on your creative work.
 
-[IMAGE: A screenshot of the Smart FTP window showing multiple active server connections and progress bars with speed indicators.]
-
----
-
-## Multi-Server Smart FTP (Custom Threading)
-Not all servers are created equal. ArtushVision AI allows you to optimize your bandwidth by setting unique thread counts for every agency.
-
-* **Thread Optimization:** Set 1 thread for sensitive servers (e.g., Zoonar) and up to 10 threads for high-speed infrastructure (e.g., Shutterstock, Adobe Stock).
-* **Parallel Processing:** Upload to 5, 10, or 20 agencies at the same time.
-* **Auto-Resume:** The intelligent engine handles connection drops and resumes uploads without duplicating data.
+[IMAGE: A wide screenshot of the main FTP Upload window showing the list of agencies, progress bars with speed/ETA, and the Profiles dropdown.]
 
 ---
 
-## Automated CSV Metadata Generation
-Stop manually creating spreadsheets for every agency. ArtushVision AI automates the most hated part of stock photography.
+## Per-Server Multi-Threading and Auto-Retry
+Not all stock agencies are built the same. While some servers can handle aggressive uploads, others, such as Zoonar or Freepik, may temporarily block users for opening too many connections at once.
 
-* **On-the-Fly Generation:** The app generates agency-specific CSV files (Adobe Stock, Dreamstime, etc.) in real-time during the upload process.
-* **Sidecar Integration:** It pulls data from your `.getty` or `.xmp` files, ensuring that your optimized titles and descriptions are perfectly synced.
-* **Custom Templates:** Use the built-in CSV Editor to reverse-engineer any agency's spreadsheet requirements or create your own.
+* **Custom Thread Control:** Assign a specific number of concurrent upload threads (1 to 10) to each individual FTP server to stay within agency limits.
+* **Smart Fallback:** If the application detects a "421 Too many connections" error, it automatically drops the thread count and seamlessly reconnects without failing the batch.
+* **Auto-Resumes and Retries:** Set global retry limits for dropped connections or server timeouts to ensure your files always reach their destination.
 
-[IMAGE: A close-up of the CSV Editor showing template mapping—Title, Description, and Keywords being assigned to specific columns.]
-
----
-
-## Universal Category Mapping
-Agencies use different ID systems for categories. What is "Nature" on one site might be "Category 142" on another. 
-
-* **Smart Translation Matrix:** Map your internal categories once. The app automatically translates them into the correct IDs for each specific agency.
-* **Separate Media Logic:** Different mapping rules for **Photos vs. Videos**, ensuring your assets are always placed in the correct commercial bins.
-* **FTP Profiles:** Group your servers (e.g., "Main Stock Photo" or "Editorial Video") and trigger mass uploads with a single click.
+[IMAGE: A close-up screenshot of the Manage FTP Servers dialog, highlighting the Concurrent Threads slider and the CSV Template dropdown.]
 
 ---
 
-## Persistent Status Tracking (XMP Badges)
-Never wonder if a file has been uploaded. ArtushVision AI stores the distribution history **directly within the file's XMP metadata**.
+## Dynamic CSV Generation and Category Mapping
+Skip the manual spreadsheet work. The FTP module is deeply integrated with a powerful Category Matrix that translates your internal organization into agency-specific requirements.
 
-* **Visual Status Badges:** Blue FTP badges appear in the image grid for instant verification.
-* **Transfer History:** Even if you move your files to a different drive or computer, ArtushVision AI will read the metadata and show you exactly where and when the file was sent.
-* **Error Reporting:** Instant feedback with visual indicators if an upload fails, including detailed logs for troubleshooting.
+* **Automated CSV Upload:** Assign a specific CSV template to an FTP server. When you start an upload, the application automatically generates the required CSV file with correct agency category IDs and uploads it alongside your media.
+* **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace.
+* **Agency Profiles:** Group your servers into Profiles (e.g., Exclusive Video Agencies or Main Stock Photo) to select multiple targets with a single click.
 
-[IMAGE: A screenshot of the image grid showing different badges—GPS, XMP, and the blue FTP badge indicating a successful distribution.]
+[IMAGE: A screenshot of the Category Matrix Editor showing how Master categories map to Adobe Stock, Shutterstock, and Motion Elements IDs.]
 
 ---
 
-## Professional Workflow in 3 Steps:
-1.  **Configure Profiles:** Set up your agency FTP credentials and mapping once.
-2.  **Select & Group:** Choose your assets and select an FTP Profile (e.g., "Top 5 Agencies").
-3.  **Run Distribution:** Click "Start Upload". The app handles the metadata synthesis, CSV creation, and multi-threaded transfer automatically.
+## Advanced Tracking and Visual Status Badges
+Never upload the same file twice by accident. ArtushVision AI remembers the complete upload history of every asset directly within the file metadata.
+
+* **Micro-Badges in Grid:** Instantly see tiny agency badges (e.g., S for Shutterstock, A for Adobe, F for Freepik) directly on your photo thumbnails in the main grid.
+* **Persistent XMP Stamping:** Status information is written into the file's XMP metadata, ensuring your upload history is preserved even if you move your files to another drive.
+* **Safeguard Logic:** A built-in protection system automatically skips files that have already been successfully uploaded to the target agency in the past.
+
+[IMAGE: A screenshot of the main photo grid, highlighting the small agency micro-badges on the thumbnails and the Advanced FTP Filter dropdown.]
+
+---
+
+## Three-State Workflow Filtering
+Manage thousands of assets with surgical precision using the dedicated FTP filters in the top bar.
+
+* **Uploaded State:** View only assets that have successfully reached a specific agency.
+* **Not Uploaded State:** Isolate files that still need to be distributed.
+* **Ignore State:** Mark specific files to be skipped for certain agencies without removing them from your project.
+
+---
+
+### Professional Workflow in 3 Steps:
+1. **Filter and Select:** Use the grid filters to show only Not Uploaded files and select the batch you want to distribute.
+2. **Choose Profile:** Open the FTP Uploader, pick a pre-saved Agency Profile, and hit Upload.
+3. **Monitor and Stamp:** The application manages queues, threads, and auto-generated CSVs in the background, instantly stamping your thumbnails with success badges.
 
 ---
 
@@ -71,4 +73,7 @@ Never wonder if a file has been uploaded. ArtushVision AI stores the distributio
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
 ---
-*ArtushVision AI - Engineered for high-volume stock distribution.*
+*ArtushVision AI - Stability and precision for professional photography and stock distribution.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEwNjk4MjM2OF19
+-->
