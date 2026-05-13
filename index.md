@@ -55,9 +55,9 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
 
-* **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
-* **Getty Optimizer:** 100% submission success with Master Dictionary validation.
-* **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
+* **[Smart Protection](smart-manual-keywording-batch-editing.md):** AI appends insights without overwriting your manual keywords or Face Tags.
+* **[Getty Optimizer](getty-images-esp-metadata-optimizer.md):** 100% submission success with Master Dictionary validation.
+* **[Smart FTP](global-stock-distribution-ftp.md):** "Zero-touch" workflow with automated CSV generation.
 * **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
 
 ---
@@ -77,7 +77,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 
 ---
 
-## Versatile AI Engine: Choose Your Workflow
+## [Versatile AI Engine: Choose Your Workflow](ai-metadata-generation-cloud-local-ollama.md)
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **Cloud AI (Fast & Maximum Intelligence):** Uses top-tier models via OpenRouter. Process up to **150,000 photos for just $5** with ultra-low API costs.
@@ -89,7 +89,7 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 
 ---
 
-## Getty Images Optimizer (Master ESP Tool)
+## [Getty Images Optimizer (Master ESP Tool)](getty-images-esp-metadata-optimizer.md)
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
 
 * **Non-Destructive Sidecars:** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
@@ -100,12 +100,12 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 ---
 
-## Global Distribution & Smart FTP Suite
+## [Global Distribution & Smart FTP Suite](global-stock-distribution-ftp.md)
 Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
 
 * **Multi-Server Smart FTP:** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
-* **Automated CSV Metadata:** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
-* **Universal Category Mapping:** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
+* **[Automated CSV Metadata](global-stock-distribution-ftp.md):** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
+* **[Universal Category Mapping](settings-configuration-customization.md):** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
 * **FTP Profiles:** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
 * **Persistent Status Tracking:** Visual **FTP Status Badges** are written **directly into the file's XMP metadata**, ensuring history is never lost even if files are moved.
 
@@ -130,12 +130,12 @@ Own your tools and pay only for the AI you use.
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
 * **[Ollama](https://ollama.com):** Required for Local AI analysis.
-* **[OpenRouter API Key](/docs/openrouter.html):** Required for Cloud AI analysis.
+* **[OpenRouter API Key](cloud-ai-openrouter-api-setup.md):** Required for Cloud AI analysis.
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **Trial Version**.
-3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/openrouter.html) for Cloud or ensure Ollama is running for Local.
+3. **AI Configuration:** Enter your [OpenRouter API Key](cloud-ai-openrouter-api-setup.md) for Cloud or ensure Ollama is running for Local.
 
 ---
 
@@ -148,7 +148,7 @@ Own your tools and pay only for the AI you use.
 * **Flat View:** Toggle to see all files from all subfolders in a single unified list.
 * **Backup:** Safety checkboxes for automated **CSV, XMP, and Original JPG** backups.
 
-### Filter Bar
+### [Filter Bar](smart-grid-filters-search-metadata-management.md)
 * **Smart Search:** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
 * **Status Filtering:** Isolate files based on workflow state (**Modified, Done, Error**) or **FTP status**.
@@ -161,7 +161,7 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 3. AI Analysis Workflow
+## [3. AI Analysis Workflow](ai-metadata-generation-cloud-local-ollama.md)
 1. **AI Mode Selection:** Choose **Cloud, Local, Hybrid,** or **2-Pass Local** in settings.
 2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
 3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
@@ -170,10 +170,10 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 4. Professional Advanced AI Tools
+## [4. Professional Advanced AI Tools](advanced-ai-prompting-profiles-variables.md)
 
 ### Unlimited Customization with AI Profiles
-Use **Dynamic Variables** to feed the AI technical data hidden in your files.
+Use **[Dynamic Variables](advanced-ai-prompting-profiles-variables.md)** to feed the AI technical data hidden in your files.
 
 | Category | Variable | Description | Example Output |
 | :--- | :--- | :--- | :--- |
@@ -186,30 +186,30 @@ Use **Dynamic Variables** to feed the AI technical data hidden in your files.
 
 ---
 
-## 5. Manual Editing & Detail View
+## [5. Manual Editing & Detail View](manual-editing-detailed-photo-view.md)
 Double-click any image to enter the **Detail Photo View**.
 
-* **The Editor:** Features real-time word counters and **Multilingual Spell Check** (right-click for suggestions).
-* **Keyword Bubbles:** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
+* **The Editor:** Features real-time word counters and **[Multilingual Spell Check](smart-manual-keywording-batch-editing.md)** (right-click for suggestions).
+* **[Keyword Bubbles](smart-manual-keywording-batch-editing.md):** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
 * **Linguistic Tools:** Right-click a bubble for **Synonyms** (Datamuse) or view native **Translation Tooltips**.
 * **Interactive Map:** View exact GPS locations with zoom and satellite support.
 
 ---
 
-## 6. Batch Operations
+## [6. Batch Operations](batch-operations-metadata-library-management.md)
 Modify thousands of assets simultaneously with surgical precision.
 
-* **Smart Actions:** Bulk **Add, Remove, or Replace** text across Title, Description, or Keywords.
-* **Search & Replace (Ctrl+H):** Advanced string manipulations across your entire library.
-* **Dynamic Batch Rename:** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}` (counter).
+* **[Smart Actions](batch-operations-metadata-library-management.md):** Bulk **Add, Remove, or Replace** text across Title, Description, or Keywords.
+* **[Search & Replace (Ctrl+H)](batch-operations-metadata-library-management.md):** Advanced string manipulations across your entire library.
+* **[Dynamic Batch Rename](batch-operations-metadata-library-management.md):** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}` (counter).
 * **File Operations:** Safely Copy, Move, or Delete files along with their **XMP and sidecars**.
 
 ---
 
-## 7. Settings & Configuration
+## [7. Settings & Configuration](settings-configuration-customization.md)
 * **Workspace:** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
 * **Video Tuning:** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
-* **CSV Editor:** Reverse-engineer templates by loading existing agency CSV files.
+* **[CSV Editor](settings-configuration-customization.md):** Reverse-engineer templates by loading existing agency CSV files.
 * **Maps:** Choose between **OpenStreetMap** or **ArcGIS** for reverse geocoding to prevent AI hallucinations.
 
 ---
@@ -220,7 +220,3 @@ Modify thousands of assets simultaneously with surgical precision.
 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMDQ1NzUzLC0xNzEzNDIyNDg3LC04NT
-g3NjgwMDIsMTUxNjU4NDA3NCw5Nzg3MDE1NTldfQ==
--->
