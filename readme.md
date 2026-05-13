@@ -223,12 +223,3 @@ Modify thousands of assets simultaneously with surgical precision.
 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDIyMzQ3MSwxNjAyMzU4ODI1LDc3Mz
-YyMjYyMywtMjkzNjM0NDEwLC04Mjg2NDA3MywtMTc5MDg2NTk4
-OCwzNTEyOTQyMjMsMTg5NTQyNjA3NSwtMTI5NjEwMjQ0MSwtMz
-E1NTAyNDYxLDE0MTczODU1MTYsNTQ0MTg5NDYzLDU5OTU3MTMz
-NCwtMTU4MTE1OTQyMSwxNjQzMjU1MzAzLC0xMDQ5MzYzNzk5LD
-E3OTEzNDQzNzYsLTU2NTUxODgwNCwtMTA0OTM2Mzc5OSwzMTA1
-NzA5MDRdfQ==
--->
