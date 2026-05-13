@@ -114,14 +114,18 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
 5. You are ready to analyze!
 
 ---
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+---
 
 <p align="center">
-  [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)<br><br>
+  <br>
   <b>ArtushVision AI Documentation</b><br>
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk2NTI3MTMsMjA1MDE0MjgzMiwxMj
-Q4MDkyMjQ5LC0zNTkxNTI2OTMsMTcyNjExNjE1NywtMzU5MTUy
-NjkzLC0xODMwMDg0MzU3LC0xNzE3NzY3MDA1XX0=
+eyJoaXN0b3J5IjpbLTE3NTEwMzU5MzIsLTE0Nzk2NTI3MTMsMj
+A1MDE0MjgzMiwxMjQ4MDkyMjQ5LC0zNTkxNTI2OTMsMTcyNjEx
+NjE1NywtMzU5MTUyNjkzLC0xODMwMDg0MzU3LC0xNzE3NzY3MD
+A1XX0=
 -->
