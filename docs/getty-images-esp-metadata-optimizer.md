@@ -33,7 +33,7 @@ ArtushVision AI includes a massive, local Master Dictionary specifically built f
 ## Interactive AI Resolver and Disambiguation
 A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVision AI uses Vision AI to look at the actual content of your image to resolve these ambiguities.
 
-* **Context-Aware Disambiguation:** If you use the word "crane," the AI analyzes the pixels to determine if it is a bird or a construction machine, selecting the exact correct branch of the Getty vocabulary.
+* **Context-Aware Disambiguation (beta):** If you use the word "crane," the AI analyzes the pixels to determine if it is a bird or a construction machine, selecting the exact correct branch of the Getty vocabulary.
 * **Visual Context Highlighting:** When selecting a term in the Resolver, the application highlights all thumbnails in your grid that contain that specific concept, allowing for instant batch verification.
 * **Dynamic Word Splitting:** Double-click any complex phrase to split it into individual terms. The application re-evaluates the new terms against the Master Dictionary in real-time.
 
@@ -83,3 +83,6 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 
 ---
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg0Nzg5MjY2NF19
+-->
