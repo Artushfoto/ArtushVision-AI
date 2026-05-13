@@ -1,8 +1,3 @@
-
-<style>
-  header, .page-header, .header { display: none !important; }
-</style>
-
 <h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
 <p align="center">
