@@ -1,17 +1,22 @@
+---
+title: ArtushVision AI | Professional Photo Metadata & Auto Keywording
+description: The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with local & cloud Vision AI.
+---
+
 # ArtushVision AI | Professional Metadata Automation
 
 <p align="center">
-  <b>The Ultimate Cloud and Local AI-Powered Metadata & Distribution Workstation for Professionals</b>
+  <b>The Ultimate Cloud and Local AI-Powered Metadata, EXIF Editing & Distribution Workstation for Professionals</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
-  <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
+  <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="ArtushVision AI Current Version">
+  <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="Powered by OpenRouter and Local Ollama AI">
 </p>
 
 ---
 
-> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
+> **Exceptional Value:** Describe and keyword up to **150,000 photos for only $5** with perfect, high-quality AI photo tagging results.
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
 ---
@@ -214,10 +219,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODM5NDk1OCwxODQzMTc1Mzk0LC0xOD
-A4MzkzMjA3LDE5MTQ2ODcyNDQsLTE5ODkwOTY2MTQsMjE0MjE1
-MjU5NSwxNTQ2NDU5MzEzLC0xNDY4MDA4OTMwLDk3MTYyMDc3OC
-wxMDQyNzM3MDgsLTE1MDAzMjgzNjIsMTAyOTk2NjYzMiw4MDk4
-ODk1OTQsOTg1MDg0MzY0LDEwNDI3MzcwOCwxMzkxNjcyNTc0LC
-0zNDQxMTkwMTIsLTE3MzMxNjQxNDgsODk4MzM5NjUxXX0=
+eyJoaXN0b3J5IjpbLTc5NTk4NzQ0OSwxMzE4Mzk0OTU4LDE4ND
+MxNzUzOTQsLTE4MDgzOTMyMDcsMTkxNDY4NzI0NCwtMTk4OTA5
+NjYxNCwyMTQyMTUyNTk1LDE1NDY0NTkzMTMsLTE0NjgwMDg5Mz
+AsOTcxNjIwNzc4LDEwNDI3MzcwOCwtMTUwMDMyODM2MiwxMDI5
+OTY2NjMyLDgwOTg4OTU5NCw5ODUwODQzNjQsMTA0MjczNzA4LD
+EzOTE2NzI1NzQsLTM0NDExOTAxMiwtMTczMzE2NDE0OCw4OTgz
+Mzk2NTFdfQ==
 -->
