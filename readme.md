@@ -1,21 +1,23 @@
 ---
 title: ArtushVision AI | Professional Metadata Automation
-description: The ultimate AI-powered metadata workstation for stock, travel, and home photography.
+description: The ultimate AI-powered metadata workstation for stock, travel, and home photography. Optimize for Getty Images and distribute globally.
 ---
 
-<h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
+# ArtushVision AI | Professional Metadata Automation
 
 <p align="center">
   <b>The Ultimate Cloud and Local AI-Powered Metadata & Distribution Workstation for Professionals</b>
 </p>
 
+<div style="display: none;">
+<style>
+  header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
+</style>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
   <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
-</p>
-
-<p align="center">
-  <i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
 </p>
 
 ---
@@ -223,10 +225,10 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDY4NzI0NCwtMTk4OTA5NjYxNCwyMT
-QyMTUyNTk1LDE1NDY0NTkzMTMsLTE0NjgwMDg5MzAsOTcxNjIw
-Nzc4LDEwNDI3MzcwOCwtMTUwMDMyODM2MiwxMDI5OTY2NjMyLD
-gwOTg4OTU5NCw5ODUwODQzNjQsMTA0MjczNzA4LDEzOTE2NzI1
-NzQsLTM0NDExOTAxMiwtMTczMzE2NDE0OCw4OTgzMzk2NTFdfQ
-==
+eyJoaXN0b3J5IjpbLTE4MDgzOTMyMDcsMTkxNDY4NzI0NCwtMT
+k4OTA5NjYxNCwyMTQyMTUyNTk1LDE1NDY0NTkzMTMsLTE0Njgw
+MDg5MzAsOTcxNjIwNzc4LDEwNDI3MzcwOCwtMTUwMDMyODM2Mi
+wxMDI5OTY2NjMyLDgwOTg4OTU5NCw5ODUwODQzNjQsMTA0Mjcz
+NzA4LDEzOTE2NzI1NzQsLTM0NDExOTAxMiwtMTczMzE2NDE0OC
+w4OTgzMzk2NTFdfQ==
 -->
