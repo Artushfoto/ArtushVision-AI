@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # Manual Editing and Detailed Photo View
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **While AI provides the speed, the Detailed Photo View provides the precision. ArtushVision AI offers a sophisticated environment for granular metadata refinement, ensuring every asset meets professional commercial standards.**
 
 Double-click any image in the main grid to enter the Detailed Photo View. This dedicated workspace is designed for high-speed manual editing, linguistic verification, and geospatial accuracy.
@@ -77,6 +79,10 @@ ArtushVision AI is designed to be a safe companion to your existing professional
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 *ArtushVision AI - Granular control and linguistic precision for professional image metadata.*

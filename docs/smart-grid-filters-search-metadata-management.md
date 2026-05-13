@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # Smart Grid Filters and Search: Total Control Over Huge Portfolios
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **Managing a batch of thousands of photos and videos requires precision. ArtushVision AI features a multi-layered filtering system that combines real-time text search, advanced metadata logic, and visual micro-badges to provide absolute clarity over your entire portfolio.**
 
 Finding specific files—such as those missing a description or those not yet uploaded to a particular agency—is no longer a manual task. The filtering suite ensures you always know exactly which assets require your attention.
@@ -74,6 +76,10 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 *ArtushVision AI - Professional precision and advanced portfolio organization.*

@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # Getty Images Export Optimizer: Master the ESP Controlled Vocabulary
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **Eliminate submission errors and keyword rejections. ArtushVision AI ensures 100% success with the Getty Images ESP system through automated keyword translation and context-aware AI disambiguation.**
 
 Uploading to Getty Images (ESP) is often challenging due to their strict Controlled Vocabulary (CV). Standard keywords used for other stock agencies are frequently rejected or mismatched by the ESP portal, leading to tedious manual corrections. 
@@ -80,6 +82,10 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 *ArtushVision AI - Stability and precision for professional photography workflows.*

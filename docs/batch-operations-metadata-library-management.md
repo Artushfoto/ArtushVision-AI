@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # Batch Operations: Surgical Precision for Massive Libraries
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **Managing thousands of assets requires more than just AI—it requires powerful batch processing tools. ArtushVision AI provides a suite of operations designed to modify, rename, and organize your entire library with a few clicks.**
 
 Efficiency in professional photography workflows is built on the ability to apply changes across large datasets simultaneously. Whether you need to fix a recurring typo or rename a day's worth of shooting, these tools ensure consistency across your project.
@@ -76,6 +78,10 @@ To perform operations effectively, you must first isolate the right files. The F
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 *ArtushVision AI - High-performance library management for professional media creators.*

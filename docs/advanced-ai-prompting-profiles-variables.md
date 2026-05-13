@@ -13,6 +13,8 @@ th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
 
 # Advanced AI Prompting: Ultimate Control Over Your Metadata
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **Most AI keywording tools are black boxes—you upload an image, and you get whatever generic keywords the developer decided you should get. ArtushVision AI flips this script entirely. Our built-in Profile Editor gives you absolute freedom to dictate exactly how the AI should "think", format, structure, and prioritize your metadata.**
 
 Whether you need standard microstock keywords, poetic Instagram captions, or strict journalistic editorial descriptions, you can program the AI to deliver it perfectly.
@@ -152,6 +154,13 @@ Build a library of specialized workflows to switch between different project typ
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+---
+*ArtushVision AI - Professional precision and complete offline AI control.*
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0NjY5NDE0MTQsMTcwNzk5MjAzMSwxOT
 c1MjY0MzU2XX0=

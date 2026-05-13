@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # AI Metadata Generation: Smart, Fast, and 100% Private
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **Transform your photography workflow by replacing manual tagging with state-of-the-art Vision-Language Models (VLMs). ArtushVision AI "looks" at your media to instantly generate professional Titles, Descriptions, and Keywords.**
 
 Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an unprecedented level of control. Whether you require the speed of massive cloud batches or the absolute privacy of a local offline environment, the 4-Tier AI Engine adapts to your specific professional needs.
@@ -91,6 +93,10 @@ The application is built with a safety-first philosophy to protect your existing
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 *ArtushVision AI - Professional AI vision technology for advanced photography metadata management.*

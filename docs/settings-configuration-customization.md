@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # Settings and Configuration
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **ArtushVision AI is designed to be highly adaptable. The Settings panel allows you to tailor the application interface, AI behavior, and distribution logic to match your specific professional photography or videography workflow.**
 
 The configuration suite is divided into several specialized tabs, each focusing on a different aspect of the metadata and distribution process.
@@ -86,6 +88,10 @@ Protect your work with automated redundancy settings.
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 *ArtushVision AI - Professional precision and complete configuration control.*

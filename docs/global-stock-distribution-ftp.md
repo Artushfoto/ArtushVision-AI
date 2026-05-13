@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # Global Distribution and Smart FTP Uploader
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **Distribute your portfolio to dozens of stock agencies in just a few clicks. ArtushVision AI eliminates the manual work of microstock distribution with intelligent tracking, auto-reconnects, and dynamic CSV generation.**
 
 Uploading photos and videos to multiple stock agencies can be a full-time job. Dropped connections, strict rate limits, and the difficulty of tracking what was uploaded where can ruin a professional workflow. The ArtushVision AI FTP Uploader handles the heavy lifting in the background, allowing you to focus on your creative work.
@@ -71,6 +73,10 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 *ArtushVision AI - Stability and precision for professional photography and stock distribution.*

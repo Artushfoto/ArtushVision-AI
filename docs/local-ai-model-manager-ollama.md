@@ -13,6 +13,8 @@ th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
 
 # Local AI Model Manager: Complete Offline Control
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **Running AI locally using Ollama is the ultimate solution for professional stock contributors. It offers 100% privacy for sensitive shoots (like boudoir or unreleased commercial products) and zero API costs.**
 
 However, managing models via a command-line terminal can be intimidating. ArtushVision AI solves this with a fully integrated, desktop-class **Local Model Manager**. It gives you a visual dashboard to browse, download, organize, and monitor your local AI models without ever touching the command line.
@@ -69,6 +71,10 @@ When testing multiple models, it is essential to track which one performed best 
 ### [Get Started Now]
 * [Download Fully Functional Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 *ArtushVision AI - Professional precision and complete offline AI control.*

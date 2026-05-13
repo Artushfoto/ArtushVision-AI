@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # Smart Manual Keywording and Culling: Ultimate Control at Lightning Speed
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **While our AI engines do the heavy lifting, professional stock contributors know that manual curation is the key to a perfect portfolio. Whether you are adding a highly specific local location, fixing a typo, sorting out the best shots, or copying tags across a series of photos, ArtushVision AI provides a desktop-class editing experience that web browsers simply cannot match.**
 
 Forget clumsy text boxes and constant reloading. Experience real-time visual tagging, intelligent spellchecking, seamless drag-and-drop mechanics, and lightning-fast culling.
@@ -87,6 +89,10 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 *ArtushVision AI - Engineered for absolute control and professional metadata precision.*
