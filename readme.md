@@ -2,7 +2,7 @@
 <h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
 <p align="center">
-  <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
+  <b>The Ultimate Cloud and Local AI-Powered Metadata & Distribution Workstation for Professionals</b>
 </p>
 
 <p align="center">
@@ -48,19 +48,6 @@
   <b>Securely processed by Polar & Stripe.</b><br>
   <a href="https://polar.sh">Already have a license? Manage your devices</a>
 </p>
-
----
-
----
-
-**Beyond AI automation, it offers a complete organization and distribution toolkit:**
-
-* **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
-* **Getty Optimizer:** 100% submission success with Master Dictionary validation.
-* **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
-* **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
-
----
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
 
@@ -237,11 +224,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTQyNjA3NSwtMTI5NjEwMjQ0MSwtMz
-E1NTAyNDYxLDE0MTczODU1MTYsNTQ0MTg5NDYzLDU5OTU3MTMz
-NCwtMTU4MTE1OTQyMSwxNjQzMjU1MzAzLC0xMDQ5MzYzNzk5LD
-E3OTEzNDQzNzYsLTU2NTUxODgwNCwtMTA0OTM2Mzc5OSwzMTA1
-NzA5MDQsMTY2NDk5OTExNSwtMTk1NDk4ODYzNCwxMDM2ODE0OD
-I2LDE2OTA5NzM3MjgsMTA3MzE5NDI3OSwxNDM1MDIwMDgwLC0y
-MDc0NjUwMzYwXX0=
+eyJoaXN0b3J5IjpbMzUxMjk0MjIzLDE4OTU0MjYwNzUsLTEyOT
+YxMDI0NDEsLTMxNTUwMjQ2MSwxNDE3Mzg1NTE2LDU0NDE4OTQ2
+Myw1OTk1NzEzMzQsLTE1ODExNTk0MjEsMTY0MzI1NTMwMywtMT
+A0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1MTg4MDQsLTEwNDkz
+NjM3OTksMzEwNTcwOTA0LDE2NjQ5OTkxMTUsLTE5NTQ5ODg2Mz
+QsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNzMxOTQyNzksMTQz
+NTAyMDA4MF19
 -->
