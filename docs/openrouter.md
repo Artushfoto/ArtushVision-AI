@@ -1,3 +1,9 @@
+---
+title: Installation Guide | ArtushVision AI Docs
+description: Step-by-step guide
+lang: en
+---
+
 # OpenRouter API Key Setup Guide
 
 Step-by-step guide to register, generate, and secure your API key for ArtushVision AI.
