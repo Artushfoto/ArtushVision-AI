@@ -1,10 +1,22 @@
-# ArtushVision AI | Professional Metadata Automation
 
-**The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals**
+<style>
+  header, .page-header, .header { display: none !important; }
+</style>
 
-![Version](https://img.shields.io/badge/Version-v2026.1.204-007abb) ![AI](https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31)
+<h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
-*"Intelligent metadata automation for your **Travel, Home, and Stock photography** workflow with state-of-the-art Vision AI."*
+<p align="center">
+  <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
+  <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
+</p>
+
+<p align="center">
+  <i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
+</p>
 
 ---
 
@@ -13,15 +25,33 @@
 
 ---
 
-### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
-*Test the full professional workflow with our Lite Version before committing to a license.*
+<h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
 
-| [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
-| :---: | :---: |
-| **Fully Functional Version** | **Only $39.99** (+ local VAT) |
-| No time limits for testing | One-time payment • No monthly fees |
+<p align="center">
+  <i>Test the full professional workflow with our Lite Version before committing to a license.</i>
+</p>
 
-**Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
+<table style="width: 100%; display: table; border-collapse: collapse;">
+  <tr>
+    <th style="width: 50%; text-align: center; border: 1px solid #dfe2e5; padding: 8px;"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
+    <th style="width: 50%; text-align: center; border: 1px solid #dfe2e5; padding: 8px;"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
+  </tr>
+  <tr>
+    <td style="text-align: center; border: 1px solid #dfe2e5; padding: 8px;"><b>Fully Functional Version</b></td>
+    <td style="text-align: center; border: 1px solid #dfe2e5; padding: 8px;"><b>Only $39.99</b> (+ local VAT)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; border: 1px solid #dfe2e5; padding: 8px;">No time limits for testing</td>
+    <td style="text-align: center; border: 1px solid #dfe2e5; padding: 8px;">One-time payment &bull; No monthly fees</td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <b>Securely processed by Polar & Stripe.</b><br>
+  <a href="https://polar.sh">Already have a license? Manage your devices</a>
+</p>
 
 ---
 
@@ -38,7 +68,7 @@
 * [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
 * [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
 * [Global Distribution & Smart FTP Suite](#global-distribution--smart-ftp-suite)
-* [Desktop App vs. Cloud Services](#artushvision-ai-desktop-application-vs-cloud-services)
+* [Desktop App vs. Cloud Services](#desktop-application-vs-cloud-services)
 * [1. Installation & Setup](#1-installation--setup)
 * [2. Interface Overview](#2-interface-overview)
 * [3. AI Analysis Workflow](#3-ai-analysis-workflow)
@@ -101,17 +131,13 @@ Own your tools and pay only for the AI you use.
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
-* **[Ollama](https://ollama.com):** Required for Local AI analysis.
-* **[OpenRouter API Key](/docs/openrouter.md)** Required for Cloud AI analysis.
+* **Ollama:** Required for Local AI analysis.
+* **OpenRouter API Key:** Required for Cloud AI analysis.
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **Trial Version**.
-   
-   > [!IMPORTANT]
-   > **Trial Limits (per session):** 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads.
-   > 
-3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/openrouter.md) for Cloud or ensure [Ollama](https://ollama.com) is running for Local.
+3. **AI Configuration:** Enter your OpenRouter API Key for Cloud or ensure Ollama is running for Local.
 
 ---
 
@@ -153,15 +179,12 @@ Use **Dynamic Variables** to feed the AI technical data hidden in your files.
 
 | Category | Variable | Description | Example Output |
 | :--- | :--- | :--- | :--- |
-| **User Context** | `{user_hint}` | **Manual hint entered in the window** | `"Euphonia laniirostris"` |
+| **User Context** | `{user_hint}` | Manual hint entered in the window | `"Euphonia laniirostris"` |
 | | `{folder_context}` | Name of the parent folder | `"Wedding 2025"` |
 | **Current Geodata**| `{city}` / `{country}` | Live GPS location data | `"Paris", "France"` |
 | | `{text_ocr}` | Text extracted visually from image | `"Route 66"` |
 | **Technical EXIF** | `{camera_model}` | Camera or Drone model | `"Sony A7IV"` |
 | | `{exposure_info}` | Shutter, Aperture, and ISO | `"1/500s, f/2.8, ISO 100"` |
-
-> [!TIP]
-> **Smart Metadata Protection:** 🛡️ ArtushVision AI is designed with a "safety-first" logic—it intelligently preserves all existing keywords and **Face Recognition (People tags)**. AI appends new insights without overwriting your manual progress.
 
 ---
 
@@ -200,11 +223,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODY0MDczLC0xNzkwODY1OTg4LDM1MT
-I5NDIyMywxODk1NDI2MDc1LC0xMjk2MTAyNDQxLC0zMTU1MDI0
-NjEsMTQxNzM4NTUxNiw1NDQxODk0NjMsNTk5NTcxMzM0LC0xNT
-gxMTU5NDIxLDE2NDMyNTUzMDMsLTEwNDkzNjM3OTksMTc5MTM0
-NDM3NiwtNTY1NTE4ODA0LC0xMDQ5MzYzNzk5LDMxMDU3MDkwNC
-wxNjY0OTk5MTE1LC0xOTU0OTg4NjM0LDEwMzY4MTQ4MjYsMTY5
-MDk3MzcyOF19
+eyJoaXN0b3J5IjpbLTI5MzYzNDQxMCwtODI4NjQwNzMsLTE3OT
+A4NjU5ODgsMzUxMjk0MjIzLDE4OTU0MjYwNzUsLTEyOTYxMDI0
+NDEsLTMxNTUwMjQ2MSwxNDE3Mzg1NTE2LDU0NDE4OTQ2Myw1OT
+k1NzEzMzQsLTE1ODExNTk0MjEsMTY0MzI1NTMwMywtMTA0OTM2
+Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1MTg4MDQsLTEwNDkzNjM3OT
+ksMzEwNTcwOTA0LDE2NjQ5OTkxMTUsLTE5NTQ5ODg2MzQsMTAz
+NjgxNDgyNl19
 -->
