@@ -1,6 +1,6 @@
 ---
-title: "Smart Manual Keywording and Batch Editing | ArtushVision AI"
-description: "Master manual metadata curation in ArtushVision AI. Experience real-time visual tag bubbles, drag-and-drop mechanics, and multi-language spellchecking."
+title: "Smart Manual Keywording and Culling | ArtushVision AI"
+description: "Master manual metadata curation and visual culling in ArtushVision AI. Experience real-time tag bubbles, drag-and-drop mechanics, and lightning-fast sorting."
 ---
 <div style="display: none;">
 <style>
@@ -9,13 +9,22 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Smart Manual Keywording: Ultimate Control at Lightning Speed
+# Smart Manual Keywording and Culling: Ultimate Control at Lightning Speed
 
-**While our AI engines do the heavy lifting, professional stock contributors know that manual curation is the key to a perfect portfolio. Whether you are adding a highly specific local location, fixing a typo, or copying tags across a series of photos, ArtushVision AI provides a desktop-class editing experience that web browsers simply cannot match.**
+**While our AI engines do the heavy lifting, professional stock contributors know that manual curation is the key to a perfect portfolio. Whether you are adding a highly specific local location, fixing a typo, sorting out the best shots, or copying tags across a series of photos, ArtushVision AI provides a desktop-class editing experience that web browsers simply cannot match.**
 
-Forget clumsy text boxes and constant reloading. Experience real-time visual tagging, intelligent spellchecking, and seamless drag-and-drop mechanics.
+Forget clumsy text boxes and constant reloading. Experience real-time visual tagging, intelligent spellchecking, seamless drag-and-drop mechanics, and lightning-fast culling.
 
-[IMAGE: A close-up of the main grid showing the Visual Bubbles mode for keywords, with one tag being dragged and dropped onto an adjacent photo.]
+[IMAGE: A close-up of the main grid showing the Visual Bubbles mode for keywords, with one tag being dragged and dropped onto an adjacent photo, and a 5-star rating highlighted under the thumbnail.]
+
+---
+
+## Visual Culling: Ratings, Flags and Color Labels
+Organizing a massive photoshoot requires speed. ArtushVision AI features a complete visual rating system built right into the grid, allowing you to cull your photos without taking your hands off the keyboard.
+
+* **Keyboard Shortcuts:** Instantly rate photos using keys 1-5, apply Pick/Reject flags using P and X (or U to unflag), and assign color labels with keys 6-9.
+* **Batch Culling:** Select 100 photos and press 5 to rate them all as 5-star instantly.
+* **100% Lightroom and Zoner Compatible:** Your ratings, flags, and color labels are natively written into EXIF/XMP sidecars. If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
 
 ---
 
@@ -40,7 +49,7 @@ Stop typing the same words over and over. As you type, the Smart Autocomplete in
 ---
 
 ## Multi-Language Spellcheck and Auto-Corrections
-Never get a batch rejected for a typo again. ArtushVision AI features a robust, offline-first spellchecking engine powered by Hunspell and Spylls.
+Never get a batch rejected for a typo again. ArtushVision AI features a robust, offline-first spellchecking engine.
 
 * **Dual-Language Support:** Do you shoot local events but tag in English? Set a Primary (e.g., English) and a Secondary language (e.g., Czech or German). The application will validate against both dictionaries simultaneously, so local names are no longer flagged as errors.
 * **Quick Fixes:** Right-click any red-underlined word to open the context menu. The Cloud AI will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
@@ -64,14 +73,14 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 * **Smart Append Sync:** Select 50 photos in the grid. Type a new keyword into one of them. ArtushVision AI intelligently appends that new word to all 50 photos in real-time without destroying their existing, unique tags.
 * **Universal Copy/Paste:** Use standard Ctrl+C and Ctrl+V. If you paste a string of 20 keywords into a selection of photos, the application distributes them cleanly, removes duplicates, and immediately formats them into bubbles.
-* **Visual Undo/Redo:** Made a mistake while mass-editing? Press Ctrl+Z. The application remembers the exact state (including the specific tag colors) of your entire batch before the edit and restores it instantly.
+* **Visual Undo/Redo:** Made a mistake while mass-editing or rating? Press Ctrl+Z. The application remembers the exact state (including the specific tag colors, ratings, and flags) of your entire batch before the edit and restores it instantly.
 
 ---
 
-### Master Your Tagging in 3 Steps:
-1. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the Title, Description, and Keywords fields.
-2. **Drag and Drop:** Visually distribute specialized tags (like specific model names or micro-locations) between photos by dragging the bubbles.
-3. **Batch Sync:** Select the rest of the shoot and type your overarching themes once to apply them everywhere instantly.
+### Master Your Editing in 3 Steps:
+1. **Cull and Sort:** Rapidly go through your grid using keyboard shortcuts (1-5, P, X) to rate and flag the best photos for microstock submission.
+2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the Title, Description, and Keywords fields.
+3. **Drag and Batch Sync:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the shoot to apply overarching themes everywhere instantly.
 
 ---
 
