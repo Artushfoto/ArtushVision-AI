@@ -1,13 +1,5 @@
----
-title: ArtushVision AI | Professional Metadata Automation
-description: The ultimate AI-powered metadata workstation for stock, travel, and home photography. Optimize for Getty Images and distribute globally.
----
 
-<div style="display: none;">
-<style>
-header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
-</style>
-</div>
+--- title: ArtushVision AI | Professional Metadata Automation description: ... --- <div style="display: none;"> <style> header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; } </style> </div>
 
 <h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
@@ -229,6 +221,7 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjczNzA4LDEzOTE2NzI1NzQsLTM0ND
-ExOTAxMiwtMTczMzE2NDE0OCw4OTgzMzk2NTFdfQ==
+eyJoaXN0b3J5IjpbOTg1MDg0MzY0LDEwNDI3MzcwOCwxMzkxNj
+cyNTc0LC0zNDQxMTkwMTIsLTE3MzMxNjQxNDgsODk4MzM5NjUx
+XX0=
 -->
