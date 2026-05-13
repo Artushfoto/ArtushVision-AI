@@ -3,12 +3,6 @@ layout: default
 title: "ArtushVision AI | Professional Photo Metadata & Auto Keywording"
 description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with local & cloud Vision AI."
 ---
-<div style="display: none;">
-<style>
-header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
-h1 { text-align: center; }
-</style>
-</div>
 
 # ArtushVision AI | Professional Metadata Automation
 
