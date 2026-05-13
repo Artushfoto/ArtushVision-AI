@@ -1,13 +1,18 @@
+
 ---
-title: "Advanced AI Prompting and Profile Editor | ArtushVision AI Documentation"
-description: "Complete technical reference for AI variables and professional prompting in ArtushVision AI. Master dynamic EXIF, GPS, and metadata injection."
+title: "Advanced AI Prompting and Profile Editor | ArtushVision AI"
+description: "Complete technical reference for AI variables and professional prompting in ArtushVision AI."
 ---
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 h1 { text-align: center; }
+table { width: 100%; margin-bottom: 20px; border-collapse: collapse; }
+th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
 </style>
 </div>
+
+{% raw %}
 
 # Advanced AI Prompting: Ultimate Control Over Your Metadata
 
@@ -15,17 +20,13 @@ h1 { text-align: center; }
 
 The built-in Profile Editor allows you to program the AI for any specific niche, whether you need standard microstock keywords, poetic social media captions, or strict journalistic editorial descriptions.
 
----
-
 ## 1. Mode-Specific Prompting
 Because every AI engine behaves differently, ArtushVision AI allows you to save independent prompt profiles for each Processing Mode:
 
 * **Cloud & Local AI:** Standard single-step prompts instructing the Vision model to analyze the image and return commercial JSON metadata.
 * **Hybrid & Two-Step Local AI:** These advanced "Agentic" pipelines use two independent prompts:
     * **Phase 1 (Vision Prompt):** Instructs the local Vision model to describe the image in raw detail.
-    * **Phase 2 (Text Prompt):** Instructs a text-only model to take that description and strictly format it for SEO using the `{local_vision_text}` variable.
-
----
+    * **Phase 2 (Text Prompt):** Instructs a text-only model to take that description and strictly format it for SEO using the {local_vision_text} variable.
 
 ## 2. Dynamic Variables Reference
 Variables allow the application to inject real-world data from your files directly into the AI prompt. This ensures the AI has 100% accurate background context.
@@ -33,57 +34,55 @@ Variables allow the application to inject real-world data from your files direct
 ### Basic and Contextual Variables
 | Variable | Description | Usage Example |
 | :--- | :--- | :--- |
-| `{local_vision_text}` | Raw text description of the image from the local Vision model. | Used in Phase 2 of Hybrid or Two-Step modes. |
-| `{user_hint}` | Text entered in the Global Hint bar of the main window. | Specific subjects like Latin names or client IDs. |
-| `{filename}` | Filename of the asset without its extension. | Useful if filenames contain project codes. |
-| `{folder_context}` | Name of the parent folder. | Provides project-level context (e.g., "Wedding_2025"). |
-| `{date_info}` | The exact capture date in DD.MM.YYYY format. | Injects temporal context for the AI. |
-| `{allowed_categories}` | List of categories defined in your Category Matrix. | Ensures the AI picks from your commercial niche. |
+| {local_vision_text} | Raw text description from local Vision model. | Used in Phase 2 of Hybrid or Two-Step modes. |
+| {user_hint} | Text entered in the Global Hint bar. | Specific subjects like Latin names or client IDs. |
+| {filename} | Filename of the asset without its extension. | Useful if filenames contain project codes. |
+| {folder_context} | Name of the parent folder. | Provides project-level context (e.g. Wedding 2025). |
+| {date_info} | The capture date in DD.MM.YYYY format. | Injects temporal context for the AI. |
+| {allowed_categories} | List of categories from your Category Matrix. | Ensures AI picks from your commercial niche. |
 
 ### Geolocation Variables (Automatic)
-These are generated via reverse geocoding from the photo's GPS coordinates.
+Generated via reverse geocoding from the photo's GPS coordinates.
 | Variable | Description | Output Example |
 | :--- | :--- | :--- |
-| `{city}` | The detected city name. | "Prague" |
-| `{country}` | The detected country name. | "Czech Republic" |
-| `{loc_hint}` | Combined City and State/Province. | "Jihlava, Vysočina" |
-| `{gps_raw}` | Raw numerical coordinates. | "50.08, 14.43" |
-| `{maps_link}` | Direct URL to the location on Google Maps. | https://www.google.com/maps/... |
+| {city} | The detected city name. | "Prague" |
+| {country} | The detected country name. | "Czech Republic" |
+| {loc_hint} | Combined City and State/Province. | "Jihlava, Vysočina" |
+| {gps_raw} | Raw numerical coordinates. | "50.08, 14.43" |
+| {maps_link} | Direct URL to the location on Google Maps. | http://maps.google.com/... |
 
 ### Geolocation Variables (Existing IPTC)
-Loaded from existing text metadata (manually entered or from software like Lightroom).
+Loaded from existing text metadata (e.g. from Lightroom or DigiKam).
 | Variable | Description | Field Source |
 | :--- | :--- | :--- |
-| `{existing_location}` | Specific location name. | IPTC: Location |
-| `{existing_sublocation}` | Specific sub-location. | IPTC: Sub-location |
-| `{existing_city}` | City name. | IPTC: City |
-| `{existing_state}` | State or Province. | IPTC: Province/State |
-| `{existing_country}` | Full country name. | IPTC: Country |
-| `{existing_country_code}` | ISO Country Code. | IPTC: Country Code |
+| {existing_location} | Specific location name. | IPTC: Location |
+| {existing_sublocation} | Specific sub-location. | IPTC: Sub-location |
+| {existing_city} | City name. | IPTC: City |
+| {existing_state} | State or Province. | IPTC: Province/State |
+| {existing_country} | Full country name. | IPTC: Country |
+| {existing_country_code} | ISO Country Code. | IPTC: Country Code |
 
 ### Technical and EXIF Parameters
 Technical data helps the AI infer professional photography tags.
 | Variable | Description | Contextual Benefit |
 | :--- | :--- | :--- |
-| `{camera_model}` | Camera or Drone model (e.g., "DJI Mavic 3"). | Triggers tags like "aerial view" or "drone photography". |
-| `{exposure_info}` | Shutter, aperture, and ISO (e.g., "1/2s, f/1.8"). | Infers tags like "long exposure" or "bokeh". |
-| `{aspect_ratio}` | Detects orientation (Landscape, Portrait, etc.). | Infers tags like "panoramic" or "copy space". |
-| `{flash_used}` | Injects Yes/No status. | Triggers "studio lighting" or "flash photography". |
-| `{lens_hint}` | Technical lens info from EXIF. | Identifies wide-angle or telephoto perspective. |
+| {camera_model} | Camera or Drone model. | Triggers tags like "aerial view" or "drone". |
+| {exposure_info} | Shutter, aperture, and ISO. | Infers tags like "long exposure" or "bokeh". |
+| {aspect_ratio} | Detects orientation. | Infers tags like "panoramic" or "copy space". |
+| {flash_used} | Injects Yes/No status. | Triggers "studio lighting" or "flash". |
+| {lens_hint} | Technical lens info from EXIF. | Identifies wide-angle or telephoto perspective. |
 
 ### Metadata Preservation
 Use these to command the AI to build upon your existing manual work.
 | Variable | Description | Usage Example |
 | :--- | :--- | :--- |
-| `{existing_keywords}` | Keywords currently saved in the file or XMP. | "Add 20 synonyms to {existing_keywords}." |
-| `{existing_title}` | Current title loaded from the photo. | "Refine this title: {existing_title}." |
-| `{existing_description}` | Current description loaded from the photo. | "Expand this description: {existing_description}." |
-| `{existing_rating}` | Photo rating (1-5 stars). | Prioritizes processing for high-rated shots. |
-
----
+| {existing_keywords} | Keywords currently saved in the file. | "Add 20 synonyms to {existing_keywords}." |
+| {existing_title} | Current title loaded from the photo. | "Refine this title: {existing_title}." |
+| {existing_description} | Current description from the photo. | "Expand this: {existing_description}." |
+| {existing_rating} | Photo rating (1-5 stars). | Prioritizes processing for high-rated shots. |
 
 ## 3. Professional Prompt Example
-This professional-grade prompt template is optimized for high-end microstock automation. It demonstrates how to enforce strict JSON formatting, ASCII-only characters, and precise character limits.
+This professional-grade prompt template is optimized for high-end microstock automation. It demonstrates how to enforce strict JSON formatting and precise character limits.
 
 ### The Template
 ```text
@@ -96,12 +95,12 @@ TASK: Act as a professional stock photography metadata expert. Generate metadata
 
 1. IDENTIFICATION & PRIORITIES:
 - USER HINT: Absolute priority for identifying the subject.
-- DESCRIPTION: Factual sentence focusing on composition and concept (e.g., 'isolated on white', 'minimalist setup').
-- CATEGORIES: Select exactly 3 categories from the ALLOWED CATEGORIES list that best match the image. Use the EXACT string from the list.
+- DESCRIPTION: Factual sentence focusing on composition and concept (e.g., 'isolated on white').
+- CATEGORIES: Select exactly 3 categories from the ALLOWED CATEGORIES list.
 
 2. MICROSTOCK SALES DESCRIPTION (STRICT LIMIT):
-- CONTENT: Describe lighting, textures, colors, and commercial context (wellness, healthy lifestyle). Do NOT use subjective words like 'beautiful'.
-- STRICT LENGTH CONSTRAINT: The 'description' MUST be between 150 and 200 characters long (including spaces and punctuation). NEVER exceed 200 characters. If the text is longer, you MUST trim it to fit this range.
+- CONTENT: Describe lighting, textures, colors, and commercial context. Do NOT use subjective words like 'beautiful'.
+- STRICT LENGTH CONSTRAINT: The 'description' MUST be between 150 and 200 characters long. NEVER exceed 200 characters. 
 
 3. FORMATTING CONSTRAINTS:
 - NO FILLER WORDS: Strictly avoid 'is a', 'it is', 'the', 'a'.
@@ -109,23 +108,23 @@ TASK: Act as a professional stock photography metadata expert. Generate metadata
 
 4. KEYWORDS (STRICTLY 50 UNIQUE TERMS):
 - EXACT COUNT: You MUST generate EXACTLY 50 unique keywords.
-- FORBIDDEN WORDS: outdoor, outdoors, looking, day, daytime, sunny, summer, spring, season, unknown, none, gps, coordinate, 4k, hd, resolution, date, time, camera, lens, samsung, iphone, img_, dsc_, GoPro 13, log, video, MP4, City, Country.
+- FORBIDDEN WORDS: outdoor, day, sunny, summer, spring, season, 4k, hd, camera, lens.
 
 5. OUTPUT FORMAT (JSON):
 Return a valid JSON object:
 {
   "title": "[Subject and features]",
-  "description": "[Detailed commercial factual description for microstock]",
+  "description": "[Detailed commercial factual description]",
   "keywords": ["word1", "word2", ..., "word50"],
   "categories": ["Category 1", "Category 2", "Category 3"]
 }
 
 CONSTRAINTS:
-- HARD CHARACTER LIMIT: The 'description' value MUST be minimum 150 and maximum 200 characters long. Any output over 200 characters is a critical failure.
+- HARD CHARACTER LIMIT: Description minimum 150, maximum 200 characters.
 - STRICT KEYWORD LIMIT: Array MUST contain exactly 50 strings.
-- GEOGRAPHY-FREE: Omit all location data (city, country) for studio shots.
-- STRICT ASCII FORMAT: Use ONLY the basic 26-letter English alphabet. Strip all diacritics (e.g., replace é with e, š with s). No single quotes or apostrophes.
-- VALID JSON ONLY: Return pure valid JSON. NO markdown formatting. NO newlines, tabs, or control characters inside the string values.
+- GEOGRAPHY-FREE: Omit location data for studio shots.
+- STRICT ASCII FORMAT: Strip all diacritics (replace é with e, č with c, etc.).
+- VALID JSON ONLY: Return pure valid JSON. NO markdown formatting.
 
 ---
 
@@ -154,5 +153,5 @@ Build a library of specialized workflows to switch between different project typ
 ---
 *ArtushVision AI - Absolute control over AI behavior for professional media creators.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNjE0NDMyLDE5NzUyNjQzNTZdfQ==
+eyJoaXN0b3J5IjpbMTcwNzk5MjAzMSwxOTc1MjY0MzU2XX0=
 -->
