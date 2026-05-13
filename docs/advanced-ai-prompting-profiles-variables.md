@@ -119,12 +119,7 @@ Return a valid JSON object:
   "categories": ["Category 1", "Category 2", "Category 3"]
 }
 
-CONSTRAINTS:
-- HARD CHARACTER LIMIT: Description minimum 150, maximum 200 characters.
-- STRICT KEYWORD LIMIT: Array MUST contain exactly 50 strings.
-- GEOGRAPHY-FREE: Omit location data for studio shots.
-- STRICT ASCII FORMAT: Strip all diacritics (replace é with e, č with c, etc.).
-- VALID JSON ONLY: Return pure valid JSON. NO markdown formatting.
+CONSTRAINTS: - HARD CHARACTER LIMIT: Description minimum 150, maximum 200 characters. - STRICT KEYWORD LIMIT: Array MUST contain exactly 50 strings. - VALID JSON ONLY: Return pure valid JSON. NO markdown formatting. NO newlines inside the string values. ```
 
 ---
 
@@ -153,5 +148,6 @@ Build a library of specialized workflows to switch between different project typ
 ---
 *ArtushVision AI - Absolute control over AI behavior for professional media creators.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzk5MjAzMSwxOTc1MjY0MzU2XX0=
+eyJoaXN0b3J5IjpbLTEyODc1MTM1MTYsMTcwNzk5MjAzMSwxOT
+c1MjY0MzU2XX0=
 -->
