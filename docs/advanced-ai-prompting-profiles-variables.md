@@ -1,7 +1,6 @@
-
 ---
-title: "Advanced AI Prompting and Profile Editor | ArtushVision AI"
-description: "Complete technical reference for AI variables and professional prompting in ArtushVision AI."
+title: "Advanced AI Prompting and Profile Editor | ArtushVision AI Documentation"
+description: "Complete technical reference for AI variables and professional prompting in ArtushVision AI. Master dynamic EXIF, GPS, and metadata injection."
 ---
 <div style="display: none;">
 <style>
@@ -12,21 +11,23 @@ th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
 </style>
 </div>
 
-{% raw %}
-
 # Advanced AI Prompting: Ultimate Control Over Your Metadata
 
 **Most AI keywording tools are black boxes—you upload an image and get generic results. ArtushVision AI flips this script by giving you absolute freedom to dictate exactly how the AI should think, format, structure, and prioritize your metadata.**
 
 The built-in Profile Editor allows you to program the AI for any specific niche, whether you need standard microstock keywords, poetic social media captions, or strict journalistic editorial descriptions.
 
+---
+
 ## 1. Mode-Specific Prompting
 Because every AI engine behaves differently, ArtushVision AI allows you to save independent prompt profiles for each Processing Mode:
 
 * **Cloud & Local AI:** Standard single-step prompts instructing the Vision model to analyze the image and return commercial JSON metadata.
 * **Hybrid & Two-Step Local AI:** These advanced "Agentic" pipelines use two independent prompts:
-    * **Phase 1 (Vision Prompt):** Instructs the local Vision model to describe the image in raw detail.
+    * **Phase 1 (Vision Prompt):** Instructs the local Vision model to describe the image in raw detail without formatting constraints.
     * **Phase 2 (Text Prompt):** Instructs a text-only model to take that description and strictly format it for SEO using the {local_vision_text} variable.
+
+---
 
 ## 2. Dynamic Variables Reference
 Variables allow the application to inject real-world data from your files directly into the AI prompt. This ensures the AI has 100% accurate background context.
@@ -37,7 +38,7 @@ Variables allow the application to inject real-world data from your files direct
 | {local_vision_text} | Raw text description from local Vision model. | Used in Phase 2 of Hybrid or Two-Step modes. |
 | {user_hint} | Text entered in the Global Hint bar. | Specific subjects like Latin names or client IDs. |
 | {filename} | Filename of the asset without its extension. | Useful if filenames contain project codes. |
-| {folder_context} | Name of the parent folder. | Provides project-level context (e.g. Wedding 2025). |
+| {folder_context} | Name of the parent folder. | Provides project-level context (e.g., Wedding 2025). |
 | {date_info} | The capture date in DD.MM.YYYY format. | Injects temporal context for the AI. |
 | {allowed_categories} | List of categories from your Category Matrix. | Ensures AI picks from your commercial niche. |
 
@@ -49,26 +50,15 @@ Generated via reverse geocoding from the photo's GPS coordinates.
 | {country} | The detected country name. | "Czech Republic" |
 | {loc_hint} | Combined City and State/Province. | "Jihlava, Vysočina" |
 | {gps_raw} | Raw numerical coordinates. | "50.08, 14.43" |
-| {maps_link} | Direct URL to the location on Google Maps. | http://maps.google.com/... |
-
-### Geolocation Variables (Existing IPTC)
-Loaded from existing text metadata (e.g. from Lightroom or DigiKam).
-| Variable | Description | Field Source |
-| :--- | :--- | :--- |
-| {existing_location} | Specific location name. | IPTC: Location |
-| {existing_sublocation} | Specific sub-location. | IPTC: Sub-location |
-| {existing_city} | City name. | IPTC: City |
-| {existing_state} | State or Province. | IPTC: Province/State |
-| {existing_country} | Full country name. | IPTC: Country |
-| {existing_country_code} | ISO Country Code. | IPTC: Country Code |
+| {maps_link} | Direct URL to the location on Google Maps. | http://googleusercontent.com/maps... |
 
 ### Technical and EXIF Parameters
 Technical data helps the AI infer professional photography tags.
 | Variable | Description | Contextual Benefit |
 | :--- | :--- | :--- |
-| {camera_model} | Camera or Drone model. | Triggers tags like "aerial view" or "drone". |
-| {exposure_info} | Shutter, aperture, and ISO. | Infers tags like "long exposure" or "bokeh". |
-| {aspect_ratio} | Detects orientation. | Infers tags like "panoramic" or "copy space". |
+| {camera_model} | Camera or Drone model (e.g. DJI Mavic 3). | Triggers tags like "aerial view" or "drone". |
+| {exposure_info} | Shutter, aperture, and ISO (e.g. 1/2s, f/1.8). | Infers tags like "long exposure" or "bokeh". |
+| {aspect_ratio} | Detects orientation (Landscape, Portrait). | Infers tags like "panoramic" or "copy space". |
 | {flash_used} | Injects Yes/No status. | Triggers "studio lighting" or "flash". |
 | {lens_hint} | Technical lens info from EXIF. | Identifies wide-angle or telephoto perspective. |
 
@@ -81,73 +71,75 @@ Use these to command the AI to build upon your existing manual work.
 | {existing_description} | Current description from the photo. | "Expand this: {existing_description}." |
 | {existing_rating} | Photo rating (1-5 stars). | Prioritizes processing for high-rated shots. |
 
+---
+
 ## 3. Professional Prompt Example
 This professional-grade prompt template is optimized for high-end microstock automation. It demonstrates how to enforce strict JSON formatting and precise character limits.
 
 ### The Template
-```text
-USER HINT: {user_hint}
-FILENAME: {filename}
-FOLDER CONTEXT: {folder_context}
-ALLOWED CATEGORIES: {allowed_categories}
 
-TASK: Act as a professional stock photography metadata expert. Generate metadata in a valid JSON format. Use ENGLISH ONLY and ASCII characters (no diacritics, no apostrophes).
-
-1. IDENTIFICATION & PRIORITIES:
-- USER HINT: Absolute priority for identifying the subject.
-- DESCRIPTION: Factual sentence focusing on composition and concept (e.g., 'isolated on white').
-- CATEGORIES: Select exactly 3 categories from the ALLOWED CATEGORIES list.
-
-2. MICROSTOCK SALES DESCRIPTION (STRICT LIMIT):
-- CONTENT: Describe lighting, textures, colors, and commercial context. Do NOT use subjective words like 'beautiful'.
-- STRICT LENGTH CONSTRAINT: The 'description' MUST be between 150 and 200 characters long. NEVER exceed 200 characters. 
-
-3. FORMATTING CONSTRAINTS:
-- NO FILLER WORDS: Strictly avoid 'is a', 'it is', 'the', 'a'.
-- ASCII ONLY: No diacritics, no apostrophes (').
-
-4. KEYWORDS (STRICTLY 50 UNIQUE TERMS):
-- EXACT COUNT: You MUST generate EXACTLY 50 unique keywords.
-- FORBIDDEN WORDS: outdoor, day, sunny, summer, spring, season, 4k, hd, camera, lens.
-
-5. OUTPUT FORMAT (JSON):
-Return a valid JSON object:
-{
-  "title": "[Subject and features]",
-  "description": "[Detailed commercial factual description]",
-  "keywords": ["word1", "word2", ..., "word50"],
-  "categories": ["Category 1", "Category 2", "Category 3"]
-}
-
-CONSTRAINTS: - HARD CHARACTER LIMIT: Description minimum 150, maximum 200 characters. - STRICT KEYWORD LIMIT: Array MUST contain exactly 50 strings. - VALID JSON ONLY: Return pure valid JSON. NO markdown formatting. NO newlines inside the string values. ```
+    USER HINT: {user_hint}
+    FILENAME: {filename}
+    FOLDER CONTEXT: {folder_context}
+    ALLOWED CATEGORIES: {allowed_categories}
+    
+    TASK: Act as a professional stock photography metadata expert. Generate metadata in a valid JSON format. Use ENGLISH ONLY and ASCII characters (no diacritics, no apostrophes).
+    
+    1. IDENTIFICATION & PRIORITIES:
+    - USER HINT: Absolute priority for identifying the subject.
+    - DESCRIPTION: Factual sentence focusing on composition and concept (e.g., 'isolated on white').
+    - CATEGORIES: Select exactly 3 categories from the ALLOWED CATEGORIES list.
+    
+    2. MICROSTOCK SALES DESCRIPTION (STRICT LIMIT):
+    - CONTENT: Describe lighting, textures, colors, and commercial context. Do NOT use subjective words like 'beautiful'.
+    - STRICT LENGTH CONSTRAINT: The 'description' MUST be between 150 and 200 characters long. NEVER exceed 200 characters. 
+    
+    3. FORMATTING CONSTRAINTS:
+    - NO FILLER WORDS: Strictly avoid 'is a', 'it is', 'the', 'a'.
+    - ASCII ONLY: No diacritics, no apostrophes (').
+    
+    4. KEYWORDS (STRICTLY 50 UNIQUE TERMS):
+    - EXACT COUNT: You MUST generate EXACTLY 50 unique keywords.
+    - FORBIDDEN WORDS: outdoor, day, sunny, summer, 4k, hd, camera, lens, video, MP4.
+    
+    5. OUTPUT FORMAT (JSON):
+    Return a valid JSON object:
+    {
+      "title": "[Subject and features]",
+      "description": "[Detailed commercial factual description]",
+      "keywords": ["word1", "word2", ..., "word50"],
+      "categories": ["Category 1", "Category 2", "Category 3"]
+    }
+    
+    CONSTRAINTS:
+    - HARD CHARACTER LIMIT: Description minimum 150, maximum 200 characters.
+    - STRICT KEYWORD LIMIT: Array MUST contain exactly 50 strings.
+    - VALID JSON ONLY: Return pure valid JSON. NO markdown formatting. NO newlines inside the string values.
 
 ---
 
-## Profile Management and Workflows
+## 4. Profile Management and Workflows
 Build a library of specialized workflows to switch between different project types instantly.
 
-* **JSON Profiles:** Save your prompts as individual profiles (e.g., "Editorial ," "Microstock Standard," "Instagram Caption Generator").
+* **JSON Profiles:** Save your prompts as individual .json profiles (e.g., "Wildlife Editorial", "Standard Microstock", "Instagram Reel Generator").
 * **One-Click Switching:** Change your active profile in the main grid depending on the batch of photos currently being processed.
-* **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies.
+* **Category Matrix Integration:** Use the {allowed_categories} variable to force the AI to select exactly the categories required by your target stock agencies.
 
 [IMAGE: A graphic showing a raw prompt template with variables on the left and the final processed text received by the AI on the right.]
 
 ---
 
 ### Professional Workflow in 3 Steps:
-1.  **Select a Profile:** Choose the appropriate prompt template for your current batch.
-2.  **Add User Hints:** Enter any specific facts (like Latin names or specific events) into the Global Hint bar.
-3.  **Execute AI:** The application merges your technical EXIF, GPS data, and manual hints into the prompt, resulting in metadata with surgical precision.
+1. **Select a Profile:** Choose the appropriate prompt template for your current batch.
+2. **Add User Hints:** Enter any specific facts (like Latin names or specific events) into the Global Hint bar.
+3. **Execute AI:** The application merges your technical EXIF, GPS data, and manual hints into the prompt, resulting in metadata with surgical precision.
 
 ---
 
 ### [Get Started Now]
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
-
----
-*ArtushVision AI - Absolute control over AI behavior for professional media creators.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc1MTM1MTYsMTcwNzk5MjAzMSwxOT
-c1MjY0MzU2XX0=
+eyJoaXN0b3J5IjpbMTA3NzY1NTE4MSwxNzA3OTkyMDMxLDE5Nz
+UyNjQzNTZdfQ==
 -->
