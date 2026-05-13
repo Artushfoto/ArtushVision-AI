@@ -1,6 +1,8 @@
 ---
-title: Installation Guide | ArtushVision AI Docs
+title: OpenRouter API Setup | ArtushVision AI
+description: Step-by-step guide on how to configure your OpenRouter API key for Cloud AI metadata automation in ArtushVision AI.
 ---
+
 
 # OpenRouter API Key Setup Guide
 
@@ -112,7 +114,7 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODA5MjI0OSwtMzU5MTUyNjkzLDE3Mj
-YxMTYxNTcsLTM1OTE1MjY5MywtMTgzMDA4NDM1NywtMTcxNzc2
-NzAwNV19
+eyJoaXN0b3J5IjpbLTE2NzYxOTQyMTYsMTI0ODA5MjI0OSwtMz
+U5MTUyNjkzLDE3MjYxMTYxNTcsLTM1OTE1MjY5MywtMTgzMDA4
+NDM1NywtMTcxNzc2NzAwNV19
 -->
