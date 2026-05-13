@@ -1,7 +1,5 @@
 ---
 title: Installation Guide | ArtushVision AI Docs
-description: Step-by-step guide
-lang: en
 ---
 
 # OpenRouter API Key Setup Guide
@@ -114,6 +112,7 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTE1MjY5MywxNzI2MTE2MTU3LC0zNT
-kxNTI2OTMsLTE4MzAwODQzNTcsLTE3MTc3NjcwMDVdfQ==
+eyJoaXN0b3J5IjpbMTI0ODA5MjI0OSwtMzU5MTUyNjkzLDE3Mj
+YxMTYxNTcsLTM1OTE1MjY5MywtMTgzMDA4NDM1NywtMTcxNzc2
+NzAwNV19
 -->
