@@ -13,7 +13,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 # ArtushVision AI | Professional Metadata Automation
 
 <p align="center">
-  <b>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global FTP Distribution.</b>
+  <b>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global & FTP Distribution.</b>
 </p>
 
 ---
@@ -221,6 +221,6 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM0MjI0ODcsLTg1ODc2ODAwMiwxNT
-E2NTg0MDc0LDk3ODcwMTU1OV19
+eyJoaXN0b3J5IjpbOTgxMDQ1NzUzLC0xNzEzNDIyNDg3LC04NT
+g3NjgwMDIsMTUxNjU4NDA3NCw5Nzg3MDE1NTldfQ==
 -->
