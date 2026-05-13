@@ -24,7 +24,7 @@ The Getty Optimizer module in ArtushVision AI solves this by acting as a profess
 ## Built-in Master Dictionary (11,746+ Terms)
 ArtushVision AI includes a massive, local Master Dictionary specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the ESP portal for permitted terms.
 
-* **Automated Mapping:** Instantly translates standard tags into approved Getty alternatives (e.g., mapping "autumn" to the required "Autumn - Season" structure).
+* **Automated Mapping:** Instantly translates standard tags into approved Getty alternatives (e.g., mapping "rural" to the required "Rural Scene" structure).
 * **Technical Tag Injection:** Automatically adds required structural tags such as Number of People, Camera Settings, or Age Brackets that Getty requires for commercial searchability.
 * **Redundancy Cleanup:** Intelligently merges duplicate meanings and removes prohibited terms before they reach the submission stage.
 
@@ -84,5 +84,5 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 ---
 *ArtushVision AI - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzg5MjY2NF19
+eyJoaXN0b3J5IjpbMTkyMTM4NzkxMCwtODQ3ODkyNjY0XX0=
 -->
