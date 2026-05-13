@@ -1,26 +1,25 @@
 
-<div align="center">
+<p align="center">
+  <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
+</p>
 
-**The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals**
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
+  <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
+</p>
 
-<img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version"> <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
-
-*"Intelligent metadata automation for your **Travel, Home, and Stock photography** workflow with state-of-the-art Vision AI."*
-
-</div>
+<p align="center">
+  <i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
+</p>
 
 ---
 
-<div align="center">
-
-> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.  
+> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
-</div>
-
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
 *Test the full professional workflow with our Lite Version before committing to a license.*
@@ -33,6 +32,8 @@
 **Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
 
 </div>
+
+---
 
 ---
 
@@ -213,11 +214,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkzNjM3OTksMzEwNTcwOTA0LDE2Nj
-Q5OTkxMTUsLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTcz
-NzI4LDEwNzMxOTQyNzksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MC
-w1MDAxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4
-Nzc2OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC
-0xNzI5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5
-NjU1NF19
+eyJoaXN0b3J5IjpbLTU2NTUxODgwNCwtMTA0OTM2Mzc5OSwzMT
+A1NzA5MDQsMTY2NDk5OTExNSwtMTk1NDk4ODYzNCwxMDM2ODE0
+ODI2LDE2OTA5NzM3MjgsMTA3MzE5NDI3OSwxNDM1MDIwMDgwLC
+0yMDc0NjUwMzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMCwyNTk2
+OTY4MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLD
+EwNjYxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MDcz
+MjMwNF19
 -->
