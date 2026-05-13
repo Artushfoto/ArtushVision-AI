@@ -5,14 +5,15 @@ description: "The ultimate AI photo tagging and metadata workstation for stock, 
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
-h1 { text-align: center; }
+h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
+.main-content, .wrapper, .page-content, main { padding-top: 0 !important; margin-top: 0 !important; }
 </style>
 </div>
 
 # ArtushVision AI | Professional Metadata Automation
 
 <p align="center">
-  <b>The Ultimate Cloud and Local AI-Powered Metadata, EXIF Editing & Distribution Workstation for Professionals</b>
+  <b>The Ultimate Cloud and Local AI-Powered Metadata, Asset Management & FTP Distribution Workstation for Professionals</b>
 </p>
 
 ---
