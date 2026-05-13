@@ -13,7 +13,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 # ArtushVision AI | Professional Metadata Automation
 
 <p align="center">
-  <b>The Ultimate Cloud and Local AI-Powered Metadata, Asset Management & FTP Distribution Workstation for Professionals</b>
+  <b>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global FTP Distribution.</b>
 </p>
 
 ---
