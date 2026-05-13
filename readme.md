@@ -1,12 +1,12 @@
-# ArtushVision AI | Professional Metadata Automation
+---
+title: "ArtushVision AI | Professional Photo Metadata & Auto Keywording"
+description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with local & cloud Vision AI."
+---
+
+<h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
 <p align="center">
-  <b>The Ultimate Cloud and Local AI-Powered Metadata & Distribution Workstation for Professionals</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
-  <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
+  <b>The Ultimate Cloud and Local AI-Powered Metadata, EXIF Editing & Distribution Workstation for Professionals</b>
 </p>
 
 ---
@@ -213,3 +213,6 @@ Modify thousands of assets simultaneously with surgical precision.
 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTc4NzAxNTU5XX0=
+-->
