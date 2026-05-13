@@ -3,6 +3,7 @@ title: ArtushVision AI | Professional Metadata Automation
 description: The ultimate AI-powered metadata workstation for stock, travel, and home photography.
 ---
 
+
 <style>
   /* Skryje pouze patičku šablony, zbytek nechá být */
   .site-footer, footer, #footer {
@@ -12,6 +13,7 @@ description: The ultimate AI-powered metadata workstation for stock, travel, and
     margin: 0 !important;
   }
 </style>
+
 
 <h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
