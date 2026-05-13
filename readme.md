@@ -1,6 +1,5 @@
-<div align="center">
 
-# ArtushVision AI
+<div align="center">
 
 **The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals**
 
@@ -34,6 +33,8 @@
 **Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
 
 </div>
+
+---
 
 ---
 
@@ -212,11 +213,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNTcwOTA0LDE2NjQ5OTkxMTUsLTE5NT
-Q5ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNzMxOTQy
-NzksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5NTUsLT
-E5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4Nzc2OTksOTA0NzI2
-MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNzI5NDg5MDQyLD
-cxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1NCwzMDI1MjA4
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTEwNDkzNjM3OTksMzEwNTcwOTA0LDE2Nj
+Q5OTkxMTUsLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTcz
+NzI4LDEwNzMxOTQyNzksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MC
+w1MDAxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4
+Nzc2OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC
+0xNzI5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5
+NjU1NF19
 -->
