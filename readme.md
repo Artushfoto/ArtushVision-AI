@@ -1,3 +1,14 @@
+---
+title: ArtushVision AI | Professional Metadata Automation
+description: The ultimate AI-powered metadata workstation for stock, travel, and home photography.
+---
+
+<style>
+  /* Tento kód bezpečně skryje pouze patičku GitHub šablony */
+  footer, .site-footer, .page-footer { 
+    display: none !important; 
+  }
+</style>
 <h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
 <p align="center">
@@ -218,9 +229,9 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjQ1OTMxMywtMTQ2ODAwODkzMCw5Nz
-E2MjA3NzgsMTA0MjczNzA4LC0xNTAwMzI4MzYyLDEwMjk5NjY2
-MzIsODA5ODg5NTk0LDk4NTA4NDM2NCwxMDQyNzM3MDgsMTM5MT
-Y3MjU3NCwtMzQ0MTE5MDEyLC0xNzMzMTY0MTQ4LDg5ODMzOTY1
-MV19
+eyJoaXN0b3J5IjpbMjE0MjE1MjU5NSwxNTQ2NDU5MzEzLC0xND
+Y4MDA4OTMwLDk3MTYyMDc3OCwxMDQyNzM3MDgsLTE1MDAzMjgz
+NjIsMTAyOTk2NjYzMiw4MDk4ODk1OTQsOTg1MDg0MzY0LDEwND
+I3MzcwOCwxMzkxNjcyNTc0LC0zNDQxMTkwMTIsLTE3MzMxNjQx
+NDgsODk4MzM5NjUxXX0=
 -->
