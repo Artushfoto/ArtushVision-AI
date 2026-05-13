@@ -18,15 +18,7 @@
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
 ---
-
-
 ---
-
-<style>
-  .center-table table {
-    margin: 0 auto !important;
-  }
-</style>
 
 <h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
 
@@ -34,32 +26,10 @@
   <i>Test the full professional workflow with our Lite Version before committing to a license.</i>
 </p>
 
-<div class="center-table">
-
-| [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
-| :---: | :---: |
-| **Fully Functional Version** | **Only $39.99** (+ local VAT) |
-| No time limits for testing | One-time payment • No monthly fees |
-
-</div>
-
-<p align="center">
-  <b>Securely processed by Polar & Stripe.</b> <a href="https://polar.sh">Already have a license? Manage your devices</a>
-</p>
-
----
-
-
-<h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
-
-<p align="center">
-  <i>Test the full professional workflow with our Lite Version before committing to a license.</i>
-</p>
-
-<table align="center" style="margin: 0 auto;">
+<table width="100%">
   <tr>
-    <th align="center"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
-    <th align="center"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
+    <th align="center" width="50%"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
+    <th align="center" width="50%"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
   </tr>
   <tr>
     <td align="center"><b>Fully Functional Version</b></td>
@@ -71,10 +41,13 @@
   </tr>
 </table>
 
+<br>
+
 <p align="center">
   <b>Securely processed by Polar & Stripe.</b> <a href="https://polar.sh">Already have a license? Manage your devices</a>
 </p>
 
+---
 ---
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
@@ -261,11 +234,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MTg5NDYzLDU5OTU3MTMzNCwtMTU4MT
-E1OTQyMSwxNjQzMjU1MzAzLC0xMDQ5MzYzNzk5LDE3OTEzNDQz
-NzYsLTU2NTUxODgwNCwtMTA0OTM2Mzc5OSwzMTA1NzA5MDQsMT
-Y2NDk5OTExNSwtMTk1NDk4ODYzNCwxMDM2ODE0ODI2LDE2OTA5
-NzM3MjgsMTA3MzE5NDI3OSwxNDM1MDIwMDgwLC0yMDc0NjUwMz
-YwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMCwyNTk2OTY4MjUsMTE0
-MDg3NzY5OV19
+eyJoaXN0b3J5IjpbMTQxNzM4NTUxNiw1NDQxODk0NjMsNTk5NT
+cxMzM0LC0xNTgxMTU5NDIxLDE2NDMyNTUzMDMsLTEwNDkzNjM3
+OTksMTc5MTM0NDM3NiwtNTY1NTE4ODA0LC0xMDQ5MzYzNzk5LD
+MxMDU3MDkwNCwxNjY0OTk5MTE1LC0xOTU0OTg4NjM0LDEwMzY4
+MTQ4MjYsMTY5MDk3MzcyOCwxMDczMTk0Mjc5LDE0MzUwMjAwOD
+AsLTIwNzQ2NTAzNjAsNTAwMTAxOTU1LC0xOTMwMjMzMzIwLDI1
+OTY5NjgyNV19
 -->
