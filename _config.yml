@@ -1,4 +1,6 @@
 title: ArtushVision AI | Professional Metadata Automation
 description: Ultimate AI-powered workstation for photography metadata, Getty Images optimization, and global stock distribution.
 lang: en
-# theme: nechej prázdné nebo tento řádek vůbec nepiš
+url: "https://vision.artushfoto.eu"
+plugins:
+  - jekyll-sitemap
