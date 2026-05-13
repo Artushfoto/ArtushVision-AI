@@ -18,7 +18,6 @@
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
 ---
----
 
 <h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
 
@@ -47,7 +46,6 @@
   <b>Securely processed by Polar & Stripe.</b> <a href="https://polar.sh">Already have a license? Manage your devices</a>
 </p>
 
----
 ---
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
@@ -234,11 +232,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzM4NTUxNiw1NDQxODk0NjMsNTk5NT
-cxMzM0LC0xNTgxMTU5NDIxLDE2NDMyNTUzMDMsLTEwNDkzNjM3
-OTksMTc5MTM0NDM3NiwtNTY1NTE4ODA0LC0xMDQ5MzYzNzk5LD
-MxMDU3MDkwNCwxNjY0OTk5MTE1LC0xOTU0OTg4NjM0LDEwMzY4
-MTQ4MjYsMTY5MDk3MzcyOCwxMDczMTk0Mjc5LDE0MzUwMjAwOD
-AsLTIwNzQ2NTAzNjAsNTAwMTAxOTU1LC0xOTMwMjMzMzIwLDI1
-OTY5NjgyNV19
+eyJoaXN0b3J5IjpbMTYyMTkzNTU3MiwxNDE3Mzg1NTE2LDU0ND
+E4OTQ2Myw1OTk1NzEzMzQsLTE1ODExNTk0MjEsMTY0MzI1NTMw
+MywtMTA0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1MTg4MDQsLT
+EwNDkzNjM3OTksMzEwNTcwOTA0LDE2NjQ5OTkxMTUsLTE5NTQ5
+ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNzMxOTQyNz
+ksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5NTUsLTE5
+MzAyMzMzMjBdfQ==
 -->
