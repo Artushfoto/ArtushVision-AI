@@ -1,26 +1,56 @@
+<p align="center">
+  <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
+  <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
+</p>
 
-**The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals**
-
-<img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version"> <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
-
-*"Intelligent metadata automation for your **Travel, Home, and Stock photography** workflow with state-of-the-art Vision AI."*
-
-</div>
+<p align="center">
+  <i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
+</p>
 
 ---
 
-<div align="center">
-
-> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.  
+> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
-</div>
+---
+
+<h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
+
+<p align="center">
+  <i>Test the full professional workflow with our Lite Version before committing to a license.</i>
+</p>
+
+<table align="center" style="margin: 0 auto;">
+  <tr>
+    <th align="center"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
+    <th align="center"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Fully Functional Version</b></td>
+    <td align="center"><b>Only $39.99</b> (+ local VAT)</td>
+  </tr>
+  <tr>
+    <td align="center">No time limits for testing</td>
+    <td align="center">One-time payment &bull; No monthly fees</td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>Securely processed by Polar & Stripe.</b> <a href="https://polar.sh">Already have a license? Manage your devices</a>
+</p>
 
 ---
 
-<div align="center">
+**Beyond AI automation, it offers a complete organization and distribution toolkit:**
+
+* **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
+* **Getty Optimizer:** 100% submission success with Master Dictionary validation.
+* **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
+* **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
 
 ### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
 *Test the full professional workflow with our Lite Version before committing to a license.*
@@ -213,11 +243,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkzNjM3OTksMTc5MTM0NDM3NiwtNT
-Y1NTE4ODA0LC0xMDQ5MzYzNzk5LDMxMDU3MDkwNCwxNjY0OTk5
-MTE1LC0xOTU0OTg4NjM0LDEwMzY4MTQ4MjYsMTY5MDk3MzcyOC
-wxMDczMTk0Mjc5LDE0MzUwMjAwODAsLTIwNzQ2NTAzNjAsNTAw
-MTAxOTU1LC0xOTMwMjMzMzIwLDI1OTY5NjgyNSwxMTQwODc3Nj
-k5LDkwNDcyNjA4LDEwNTg4MDUyMTAsMTA2NjE5ODY1OCwtMTcy
-OTQ4OTA0Ml19
+eyJoaXN0b3J5IjpbMTY0MzI1NTMwMywtMTA0OTM2Mzc5OSwxNz
+kxMzQ0Mzc2LC01NjU1MTg4MDQsLTEwNDkzNjM3OTksMzEwNTcw
+OTA0LDE2NjQ5OTkxMTUsLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNi
+wxNjkwOTczNzI4LDEwNzMxOTQyNzksMTQzNTAyMDA4MCwtMjA3
+NDY1MDM2MCw1MDAxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2OD
+I1LDExNDA4Nzc2OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2
+MTk4NjU4XX0=
 -->
