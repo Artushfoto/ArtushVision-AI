@@ -1,4 +1,5 @@
---- title: ArtushVision AI | Professional Metadata Automation description: ... 
+--- 
+title: ArtushVision AI | Professional Metadata Automation description: ... 
 --- 
 <div style="display: none;"> <style> header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; } </style> </div>
 
@@ -222,7 +223,7 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDMzMTgxOCw4MDk4ODk1OTQsOTg1MD
+eyJoaXN0b3J5IjpbMTAyOTk2NjYzMiw4MDk4ODk1OTQsOTg1MD
 g0MzY0LDEwNDI3MzcwOCwxMzkxNjcyNTc0LC0zNDQxMTkwMTIs
 LTE3MzMxNjQxNDgsODk4MzM5NjUxXX0=
 -->
