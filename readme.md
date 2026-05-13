@@ -1,7 +1,6 @@
 ---
-title: ArtushVision AI | Professional Photo Metadata & Auto Keywording
-description: The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with local & cloud Vision AI.
-
+title: "ArtushVision AI | Professional Photo Metadata & Auto Keywording"
+description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with local & cloud Vision AI."
 ---
 
 # ArtushVision AI | Professional Metadata Automation
@@ -220,11 +219,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTAwNTQwNTUsLTc5NTk4NzQ0OSwxMz
-E4Mzk0OTU4LDE4NDMxNzUzOTQsLTE4MDgzOTMyMDcsMTkxNDY4
-NzI0NCwtMTk4OTA5NjYxNCwyMTQyMTUyNTk1LDE1NDY0NTkzMT
-MsLTE0NjgwMDg5MzAsOTcxNjIwNzc4LDEwNDI3MzcwOCwtMTUw
-MDMyODM2MiwxMDI5OTY2NjMyLDgwOTg4OTU5NCw5ODUwODQzNj
-QsMTA0MjczNzA4LDEzOTE2NzI1NzQsLTM0NDExOTAxMiwtMTcz
-MzE2NDE0OF19
+eyJoaXN0b3J5IjpbNzczNzkyMDA3LC03OTU5ODc0NDksMTMxOD
+M5NDk1OCwxODQzMTc1Mzk0LC0xODA4MzkzMjA3LDE5MTQ2ODcy
+NDQsLTE5ODkwOTY2MTQsMjE0MjE1MjU5NSwxNTQ2NDU5MzEzLC
+0xNDY4MDA4OTMwLDk3MTYyMDc3OCwxMDQyNzM3MDgsLTE1MDAz
+MjgzNjIsMTAyOTk2NjYzMiw4MDk4ODk1OTQsOTg1MDg0MzY0LD
+EwNDI3MzcwOCwxMzkxNjcyNTc0LC0zNDQxMTkwMTIsLTE3MzMx
+NjQxNDhdfQ==
 -->
