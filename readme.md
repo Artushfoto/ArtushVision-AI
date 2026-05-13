@@ -5,7 +5,6 @@
   <b>The Ultimate Cloud and Local AI-Powered Metadata & Distribution Workstation for Professionals</b>
 </p>
 
--
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
   <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
@@ -49,6 +48,8 @@
   <b>Securely processed by Polar & Stripe.</b><br>
   <a href="https://polar.sh">Already have a license? Manage your devices</a>
 </p>
+
+---
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
 
@@ -225,7 +226,7 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI2NzczNTAsMzUxMjk0MjIzLDE4OT
+eyJoaXN0b3J5IjpbLTE3OTA4NjU5ODgsMzUxMjk0MjIzLDE4OT
 U0MjYwNzUsLTEyOTYxMDI0NDEsLTMxNTUwMjQ2MSwxNDE3Mzg1
 NTE2LDU0NDE4OTQ2Myw1OTk1NzEzMzQsLTE1ODExNTk0MjEsMT
 Y0MzI1NTMwMywtMTA0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1
