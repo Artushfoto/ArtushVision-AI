@@ -1,3 +1,13 @@
+---
+title: ArtushVision AI | Professional Metadata Automation
+description: The ultimate AI-powered metadata workstation for stock, travel, and home photography. Optimize for Getty Images and distribute globally.
+---
+<div style="display: none;">
+<style>
+header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
+</style>
+</div>
+
 <h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
 <p align="center">
@@ -63,7 +73,7 @@
 * [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
 * [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
 * [Global Distribution & Smart FTP Suite](#global-distribution--smart-ftp-suite)
-* [Desktop App vs. Cloud Services](#desktop-application-vs-cloud-services)
+* [ArtushVision AI vs. Cloud Services](#artushvision-ai-vs-cloud-services)
 * [1. Installation & Setup](#1-installation--setup)
 * [2. Interface Overview](#2-interface-overview)
 * [3. AI Analysis Workflow](#3-ai-analysis-workflow)
@@ -127,12 +137,12 @@ Own your tools and pay only for the AI you use.
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
 * **[Ollama](https://ollama.com):** Required for Local AI analysis.
-* **[OpenRouter API Key](/docs/openrouter.md):** Required for Cloud AI analysis.
+* **[OpenRouter API Key](/docs/openrouter.html):** Required for Cloud AI analysis.
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **Trial Version**.
-3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/openrouter.md) for Cloud or ensure Ollama is running for Local.
+3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/openrouter.html) for Cloud or ensure Ollama is running for Local.
 
 ---
 
@@ -218,6 +228,6 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDExOTAxMiwtMTczMzE2NDE0OCw4OT
-gzMzk2NTFdfQ==
+eyJoaXN0b3J5IjpbMTM5MTY3MjU3NCwtMzQ0MTE5MDEyLC0xNz
+MzMTY0MTQ4LDg5ODMzOTY1MV19
 -->
