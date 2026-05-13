@@ -5,6 +5,7 @@
   <b>The Ultimate Cloud and Local AI-Powered Metadata & Distribution Workstation for Professionals</b>
 </p>
 
+-
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
   <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
@@ -224,11 +225,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMjk0MjIzLDE4OTU0MjYwNzUsLTEyOT
-YxMDI0NDEsLTMxNTUwMjQ2MSwxNDE3Mzg1NTE2LDU0NDE4OTQ2
-Myw1OTk1NzEzMzQsLTE1ODExNTk0MjEsMTY0MzI1NTMwMywtMT
-A0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1MTg4MDQsLTEwNDkz
-NjM3OTksMzEwNTcwOTA0LDE2NjQ5OTkxMTUsLTE5NTQ5ODg2Mz
-QsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNzMxOTQyNzksMTQz
-NTAyMDA4MF19
+eyJoaXN0b3J5IjpbLTIwMzI2NzczNTAsMzUxMjk0MjIzLDE4OT
+U0MjYwNzUsLTEyOTYxMDI0NDEsLTMxNTUwMjQ2MSwxNDE3Mzg1
+NTE2LDU0NDE4OTQ2Myw1OTk1NzEzMzQsLTE1ODExNTk0MjEsMT
+Y0MzI1NTMwMywtMTA0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1
+MTg4MDQsLTEwNDkzNjM3OTksMzEwNTcwOTA0LDE2NjQ5OTkxMT
+UsLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEw
+NzMxOTQyNzldfQ==
 -->
