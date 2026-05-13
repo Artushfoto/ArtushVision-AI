@@ -52,29 +52,6 @@
 * **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
 * **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
 
-### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
-*Test the full professional workflow with our Lite Version before committing to a license.*
-
-| [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
-| :---: | :---: |
-| **Fully Functional Version** | **Only $39.99** (+ local VAT) |
-| No time limits for testing | One-time payment • No monthly fees |
-
-**Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
-
-</div>
-
----
-
----
-
-**Beyond AI automation, it offers a complete organization and distribution toolkit:**
-
-* **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
-* **Getty Optimizer:** 100% submission success with Master Dictionary validation.
-* **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
-* **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
-
 ---
 
 ## Quick Navigation
@@ -243,11 +220,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzI1NTMwMywtMTA0OTM2Mzc5OSwxNz
-kxMzQ0Mzc2LC01NjU1MTg4MDQsLTEwNDkzNjM3OTksMzEwNTcw
-OTA0LDE2NjQ5OTkxMTUsLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNi
-wxNjkwOTczNzI4LDEwNzMxOTQyNzksMTQzNTAyMDA4MCwtMjA3
-NDY1MDM2MCw1MDAxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2OD
-I1LDExNDA4Nzc2OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2
-MTk4NjU4XX0=
+eyJoaXN0b3J5IjpbLTE1ODExNTk0MjEsMTY0MzI1NTMwMywtMT
+A0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1MTg4MDQsLTEwNDkz
+NjM3OTksMzEwNTcwOTA0LDE2NjQ5OTkxMTUsLTE5NTQ5ODg2Mz
+QsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNzMxOTQyNzksMTQz
+NTAyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5NTUsLTE5MzAyMz
+MzMjAsMjU5Njk2ODI1LDExNDA4Nzc2OTksOTA0NzI2MDgsMTA1
+ODgwNTIxMF19
 -->
