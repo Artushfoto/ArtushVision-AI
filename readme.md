@@ -92,7 +92,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 * **Non-Destructive Sidecars:** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
 * **Interactive Getty Resolver:** Batch-validate keywords against a **Master Dictionary of 11,746+ commercial terms**.
 * **Visual Context Highlighting:** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
-* **Semantic AI Disambiguation:** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
+* **Semantic AI Disambiguation (beta):** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
 * **Term Splitting:** Double-click to split multi-word phrases (e.g., 'cooked food' to 'cooked, food') and fresh validation is triggered instantly.
 
 ---
@@ -108,7 +108,7 @@ Distribute your work to all major stock agencies simultaneously with a professio
 
 ---
 
-## Desktop Application vs. Cloud Services
+## ArtushVision AI vs. Cloud Services
 Own your tools and pay only for the AI you use.
 
 | Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
@@ -218,5 +218,6 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMxNjQxNDgsODk4MzM5NjUxXX0=
+eyJoaXN0b3J5IjpbLTM0NDExOTAxMiwtMTczMzE2NDE0OCw4OT
+gzMzk2NTFdfQ==
 -->
