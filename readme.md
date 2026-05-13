@@ -1,3 +1,4 @@
+
 <h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
 <p align="center">
@@ -26,22 +27,20 @@
   <i>Test the full professional workflow with our Lite Version before committing to a license.</i>
 </p>
 
-<div align="center">
-  <table align="center" style="margin: 0 auto;">
-    <tr>
-      <th align="center"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
-      <th align="center"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
-    </tr>
-    <tr>
-      <td align="center"><b>Fully Functional Version</b></td>
-      <td align="center"><b>Only $39.99</b> (+ local VAT)</td>
-    </tr>
-    <tr>
-      <td align="center">No time limits for testing</td>
-      <td align="center">One-time payment &bull; No monthly fees</td>
-    </tr>
-  </table>
-</div>
+<table style="margin: 0 auto; display: table;">
+  <tr>
+    <th style="text-align: center;"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
+    <th style="text-align: center;"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>Fully Functional Version</b></td>
+    <td style="text-align: center;"><b>Only $39.99</b> (+ local VAT)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">No time limits for testing</td>
+    <td style="text-align: center;">One-time payment &bull; No monthly fees</td>
+  </tr>
+</table>
 
 <br>
 
@@ -238,11 +237,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYxMDI0NDEsLTMxNTUwMjQ2MSwxND
-E3Mzg1NTE2LDU0NDE4OTQ2Myw1OTk1NzEzMzQsLTE1ODExNTk0
-MjEsMTY0MzI1NTMwMywtMTA0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC
-01NjU1MTg4MDQsLTEwNDkzNjM3OTksMzEwNTcwOTA0LDE2NjQ5
-OTkxMTUsLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTczNz
-I4LDEwNzMxOTQyNzksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1
-MDAxMDE5NTVdfQ==
+eyJoaXN0b3J5IjpbMTg5NTQyNjA3NSwtMTI5NjEwMjQ0MSwtMz
+E1NTAyNDYxLDE0MTczODU1MTYsNTQ0MTg5NDYzLDU5OTU3MTMz
+NCwtMTU4MTE1OTQyMSwxNjQzMjU1MzAzLC0xMDQ5MzYzNzk5LD
+E3OTEzNDQzNzYsLTU2NTUxODgwNCwtMTA0OTM2Mzc5OSwzMTA1
+NzA5MDQsMTY2NDk5OTExNSwtMTk1NDk4ODYzNCwxMDM2ODE0OD
+I2LDE2OTA5NzM3MjgsMTA3MzE5NDI3OSwxNDM1MDIwMDgwLC0y
+MDc0NjUwMzYwXX0=
 -->
