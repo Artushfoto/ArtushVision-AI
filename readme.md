@@ -141,7 +141,7 @@ Own your tools and pay only for the AI you use.
    > [!IMPORTANT]
    > **Trial Limits (per session):** 10 saves, 3 AI calls, 3 Getty resolves, and 5 FTP uploads.
    > 
-3. **AI Configuration:** Enter your [OpenRouter API Key](https://github.com/Artushfoto/ArtushVision-AI/blob/main/docs/openrouter.md) for Cloud or ensure [Ollama](https://ollama.com) is running for Local.
+3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/openrouter.md) for Cloud or ensure [Ollama](https://ollama.com) is running for Local.
 
 ---
 
@@ -230,7 +230,7 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzQ1NjIxOCwtMTU4MTE1OTQyMSwxNj
+eyJoaXN0b3J5IjpbMjA0NTYxNjY1NCwtMTU4MTE1OTQyMSwxNj
 QzMjU1MzAzLC0xMDQ5MzYzNzk5LDE3OTEzNDQzNzYsLTU2NTUx
 ODgwNCwtMTA0OTM2Mzc5OSwzMTA1NzA5MDQsMTY2NDk5OTExNS
 wtMTk1NDk4ODYzNCwxMDM2ODE0ODI2LDE2OTA5NzM3MjgsMTA3
