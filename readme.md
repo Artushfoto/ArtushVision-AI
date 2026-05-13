@@ -1,5 +1,9 @@
-# <h1 align="center">ArtushVision AI</h1>
-<h3 align="center">The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</h3>
+
+# ArtushVision AI
+
+<p align="center">
+  <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
@@ -7,17 +11,17 @@
 </p>
 
 <p align="center">
-<i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
+  <i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
 </p>
 
 ---
+
 > **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
+
 ---
 
-<div align="center">
-
-### 💡 **ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!**
+### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
 *Test the full professional workflow with our Lite Version before committing to a license.*
 
 | [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
@@ -25,18 +29,16 @@
 | **Fully Functional Version** | **Only $39.99** (+ local VAT) |
 | No time limits for testing | One-time payment • No monthly fees |
 
-**Securely processed by Polar & Stripe.**
-[Already have a license? Manage your devices](https://polar.sh)
-
-</div>
+**Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
 
 ---
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
-*  **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
-*  **Getty Optimizer:** 100% submission success with Master Dictionary validation.
-*  **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
-*  **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
+
+* **Smart Protection:** AI appends insights without overwriting your manual keywords or Face Tags.
+* **Getty Optimizer:** 100% submission success with Master Dictionary validation.
+* **Smart FTP:** "Zero-touch" workflow with automated CSV generation.
+* **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
 
 ---
 
@@ -206,11 +208,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNiwxNj
-kwOTczNzI4LDEwNzMxOTQyNzksMTQzNTAyMDA4MCwtMjA3NDY1
-MDM2MCw1MDAxMDE5NTUsLTE5MzAyMzMzMjAsMjU5Njk2ODI1LD
-ExNDA4Nzc2OTksOTA0NzI2MDgsMTA1ODgwNTIxMCwxMDY2MTk4
-NjU4LC0xNzI5NDg5MDQyLDcxNDI5OTE4LDEzODA3MzIzMDQsMj
-AyMzQ5NjU1NCwzMDI1MjA4MjgsLTE2ODA3OTY1LC0xNDc4Nzcx
-MDkzXX0=
+eyJoaXN0b3J5IjpbMTY2NDk5OTExNSwtMTk1NDk4ODYzNCwxMD
+M2ODE0ODI2LDE2OTA5NzM3MjgsMTA3MzE5NDI3OSwxNDM1MDIw
+MDgwLC0yMDc0NjUwMzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMC
+wyNTk2OTY4MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1
+MjEwLDEwNjYxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMT
+M4MDczMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5
+NjVdfQ==
 -->
