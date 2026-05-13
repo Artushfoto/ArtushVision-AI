@@ -1,18 +1,10 @@
+# ArtushVision AI | Professional Metadata Automation
 
-<h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
+**The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals**
 
-<p align="center">
-  <b>The Ultimate Cloud and Local AI-Powered Metadata & Distribution Workstation for Professionals</b>
-</p>
+![Version](https://img.shields.io/badge/Version-v2026.1.204-007abb) ![AI](https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
-  <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
-</p>
-
-<p align="center">
-  <i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
-</p>
+*"Intelligent metadata automation for your **Travel, Home, and Stock photography** workflow with state-of-the-art Vision AI."*
 
 ---
 
@@ -21,33 +13,15 @@
 
 ---
 
-<h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
+### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
+*Test the full professional workflow with our Lite Version before committing to a license.*
 
-<p align="center">
-  <i>Test the full professional workflow with our Lite Version before committing to a license.</i>
-</p>
+| [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
+| :---: | :---: |
+| **Fully Functional Version** | **Only $39.99** (+ local VAT) |
+| No time limits for testing | One-time payment • No monthly fees |
 
-<table style="margin: 0 auto; display: table;">
-  <tr>
-    <th style="text-align: center;"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
-    <th style="text-align: center;"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><b>Fully Functional Version</b></td>
-    <td style="text-align: center;"><b>Only $39.99</b> (+ local VAT)</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">No time limits for testing</td>
-    <td style="text-align: center;">One-time payment &bull; No monthly fees</td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <b>Securely processed by Polar & Stripe.</b><br>
-  <a href="https://polar.sh">Already have a license? Manage your devices</a>
-</p>
+**Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
 
 ---
 
@@ -226,11 +200,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA4NjU5ODgsMzUxMjk0MjIzLDE4OT
-U0MjYwNzUsLTEyOTYxMDI0NDEsLTMxNTUwMjQ2MSwxNDE3Mzg1
-NTE2LDU0NDE4OTQ2Myw1OTk1NzEzMzQsLTE1ODExNTk0MjEsMT
-Y0MzI1NTMwMywtMTA0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1
-MTg4MDQsLTEwNDkzNjM3OTksMzEwNTcwOTA0LDE2NjQ5OTkxMT
-UsLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEw
-NzMxOTQyNzldfQ==
+eyJoaXN0b3J5IjpbLTgyODY0MDczLC0xNzkwODY1OTg4LDM1MT
+I5NDIyMywxODk1NDI2MDc1LC0xMjk2MTAyNDQxLC0zMTU1MDI0
+NjEsMTQxNzM4NTUxNiw1NDQxODk0NjMsNTk5NTcxMzM0LC0xNT
+gxMTU5NDIxLDE2NDMyNTUzMDMsLTEwNDkzNjM3OTksMTc5MTM0
+NDM3NiwtNTY1NTE4ODA0LC0xMDQ5MzYzNzk5LDMxMDU3MDkwNC
+wxNjY0OTk5MTE1LC0xOTU0OTg4NjM0LDEwMzY4MTQ4MjYsMTY5
+MDk3MzcyOF19
 -->
