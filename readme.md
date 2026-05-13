@@ -1,25 +1,27 @@
+<div align="center">
 
 # ArtushVision AI
 
-<p align="center">
-  <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
-</p>
+**The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
-  <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
-</p>
+<img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version"> <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
 
-<p align="center">
-  <i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
-</p>
+*"Intelligent metadata automation for your **Travel, Home, and Stock photography** workflow with state-of-the-art Vision AI."*
+
+</div>
 
 ---
 
-> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
+<div align="center">
+
+> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.  
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
 *Test the full professional workflow with our Lite Version before committing to a license.*
@@ -30,6 +32,8 @@
 | No time limits for testing | One-time payment • No monthly fees |
 
 **Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
+
+</div>
 
 ---
 
@@ -208,11 +212,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDk5OTExNSwtMTk1NDk4ODYzNCwxMD
-M2ODE0ODI2LDE2OTA5NzM3MjgsMTA3MzE5NDI3OSwxNDM1MDIw
-MDgwLC0yMDc0NjUwMzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMC
-wyNTk2OTY4MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1
-MjEwLDEwNjYxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMT
-M4MDczMjMwNCwyMDIzNDk2NTU0LDMwMjUyMDgyOCwtMTY4MDc5
-NjVdfQ==
+eyJoaXN0b3J5IjpbMzEwNTcwOTA0LDE2NjQ5OTkxMTUsLTE5NT
+Q5ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNzMxOTQy
+NzksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5NTUsLT
+E5MzAyMzMzMjAsMjU5Njk2ODI1LDExNDA4Nzc2OTksOTA0NzI2
+MDgsMTA1ODgwNTIxMCwxMDY2MTk4NjU4LC0xNzI5NDg5MDQyLD
+cxNDI5OTE4LDEzODA3MzIzMDQsMjAyMzQ5NjU1NCwzMDI1MjA4
+MjhdfQ==
 -->
