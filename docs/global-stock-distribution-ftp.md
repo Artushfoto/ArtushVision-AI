@@ -19,7 +19,7 @@ Distributing stock photography and video is often a tedious process of managing 
 
 ---
 
-## ⚡ Multi-Server Smart FTP (Custom Threading)
+## Multi-Server Smart FTP (Custom Threading)
 Not all servers are created equal. ArtushVision AI allows you to optimize your bandwidth by setting unique thread counts for every agency.
 
 * **Thread Optimization:** Set 1 thread for sensitive servers (e.g., Zoonar) and up to 10 threads for high-speed infrastructure (e.g., Shutterstock, Adobe Stock).
@@ -28,7 +28,7 @@ Not all servers are created equal. ArtushVision AI allows you to optimize your b
 
 ---
 
-## 📊 Automated CSV Metadata Generation
+## Automated CSV Metadata Generation
 Stop manually creating spreadsheets for every agency. ArtushVision AI automates the most hated part of stock photography.
 
 * **On-the-Fly Generation:** The app generates agency-specific CSV files (Adobe Stock, Dreamstime, etc.) in real-time during the upload process.
@@ -39,7 +39,7 @@ Stop manually creating spreadsheets for every agency. ArtushVision AI automates 
 
 ---
 
-## 🗺️ Universal Category Mapping
+## Universal Category Mapping
 Agencies use different ID systems for categories. What is "Nature" on one site might be "Category 142" on another. 
 
 * **Smart Translation Matrix:** Map your internal categories once. The app automatically translates them into the correct IDs for each specific agency.
@@ -48,18 +48,18 @@ Agencies use different ID systems for categories. What is "Nature" on one site m
 
 ---
 
-## 🛡️ Persistent Status Tracking (XMP Badges)
+## Persistent Status Tracking (XMP Badges)
 Never wonder if a file has been uploaded. ArtushVision AI stores the distribution history **directly within the file's XMP metadata**.
 
 * **Visual Status Badges:** Blue FTP badges appear in the image grid for instant verification.
 * **Transfer History:** Even if you move your files to a different drive or computer, ArtushVision AI will read the metadata and show you exactly where and when the file was sent.
-* **Error Reporting:** Instant feedback with visual 🔴 indicators if an upload fails, including detailed logs for troubleshooting.
+* **Error Reporting:** Instant feedback with visual indicators if an upload fails, including detailed logs for troubleshooting.
 
 [IMAGE: A screenshot of the image grid showing different badges—GPS, XMP, and the blue FTP badge indicating a successful distribution.]
 
 ---
 
-## 🚀 Professional Workflow in 3 Steps:
+## Professional Workflow in 3 Steps:
 1.  **Configure Profiles:** Set up your agency FTP credentials and mapping once.
 2.  **Select & Group:** Choose your assets and select an FTP Profile (e.g., "Top 5 Agencies").
 3.  **Run Distribution:** Click "Start Upload". The app handles the metadata synthesis, CSV creation, and multi-threaded transfer automatically.
