@@ -1,3 +1,6 @@
+---
+---
+
 # OpenRouter API Key Setup Guide
 
 Step-by-step guide to register, generate, and secure your API key for ArtushVision AI.
@@ -108,6 +111,6 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
   Last updated: May 2026
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTE1MjY5MywtMTgzMDA4NDM1NywtMT
-cxNzc2NzAwNV19
+eyJoaXN0b3J5IjpbMTcyNjExNjE1NywtMzU5MTUyNjkzLC0xOD
+MwMDg0MzU3LC0xNzE3NzY3MDA1XX0=
 -->
