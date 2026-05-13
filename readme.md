@@ -1,3 +1,4 @@
+<h1 align="center">ArtushVision AI | Professional Metadata Automation</h1>
 
 <p align="center">
   <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
@@ -19,34 +20,34 @@
 
 ---
 
-
----
-
 <h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
 
 <p align="center">
   <i>Test the full professional workflow with our Lite Version before committing to a license.</i>
 </p>
 
-<table style="width: 100%; display: table;">
-  <tr>
-    <th style="width: 50%; text-align: center;"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
-    <th style="width: 50%; text-align: center;"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><b>Fully Functional Version</b></td>
-    <td style="text-align: center;"><b>Only $39.99</b> (+ local VAT)</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">No time limits for testing</td>
-    <td style="text-align: center;">One-time payment &bull; No monthly fees</td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center" style="margin: 0 auto;">
+    <tr>
+      <th align="center"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
+      <th align="center"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
+    </tr>
+    <tr>
+      <td align="center"><b>Fully Functional Version</b></td>
+      <td align="center"><b>Only $39.99</b> (+ local VAT)</td>
+    </tr>
+    <tr>
+      <td align="center">No time limits for testing</td>
+      <td align="center">One-time payment &bull; No monthly fees</td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
 <p align="center">
-  <b>Securely processed by Polar & Stripe.</b> <a href="https://polar.sh">Already have a license? Manage your devices</a>
+  <b>Securely processed by Polar & Stripe.</b><br>
+  <a href="https://polar.sh">Already have a license? Manage your devices</a>
 </p>
 
 ---
@@ -237,11 +238,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTUwMjQ2MSwxNDE3Mzg1NTE2LDU0ND
-E4OTQ2Myw1OTk1NzEzMzQsLTE1ODExNTk0MjEsMTY0MzI1NTMw
-MywtMTA0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1MTg4MDQsLT
-EwNDkzNjM3OTksMzEwNTcwOTA0LDE2NjQ5OTkxMTUsLTE5NTQ5
-ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNzMxOTQyNz
-ksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5NTUsLTE5
-MzAyMzMzMjBdfQ==
+eyJoaXN0b3J5IjpbLTEyOTYxMDI0NDEsLTMxNTUwMjQ2MSwxND
+E3Mzg1NTE2LDU0NDE4OTQ2Myw1OTk1NzEzMzQsLTE1ODExNTk0
+MjEsMTY0MzI1NTMwMywtMTA0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC
+01NjU1MTg4MDQsLTEwNDkzNjM3OTksMzEwNTcwOTA0LDE2NjQ5
+OTkxMTUsLTE5NTQ5ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTczNz
+I4LDEwNzMxOTQyNzksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1
+MDAxMDE5NTVdfQ==
 -->
