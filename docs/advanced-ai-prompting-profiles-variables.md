@@ -132,7 +132,7 @@ CONSTRAINTS:
 ## Profile Management and Workflows
 Build a library of specialized workflows to switch between different project types instantly.
 
-* **JSON Profiles:** Save your prompts as individual profiles (e.g., "Editorial News," "Microstock Standard," "Instagram Caption Generator").
+* **JSON Profiles:** Save your prompts as individual profiles (e.g., "Microstock Editorial ," "Microstock Standard," "Instagram Caption Generator").
 * **One-Click Switching:** Change your active profile in the main grid depending on the batch of photos currently being processed.
 * **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies.
 
@@ -154,5 +154,5 @@ Build a library of specialized workflows to switch between different project typ
 ---
 *ArtushVision AI - Absolute control over AI behavior for professional media creators.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4NjMxNjM1XX0=
+eyJoaXN0b3J5IjpbMTk3NTI2NDM1Nl19
 -->
