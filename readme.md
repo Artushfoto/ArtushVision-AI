@@ -1,55 +1,42 @@
 
-<p align="center">
-  <b>The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version">
-  <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
-</p>
+**The Ultimate AI-Powered Metadata & Distribution Workstation for Professionals**
 
-<p align="center">
-  <i>"Intelligent metadata automation for your <b>Travel, Home, and Stock photography</b> workflow with state-of-the-art Vision AI."</i>
-</p>
+<img src="https://img.shields.io/badge/Version-v2026.1.204-007abb" alt="Version"> <img src="https://img.shields.io/badge/AI-OpenRouter_&_Ollama-ed7d31" alt="AI">
+
+*"Intelligent metadata automation for your **Travel, Home, and Stock photography** workflow with state-of-the-art Vision AI."*
+
+</div>
 
 ---
 
-> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
+<div align="center">
+
+> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.  
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
----
+</div>
 
+---
 
 <div align="center">
 
 ### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
 *Test the full professional workflow with our Lite Version before committing to a license.*
 
-<br>
+| [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
+| :---: | :---: |
+| **Fully Functional Version** | **Only $39.99** (+ local VAT) |
+| No time limits for testing | One-time payment • No monthly fees |
 
-<table align="center">
-  <tr>
-    <th align="center"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
-    <th align="center"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
-  </tr>
-  <tr>
-    <td align="center"><b>Fully Functional Version</b></td>
-    <td align="center"><b>Only $39.99</b> (+ local VAT)</td>
-  </tr>
-  <tr>
-    <td align="center">No time limits for testing</td>
-    <td align="center">One-time payment • No monthly fees</td>
-  </tr>
-</table>
-
-<br>
-
-**Securely processed by Polar & Stripe.** <a href="https://polar.sh">Already have a license? Manage your devices</a>
+**Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
 
 </div>
 
 ---
 
+---
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
 
@@ -226,11 +213,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTM0NDM3NiwtNTY1NTE4ODA0LC0xMD
-Q5MzYzNzk5LDMxMDU3MDkwNCwxNjY0OTk5MTE1LC0xOTU0OTg4
-NjM0LDEwMzY4MTQ4MjYsMTY5MDk3MzcyOCwxMDczMTk0Mjc5LD
-E0MzUwMjAwODAsLTIwNzQ2NTAzNjAsNTAwMTAxOTU1LC0xOTMw
-MjMzMzIwLDI1OTY5NjgyNSwxMTQwODc3Njk5LDkwNDcyNjA4LD
-EwNTg4MDUyMTAsMTA2NjE5ODY1OCwtMTcyOTQ4OTA0Miw3MTQy
-OTkxOF19
+eyJoaXN0b3J5IjpbLTEwNDkzNjM3OTksMTc5MTM0NDM3NiwtNT
+Y1NTE4ODA0LC0xMDQ5MzYzNzk5LDMxMDU3MDkwNCwxNjY0OTk5
+MTE1LC0xOTU0OTg4NjM0LDEwMzY4MTQ4MjYsMTY5MDk3MzcyOC
+wxMDczMTk0Mjc5LDE0MzUwMjAwODAsLTIwNzQ2NTAzNjAsNTAw
+MTAxOTU1LC0xOTMwMjMzMzIwLDI1OTY5NjgyNSwxMTQwODc3Nj
+k5LDkwNDcyNjA4LDEwNTg4MDUyMTAsMTA2NjE5ODY1OCwtMTcy
+OTQ4OTA0Ml19
 -->
