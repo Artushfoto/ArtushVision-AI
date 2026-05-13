@@ -19,19 +19,36 @@
 
 ---
 
-<div align="center" markdown="1">
+
+<div align="center">
 
 ### 💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!
 *Test the full professional workflow with our Lite Version before committing to a license.*
 
-| [**Download Free Lite Version**](https://www.artushfoto.eu/Software/Download-ArtushVision-AI) | [**Get Lifetime License**](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI) |
-| :---: | :---: |
-| **Fully Functional Version** | **Only $39.99** (+ local VAT) |
-| No time limits for testing | One-time payment • No monthly fees |
+<br>
 
-**Securely processed by Polar & Stripe.** [Already have a license? Manage your devices](https://polar.sh)
+<table align="center">
+  <tr>
+    <th align="center"><a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a></th>
+    <th align="center"><a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI">Get Lifetime License</a></th>
+  </tr>
+  <tr>
+    <td align="center"><b>Fully Functional Version</b></td>
+    <td align="center"><b>Only $39.99</b> (+ local VAT)</td>
+  </tr>
+  <tr>
+    <td align="center">No time limits for testing</td>
+    <td align="center">One-time payment • No monthly fees</td>
+  </tr>
+</table>
+
+<br>
+
+**Securely processed by Polar & Stripe.** <a href="https://polar.sh">Already have a license? Manage your devices</a>
 
 </div>
+
+---
 
 ---
 
@@ -214,11 +231,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTUxODgwNCwtMTA0OTM2Mzc5OSwzMT
-A1NzA5MDQsMTY2NDk5OTExNSwtMTk1NDk4ODYzNCwxMDM2ODE0
-ODI2LDE2OTA5NzM3MjgsMTA3MzE5NDI3OSwxNDM1MDIwMDgwLC
-0yMDc0NjUwMzYwLDUwMDEwMTk1NSwtMTkzMDIzMzMyMCwyNTk2
-OTY4MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOCwxMDU4ODA1MjEwLD
-EwNjYxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0Mjk5MTgsMTM4MDcz
-MjMwNF19
+eyJoaXN0b3J5IjpbLTE4MTM1NjAzMTksLTU2NTUxODgwNCwtMT
+A0OTM2Mzc5OSwzMTA1NzA5MDQsMTY2NDk5OTExNSwtMTk1NDk4
+ODYzNCwxMDM2ODE0ODI2LDE2OTA5NzM3MjgsMTA3MzE5NDI3OS
+wxNDM1MDIwMDgwLC0yMDc0NjUwMzYwLDUwMDEwMTk1NSwtMTkz
+MDIzMzMyMCwyNTk2OTY4MjUsMTE0MDg3NzY5OSw5MDQ3MjYwOC
+wxMDU4ODA1MjEwLDEwNjYxOTg2NTgsLTE3Mjk0ODkwNDIsNzE0
+Mjk5MThdfQ==
 -->
