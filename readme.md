@@ -43,7 +43,8 @@
 <br>
 
 <p align="center">
-  <b>Securely processed by Polar & Stripe.</b> <a href="https://polar.sh">Already have a license? Manage your devices</a>
+  <b>Securely processed by Polar & Stripe.</b> <a href="https://polar.sh">
+  Already have a license? Manage your devices</a>
 </p>
 
 ---
@@ -232,11 +233,11 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTkzNTU3MiwxNDE3Mzg1NTE2LDU0ND
-E4OTQ2Myw1OTk1NzEzMzQsLTE1ODExNTk0MjEsMTY0MzI1NTMw
-MywtMTA0OTM2Mzc5OSwxNzkxMzQ0Mzc2LC01NjU1MTg4MDQsLT
-EwNDkzNjM3OTksMzEwNTcwOTA0LDE2NjQ5OTkxMTUsLTE5NTQ5
-ODg2MzQsMTAzNjgxNDgyNiwxNjkwOTczNzI4LDEwNzMxOTQyNz
-ksMTQzNTAyMDA4MCwtMjA3NDY1MDM2MCw1MDAxMDE5NTUsLTE5
-MzAyMzMzMjBdfQ==
+eyJoaXN0b3J5IjpbMjYzMDc3NjM0LDE0MTczODU1MTYsNTQ0MT
+g5NDYzLDU5OTU3MTMzNCwtMTU4MTE1OTQyMSwxNjQzMjU1MzAz
+LC0xMDQ5MzYzNzk5LDE3OTEzNDQzNzYsLTU2NTUxODgwNCwtMT
+A0OTM2Mzc5OSwzMTA1NzA5MDQsMTY2NDk5OTExNSwtMTk1NDk4
+ODYzNCwxMDM2ODE0ODI2LDE2OTA5NzM3MjgsMTA3MzE5NDI3OS
+wxNDM1MDIwMDgwLC0yMDc0NjUwMzYwLDUwMDEwMTk1NSwtMTkz
+MDIzMzMyMF19
 -->
