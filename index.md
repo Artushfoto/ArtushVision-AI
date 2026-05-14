@@ -91,7 +91,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **[Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai) (Fast & Maximum Intelligence):** Uses top-tier models via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md). Process up to **150,000 photos for just $5** with ultra-low API costs.
-* **[Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#2-local-ai) (Total Privacy):** Run everything on your hardware using offline **Ollama** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
+* **[Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#2-local-ai) (Total Privacy):** Run everything on your hardware using offline **[Ollama](docs/ollama-installation-guide.md)** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
 * **[Hybrid AI](docs/ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai) (Local Vision + Cloud Description):** Phase 1 uses local visual analysis, while Phase 2 utilizes cloud threading for text formatting. **Photos never leave your device; only generated text is sent for SEO processing.**
 * **[2-Pass Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-two-step-local-ai) (Deep Offline Synthesis):** The flagship offline workflow.
   * **Pass 1:** Deep Visual Analysis using a powerful dedicated Vision Model.
@@ -130,7 +130,7 @@ Own your tools and pay only for the AI you use.
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
 | **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** (Local AI) or Thumbnails only |
 | **Pricing Model** | Recurring Subscriptions | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via OpenRouter** |
+| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md)** |
 
 ---
 
@@ -140,7 +140,7 @@ Own your tools and pay only for the AI you use.
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
 * **Ollama:** Required for Local AI analysis. **([See Installation Guide](docs/ollama-installation-guide.md))**
-* **OpenRouter API Key:** Required for Cloud AI analysis.
+* **[OpenRouter API Key](docs/cloud-ai-openrouter-api-setup.md):** Required for Cloud AI analysis.
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.

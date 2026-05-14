@@ -49,7 +49,7 @@ You do not need to use the command line (Terminal) to download models. ArtushVis
 1. Open **ArtushVision AI**.
 2. Navigate to **AI Mode Selection** and choose **Local AI (Ollama)** or **Hybrid AI**.
 3. Click on the **Local Model Manager** icon in the interface.
-4. From the built-in Hub Browser, you can now browse, download, and manage models (like `qwen2.5-vl:3b` for Vision tasks) with a single click.
+4. From the built-in **Hub Browser**, you can now browse, download, and manage models (like `qwen2.5-vl:3b` for Vision tasks) with a single click.
 
 ---
 
