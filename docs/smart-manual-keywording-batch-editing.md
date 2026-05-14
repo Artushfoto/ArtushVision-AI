@@ -54,8 +54,8 @@ Stop typing the same words over and over. As you type, the Smart Autocomplete in
 Never get a batch rejected for a typo again. ArtushVision AI features a robust, offline-first spellchecking engine.
 
 * **Dual-Language Support:** Do you shoot local events but tag in English? Set a Primary (e.g., English) and a Secondary language (e.g., Czech or German). The application will validate against both dictionaries simultaneously, so local names are no longer flagged as errors.
-* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The Cloud AI will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
-* **User Dictionary:** Teach the application your specific client names or locations. Add a custom word to your Personal Dictionary with one click, and the app will instantly clear the error across your entire portfolio.
+* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The [Cloud AI](ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai-openrouter) will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
+* **User Dictionary:** Teach the application your specific client names or locations. Add a custom word to your [Personal Dictionary](getty-images-esp-metadata-optimizer.md#personal-user-dictionary-and-memory) with one click, and the app will instantly clear the error across your entire portfolio.
 
 ---
 
@@ -81,7 +81,7 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 ### Master Your Editing in 3 Steps:
 1. **Cull and Sort:** Rapidly go through your grid using keyboard shortcuts (1-5, P, X) to rate and flag the best photos for microstock submission.
-2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the Title, Description, and Keywords fields.
+2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the [Title, Description, and Keywords fields](manual-editing-detailed-photo-view.md#title-and-description-editor).
 3. **Drag and Batch Sync:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the shoot to apply overarching themes everywhere instantly.
 
 ---

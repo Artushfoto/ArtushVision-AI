@@ -36,13 +36,13 @@ The top-bar search engine works in real-time, highlighting your target words dir
 Beyond basic text search, ArtushVision AI allows for complex queries based on the presence or absence of specific metadata, which is crucial for preparing stock batches.
 
 * **Blank Field Detection:** Instantly identify all assets that do not have a Title, Description, or Keywords assigned.
-* **Category Matrix Filter:** Filter the grid to show only photos belonging to a specific Master Category (e.g., "Business") while excluding others (e.g., "Editorial").
-* **Getty Status Integration:** Isolate photos that are fully Getty Optimized versus those requiring action in the Interactive Resolver.
+* **[Category Matrix Filter](settings-configuration-customization.md#the-category-matrix):** Filter the grid to show only photos belonging to a specific Master Category (e.g., "Business") while excluding others (e.g., "Editorial").
+* **Getty Status Integration:** Isolate photos that are fully Getty Optimized versus those requiring action in the [Interactive Resolver](getty-images-esp-metadata-optimizer.md#interactive-ai-resolver-and-disambiguation).
 
 ---
 
 ## Three-State FTP Distribution Filter
-Integrated directly with the Smart FTP Uploader, this dedicated filter allows you to view your portfolio based on its commercial distribution history.
+Integrated directly with the [Smart FTP Uploader](global-stock-distribution-ftp.md), this dedicated filter allows you to view your portfolio based on its commercial distribution history.
 
 * **Not Uploaded:** Show only files that have not yet been sent to a specific target agency (e.g., Adobe Stock).
 * **Uploaded:** Show assets that are already safely confirmed on the server.
@@ -69,7 +69,7 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 ## Master Your Workflow in 3 Steps:
 1. **Load and Flatten:** Load thousands of files across multiple subfolders and switch to Flat View to see them in a single unified grid.
 2. **Apply Advanced Logic:** Use the "Advanced Metadata Filter" to isolate files without keywords and the "Type" filter to restrict results to Video assets.
-3. **Batch Edit:** Select the isolated files (Ctrl+A), use the AI Engine to generate the missing data, and clear the filters (Esc) to return to your organized project.
+3. **Batch Edit:** Select the isolated files (Ctrl+A), use the [AI Engine](ai-metadata-generation-cloud-local-ollama.md) to generate the missing data using [batch actions](batch-operations-metadata-library-management.md), and clear the filters (Esc) to return to your organized project.
 
 ---
 

@@ -33,7 +33,7 @@ ArtushVision AI includes a massive, local Master Dictionary specifically built f
 ---
 
 ## Interactive AI Resolver and Disambiguation
-A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVision AI uses Vision AI to look at the actual content of your image to resolve these ambiguities.
+A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVision AI uses [Vision AI](ai-metadata-generation-cloud-local-ollama.md) to look at the actual content of your image to resolve these ambiguities.
 
 * **Context-Aware Disambiguation (beta):** If you use the word "crane," the AI analyzes the pixels to determine if it is a bird or a construction machine, selecting the exact correct branch of the Getty vocabulary.
 * **Visual Context Highlighting:** When selecting a term in the Resolver, the application highlights all thumbnails in your grid that contain that specific concept, allowing for instant batch verification.
@@ -44,7 +44,7 @@ A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVis
 ---
 
 ## Personal User Dictionary and Memory
-Teach ArtushVision AI your specific niche. If you specialize in rare Latin species, local landmarks, or technical subjects missing from the Master Dictionary, you can map them once and save the rule.
+Teach ArtushVision AI your specific niche. If you specialize in rare Latin species, local landmarks, or technical subjects missing from the Master Dictionary, you can map them once and save the rule directly to your Personal Dictionary.
 
 * **Persistent Learning:** Save custom mappings to your User Dictionary. The application will automatically apply these translations to all future exports.
 * **Database Control:** You have full access to edit or remove your custom mappings, ensuring your personal metadata database remains accurate as your portfolio grows.
@@ -55,7 +55,7 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
 Your original metadata remains safe. ArtushVision AI follows a professional safety-first logic to ensure your primary files are never corrupted.
 
 * **Independent Sidecars:** All Getty-optimized terms, titles, and descriptions are stored in dedicated .getty JSON sidecar files.
-* **XMP Integrity:** Your original keywords, Lightroom ratings, and People tags (Face Recognition) are preserved in your original files.
+* **XMP Integrity:** Your original keywords, Lightroom ratings, and People tags (Face Recognition) are preserved in your original files (see [Smart Protection](manual-editing-detailed-photo-view.md#advanced-protection-logic)).
 * **Universal Compatibility:** Work seamlessly alongside Adobe Bridge, Lightroom, or Zoner Photo Studio.
 
 [IMAGE: A smaller screenshot showing the User Dictionary manager window or the right-click context menu.]
@@ -66,7 +66,7 @@ Your original metadata remains safe. ArtushVision AI follows a professional safe
 Once your metadata is verified and the blue GETTY badges are active, you are ready for a flawless submission.
 
 * **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty ESP portal.
-* **Zero-Touch Integration:** Combine this with the Smart FTP Suite to handle both file transfer and metadata synthesis in one unified workflow.
+* **Zero-Touch Integration:** Combine this with the [Smart FTP Suite](global-stock-distribution-ftp.md) to handle both file transfer and metadata synthesis in one unified workflow.
 
 [IMAGE: A screenshot showing the Export ESP CSV button and the success dialog.]
 

@@ -25,13 +25,13 @@ Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an un
 ArtushVision AI gives you complete freedom over where and how your data is processed.
 
 ### 1. Cloud AI (OpenRouter)
-Best for maximum speed and complex commercial SEO. Connect your OpenRouter API key to access elite models such as Google Gemini 2.0 Flash, Claude 3.5 Sonnet, or GPT-4o.
+Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](cloud-ai-openrouter-api-setup.md) to access elite models such as Google Gemini 2.0 Flash, Claude 3.5 Sonnet, or GPT-4o.
 
 * **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
 * **Precision Cost Tracking:** A built-in tracker monitors your API spend to 6 decimal places in real-time.
 
 ### 2. Local AI (Ollama)
-Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your local Ollama installation.
+Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your [local Ollama installation](local-ai-model-manager-ollama.md).
 
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
@@ -55,9 +55,9 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 Generic AI tools produce generic metadata. ArtushVision AI injects technical background context into every prompt to ensure specific and accurate results.
 
 * **Technical EXIF Injection:** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
-* **Smart Geolocation:** GPS coordinates are translated via OpenStreetMap or ArcGIS into City and Country names, allowing the AI to include specific location context automatically.
-* **Global AI Hint:** Input a specific fact—such as a Latin species name—into the Global Hint field. The AI treats this as an absolute fact and prioritizes it in the generated metadata.
-* **Category Matrix Integration:** The engine ensures generated keywords align with your selected commercial Master Categories.
+* **Smart Geolocation:** GPS coordinates are translated via [OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding) into City and Country names, allowing the AI to include specific location context automatically.
+* **Global AI Hint:** Input a specific fact—such as a Latin species name—into the [Global Hint](advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables) field. The AI treats this as an absolute fact and prioritizes it in the generated metadata.
+* **Category Matrix Integration:** The engine ensures generated keywords align with your selected commercial [Master Categories](settings-configuration-customization.md#the-category-matrix).
 
 [IMAGE: A screenshot of the Profile Editor showing prompt variables like camera_model, gps_raw, and user_hint inserted into a system prompt.]
 

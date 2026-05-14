@@ -45,7 +45,7 @@ Professional metadata requires linguistic precision. The editor includes built-i
 The application provides dedicated fields for Titles and Descriptions, equipped with real-time feedback.
 
 * **Character and Word Counters:** Keep your metadata within agency limits. The counters turn red if you exceed standard commercial lengths.
-* **Contextual Variables:** Quickly insert technical data (like Camera Model or Date) directly into your titles using the right-click variable menu.
+* **[Contextual Variables](advanced-ai-prompting-profiles-variables.md#2-dynamic-context-injection-variables):** Quickly insert technical data (like Camera Model or Date) directly into your titles using the right-click variable menu.
 * **Focus Management:** Tab through fields for rapid-fire editing without ever touching your mouse.
 
 ---
@@ -53,7 +53,7 @@ The application provides dedicated fields for Titles and Descriptions, equipped 
 ## Geospatial Tools and Interactive Mapping
 ArtushVision AI provides full support for GPS metadata, essential for travel and editorial photography.
 
-* **Interactive Map Display:** View the exact location where your photo was taken on an integrated map (OpenStreetMap or ArcGIS). 
+* **Interactive Map Display:** View the exact location where your photo was taken on an integrated map ([OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding)). 
 * **Manual GPS Placement:** If an image lacks coordinates, simply click on the map to set a new location. The application will automatically update the EXIF data.
 * **Reverse Geocoding:** The application can translate GPS coordinates into readable location names (City, State, Country) to provide more context for the AI engine.
 
@@ -65,14 +65,14 @@ ArtushVision AI provides full support for GPS metadata, essential for travel and
 ArtushVision AI is designed to be a safe companion to your existing professional tools like Adobe Lightroom or Photo Mechanic.
 
 * **Non-Destructive Editing:** All manual changes are buffered in memory and only written to the file (or XMP sidecar) when you explicitly click Save.
-* **Face Tag Preservation:** The editor is strictly programmed to preserve existing Person/Face tags, ensuring that your manual organization in other software is never lost during the AI enrichment process.
+* **Face Tag Preservation:** The editor is strictly programmed to preserve existing Person/Face tags, ensuring that your manual organization in other software is never lost during the AI enrichment process (see [Batch Operations](batch-operations-metadata-library-management.md)).
 
 ---
 
 ### Professional Workflow in 3 Steps:
 1. **Double-Click to Refine:** Open the Detail View for any asset that requires specific manual attention.
 2. **Reorder and Verify:** Use the bubble system to prioritize keywords and use the spell-checker to ensure professional quality.
-3. **Save and Synchronize:** Click Save to commit changes to the XMP metadata, making them instantly available for Lightroom, Bridge, or the Smart FTP Uploader.
+3. **Save and Synchronize:** Click Save to commit changes to the XMP metadata, making them instantly available for Lightroom, Bridge, or the [Smart FTP Uploader](global-stock-distribution-ftp.md).
 
 ---
 

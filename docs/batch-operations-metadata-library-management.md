@@ -63,7 +63,7 @@ Moving or deleting professional assets is risky if sidecar files are left behind
 To perform operations effectively, you must first isolate the right files. The Filter Bar works in tandem with Batch Operations.
 
 * **Workflow Filtering:** Quickly select only files marked as Modified or Error to apply batch fixes.
-* **Quality Control Filters:** Isolate files that have "Exceeded Limits" (e.g., too many keywords for Getty Images) and use batch actions to trim them down to compliance.
+* **Quality Control Filters:** Isolate files that have "Exceeded Limits" (e.g., too many keywords for [Getty Images](getty-images-esp-metadata-optimizer.md)) and use batch actions to trim them down to compliance.
 * **Selection Tools:** Use standard keyboard shortcuts (Shift+Click for ranges, Ctrl+A for all) to define the scope of your batch operation instantly.
 
 ---

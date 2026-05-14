@@ -24,8 +24,8 @@ Whether you need standard microstock keywords, poetic Instagram captions, or str
 ## 1. Mode-Specific Prompting
 Because every AI engine behaves differently, ArtushVision AI allows you to save completely independent prompt profiles for each Processing Mode:
 
-* **Cloud & Local AI:** Standard single-step prompts instructing the Vision model to analyze the image and return commercial JSON metadata.
-* **Hybrid & Two-Step Local AI:** These advanced "Agentic" pipelines use two independent prompts:
+* **[Cloud & Local AI](ai-metadata-generation-cloud-local-ollama.md):** Standard single-step prompts instructing the Vision model to analyze the image and return commercial JSON metadata.
+* **[Hybrid & Two-Step Local AI](ai-metadata-generation-cloud-local-ollama.md):** These advanced "Agentic" pipelines use two independent prompts:
     * **Phase 1 (Vision Prompt):** Instructs the local Vision model to describe the image in raw, exhaustive detail without worrying about formatting (e.g., "Describe all subjects, lighting, colors, and atmosphere in this image...").
     * **Phase 2 (Text Prompt):** Instructs the Text-only model to take the raw description and strictly format it for SEO and microstock (using the `{local_vision_text}` variable).
 
@@ -138,7 +138,7 @@ Build a library of specialized workflows to switch between different project typ
 
 * **JSON Profiles:** Save your prompts as individual .json profiles (e.g., "Wildlife Editorial", "Standard Microstock", "Instagram Reel Generator").
 * **One-Click Switching:** Change your active profile in the main grid depending on the batch of photos currently being processed.
-* **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies.
+* **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies via the Category Matrix.
 
 [IMAGE: A graphic showing a raw prompt template with variables on the left and the final processed text received by the AI on the right.]
 

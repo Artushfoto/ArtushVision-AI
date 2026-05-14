@@ -34,7 +34,7 @@ Skip the terminal. ArtushVision AI connects directly to your local Ollama instal
 ---
 
 ## Smart Vision and Text Detection
-ArtushVision's advanced [Agentic Workflows](docs/ai-metadata-generation-cloud-local-ollama.md) require knowing exactly what a model is capable of.
+ArtushVision's advanced [Agentic Workflows](ai-metadata-generation-cloud-local-ollama.md#hybrid-ai-local-vision--cloud-text) require knowing exactly what a model is capable of.
 
 * **Auto-Detection:** The manager automatically scans your downloaded models and categorizes them as **Vision** (models that can "see" images) or **Text** (language-only models), color-coding them in the grid for easy identification.
 * **Manual Override:** If you are testing a brand-new or experimental model that the application doesn't recognize yet, simply right-click the model and use the context menu to manually toggle its type.
@@ -63,7 +63,7 @@ When testing multiple models, it is essential to track which one performed best 
 ## How to use Local Models in 3 Steps:
 
 1. **Browse and Download:** Open the Model Manager, click **Recommended**, and download a small Vision model like `qwen2.5-vl:3b`.
-2. **Assign to Profile:** Open the [AI Profile Editor](docs/advanced-ai-prompting-profiles-variables.md) and assign your newly downloaded model to a Local or Hybrid workflow.
+2. **Assign to Profile:** Open the AI Profile Editor and assign your newly downloaded model to a Local or Hybrid workflow.
 3. **Run Offline:** Disconnect from the internet and watch the AI seamlessly tag your photos in total privacy.
 
 ---
