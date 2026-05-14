@@ -22,7 +22,7 @@ Double-click any image in the main grid to enter the Detailed Photo View. This d
 ---
 
 ## Intelligent Keyword Management
-ArtushVision AI replaces messy comma-separated text strings with an intuitive, drag-and-drop "Keyword Bubble" system. This visual approach allows for instant categorization and prioritization.
+ArtushVision AI replaces messy comma-separated text strings with an intuitive, drag-and-drop ["Keyword Bubble" system](smart-manual-keywording-batch-editing.md#visual-tag-bubbles-and-seamless-drag-and-drop). This visual approach allows for instant categorization and prioritization.
 
 * **Color-Coded Sources:** Instantly identify the origin of every tag. Blue bubbles represent AI-generated keywords, green indicates manual entries, and black denotes original metadata found in the file.
 * **Drag-and-Drop Reordering:** Simply drag a bubble to change its position. Since most stock agencies prioritize the first 10-15 keywords, this allows for strategic SEO optimization.
@@ -34,7 +34,7 @@ ArtushVision AI replaces messy comma-separated text strings with an intuitive, d
 Professional metadata requires linguistic precision. The editor includes built-in tools to help you find the perfect terms and avoid spelling errors.
 
 * **Multilingual Spell Check:** Right-click any text field or keyword to access live spell-checking. The system supports multiple languages and offers instant correction suggestions.
-* **Synonym Integration (Datamuse):** Stuck on a word? Right-click a keyword bubble to pull live synonyms from the Datamuse database, helping you expand your reach in stock agency search results.
+* **Synonym Integration (Datamuse):** Stuck on a word? Right-click a keyword bubble to pull live synonyms from the [Datamuse database](smart-manual-keywording-batch-editing.md#interactive-synonym-explorer), helping you expand your reach in stock agency search results.
 * **Native Translation Tooltips:** For non-native English speakers, the application can display translation tooltips in your preferred language, ensuring you always understand the precise meaning of AI-suggested terms.
 
 [IMAGE: A close-up of the keyword panel showing the right-click menu with Synonym and Spell Check options.]
@@ -64,8 +64,8 @@ ArtushVision AI provides full support for GPS metadata, essential for travel and
 ## Advanced Protection Logic
 ArtushVision AI is designed to be a safe companion to your existing professional tools like Adobe Lightroom or Photo Mechanic.
 
-* **Non-Destructive Editing:** All manual changes are buffered in memory and only written to the file (or XMP sidecar) when you explicitly click Save.
-* **Face Tag Preservation:** The editor is strictly programmed to preserve existing Person/Face tags, ensuring that your manual organization in other software is never lost during the AI enrichment process (see Batch Operations).
+* **Non-Destructive Editing:** All manual changes are buffered in memory and only written to the file (or [XMP sidecar](batch-operations-metadata-library-management.md#synchronized-file-operations)) when you explicitly click Save.
+* **Face Tag Preservation:** The editor is strictly programmed to preserve existing Person/Face tags, ensuring that your manual organization in other software is never lost during the AI enrichment process (see [Batch Operations](batch-operations-metadata-library-management.md)).
 
 ---
 
