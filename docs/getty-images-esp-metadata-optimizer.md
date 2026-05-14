@@ -33,7 +33,7 @@ ArtushVision AI includes a massive, local Master Dictionary specifically built f
 ---
 
 ## Interactive AI Resolver and Disambiguation
-A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVision AI uses [Vision AI](ai-metadata-generation-cloud-local-ollama.md) to look at the actual content of your image to resolve these ambiguities.
+A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVision AI uses Vision AI to look at the actual content of your image to resolve these ambiguities.
 
 * **Context-Aware Disambiguation (beta):** If you use the word "crane," the AI analyzes the pixels to determine if it is a bird or a construction machine, selecting the exact correct branch of the Getty vocabulary.
 * **Visual Context Highlighting:** When selecting a term in the Resolver, the application highlights all thumbnails in your grid that contain that specific concept, allowing for instant batch verification.
@@ -66,7 +66,7 @@ Your original metadata remains safe. ArtushVision AI follows a professional safe
 Once your metadata is verified and the blue GETTY badges are active, you are ready for a flawless submission.
 
 * **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty ESP portal.
-* **Zero-Touch Integration:** Combine this with the [Smart FTP Suite](global-stock-distribution-ftp.md) to handle both file transfer and metadata synthesis in one unified workflow.
+* **Zero-Touch Integration:** Combine this with the Smart FTP Suite to handle both file transfer and metadata synthesis in one unified workflow.
 
 [IMAGE: A screenshot showing the Export ESP CSV button and the success dialog.]
 

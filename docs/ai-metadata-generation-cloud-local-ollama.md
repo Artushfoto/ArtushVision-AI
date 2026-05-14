@@ -31,12 +31,12 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 * **Precision Cost Tracking:** A built-in tracker monitors your API spend to 6 decimal places in real-time.
 
 ### 2. Local AI (Ollama)
-Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your [local Ollama installation](local-ai-model-manager-ollama.md).
+Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your [local Ollama installation](local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader).
 
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
 
-### 3. Hybrid AI (Local Vision + Cloud Text)
+### 3. Hybrid AI (Local Vision and Cloud Text)
 An intelligent agentic pipeline that combines privacy with high-end SEO formatting.
 
 * **Local Analysis:** A local model extracts raw visual descriptions on your PC.

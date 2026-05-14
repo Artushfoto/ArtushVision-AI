@@ -64,7 +64,7 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 ---
 
 ### Professional Workflow in 3 Steps:
-1. **Filter and Select:** Use the [grid filters](smart-grid-filters-search-metadata-management.md) to show only Not Uploaded files and select the batch you want to distribute.
+1. **Filter and Select:** Use the grid filters to show only Not Uploaded files and select the batch you want to distribute.
 2. **Choose Profile:** Open the FTP Uploader, pick a pre-saved Agency Profile, and hit Upload.
 3. **Monitor and Stamp:** The application manages queues, threads, and auto-generated CSVs in the background, instantly stamping your thumbnails with success badges.
 

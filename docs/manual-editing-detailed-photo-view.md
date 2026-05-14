@@ -65,7 +65,7 @@ ArtushVision AI provides full support for GPS metadata, essential for travel and
 ArtushVision AI is designed to be a safe companion to your existing professional tools like Adobe Lightroom or Photo Mechanic.
 
 * **Non-Destructive Editing:** All manual changes are buffered in memory and only written to the file (or XMP sidecar) when you explicitly click Save.
-* **Face Tag Preservation:** The editor is strictly programmed to preserve existing Person/Face tags, ensuring that your manual organization in other software is never lost during the AI enrichment process (see [Batch Operations](batch-operations-metadata-library-management.md)).
+* **Face Tag Preservation:** The editor is strictly programmed to preserve existing Person/Face tags, ensuring that your manual organization in other software is never lost during the AI enrichment process (see Batch Operations).
 
 ---
 

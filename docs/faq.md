@@ -73,7 +73,7 @@ ArtushVision AI supports professional standards including:
 <details>
 <summary>Is my data private during analysis?</summary>
 <p>
-Privacy is our priority. In <b>Local AI mode</b>, your photos never leave your machine (processed via <a href="local-ai-model-manager-ollama.md">Local Model Manager</a>). In Cloud mode, only a temporary low-resolution thumbnail is sent to the AI provider—never your high-resolution originals.
+Privacy is our priority. In <b>Local AI mode</b>, your photos never leave your machine (processed via <a href="local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader">Local Model Manager</a>). In Cloud mode, only a temporary low-resolution thumbnail is sent to the AI provider—never your high-resolution originals.
 </p>
 </details>
 
@@ -87,7 +87,7 @@ By using an <a href="cloud-ai-openrouter-api-setup.md">OpenRouter API Key</a>, y
 <details>
 <summary>Do I need a high-end GPU for Local AI?</summary>
 <p>
-A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="local-ai-model-manager-ollama.md">Local AI engine</a> can also run on your CPU thanks to Ollama's optimized architecture.
+A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="local-ai-model-manager-ollama.md#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to Ollama's optimized architecture.
 </p>
 </details>
 
@@ -98,21 +98,21 @@ A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="lo
 <details>
 <summary>Will the AI overwrite my existing keywords?</summary>
 <p>
-No. You have absolute control. Using <a href="smart-manual-keywording-batch-editing.md#smart-batch-editing-and-copy-paste">Smart Protection</a>, you can tell the AI to only append new tags or use variables like `{existing_keywords}` to let the AI intelligently expand your work.
+No. You have absolute control. Using <a href="manual-editing-detailed-photo-view.md#advanced-protection-logic">Smart Protection</a>, you can tell the AI to only append new tags or use variables like `{existing_keywords}` to let the AI intelligently expand your work.
 </p>
 </details>
 
 <details>
 <summary>How do I optimize for Getty Images / ESP?</summary>
 <p>
-Use the integrated <a href="getty-images-esp-metadata-optimizer.md">Getty Optimizer</a>. It validates your keywords against a master dictionary of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
+Use the integrated <a href="getty-images-esp-metadata-optimizer.md#built-in-master-dictionary-11746-terms">Getty Optimizer</a>. It validates your keywords against a master dictionary of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
 </p>
 </details>
 
 <details>
 <summary>Does it work with Lightroom, Zoner, or Bridge?</summary>
 <p>
-Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="batch-operations-metadata-library-management.md">Batch Operations</a> guide for more.
+Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="batch-operations-metadata-library-management.md#synchronized-file-operations">Batch Operations</a> guide for more.
 </p>
 </details>
 
@@ -123,7 +123,7 @@ Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars
 <details>
 <summary>I get an "Ollama not found" error. How to fix it?</summary>
 <p>
-Ensure Ollama is installed and the service is running in your system tray. You can manage and download models directly through our <a href="local-ai-model-manager-ollama.md">Integrated Model Manager</a>.
+Ensure Ollama is installed and the service is running in your system tray. You can manage and download models directly through our <a href="local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader">Integrated Model Manager</a>.
 </p>
 </details>
 

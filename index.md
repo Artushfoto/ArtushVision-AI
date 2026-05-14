@@ -91,8 +91,8 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **[Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai-openrouter) (Fast & Maximum Intelligence):** Uses top-tier models via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md). Process up to **150,000 photos for just $5** with ultra-low API costs.
-* **[Local AI](docs/local-ai-model-manager-ollama.md#local-ai-model-manager-complete-offline-control) (Total Privacy):** Run everything on your hardware using offline **Ollama** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
-* **[Hybrid AI](docs/ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai-local-vision--cloud-text) (Local Vision + Cloud Description):** Phase 1 uses local visual analysis, while Phase 2 utilizes cloud threading for text formatting. **Photos never leave your device; only generated text is sent for SEO processing.**
+* **[Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#2-local-ai-ollama) (Total Privacy):** Run everything on your hardware using offline **Ollama** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
+* **[Hybrid AI](docs/ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai-local-vision-and-cloud-text) (Local Vision + Cloud Description):** Phase 1 uses local visual analysis, while Phase 2 utilizes cloud threading for text formatting. **Photos never leave your device; only generated text is sent for SEO processing.**
 * **[2-Pass Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-two-step-local-ai) (Deep Offline Synthesis):** The flagship offline workflow.
   * **Pass 1:** Deep Visual Analysis using a powerful dedicated Vision Model.
   * **Pass 2:** Professional Synthesis using a high-performance Text Model for elite results without API costs.

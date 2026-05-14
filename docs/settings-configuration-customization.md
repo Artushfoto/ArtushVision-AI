@@ -35,7 +35,7 @@ Fine-tune how the AI engine interacts with your media, especially when dealing w
 
 * **Video Frame Logic:** Set the number of keyframes (3 to 20) the internal FFmpeg engine extracts for analysis. More frames provide more context but increase processing time.
 * **Economy Mode (Collage) Configuration:** Enable or disable the automatic stitching of video frames into collages to optimize Cloud AI token usage and reduce costs.
-* **Model Context Limits:** Define the VRAM limits for [local Ollama models](local-ai-model-manager-ollama.md) to ensure the application remains stable based on your specific GPU hardware.
+* **Model Context Limits:** Define the VRAM limits for local Ollama models to ensure the application remains stable based on your specific GPU hardware.
 
 ---
 
@@ -44,7 +44,7 @@ The CSV Editor is a powerful tool for reverse-engineering agency requirements or
 
 * **Template Mapping:** Load an existing CSV file from any agency, and the application will help you map its columns to ArtushVision AI fields (Title, Keywords, Categories, etc.).
 * **Custom Headers:** Define specific header names required by niche stock agencies or private archives.
-* **Export Presets:** Save your mappings as presets that can be instantly assigned to different FTP servers in the [Distribution module](global-stock-distribution-ftp.md).
+* **Export Presets:** Save your mappings as presets that can be instantly assigned to different FTP servers in the Distribution module.
 
 [IMAGE: A close-up of the CSV Editor tab showing the column mapping interface and the Load Template button.]
 
@@ -74,7 +74,7 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 Protect your work with automated redundancy settings.
 
 * **Automatic Backups:** Enable the application to create safety copies of your XMP sidecars, CSV files, and even original JPGs during the saving process.
-* **Version Control:** Maintain a history of your metadata changes to prevent accidental data loss during [batch operations](batch-operations-metadata-library-management.md).
+* **Version Control:** Maintain a history of your metadata changes to prevent accidental data loss during batch operations.
 
 ---
 

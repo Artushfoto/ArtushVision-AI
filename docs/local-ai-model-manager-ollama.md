@@ -34,7 +34,7 @@ Skip the terminal. ArtushVision AI connects directly to your local Ollama instal
 ---
 
 ## Smart Vision and Text Detection
-ArtushVision's advanced [Agentic Workflows](ai-metadata-generation-cloud-local-ollama.md#hybrid-ai-local-vision--cloud-text) require knowing exactly what a model is capable of.
+ArtushVision's advanced Agentic Workflows require knowing exactly what a model is capable of.
 
 * **Auto-Detection:** The manager automatically scans your downloaded models and categorizes them as **Vision** (models that can "see" images) or **Text** (language-only models), color-coding them in the grid for easy identification.
 * **Manual Override:** If you are testing a brand-new or experimental model that the application doesn't recognize yet, simply right-click the model and use the context menu to manually toggle its type.
