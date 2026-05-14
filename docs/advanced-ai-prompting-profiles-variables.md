@@ -24,14 +24,14 @@ Whether you need standard microstock keywords, poetic Instagram captions, or str
 ## 1. Mode-Specific Prompting
 Because every AI engine behaves differently, ArtushVision AI allows you to save completely independent prompt profiles for each Processing Mode:
 
-* **[Cloud & Local AI](ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai-openrouter):** Standard single-step prompts instructing the Vision model to analyze the image and return commercial JSON metadata.
-* **[Hybrid & Two-Step Local AI](ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai-local-vision-and-cloud-text):** These advanced "Agentic" pipelines use two independent prompts:
+* **[Cloud & Local AI](ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai):** Standard single-step prompts instructing the Vision model to analyze the image and return commercial JSON metadata.
+* **[Hybrid & Two-Step Local AI](ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai):** These advanced "Agentic" pipelines use two independent prompts:
     * **Phase 1 (Vision Prompt):** Instructs the local Vision model to describe the image in raw, exhaustive detail without worrying about formatting (e.g., "Describe all subjects, lighting, colors, and atmosphere in this image...").
     * **Phase 2 (Text Prompt):** Instructs the Text-only model to take the raw description and strictly format it for SEO and microstock (using the `{local_vision_text}` variable).
 
 ---
 
-## 2. Dynamic Context Injection (Variables)
+## 2. Dynamic Context Injection
 An AI model can't guess what camera you used or where a mountain is located just by looking at a pixel grid. ArtushVision AI solves this by injecting rich, dynamic metadata directly into your prompt before it reaches the AI.
 
 ### Basic and Contextual Variables

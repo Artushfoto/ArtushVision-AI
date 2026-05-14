@@ -23,7 +23,7 @@ The Getty Optimizer module in ArtushVision AI solves this by acting as a profess
 
 ---
 
-## Built-in Master Dictionary (11,746+ Terms)
+## Built-in Master Dictionary
 ArtushVision AI includes a massive, local Master Dictionary specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the ESP portal for permitted terms.
 
 * **Automated Mapping:** Instantly translates standard tags into approved Getty alternatives (e.g., mapping "rural" to the required "Rural Scene" structure).

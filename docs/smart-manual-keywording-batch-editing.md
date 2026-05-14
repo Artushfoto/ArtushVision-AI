@@ -54,7 +54,7 @@ Stop typing the same words over and over. As you type, the Smart Autocomplete in
 Never get a batch rejected for a typo again. ArtushVision AI features a robust, offline-first spellchecking engine.
 
 * **Dual-Language Support:** Do you shoot local events but tag in English? Set a Primary (e.g., English) and a Secondary language (e.g., Czech or German). The application will validate against both dictionaries simultaneously, so local names are no longer flagged as errors.
-* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The [Cloud AI](ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai-openrouter) will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
+* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The Cloud AI will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
 * **User Dictionary:** Teach the application your specific client names or locations. Add a custom word to your [Personal Dictionary](getty-images-esp-metadata-optimizer.md#personal-user-dictionary-and-memory) with one click, and the app will instantly clear the error across your entire portfolio.
 
 ---

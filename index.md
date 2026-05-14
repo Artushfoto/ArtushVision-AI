@@ -90,9 +90,9 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 ## [Versatile AI Engine: Choose Your Workflow](docs/ai-metadata-generation-cloud-local-ollama.md)
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
-* **[Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai-openrouter) (Fast & Maximum Intelligence):** Uses top-tier models via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md). Process up to **150,000 photos for just $5** with ultra-low API costs.
-* **[Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#2-local-ai-ollama) (Total Privacy):** Run everything on your hardware using offline **Ollama** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
-* **[Hybrid AI](docs/ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai-local-vision-and-cloud-text) (Local Vision + Cloud Description):** Phase 1 uses local visual analysis, while Phase 2 utilizes cloud threading for text formatting. **Photos never leave your device; only generated text is sent for SEO processing.**
+* **[Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai) (Fast & Maximum Intelligence):** Uses top-tier models via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md). Process up to **150,000 photos for just $5** with ultra-low API costs.
+* **[Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#2-local-ai) (Total Privacy):** Run everything on your hardware using offline **Ollama** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
+* **[Hybrid AI](docs/ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai) (Local Vision + Cloud Description):** Phase 1 uses local visual analysis, while Phase 2 utilizes cloud threading for text formatting. **Photos never leave your device; only generated text is sent for SEO processing.**
 * **[2-Pass Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-two-step-local-ai) (Deep Offline Synthesis):** The flagship offline workflow.
   * **Pass 1:** Deep Visual Analysis using a powerful dedicated Vision Model.
   * **Pass 2:** Professional Synthesis using a high-performance Text Model for elite results without API costs.
@@ -139,13 +139,13 @@ Own your tools and pay only for the AI you use.
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
-* **Ollama:** Required for Local AI analysis.
+* **Ollama:** Required for Local AI analysis. **([See Installation Guide](docs/ollama-installation-guide.md))**
 * **OpenRouter API Key:** Required for Cloud AI analysis.
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **Trial Version**.
-3. **AI Configuration:** Enter your OpenRouter API Key for Cloud or ensure Ollama is running for the Local Model Manager.
+3. **AI Configuration:** Enter your OpenRouter API Key for Cloud or ensure Ollama is installed and running for the Local Model Manager.
 
 ---
 
@@ -201,7 +201,7 @@ Double-click any image to enter the **[Detail Photo View](docs/manual-editing-de
 
 * **[Culling Tools](docs/smart-manual-keywording-batch-editing.md#visual-culling-ratings-flags-and-color-labels):** Rapidly rate and flag photos (1-5, P, X).
 * **[The Editor](docs/manual-editing-detailed-photo-view.md#title-and-description-editor):** Features real-time word counters and **[Multilingual Spell Check](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools)** (right-click for suggestions).
-* **[Keyword Bubbles](docs/manual-editing-detailed-photo-view.md#intelligent-keyword-management-the-bubble-system):** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
+* **[Keyword Bubbles](docs/manual-editing-detailed-photo-view.md#intelligent-keyword-management):** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
 * **[Linguistic Tools](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools):** Right-click a bubble for **Synonyms** (Datamuse) or view native Translation Tooltips.
 * **[Interactive Map](docs/manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping):** View exact GPS locations with zoom and satellite support.
 
@@ -230,9 +230,9 @@ Modify thousands of assets simultaneously with surgical precision.
 
 ## [8. Frequently Asked Questions (FAQ)](docs/faq.md)
 Find quick answers regarding pricing, privacy, local AI setup, and technical requirements.
-* **[General & Pricing](docs/faq.md#general--pricing):** License details, Lite version limits, and supported formats.
-* **[AI Privacy & Costs](docs/faq.md#ai-privacy--costs):** Data safety, OpenRouter costs, and hardware needs.
-* **[Workflow & Compatibility](docs/faq.md#workflow--compatibility):** Getty ESP optimization, existing keywords, and Lightroom integration.
+* **[General & Pricing](docs/faq.md#general-and-pricing):** License details, Lite version limits, and supported formats.
+* **[AI Privacy & Costs](docs/faq.md#ai-privacy-and-costs):** Data safety, OpenRouter costs, and hardware needs.
+* **[Workflow & Compatibility](docs/faq.md#workflow-and-compatibility):** Getty ESP optimization, existing keywords, and Lightroom integration.
 
 ---
 

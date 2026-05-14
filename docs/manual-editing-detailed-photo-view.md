@@ -21,7 +21,7 @@ Double-click any image in the main grid to enter the Detailed Photo View. This d
 
 ---
 
-## Intelligent Keyword Management (The Bubble System)
+## Intelligent Keyword Management
 ArtushVision AI replaces messy comma-separated text strings with an intuitive, drag-and-drop "Keyword Bubble" system. This visual approach allows for instant categorization and prioritization.
 
 * **Color-Coded Sources:** Instantly identify the origin of every tag. Blue bubbles represent AI-generated keywords, green indicates manual entries, and black denotes original metadata found in the file.
@@ -45,7 +45,7 @@ Professional metadata requires linguistic precision. The editor includes built-i
 The application provides dedicated fields for Titles and Descriptions, equipped with real-time feedback.
 
 * **Character and Word Counters:** Keep your metadata within agency limits. The counters turn red if you exceed standard commercial lengths.
-* **[Contextual Variables](advanced-ai-prompting-profiles-variables.md#2-dynamic-context-injection-variables):** Quickly insert technical data (like Camera Model or Date) directly into your titles using the right-click variable menu.
+* **Contextual Variables:** Quickly insert technical data (like Camera Model or Date) directly into your titles using the right-click variable menu.
 * **Focus Management:** Tab through fields for rapid-fire editing without ever touching your mouse.
 
 ---

@@ -24,19 +24,19 @@ Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an un
 ## 4-Tier AI Engine: Choose Your Processing Path
 ArtushVision AI gives you complete freedom over where and how your data is processed.
 
-### 1. Cloud AI (OpenRouter)
+### 1. Cloud AI
 Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](cloud-ai-openrouter-api-setup.md) to access elite models such as Google Gemini 2.0 Flash, Claude 3.5 Sonnet, or GPT-4o.
 
 * **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
 * **Precision Cost Tracking:** A built-in tracker monitors your API spend to 6 decimal places in real-time.
 
-### 2. Local AI (Ollama)
-Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your [local Ollama installation](local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader).
+### 2. Local AI
+Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your local Ollama installation (see our Setup Guide if you haven't installed it yet).
 
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
 
-### 3. Hybrid AI (Local Vision and Cloud Text)
+### 3. Hybrid AI
 An intelligent agentic pipeline that combines privacy with high-end SEO formatting.
 
 * **Local Analysis:** A local model extracts raw visual descriptions on your PC.

@@ -39,7 +39,7 @@ details ul { margin-top: 10px; }
 
 ---
 
-## General & Pricing
+## General and Pricing
 
 <details>
 <summary>Is ArtushVision AI a subscription service?</summary>
@@ -68,7 +68,7 @@ ArtushVision AI supports professional standards including:
 
 ---
 
-## AI Privacy & Costs
+## AI Privacy and Costs
 
 <details>
 <summary>Is my data private during analysis?</summary>
@@ -87,13 +87,13 @@ By using an <a href="cloud-ai-openrouter-api-setup.md">OpenRouter API Key</a>, y
 <details>
 <summary>Do I need a high-end GPU for Local AI?</summary>
 <p>
-A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="local-ai-model-manager-ollama.md#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to Ollama's optimized architecture.
+A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="local-ai-model-manager-ollama.md#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to <a href="ollama-installation-guide.md">Ollama's</a> optimized architecture.
 </p>
 </details>
 
 ---
 
-## Workflow & Compatibility
+## Workflow and Compatibility
 
 <details>
 <summary>Will the AI overwrite my existing keywords?</summary>
@@ -105,7 +105,7 @@ No. You have absolute control. Using <a href="manual-editing-detailed-photo-view
 <details>
 <summary>How do I optimize for Getty Images / ESP?</summary>
 <p>
-Use the integrated <a href="getty-images-esp-metadata-optimizer.md#built-in-master-dictionary-11746-terms">Getty Optimizer</a>. It validates your keywords against a master dictionary of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
+Use the integrated <a href="getty-images-esp-metadata-optimizer.md#built-in-master-dictionary">Getty Optimizer</a>. It validates your keywords against a master dictionary of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
 </p>
 </details>
 
@@ -123,7 +123,7 @@ Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars
 <details>
 <summary>I get an "Ollama not found" error. How to fix it?</summary>
 <p>
-Ensure Ollama is installed and the service is running in your system tray. You can manage and download models directly through our <a href="local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader">Integrated Model Manager</a>.
+Ensure <a href="ollama-installation-guide.md">Ollama is installed</a> and the service is running in your system tray. You can manage and download models directly through our <a href="local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader">Integrated Model Manager</a>.
 </p>
 </details>
 
