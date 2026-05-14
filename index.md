@@ -103,7 +103,7 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
 
 * **Non-Destructive Sidecars:** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
-* **Interactive Getty Resolver:** Batch-validate keywords against a **Master Dictionary of 11,746+ commercial terms**.
+* **Interactive Getty Resolver:** Batch-validate keywords against a **Master Dictionary** of 11,746+ commercial terms.
 * **Visual Context Highlighting:** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
 * **Semantic AI Disambiguation (beta):** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
 * **Term Splitting:** Double-click to split multi-word phrases (e.g., 'cooked food' to 'cooked, food') and fresh validation is triggered instantly.
@@ -130,7 +130,7 @@ Own your tools and pay only for the AI you use.
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
 | **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** (Local AI) or Thumbnails only |
 | **Pricing Model** | Recurring Subscriptions | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md)** |
+| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via OpenRouter** |
 
 ---
 
@@ -222,7 +222,7 @@ Modify thousands of assets simultaneously with surgical precision.
 * **Video Tuning:** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
 * **CSV Editor:** Reverse-engineer templates by loading existing agency CSV files.
 * **Maps:** Choose between OpenStreetMap or ArcGIS for reverse geocoding.
-* **Ollama VRAM Context Tuning:** Optimize hardware memory parameters for local AI models.
+* **Ollama VRAM Context Tuning**: Optimize hardware memory parameters for local AI models.
 * **Integrated Metadata Translator:** Automatically translate generated text and metadata fields.
 * **Export/Import Settings:** Create configuration backups or share custom templates.
 

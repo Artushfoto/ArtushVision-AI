@@ -24,8 +24,8 @@ Whether you need standard microstock keywords, poetic Instagram captions, or str
 ## 1. Mode-Specific Prompting
 Because every AI engine behaves differently, ArtushVision AI allows you to save completely independent prompt profiles for each Processing Mode:
 
-* **[Cloud & Local AI](ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai):** Standard single-step prompts instructing the Vision model to analyze the image and return commercial JSON metadata.
-* **[Hybrid & Two-Step Local AI](ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai):** These advanced "Agentic" pipelines use two independent prompts:
+* **Cloud & Local AI:** Standard single-step prompts instructing the Vision model to analyze the image and return commercial JSON metadata.
+* **Hybrid & Two-Step Local AI:** These advanced "Agentic" pipelines use two independent prompts:
     * **Phase 1 (Vision Prompt):** Instructs the local Vision model to describe the image in raw, exhaustive detail without worrying about formatting (e.g., "Describe all subjects, lighting, colors, and atmosphere in this image...").
     * **Phase 2 (Text Prompt):** Instructs the Text-only model to take the raw description and strictly format it for SEO and microstock (using the `{local_vision_text}` variable).
 
@@ -82,7 +82,7 @@ Don't let the AI overwrite your manual work.
 | `{existing_keywords}` | Existing keywords loaded from the photo. | "Here are my existing tags: {existing_keywords}. Keep all of them, and suggest 20 more." |
 | `{existing_title}` | Existing title loaded from the photo. | Use as a base for AI refinement. |
 | `{existing_description}`| Existing description loaded from the photo. | Use as a base for AI expansion. |
-| `{existing_rating}` | Photo rating (1-5 stars). | Can be used to trigger specific prompt behaviors. |
+| `{existing_rating}` | Photo rating (1-5 stars). | Can be used to trigger specific prompt behaviors (see Visual Culling). |
 
 ---
 

@@ -31,7 +31,7 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 * **Precision Cost Tracking:** A built-in tracker monitors your API spend to 6 decimal places in real-time.
 
 ### 2. Local AI
-Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your local Ollama installation (see our Setup Guide if you haven't installed it yet).
+Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your local Ollama installation (see our [Setup Guide](ollama-installation-guide.md) if you haven't installed it yet).
 
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.

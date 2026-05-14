@@ -66,7 +66,7 @@ Your original metadata remains safe. ArtushVision AI follows a professional safe
 Once your metadata is verified and the blue GETTY badges are active, you are ready for a flawless submission.
 
 * **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty ESP portal.
-* **Zero-Touch Integration:** Combine this with the Smart FTP Suite to handle both file transfer and metadata synthesis in one unified workflow.
+* **Zero-Touch Integration:** Combine this with the [Smart FTP Suite](global-stock-distribution-ftp.md) to handle both file transfer and metadata synthesis in one unified workflow.
 
 [IMAGE: A screenshot showing the Export ESP CSV button and the success dialog.]
 

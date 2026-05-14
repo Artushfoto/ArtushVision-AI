@@ -73,7 +73,7 @@ ArtushVision AI supports professional standards including:
 <details>
 <summary>Is my data private during analysis?</summary>
 <p>
-Privacy is our priority. In <b><a href="ai-metadata-generation-cloud-local-ollama.md#2-local-ai">Local AI mode</a></b>, your photos never leave your machine (processed via <a href="local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader">Local Model Manager</a>). In <b><a href="ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai">Cloud mode</a></b>, only a temporary low-resolution thumbnail is sent to the AI provider—never your high-resolution originals.
+Privacy is our priority. In <b><a href="ai-metadata-generation-cloud-local-ollama.md#2-local-ai">Local AI mode</a></b>, your photos never leave your machine (processed via <a href="local-ai-model-manager-ollama.md">Local Model Manager</a>). In <b><a href="ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai">Cloud mode</a></b>, only a temporary low-resolution thumbnail is sent to the AI provider—never your high-resolution originals.
 </p>
 </details>
 
@@ -105,7 +105,7 @@ No. You have absolute control. Using <a href="manual-editing-detailed-photo-view
 <details>
 <summary>How do I optimize for Getty Images / ESP?</summary>
 <p>
-Use the integrated <a href="getty-images-esp-metadata-optimizer.md#built-in-master-dictionary">Getty Optimizer</a>. It validates your keywords against a master dictionary of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
+Use the integrated <a href="getty-images-esp-metadata-optimizer.md">Getty Optimizer</a>. It validates your keywords against a master dictionary of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
 </p>
 </details>
 
