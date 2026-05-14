@@ -82,6 +82,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
   - [5. Manual Editing \& Detail View](#5-manual-editing--detail-view)
   - [6. Batch Operations](#6-batch-operations)
   - [7. Settings \& Configuration](#7-settings--configuration)
+  - [8. Frequently Asked Questions (FAQ)](#8-frequently-asked-questions-faq)
     - [\[Get Started Now\]](#get-started-now)
 
 ---
@@ -224,6 +225,14 @@ Modify thousands of assets simultaneously with surgical precision.
 * **Ollama VRAM Context Tuning:** Optimize hardware memory parameters for local AI models.
 * **Integrated Metadata Translator:** Automatically translate generated text and metadata fields.
 * **Export/Import Settings:** Create configuration backups or share custom templates.
+
+---
+
+## [8. Frequently Asked Questions (FAQ)](docs/faq.md)
+Find quick answers regarding pricing, privacy, local AI setup, and technical requirements.
+* **[General & Pricing](docs/faq.md#general--pricing):** License details, Lite version limits, and supported formats.
+* **[AI Privacy & Costs](docs/faq.md#ai-privacy--costs):** Data safety, OpenRouter costs, and hardware needs.
+* **[Workflow & Compatibility](docs/faq.md#workflow--compatibility):** Getty ESP optimization, existing keywords, and Lightroom integration.
 
 ---
 
