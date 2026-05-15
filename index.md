@@ -68,7 +68,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
   - [Quick Navigation](#quick-navigation)
   - [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
   - [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
-  - [Global Distribution \& Smart FTP Suiteion--smart-ftp-suite)
+  - [Global Distribution \& Smart FTP Suite] ion--smart-ftp-suite)
   - [ArtushVision AI vs. Cloud Services](#artushvision-ai-vs-cloud-services)
   - [1. Installation \& Setup](#1-installation--setup)
     - [System Requirements](#system-requirements)
@@ -272,5 +272,5 @@ Find quick answers regarding pricing, privacy, [local AI](docs/ai-metadata-gener
 
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEyOTEwNTBdfQ==
+eyJoaXN0b3J5IjpbMTYzNTI0NTUyMywtMjEyMTI5MTA1MF19
 -->
