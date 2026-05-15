@@ -113,10 +113,10 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 ## Global Distribution & Smart FTP Suite
 Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
 
-* **Multi-Server Smart FTP:** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
-* **Automated CSV Metadata:** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
-* **Universal Category Mapping:** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
-* **FTP Profiles:** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
+* **Multi-Server [Smart FTP](docs/global-stock-distribution-ftp.md):** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
+* **Automated [CSV Metadata](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping):** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
+* **Universal [Category Mapping](docs/settings-configuration-customization.md#the-category-matrix):** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
+* **[FTP Profiles](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping):** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
 * **Persistent Status Tracking:** Visual **FTP Status Badges** are written **directly into the file's XMP metadata**, ensuring history is never lost even if files are moved.
 
 ---
