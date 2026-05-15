@@ -34,7 +34,7 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 Fine-tune how the AI engine interacts with your media, especially when dealing with complex video files.
 
 * **Video Frame Logic:** Set the number of keyframes (3 to 20) the internal FFmpeg engine extracts for analysis. More frames provide more context but increase processing time.
-* **Economy Mode (Collage) Configuration:** Enable or disable the automatic stitching of video frames into collages to optimize Cloud AI token usage and reduce costs.
+* **Economy Mode (Collage) Configuration:** Enable or disable the automatic stitching of video frames into collages to optimize [Cloud AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) token usage and reduce costs.
 * **Model Context Limits:** Define the VRAM limits for [local Ollama models](local-ai-model-manager-ollama.md) to ensure the application remains stable based on your specific GPU hardware.
 
 ---
@@ -51,7 +51,7 @@ The CSV Editor is a powerful tool for reverse-engineering agency requirements or
 ---
 
 ## The Category Matrix
-The Category Matrix is the translation engine of ArtushVision AI. It ensures that your internal organization is correctly interpreted by different stock agencies.
+The [Category Matrix](settings-configuration-customization.md#the-category-matrix) is the translation engine of ArtushVision AI. It ensures that your internal organization is correctly interpreted by different stock agencies.
 
 * **ID Mapping:** Enter the specific numerical or text IDs used by agencies like Adobe Stock, Shutterstock, or Dreamstime for various categories.
 * **Media Type Logic:** Apply different category rules for Photo and Video assets, ensuring each media type is funneled into the correct commercial bin.
@@ -63,7 +63,7 @@ The Category Matrix is the translation engine of ArtushVision AI. It ensures tha
 Accurate location data is critical for editorial and travel photography. ArtushVision AI uses real-world map data to prevent AI hallucinations.
 
 * **Map Provider Selection:** Choose between OpenStreetMap or ArcGIS as your primary visual mapping engine.
-* **Reverse Geocoding Logic:** The application automatically translates GPS coordinates into readable City, State, and Country names. This text is then fed to the AI to provide geographical context for keyword generation.
+* **[Reverse Geocoding](settings-configuration-customization.md#maps-and-reverse-geocoding) Logic:** The application automatically translates GPS coordinates into readable City, State, and Country names. This text is then fed to the AI to provide geographical context for keyword generation.
 * **Language Preferences:** Set the preferred language for location names to ensure consistency in your metadata.
 
 [IMAGE: A screenshot of the Maps configuration tab showing the API provider selection and the geocoding toggle.]
@@ -74,7 +74,7 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 Protect your work with automated redundancy settings.
 
 * **Automatic Backups:** Enable the application to create safety copies of your [XMP sidecars](batch-operations-metadata-library-management.md#synchronized-file-operations), CSV files, and even original JPGs during the saving process.
-* **Version Control:** Maintain a history of your metadata changes to prevent accidental data loss during batch operations.
+* **Version Control:** Maintain a history of your metadata changes to prevent accidental data loss during [batch operations](batch-operations-metadata-library-management.md).
 
 ---
 

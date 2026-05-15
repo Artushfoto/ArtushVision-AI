@@ -44,7 +44,7 @@ details ul { margin-top: 10px; }
 <details>
 <summary>Is ArtushVision AI a subscription service?</summary>
 <p>
-No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.99) and own the software forever. There are no recurring monthly fees. You only pay for the cloud AI processing you actually use via your own API keys, or use Local AI for free.
+No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.99) and own the software forever. There are no recurring monthly fees. You only pay for the [cloud AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) processing you actually use via your own API keys, or use [Local AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) for free.
 </p>
 </details>
 
@@ -85,7 +85,7 @@ By using an <a href="cloud-ai-openrouter-api-setup.md">OpenRouter API Key</a>, y
 </details>
 
 <details>
-<summary>Do I need a high-end GPU for Local AI?</summary>
+<summary>Do I need a high-end GPU for [Local AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path)?</summary>
 <p>
 A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="local-ai-model-manager-ollama.md#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to <a href="ollama-installation-guide.md">Ollama's</a> optimized architecture.
 </p>
@@ -103,9 +103,9 @@ No. You have absolute control. Using <a href="manual-editing-detailed-photo-view
 </details>
 
 <details>
-<summary>How do I optimize for Getty Images / ESP?</summary>
+<summary>How do I optimize for Getty Images / [ESP](getty-images-esp-metadata-optimizer.md)?</summary>
 <p>
-Use the integrated <a href="getty-images-esp-metadata-optimizer.md">Getty Optimizer</a>. It validates your keywords against a master dictionary of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
+Use the integrated <a href="getty-images-esp-metadata-optimizer.md">Getty Optimizer</a>. It validates your keywords against a [master dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
 </p>
 </details>
 
@@ -121,7 +121,7 @@ Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars
 ## Technical Setup
 
 <details>
-<summary>I get an "Ollama not found" error. How to fix it?</summary>
+<summary>I get an "[Ollama](ollama-installation-guide.md) not found" error. How to fix it?</summary>
 <p>
 Ensure <a href="ollama-installation-guide.md">Ollama is installed</a> and the service is running in your system tray. You can manage and download models directly through our <a href="local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader">Integrated Model Manager</a>.
 </p>
@@ -130,7 +130,7 @@ Ensure <a href="ollama-installation-guide.md">Ollama is installed</a> and the se
 <details>
 <summary>My API key is active, but AI results are empty.</summary>
 <p>
-Check your OpenRouter credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. Follow our <a href="cloud-ai-openrouter-api-setup.md">OpenRouter Setup Guide</a> for precise settings.
+Check your [OpenRouter](cloud-ai-openrouter-api-setup.md) credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. Follow our <a href="cloud-ai-openrouter-api-setup.md">OpenRouter Setup Guide</a> for precise settings.
 </p>
 </details>
 

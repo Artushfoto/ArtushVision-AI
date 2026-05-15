@@ -42,7 +42,7 @@ Beyond basic text search, ArtushVision AI allows for complex queries based on th
 ---
 
 ## Three-State FTP Distribution Filter
-Integrated directly with the Smart FTP Uploader, this dedicated filter allows you to view your portfolio based on its commercial distribution history.
+Integrated directly with the [Smart FTP](global-stock-distribution-ftp.md) Uploader, this dedicated filter allows you to view your portfolio based on its commercial distribution history.
 
 * **Not Uploaded:** Show only files that have not yet been sent to a specific target agency (e.g., Adobe Stock).
 * **Uploaded:** Show assets that are already safely confirmed on the server.

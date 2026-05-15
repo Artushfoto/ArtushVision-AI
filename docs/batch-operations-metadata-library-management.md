@@ -17,7 +17,7 @@ h1 { text-align: center; }
 
 Efficiency in professional photography workflows is built on the ability to apply changes across large datasets simultaneously. Whether you need to fix a recurring typo or rename a day's worth of shooting, these tools ensure consistency across your project.
 
-[IMAGE: A screenshot of the Batch Operations window or the Search and Replace dialog showing a complex string manipulation.]
+[IMAGE: A screenshot of the [Batch Operations](batch-operations-metadata-library-management.md) window or the Search and Replace dialog showing a complex string manipulation.]
 
 ---
 
@@ -60,7 +60,7 @@ Moving or deleting professional assets is risky if sidecar files are left behind
 ---
 
 ## Status Filtering and Batch Selection
-To perform operations effectively, you must first isolate the right files. The Filter Bar works in tandem with Batch Operations.
+To perform operations effectively, you must first isolate the right files. The Filter Bar works in tandem with [Batch Operations](batch-operations-metadata-library-management.md).
 
 * **Workflow Filtering:** Quickly select only files marked as Modified or Error to apply batch fixes.
 * **Quality Control Filters:** Isolate files that have "Exceeded Limits" (e.g., too many keywords for Getty Images) and use batch actions to trim them down to compliance.

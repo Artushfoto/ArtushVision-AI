@@ -35,7 +35,7 @@ $escapedKeys = $keys | ForEach-Object { [regex]::Escape($_) }
 $termRegex = "\b(" + ($escapedKeys -join "|") + ")\b"
 $unifiedPattern = New-Object System.Text.RegularExpressions.Regex($termRegex, [System.Text.RegularExpressions.RegexOptions]::IgnoreCase)
 
-$regexStr = '(?m)(^---[\s\S]*?^---|```[\s\S]*?```|`[^`]*`|<a\b[^>]*>[\s\S]*?<\/a>|\[[^\]]*\]\([^\)]*\)|<[^>]*>|^#+\s.*$)'
+$regexStr = '(?m)(\A---[\s\S]*?^---|```[\s\S]*?```|`[^`]*`|<a\b[^>]*>[\s\S]*?<\/a>|\[[^\]]*\]\([^\)]*\)|<[^>]*>|^#+\s.*$)'
 $blockPattern = New-Object System.Text.RegularExpressions.Regex($regexStr)
 
 function Process-File {
@@ -46,15 +46,14 @@ function Process-File {
     
     for ($i = 0; $i -lt $segments.Count; $i++) {
         if ($i % 2 -eq 0) {
-            $evaluator = [System.Text.RegularExpressions.MatchEvaluator] {
+            $segments[$i] = $unifiedPattern.Replace($segments[$i], [System.Text.RegularExpressions.MatchEvaluator] {
                 param([System.Text.RegularExpressions.Match]$match)
                 $orig = $match.Groups[1].Value
                 $lower = $orig.ToLower()
                 $link = $terms[$lower]
                 $target = if ($IsRoot) { "docs/$link" } else { $link }
                 return "[$orig]($target)"
-            }
-            $segments[$i] = $unifiedPattern.Replace($segments[$i], $evaluator)
+            })
         }
     }
     

@@ -55,8 +55,8 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
 
-* **[Smart Protection](docs/manual-editing-detailed-photo-view.md#advanced-protection-logic):** AI appends insights without overwriting your manual keywords or Face Tags.
-* **[Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md):** 100% submission success with Master Dictionary validation.
+* **[Smart Protection](docs/manual-editing-detailed-photo-view.md#advanced-protection-logic):** AI appends insights without overwriting your manual keywords or [Face Tags](docs/manual-editing-detailed-photo-view.md).
+* **[Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md):** 100% submission success with [Master Dictionary](docs/getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) validation.
 * **[Smart FTP](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry):** "Zero-touch" workflow with [automated CSV generation](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping).
 * **Universal Compatibility:** Works everywhere (Lightroom, Bridge, Zoner, DigiKam).
 
@@ -100,12 +100,12 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 ---
 
 ## [Getty Images Optimizer (Master ESP Tool)](docs/getty-images-esp-metadata-optimizer.md)
-Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
+Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images [ESP](docs/getty-images-esp-metadata-optimizer.md) requirements.
 
 * **Non-Destructive Sidecars:** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
-* **Interactive Getty Resolver:** Batch-validate keywords against a **Master Dictionary** of 11,746+ commercial terms.
+* **Interactive Getty Resolver:** Batch-validate keywords against a **[Master Dictionary](docs/getty-images-esp-metadata-optimizer.md#built-in-master-dictionary)** of 11,746+ commercial terms.
 * **Visual Context Highlighting:** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
-* **Semantic AI Disambiguation (beta):** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
+* **[Semantic AI Disambiguation](docs/getty-images-esp-metadata-optimizer.md#interactive-ai-resolver-and-disambiguation) (beta):** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
 * **Term Splitting:** Double-click to split multi-word phrases (e.g., 'cooked food' to 'cooked, food') and fresh validation is triggered instantly.
 
 ---
@@ -113,9 +113,9 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 ## Global Distribution & Smart FTP Suite
 Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
 
-* **Multi-Server Smart FTP:** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
-* **Automated CSV Metadata:** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
-* **Universal Category Mapping:** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
+* **Multi-Server [Smart FTP](docs/global-stock-distribution-ftp.md):** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
+* **Automated [CSV Metadata](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping):** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
+* **Universal [Category Mapping](docs/settings-configuration-customization.md#the-category-matrix):** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
 * **FTP Profiles:** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
 * **Persistent Status Tracking:** Visual **FTP Status Badges** are written **directly into the file's XMP metadata**, ensuring history is never lost even if files are moved.
 
@@ -128,9 +128,9 @@ Own your tools and pay only for the AI you use.
 | :--- | :--- | :--- |
 | **Advanced Metadata** | Limited / Not available | Full Manual & Batch Control |
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
-| **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** (Local AI) or Thumbnails only |
+| **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** ([Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path)) or Thumbnails only |
 | **Pricing Model** | Recurring Subscriptions | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via OpenRouter** |
+| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md)** |
 
 ---
 
@@ -138,14 +138,14 @@ Own your tools and pay only for the AI you use.
 
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
-* **Internet:** Required for Cloud AI, Maps, and Spell Check.
-* **Ollama:** Required for Local AI analysis. **([See Installation Guide](docs/ollama-installation-guide.md))**
-* **[OpenRouter API Key](docs/cloud-ai-openrouter-api-setup.md):** Required for Cloud AI analysis.
+* **Internet:** Required for [Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path), Maps, and Spell Check.
+* **[Ollama](docs/ollama-installation-guide.md):** Required for [Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) analysis. **([See Installation Guide](docs/ollama-installation-guide.md))**
+* **[OpenRouter API Key](docs/cloud-ai-openrouter-api-setup.md):** Required for [Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) analysis.
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **Trial Version**.
-3. **AI Configuration:** Enter your OpenRouter API Key for Cloud or ensure Ollama is installed and running for the Local Model Manager.
+3. **AI Configuration:** Enter your [OpenRouter](docs/cloud-ai-openrouter-api-setup.md) API Key for Cloud or ensure [Ollama](docs/ollama-installation-guide.md) is installed and running for the [Local Model Manager](docs/local-ai-model-manager-ollama.md).
 
 ---
 
@@ -167,7 +167,7 @@ Own your tools and pay only for the AI you use.
 ### The Image Grid
 * **Visual Status Indicators:** Small markers in the top-right corner: ⚪ (Unchanged), 🟡 (Modified), 🟢 (Saved), 🔴 (Error).
 * **Thumbnail Badges:** Top-left icons: **GPS, XMP, ORIG, RAW, VIDEO, GETTY, FTP, CAT,** or **⚠️**.
-* **Context Menu (Right-Click):** Access AI analysis, Getty Optimizer, and full File Operations (Copy/Move/Delete).
+* **Context Menu (Right-Click):** Access AI analysis, [Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md), and full File Operations (Copy/Move/Delete).
 
 ---
 
@@ -221,18 +221,18 @@ Modify thousands of assets simultaneously with surgical precision.
 * **[Workspace](docs/settings-configuration-customization.md#workspace-and-ui-customization):** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
 * **[Video Tuning](docs/settings-configuration-customization.md#ai-and-video-tuning):** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
 * **[CSV Editor](docs/settings-configuration-customization.md#advanced-csv-template-editor):** Reverse-engineer templates by loading existing agency CSV files.
-* **[Maps](docs/settings-configuration-customization.md#maps-and-reverse-geocoding):** Choose between OpenStreetMap or ArcGIS for reverse geocoding.
-* **[Ollama VRAM Context Tuning](docs/settings-configuration-customization.md#ai-and-video-tuning):** Optimize hardware memory parameters for local AI models.
+* **[Maps](docs/settings-configuration-customization.md#maps-and-reverse-geocoding):** Choose between OpenStreetMap or ArcGIS for [reverse geocoding](docs/settings-configuration-customization.md#maps-and-reverse-geocoding).
+* **[Ollama VRAM Context Tuning](docs/settings-configuration-customization.md#ai-and-video-tuning):** Optimize hardware memory parameters for [local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) models.
 * **Integrated Metadata Translator:** Automatically translate generated text and metadata fields.
 * **Export/Import Settings:** Create configuration backups or share custom templates.
 
 ---
 
 ## [8. Frequently Asked Questions (FAQ)](docs/faq.md)
-Find quick answers regarding pricing, privacy, local AI setup, and technical requirements.
+Find quick answers regarding pricing, privacy, [local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) setup, and technical requirements.
 * **[General & Pricing](docs/faq.md#general-and-pricing):** License details, Lite version limits, and supported formats.
-* **[AI Privacy & Costs](docs/faq.md#ai-privacy-and-costs):** Data safety, OpenRouter costs, and hardware needs.
-* **[Workflow & Compatibility](docs/faq.md#workflow-and-compatibility):** Getty ESP optimization, existing keywords, and Lightroom integration.
+* **[AI Privacy & Costs](docs/faq.md#ai-privacy-and-costs):** Data safety, [OpenRouter](docs/cloud-ai-openrouter-api-setup.md) costs, and hardware needs.
+* **[Workflow & Compatibility](docs/faq.md#workflow-and-compatibility):** Getty [ESP](docs/getty-images-esp-metadata-optimizer.md) optimization, existing keywords, and Lightroom integration.
 
 ---
 
