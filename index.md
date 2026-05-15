@@ -172,14 +172,14 @@ Own your tools and pay only for the AI you use.
 2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
 3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
 4. **[Choose Profile:](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Select the system prompt profile (e.g., "Editorial").
-5. **Run & Monitor:** Click the green **[Run AI](https://vision.artushfoto.eu/#versatile-ai-engine-choose-your-workflow)** button. Monitor real-time **Cost Statistics** with 6-decimal precision.
+5. **Run & Monitor:** Click the green **[Run AI](https://vision.artushfoto.eu/#versatile-ai-engine-choose-your-workflow)** button. Monitor real-time **[Cost Statistics](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai)** with 6-decimal precision.
 
 ---
 
 ## 4. Professional Advanced AI Tools
 
 ### Unlimited Customization with AI Profiles
-Use **Dynamic Variables** to feed the AI technical data hidden in your files.
+Use **[Dynamic Variables](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** to feed the AI technical data hidden in your files.
 
 | Category | Variable | Description | Example Output |
 | :--- | :--- | :--- | :--- |
