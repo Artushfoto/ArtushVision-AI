@@ -15,17 +15,17 @@ h1 { text-align: center; }
 
 **Eliminate submission errors and keyword rejections. ArtushVision AI ensures 100% success with the Getty Images [ESP](getty-images-esp-metadata-optimizer.md) system through automated keyword translation and context-aware AI disambiguation.**
 
-Uploading to Getty Images ([ESP](getty-images-esp-metadata-optimizer.md)) is often challenging due to their strict Controlled Vocabulary (CV). Standard keywords used for other stock agencies are frequently rejected or mismatched by the [ESP](getty-images-esp-metadata-optimizer.md) portal, leading to tedious manual corrections.
+Uploading to Getty Images (ESP) is often challenging due to their strict Controlled Vocabulary (CV). Standard keywords used for other stock agencies are frequently rejected or mismatched by the ESP portal, leading to tedious manual corrections.
 
-The [Getty Optimizer](getty-images-esp-metadata-optimizer.md) module in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the [ESP](getty-images-esp-metadata-optimizer.md) system.
+The Getty Optimizer module in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the ESP system.
 
-[IMAGE: A wide, clean screenshot of the [Getty Optimizer](getty-images-esp-metadata-optimizer.md) main window showing the photo grid, the Optimize All button, and the blue GETTY status badges.]
+[IMAGE: A wide, clean screenshot of the Getty Optimizer main window showing the photo grid, the Optimize All button, and the blue GETTY status badges.
 
 ---
 
 ## Built-in Master Dictionary
 
-ArtushVision AI includes a massive, local [Master Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the [ESP](getty-images-esp-metadata-optimizer.md) portal for permitted terms.
+ArtushVision AI includes a massive, local [Master Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the ESP portal for permitted terms.
 
 * **Automated Mapping:** Instantly translates standard tags into approved Getty alternatives (e.g., mapping "rural" to the required "Rural Scene" structure).
 * **Technical Tag Injection:** Automatically adds required structural tags such as Number of People, Camera Settings, or Age Brackets that Getty requires for commercial searchability.

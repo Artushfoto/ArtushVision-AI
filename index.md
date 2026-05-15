@@ -87,7 +87,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **[Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai-openrouter) (Fast & Maximum Intelligence):** Uses top-tier models via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md). Process up to **150,000 photos for just $5** with ultra-low API costs.
-* **[Local AI](docs/local-ai-model-manager-ollama.md#local-ai-model-manager-complete-offline-control) (Total Privacy):** Run everything on your hardware using offline **Ollama** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
+* **[Local AI](docs/local-ai-model-manager-ollama.md#local-ai-model-manager-complete-offline-control) (Total Privacy):** Run everything on your hardware using offline **[Ollama](https://vision.artushfoto.eu/docs/ollama-installation-guide.html)** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
 * **[Hybrid AI](docs/ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai-local-vision--cloud-text) (Local Vision + Cloud Description):** Phase 1 uses local visual analysis, while Phase 2 utilizes cloud threading for text formatting. **Photos never leave your device; only generated text is sent for SEO processing.**
 * **[2-Pass Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-two-step-local-ai) (Deep Offline Synthesis):** The flagship offline workflow.
   * **Pass 1:** Deep Visual Analysis using a powerful dedicated Vision Model.
@@ -112,7 +112,7 @@ Distribute your work to all major stock agencies simultaneously with a professio
 * **[Multi-Server Smart FTP:](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry)** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
 * **[Automated CSV Metadata:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
 * **[Universal Category Mapping:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
-* **FTP Profiles:** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
+* **[FTP Profiles:](https://vision.artushfoto.eu/docs/global-stock-distribution-ftp.html#agency-profiles-and-server-groups)** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
 * **[Persistent Status Tracking:](docs/global-stock-distribution-ftp.md#three-state-workflow-filtering)** Visual **[FTP Status Badges](https://vision.artushfoto.eu/docs/global-stock-distribution-ftp.html#advanced-tracking-and-visual-status-badges)** are written **[directly into the file's XMP metadata](https://vision.artushfoto.eu/docs/global-stock-distribution-ftp.html#advanced-tracking-and-visual-status-badges)**, ensuring history is never lost even if files are moved.
 
 ---
@@ -136,7 +136,7 @@ Own your tools and pay only for the AI you use.
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
 * **[Ollama:](docs/ollama-installation-guide.md)** Required for [Local AI analysis](https://vision.artushfoto.eu/docs/local-ai-model-manager-ollama.html#local-ai-model-manager-complete-offline-control).
-* **[OpenRouter API Key:](docs/cloud-ai-openrouter-api-setup.md)** Required for Cloud AI analysis.
+* **[OpenRouter API Key:](docs/cloud-ai-openrouter-api-setup.md)** Required for [Cloud AI analysis](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai-openrouter).
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
@@ -149,8 +149,8 @@ Own your tools and pay only for the AI you use.
 
 ### Top Toolbar
 * **Profile:** Select AI prompts (e.g., "Stock Photography"). Click the **Gear icon** to customize.
-* **Run AI:** The **green play button** starts analysis for all selected images.
-* **Absolute Priority AI Hint:** Treats manual user hints (e.g., Latin names) as unquestionable facts.
+* **[Run AI:](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html)** The **green play button** starts analysis for all selected images.
+* **[Absolute Priority AI Hint:](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names) as unquestionable facts.
 * **Flat View:** Toggle to see all files from all subfolders in a single unified list.
 * **Backup:** Safety checkboxes for automated **CSV, XMP, and Original JPG backups**.
 
