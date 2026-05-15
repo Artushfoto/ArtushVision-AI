@@ -141,7 +141,7 @@ Own your tools and pay only for the AI you use.
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **Trial Version**.
-3. **AI Configuration:** Enter your [OpenRouter API Key](docs/cloud-ai-openrouter-api-setup.md) for Cloud or ensure [Ollama](docs/ollama-installation-guide.md) is running for the [Local Model Manager](docs/local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader).
+3. **[AI Configuration:](https://vision.artushfoto.eu/#versatile-ai-engine-choose-your-workflow)** Enter your [OpenRouter API Key](docs/cloud-ai-openrouter-api-setup.md) for Cloud or ensure [Ollama](docs/ollama-installation-guide.md) is running for the [Local Model Manager](docs/local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader).
 
 ---
 
@@ -152,7 +152,7 @@ Own your tools and pay only for the AI you use.
 * **[Run AI:](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html)** The **green play button** starts analysis for all selected images.
 * **[Absolute Priority AI Hint:](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names) as unquestionable facts.
 * **Flat View:** Toggle to see all files from all subfolders in a single unified list.
-* **Backup:** Safety checkboxes for automated **CSV, XMP, and Original JPG backups**.
+* **[Backup](https://vision.artushfoto.eu/docs/settings-configuration-customization.html#backup-and-data-safety):** Safety checkboxes for automated **[CSV, XMP, and Original JPG backups](https://vision.artushfoto.eu/docs/settings-configuration-customization.html#backup-and-data-safety)**.
 
 ### Filter Bar
 * **[Smart Search:](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
@@ -176,9 +176,9 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 4. Professional Advanced AI Tools
+## [4. Professional Advanced AI Tools](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html)
 
-### [Unlimited Customization with AI Profiles](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html)
+### [Unlimited Customization with AI Profiles](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#3-professional-prompt-example)
 Use **[Dynamic Variables](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** to feed the AI technical data hidden in your files.
 
 | Category | Variable | Description | Example Output |
