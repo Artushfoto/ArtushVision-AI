@@ -180,10 +180,10 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 4. Professional Advanced AI Tools
+## [4. Professional Advanced AI Tools](docs/advanced-ai-prompting-profiles-variables.md)
 
-### Unlimited Customization with AI Profiles
-Use **Dynamic Variables** to feed the AI technical data hidden in your files.
+### [Unlimited Customization with AI Profiles](docs/advanced-ai-prompting-profiles-variables.md#2-dynamic-context-injection)
+Use **[Dynamic Variables](docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** to feed the AI technical data hidden in your files.
 
 | Category | Variable | Description | Example Output |
 | :--- | :--- | :--- | :--- |
