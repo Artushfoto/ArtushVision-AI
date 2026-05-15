@@ -124,11 +124,11 @@ Own your tools and pay only for the AI you use.
 
 | Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
 | :--- | :--- | :--- |
-| **Advanced Metadata** | Limited / Not available | Full Manual & Batch Control |
+| **Advanced Metadata** | Limited / Not available | **Full Manual & Batch Control** |
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
 | **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** (Local AI) or Thumbnails only |
 | **Pricing Model** | Recurring Subscriptions | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via OpenRouter** |
+| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50** via OpenRouter google/gemini-2.0-flash-001 |
 
 ---
 
