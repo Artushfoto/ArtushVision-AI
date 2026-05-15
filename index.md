@@ -56,7 +56,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
 
 * **[Smart Protection](docs/manual-editing-detailed-photo-view.md#advanced-protection-logic):** AI appends insights without overwriting your manual keywords or Face Tags.
-* **[Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md):** 100% submission success with Master Dictionary validation.
+* **[Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md):** 100% submission success with [Master Dictionary ](https://vision.artushfoto.eu/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary)validation.
 * **[Smart FTP](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry):** "Zero-touch" workflow with [automated CSV generation](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping).
 * **[Universal Compatibility:](https://vision.artushfoto.eu/docs/adobe-lightroom-compatibility.html)** Works everywhere [Lightroom, Bridge, Zoner, DigiKam](https://vision.artushfoto.eu/docs/adobe-lightroom-compatibility.html).
 
@@ -64,7 +64,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 
 ---
 
-## Quick Navigation
+## Quick Navigation: Core Features
   - [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
   - [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
   - [Global Distribution & Smart FTP Suite](#global-distribution--smart-ftp-suite)
