@@ -100,12 +100,12 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 ---
 
 ## [Getty Images Optimizer (Master ESP Tool)](docs/getty-images-esp-metadata-optimizer.md)
-Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
+Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images [ESP](docs/getty-images-esp-metadata-optimizer.md) requirements.
 
 * **Non-Destructive Sidecars:** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
-* **Interactive Getty Resolver:** Batch-validate keywords against a **Master Dictionary** of 11,746+ commercial terms.
+* **Interactive Getty Resolver:** Batch-validate keywords against a **[Master Dictionary](docs/getty-images-esp-metadata-optimizer.md#built-in-master-dictionary)** of 11,746+ commercial terms.
 * **Visual Context Highlighting:** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
-* **Semantic AI Disambiguation (beta):** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
+* **[Semantic AI Disambiguation](docs/getty-images-esp-metadata-optimizer.md#interactive-ai-resolver-and-disambiguation) (beta):** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
 * **Term Splitting:** Double-click to split multi-word phrases (e.g., 'cooked food' to 'cooked, food') and fresh validation is triggered instantly.
 
 ---
@@ -128,9 +128,9 @@ Own your tools and pay only for the AI you use.
 | :--- | :--- | :--- |
 | **Advanced Metadata** | Limited / Not available | Full Manual & Batch Control |
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
-| **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** (Local AI) or Thumbnails only |
+| **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** ([Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path)) or Thumbnails only |
 | **Pricing Model** | Recurring Subscriptions | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via OpenRouter** |
+| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md)** |
 
 ---
 
@@ -167,7 +167,7 @@ Own your tools and pay only for the AI you use.
 ### The Image Grid
 * **Visual Status Indicators:** Small markers in the top-right corner: ⚪ (Unchanged), 🟡 (Modified), 🟢 (Saved), 🔴 (Error).
 * **Thumbnail Badges:** Top-left icons: **GPS, XMP, ORIG, RAW, VIDEO, GETTY, FTP, CAT,** or **⚠️**.
-* **Context Menu (Right-Click):** Access AI analysis, Getty Optimizer, and full File Operations (Copy/Move/Delete).
+* **Context Menu (Right-Click):** Access AI analysis, [Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md), and full File Operations (Copy/Move/Delete).
 
 ---
 
@@ -229,10 +229,10 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 
 ## [8. Frequently Asked Questions (FAQ)](docs/faq.md)
-Find quick answers regarding pricing, privacy, local AI setup, and technical requirements.
+Find quick answers regarding pricing, privacy, [local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) setup, and technical requirements.
 * **[General & Pricing](docs/faq.md#general-and-pricing):** License details, Lite version limits, and supported formats.
-* **[AI Privacy & Costs](docs/faq.md#ai-privacy-and-costs):** Data safety, OpenRouter costs, and hardware needs.
-* **[Workflow & Compatibility](docs/faq.md#workflow-and-compatibility):** Getty ESP optimization, existing keywords, and Lightroom integration.
+* **[AI Privacy & Costs](docs/faq.md#ai-privacy-and-costs):** Data safety, [OpenRouter](docs/cloud-ai-openrouter-api-setup.md) costs, and hardware needs.
+* **[Workflow & Compatibility](docs/faq.md#workflow-and-compatibility):** Getty [ESP](docs/getty-images-esp-metadata-optimizer.md) optimization, existing keywords, and Lightroom integration.
 
 ---
 

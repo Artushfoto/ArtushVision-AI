@@ -85,7 +85,7 @@ By using an <a href="cloud-ai-openrouter-api-setup.md">OpenRouter API Key</a>, y
 </details>
 
 <details>
-<summary>Do I need a high-end GPU for Local AI?</summary>
+<summary>Do I need a high-end GPU for [Local AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path)?</summary>
 <p>
 A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="local-ai-model-manager-ollama.md#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to <a href="ollama-installation-guide.md">Ollama's</a> optimized architecture.
 </p>
@@ -121,7 +121,7 @@ Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars
 ## Technical Setup
 
 <details>
-<summary>I get an "Ollama not found" error. How to fix it?</summary>
+<summary>I get an "[Ollama](ollama-installation-guide.md) not found" error. How to fix it?</summary>
 <p>
 Ensure <a href="ollama-installation-guide.md">Ollama is installed</a> and the service is running in your system tray. You can manage and download models directly through our <a href="local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader">Integrated Model Manager</a>.
 </p>
@@ -130,7 +130,7 @@ Ensure <a href="ollama-installation-guide.md">Ollama is installed</a> and the se
 <details>
 <summary>My API key is active, but AI results are empty.</summary>
 <p>
-Check your OpenRouter credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. Follow our <a href="cloud-ai-openrouter-api-setup.md">OpenRouter Setup Guide</a> for precise settings.
+Check your [OpenRouter](cloud-ai-openrouter-api-setup.md) credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. Follow our <a href="cloud-ai-openrouter-api-setup.md">OpenRouter Setup Guide</a> for precise settings.
 </p>
 </details>
 
