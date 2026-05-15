@@ -1,4 +1,4 @@
-# Seamless Adobe Lightroom and other photo managemt software compatibility
+# Seamless Adobe Lightroom and other photo managemt software compatibility (Bridge, Zoner, Digikam and others ...)
 Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and edits into industry-standard XMP sidecars, ensuring your non-destructive workflow remains intact.
 
 * **Non-Destructive XMP Workflow:** All metadata edits are safely stored in external sidecar files, keeping your original RAW assets completely untouched.
