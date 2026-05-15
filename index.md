@@ -171,8 +171,8 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 3. AI Analysis Workflow
-1. **AI Mode Selection:** Choose **Cloud, Local, Hybrid,** or **2-Pass Local** in settings.
+## [3. AI Analysis Workflow](docs/ai-metadata-generation-cloud-local-ollama.md#how-the-agentic-ai-workflow-operates)
+1. **[AI Mode Selection](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path):** Choose **Cloud, Local, Hybrid,** or **2-Pass Local** in settings.
 2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
 3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
 4. **Choose Profile:** Select the system prompt profile (e.g., "Editorial").
@@ -217,12 +217,12 @@ Modify thousands of assets simultaneously with surgical precision.
 
 ---
 
-## 7. Settings & Configuration
-* **Workspace:** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
-* **Video Tuning:** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
-* **CSV Editor:** Reverse-engineer templates by loading existing agency CSV files.
-* **Maps:** Choose between OpenStreetMap or ArcGIS for reverse geocoding.
-* **Ollama VRAM Context Tuning**: Optimize hardware memory parameters for local AI models.
+## [7. Settings & Configuration](docs/settings-configuration-customization.md)
+* **[Workspace](docs/settings-configuration-customization.md#workspace-and-ui-customization):** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
+* **[Video Tuning](docs/settings-configuration-customization.md#ai-and-video-tuning):** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
+* **[CSV Editor](docs/settings-configuration-customization.md#advanced-csv-template-editor):** Reverse-engineer templates by loading existing agency CSV files.
+* **[Maps](docs/settings-configuration-customization.md#maps-and-reverse-geocoding):** Choose between OpenStreetMap or ArcGIS for reverse geocoding.
+* **[Ollama VRAM Context Tuning](docs/settings-configuration-customization.md#ai-and-video-tuning):** Optimize hardware memory parameters for local AI models.
 * **Integrated Metadata Translator:** Automatically translate generated text and metadata fields.
 * **Export/Import Settings:** Create configuration backups or share custom templates.
 
