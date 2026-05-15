@@ -162,7 +162,7 @@ Own your tools and pay only for the AI you use.
 * **Status Filtering:** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
 * **Quality Control:** Find files that have **Exceeded Limits** or are **Corrupted**.
 
-### The Image Grid
+### [The Image Grid](https://vision.artushfoto.eu/#the-image-grid)
 * **Visual Status Indicators:** Small markers in the top-right corner: ⚪ (Unchanged), 🟡 (Modified), 🟢 (Saved), 🔴 (Error).
 * **Thumbnail Badges:** Top-left icons: **GPS, XMP, ORIG, RAW, VIDEO, GETTY, FTP, CAT,** or **⚠️**.
 * **Context Menu (Right-Click):** Access AI analysis, Getty Optimizer, and full File Operations (Copy/Move/Delete).
@@ -173,7 +173,7 @@ Own your tools and pay only for the AI you use.
 1. **[AI Mode Selection:](https://vision.artushfoto.eu/#versatile-ai-engine-choose-your-workflow)** Choose **[Cloud](https://vision.artushfoto.eu/#versatile-ai-engine-choose-your-workflow), [Local](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai), [Hybrid](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html#3-hybrid-ai),** or **[2-Pass Local](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html#4-two-step-local-ai)** in settings.
 2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
 3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
-4. **[Choose Profile:](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Select the system prompt profile (e.g., "Editorial").
+4. **[Choose Profile:](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#4-profile-management-and-workflows)** Select the system prompt profile (e.g., "Editorial").
 5. **Run & Monitor:** Click the green **[Run AI](https://vision.artushfoto.eu/#versatile-ai-engine-choose-your-workflow)** button. Monitor real-time **[Cost Statistics](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai)** with 6-decimal precision.
 
 ---

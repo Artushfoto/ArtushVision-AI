@@ -8,8 +8,6 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 * **Instant Catalog Synchronization:** To apply your AI-generated keywords and edits back to your Lightroom catalog, simply select the modified photos in the Lightroom grid.
 * **One-Click Import:** Right-click the selected assets in Lightroom and choose **Metadata > Read Metadata from File**. Lightroom will instantly update its database with all your new tags, titles, and color labels.
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
-
 ArtushVision AI - Universal XMP Support: Fits Seamlessly Into Your Existing Ecosystem.
 
 ### [Get Started Now]
