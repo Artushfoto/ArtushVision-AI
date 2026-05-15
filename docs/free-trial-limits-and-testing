@@ -1,0 +1,67 @@
+---
+title: "Free Trial Limits and Testing | ArtushVision AI"
+description: "Everything you need to know about the ArtushVision AI free Lite version. Test hardware compatibility and API connections before purchasing."
+---
+<div style="display: none;">
+<style>
+header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
+h1 { text-align: center; }
+</style>
+</div>
+
+# Free Trial Version (Lite)
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+**We believe in complete transparency. ArtushVision AI offers a free, non-expiring Lite version so you can thoroughly test the software on your own hardware and verify your API connections before committing to a purchase.**
+
+Because ArtushVision AI is a robust desktop application that utilizes both cloud APIs and local processing power, we strongly encourage every user to download the Trial version first. Test the workflow, ensure it fits your needs, and experience the AI generation firsthand.
+
+---
+
+## Why Test Before You Buy?
+
+Ensure a seamless experience by verifying your environment setup using the free Trial version.
+
+* **Hardware Compatibility:** Verify that the application runs smoothly on your operating system and that local tools (like ExifTool and FFmpeg) execute correctly on your machine.
+* **API Configuration:** Test your connection to OpenRouter (Cloud AI) or your local Ollama installation (Local AI) to ensure prompts and models respond as expected.
+* **Workflow Integration:** Experiment with the Category Matrix, FTP Profiles, and CSV generation to confirm the software perfectly aligns with your specific microstock distribution needs.
+
+---
+
+## Trial Version Limitations
+
+The Trial version contains **no time limits** and grants access to all premium features, meaning you can use it forever. However, it enforces strict per-session usage limits to prevent commercial abuse. 
+
+To reset the limits, you must restart the application.
+
+* **AI Generation Limit:** You can process a maximum of **3 photos or videos** using the AI (Cloud, Local, or Hybrid) per application run.
+* **Metadata Saving Limit:** You can save metadata changes to a maximum of **10 unique files** per application run.
+* **FTP Upload Limit:** You can distribute a maximum of **5 unique assets** via the FTP Uploader per application run.
+* **Getty Optimizer Limit:** You can optimize and translate keywords for a maximum of **5 unique assets** per application run.
+
+*Note: If you select a larger batch of photos than the limit allows, the application will intelligently offer to process only the permitted amount so you do not lose your work.*
+
+---
+
+## Upgrading to the PRO Version
+
+Once you have verified that ArtushVision AI meets your professional standards, you can unlock unlimited processing instantly.
+
+* **Lifetime License:** The PRO version is sold as a one-time purchase lifetime license. No hidden subscriptions.
+* **Instant Activation:** Purchase your license key on our website and enter it via **File > Activate License**. The application will instantly remove all session limits without requiring a reinstallation.
+
+---
+
+### [Get Started Now]
+
+* [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
+* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+---
+
+*ArtushVision AI - Professional precision and complete configuration control.*
