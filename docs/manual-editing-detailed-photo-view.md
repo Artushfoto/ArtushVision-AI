@@ -15,7 +15,7 @@ h1 { text-align: center; }
 
 **While AI provides the speed, the Detailed Photo View provides the precision. ArtushVision AI offers a sophisticated environment for granular metadata refinement, ensuring every asset meets professional commercial standards.**
 
-Double-click any image in the main grid to enter the Detailed Photo View. This dedicated workspace is designed for high-speed [manual editing](manual-editing-detailed-photo-view.md), linguistic verification, and geospatial accuracy.
+Double-click any image in the main grid to enter the Detailed Photo View. This dedicated workspace is designed for high-speed manual editing, linguistic verification, and geospatial accuracy.
 
 [IMAGE: A wide screenshot of the Detailed Photo View showing the large image preview on the left and the metadata editor panels on the right.]
 
@@ -33,7 +33,7 @@ ArtushVision AI replaces messy comma-separated text strings with an intuitive, d
 ## Linguistic Intelligence and Translation Tools
 Professional metadata requires linguistic precision. The editor includes built-in tools to help you find the perfect terms and avoid spelling errors.
 
-* **[Multilingual Spell Check](manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools):** Right-click any text field or keyword to access live spell-checking. The system supports multiple languages and offers instant correction suggestions.
+* **Multilingual Spell Check:** Right-click any text field or keyword to access live spell-checking. The system supports multiple languages and offers instant correction suggestions.
 * **Synonym Integration (Datamuse):** Stuck on a word? Right-click a keyword bubble to pull live synonyms from the [Datamuse database](smart-manual-keywording-batch-editing.md#interactive-synonym-explorer), helping you expand your reach in stock agency search results.
 * **Native Translation Tooltips:** For non-native English speakers, the application can display translation tooltips in your preferred language, ensuring you always understand the precise meaning of AI-suggested terms.
 
@@ -53,9 +53,9 @@ The application provides dedicated fields for Titles and Descriptions, equipped 
 ## Geospatial Tools and Interactive Mapping
 ArtushVision AI provides full support for GPS metadata, essential for travel and editorial photography.
 
-* **[Interactive Map](manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping) Display:** View the exact location where your photo was taken on an integrated map ([OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding)). 
+* **Interactive Map Display:** View the exact location where your photo was taken on an integrated map ([OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding)). 
 * **Manual GPS Placement:** If an image lacks coordinates, simply click on the map to set a new location. The application will automatically update the EXIF data.
-* **[Reverse Geocoding](settings-configuration-customization.md#maps-and-reverse-geocoding):** The application can translate GPS coordinates into readable location names (City, State, Country) to provide more context for the AI engine.
+* **Reverse Geocoding:** The application can translate GPS coordinates into readable location names (City, State, Country) to provide more context for the AI engine.
 
 [IMAGE: A screenshot of the Map panel within the Detail View, showing a pinpointed location and the Satellite/Map toggle.]
 

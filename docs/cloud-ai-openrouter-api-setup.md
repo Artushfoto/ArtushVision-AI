@@ -29,7 +29,7 @@ Step-by-step guide to register, generate, and secure your API key for ArtushVisi
 ### Step 1: Visit the Platform
 Navigate to the [OpenRouter platform](https://openrouter.ai/). This is the unified interface for state-of-the-art AI models.
 
-**[OpenRouter](cloud-ai-openrouter-api-setup.md) Homepage**
+**OpenRouter Homepage**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" target="_blank">
   <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" alt="OpenRouter platform homepage"></td></tr></table>
 </a>
@@ -67,7 +67,7 @@ Give your key a recognizable name, for example: `ArtushVision AI`.
 
 ### Step 5: Secure Your Key (Critical)
 > [!IMPORTANT]
-> **Copy the generated key immediately!** For security reasons, [OpenRouter](cloud-ai-openrouter-api-setup.md) will only show you this code **once**. Store it in a password manager or a secure offline file.
+> **Copy the generated key immediately!** For security reasons, OpenRouter will only show you this code **once**. Store it in a password manager or a secure offline file.
 
 **IMPORTANT - Your Secret API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/006.png" target="_blank">

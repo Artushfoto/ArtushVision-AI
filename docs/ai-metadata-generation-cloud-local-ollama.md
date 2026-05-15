@@ -57,7 +57,7 @@ Generic AI tools produce generic metadata. ArtushVision AI injects technical bac
 * **Technical EXIF Injection:** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
 * **Smart Geolocation:** GPS coordinates are translated via [OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding) into City and Country names, allowing the AI to include specific location context automatically.
 * **Global AI Hint:** Input a specific fact—such as a Latin species name—into the [Global Hint](advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables) field. The AI treats this as an absolute fact and prioritizes it in the generated metadata.
-* **[Category Matrix](settings-configuration-customization.md#the-category-matrix) Integration:** The engine ensures generated keywords align with your selected commercial [Master Categories](settings-configuration-customization.md#the-category-matrix).
+* **Category Matrix Integration:** The engine ensures generated keywords align with your selected commercial [Master Categories](settings-configuration-customization.md#the-category-matrix).
 
 [IMAGE: A screenshot of the Profile Editor showing prompt variables like camera_model, gps_raw, and user_hint inserted into a system prompt.]
 

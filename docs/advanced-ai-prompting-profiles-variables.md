@@ -37,12 +37,12 @@ An AI model can't guess what camera you used or where a mountain is located just
 ### Basic and Contextual Variables
 | Variable | Description |
 | :--- | :--- |
-| `{local_vision_text}` | Raw text description of the image from local [Ollama](ollama-installation-guide.md) (Hybrid/Enhanced Local mode only). |
+| `{local_vision_text}` | Raw text description of the image from local Ollama (Hybrid/Enhanced Local mode only). |
 | `{user_hint}` | A massive time-saver. Type "Latin name: Alcedo atthis" into the top bar, and the AI will treat this as an undeniable fact, injecting it directly into your keywords. |
 | `{filename}` | Filename (without extension). Great for parsing client names or project IDs. |
 | `{folder_context}` | Folder name. Provides situational context. |
 | `{date_info}` | The exact date the photo was taken (DD.MM.YYYY). |
-| `{allowed_categories}` | Injects the list of allowed commercial categories from your [Category Matrix](settings-configuration-customization.md#the-category-matrix) so the AI selects the exact categories required by stock agencies. |
+| `{allowed_categories}` | Injects the list of allowed commercial categories from your Category Matrix so the AI selects the exact categories required by stock agencies. |
 
 ### Geolocation & Maps
 Never get rejected for hallucinated locations again. 
@@ -51,7 +51,7 @@ Never get rejected for hallucinated locations again.
 | Variable | Description | Output Example |
 | :--- | :--- | :--- |
 | `{city}` & `{country}` | City and Country separately. | "Generate title: [Subject] in {city}, {country}." |
-| `{loc_hint}` | Location from [reverse geocoding](settings-configuration-customization.md#maps-and-reverse-geocoding). | City, State |
+| `{loc_hint}` | Location from reverse geocoding. | City, State |
 | `{gps_raw}` | Raw numerical coordinates. | 50.08, 14.43 |
 | `{maps_link}` | Link to Google Maps. | http://googleusercontent.com/maps... |
 
@@ -82,7 +82,7 @@ Don't let the AI overwrite your manual work.
 | `{existing_keywords}` | Existing keywords loaded from the photo. | "Here are my existing tags: {existing_keywords}. Keep all of them, and suggest 20 more." |
 | `{existing_title}` | Existing title loaded from the photo. | Use as a base for AI refinement. |
 | `{existing_description}`| Existing description loaded from the photo. | Use as a base for AI expansion. |
-| `{existing_rating}` | Photo rating (1-5 stars). | Can be used to trigger specific prompt behaviors (see [Visual Culling](smart-manual-keywording-batch-editing.md#visual-culling-ratings-flags-and-color-labels)). |
+| `{existing_rating}` | Photo rating (1-5 stars). | Can be used to trigger specific prompt behaviors (see Visual Culling). |
 
 ---
 
@@ -138,7 +138,7 @@ Build a library of specialized workflows to switch between different project typ
 
 * **JSON Profiles:** Save your prompts as individual .json profiles (e.g., "Wildlife Editorial", "Standard Microstock", "Instagram Reel Generator").
 * **One-Click Switching:** Change your active profile in the main grid depending on the batch of photos currently being processed.
-* **[Category Matrix](settings-configuration-customization.md#the-category-matrix) Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies via the [Category Matrix](settings-configuration-customization.md#the-category-matrix).
+* **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies via the Category Matrix.
 
 [IMAGE: A graphic showing a raw prompt template with variables on the left and the final processed text received by the AI on the right.]
 

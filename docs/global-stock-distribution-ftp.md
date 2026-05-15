@@ -39,7 +39,7 @@ Skip the manual spreadsheet work. The FTP module is deeply integrated with a pow
 * **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](settings-configuration-customization.md#advanced-csv-template-editor)).
 * **Agency Profiles:** Group your servers into Profiles (e.g., Exclusive Video Agencies or Main Stock Photo) to select multiple targets with a single click.
 
-[IMAGE: A screenshot of the [Category Matrix](settings-configuration-customization.md#the-category-matrix) Editor showing how Master categories map to Adobe Stock, Shutterstock, and Motion Elements IDs.]
+[IMAGE: A screenshot of the Category Matrix Editor showing how Master categories map to Adobe Stock, Shutterstock, and Motion Elements IDs.]
 
 ---
 

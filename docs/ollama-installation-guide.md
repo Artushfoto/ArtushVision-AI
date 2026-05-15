@@ -13,9 +13,9 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**To use the 100% private [Local AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) or [Hybrid AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) workflows in ArtushVision AI, you need to install [Ollama](ollama-installation-guide.md). [Ollama](ollama-installation-guide.md) is a lightweight, secure background service that allows you to run powerful AI models directly on your hardware without sending any data to the cloud.**
+**To use the 100% private Local AI or Hybrid AI workflows in ArtushVision AI, you need to install Ollama. Ollama is a lightweight, secure background service that allows you to run powerful AI models directly on your hardware without sending any data to the cloud.**
 
-Follow this simple guide to get [Ollama](ollama-installation-guide.md) running on your Windows machine in under 3 minutes.
+Follow this simple guide to get Ollama running on your Windows machine in under 3 minutes.
 
 ---
 
@@ -29,9 +29,9 @@ Follow this simple guide to get [Ollama](ollama-installation-guide.md) running o
 ## Step 2: Install the Application
 1. Locate the downloaded `OllamaSetup.exe` in your Downloads folder and double-click to run it.
 2. Click **Install** in the setup window. No complex configuration is required—the installer handles everything automatically.
-3. Once the installation is complete, [Ollama](ollama-installation-guide.md) will automatically start running in the background.
+3. Once the installation is complete, Ollama will automatically start running in the background.
 
-[IMAGE: A screenshot of the Windows system tray showing the small [Ollama](ollama-installation-guide.md) alpaca icon running in the background.]
+[IMAGE: A screenshot of the Windows system tray showing the small Ollama alpaca icon running in the background.]
 
 ---
 
@@ -47,8 +47,8 @@ To ensure Ollama is working correctly and ready to connect with ArtushVision AI:
 You do not need to use the command line (Terminal) to download models. ArtushVision AI handles everything for you visually.
 
 1. Open **ArtushVision AI**.
-2. Navigate to **AI Mode Selection** and choose **[Local AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) ([Ollama](ollama-installation-guide.md))** or **[Hybrid AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path)**.
-3. Click on the **[Local Model Manager](local-ai-model-manager-ollama.md)** icon in the interface.
+2. Navigate to **AI Mode Selection** and choose **Local AI (Ollama)** or **Hybrid AI**.
+3. Click on the **Local Model Manager** icon in the interface.
 4. From the built-in **Hub Browser**, you can now browse, download, and manage models (like `qwen2.5-vl:3b` for Vision tasks) with a single click.
 
 ---

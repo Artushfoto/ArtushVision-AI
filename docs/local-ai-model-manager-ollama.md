@@ -15,11 +15,11 @@ th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**Running AI locally using [Ollama](ollama-installation-guide.md) is the ultimate solution for professional stock contributors. It offers 100% privacy for sensitive shoots (like boudoir or unreleased commercial products) and zero API costs.**
+**Running AI locally using Ollama is the ultimate solution for professional stock contributors. It offers 100% privacy for sensitive shoots (like boudoir or unreleased commercial products) and zero API costs.**
 
-However, managing models via a command-line terminal can be intimidating. ArtushVision AI solves this with a fully integrated, desktop-class **[Local Model Manager](local-ai-model-manager-ollama.md)**. It gives you a visual dashboard to browse, download, organize, and monitor your [local AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) models without ever touching the command line.
+However, managing models via a command-line terminal can be intimidating. ArtushVision AI solves this with a fully integrated, desktop-class **Local Model Manager**. It gives you a visual dashboard to browse, download, organize, and monitor your local AI models without ever touching the command line.
 
-[IMAGE: A wide screenshot of the [Local AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) Models ([Ollama](ollama-installation-guide.md)) window, showing the table with Model ID, Size, Parameters, Quantization, Type, and the editable Notes column.]
+[IMAGE: A wide screenshot of the Local AI Models (Ollama) window, showing the table with Model ID, Size, Parameters, Quantization, Type, and the editable Notes column.]
 
 ---
 
