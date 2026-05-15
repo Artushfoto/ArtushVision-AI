@@ -225,8 +225,8 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 
 ### [Get Started Now]
-* Download Fully Functional Lite Version
-* Purchase Lifetime License - $39.99
+* [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
+* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
 ---
-*ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
+*ArtushVision AI - Stability and precision for professional photography workflows.*
