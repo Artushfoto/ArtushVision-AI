@@ -30,7 +30,12 @@ ArtushVision AI gives you complete freedom over where and how your data is proce
 Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](cloud-ai-openrouter-api-setup.md) to access elite models such as Google Gemini 2.0 Flash, Claude 3.5 Sonnet, or GPT-4o.
 
 * **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
-* **Precision Cost Tracking:** A built-in tracker monitors your API spend to 6 decimal places in real-time.
+* **Transparent AI Pricing and Live Cost Tracking**
+    ArtushVision AI connects to OpenRouter on a pay-as-you-go basis, meaning you only pay for the API calls you actually make. The cost per image is microscopic (often fractions of a cent), and the application provides comprehensive tools to keep your spending under absolute control.
+
+* **Instant Batch Pricing:** As soon as an AI analysis batch is completed, the application instantly displays the exact cost of that specific run directly in the success notification.
+* **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
+* **Smart Estimations:** The software continuously calculates your average cost per processed photo and provides a live estimate of how many more assets you can analyze before needing to top up your balance.
 
 ### 2. Local AI
 

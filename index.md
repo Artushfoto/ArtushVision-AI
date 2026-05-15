@@ -155,7 +155,7 @@ Own your tools and pay only for the AI you use.
 * **Backup:** Safety checkboxes for automated **CSV, XMP, and Original JPG backups**.
 
 ### Filter Bar
-* **Smart Search:** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
+* **[Smart Search:](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
 * **Status Filtering:** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
 * **Quality Control:** Find files that have **Exceeded Limits** or are **Corrupted**.
@@ -167,12 +167,12 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## 3. AI Analysis Workflow
-1. **AI Mode Selection:** Choose **Cloud, Local, Hybrid,** or **2-Pass Local** in settings.
+## [3. AI Analysis Workflow](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html)
+1. **[AI Mode Selection:](https://vision.artushfoto.eu/#versatile-ai-engine-choose-your-workflow)** Choose **[Cloud](https://vision.artushfoto.eu/#versatile-ai-engine-choose-your-workflow), [Local](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai), [Hybrid](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html#3-hybrid-ai),** or **[2-Pass Local](https://vision.artushfoto.eu/docs/ai-metadata-generation-cloud-local-ollama.html#4-two-step-local-ai)** in settings.
 2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
 3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
-4. **Choose Profile:** Select the system prompt profile (e.g., "Editorial").
-5. **Run & Monitor:** Click the green **Run AI** button. Monitor real-time **Cost Statistics** with 6-decimal precision.
+4. **[Choose Profile:](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Select the system prompt profile (e.g., "Editorial").
+5. **Run & Monitor:** Click the green **[Run AI](https://vision.artushfoto.eu/#versatile-ai-engine-choose-your-workflow)** button. Monitor real-time **Cost Statistics** with 6-decimal precision.
 
 ---
 
@@ -198,7 +198,7 @@ Double-click any image to enter the **[Detail Photo View](docs/manual-editing-de
 * **[Culling Tools](docs/smart-manual-keywording-batch-editing.md#visual-culling-ratings-flags-and-color-labels):** Rapidly rate and flag photos (1-5, P, X).
 * **[The Editor](docs/manual-editing-detailed-photo-view.md#title-and-description-editor):** Features real-time word counters and **[Multilingual Spell Check](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools)** (right-click for suggestions).
 * **[Keyword Bubbles](docs/manual-editing-detailed-photo-view.md#intelligent-keyword-management-the-bubble-system):** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
-* **[Linguistic Tools](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools):** Right-click a bubble for **Synonyms** (Datamuse) or view native Translation Tooltips.
+* **[Linguistic Tools](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools):** Right-click a bubble for **[Synonyms](https://vision.artushfoto.eu/docs/manual-editing-detailed-photo-view.html#linguistic-intelligence-and-translation-tools)** (Datamuse) or view native Translation Tooltips.
 * **[Interactive Map](docs/manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping):** View exact GPS locations with zoom and satellite support.
 
 ---
@@ -206,14 +206,14 @@ Double-click any image to enter the **[Detail Photo View](docs/manual-editing-de
 ## [6. Batch Operations](docs/batch-operations-metadata-library-management.md)
 Modify thousands of assets simultaneously with surgical precision.
 
-* **Smart Actions:** Bulk **Add, Remove, or Replace** text across Title, Description, or Keywords.
-* **Search & Replace (Ctrl+H):** Advanced string manipulations across your entire library.
-* **Dynamic Batch Rename:** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}` (counter).
-* **File Operations:** Safely Copy, Move, or Delete files along with their **XMP and sidecars**.
+* **[Smart Actions:](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#smart-metadata-actions)** Bulk **[Add, Remove, or Replace](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#smart-metadata-actions)** text across Title, Description, or Keywords.
+* **[Search & Replace (Ctrl+H):](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Advanced string manipulations across your entire library.
+* **[Dynamic Batch Rename:](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#dynamic-batch-rename)** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}` (counter).
+* **[File Operations:](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#synchronized-file-operations)** Safely Copy, Move, or Delete files along with their **XMP and sidecars**.
 
 ---
 
-## 7. Settings & Configuration
+## [7. Settings & Configuration](https://vision.artushfoto.eu/docs/settings-configuration-customization.html)
 * **Workspace:** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
 * **Video Tuning:** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
 * **[CSV Editor:](/docs/settings-configuration-customization.md#advanced-csv-template-editor)** Reverse-engineer templates by loading existing agency CSV files.
@@ -230,6 +230,3 @@ Modify thousands of assets simultaneously with surgical precision.
 
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5Mjc5NzEzLDc4NjgyNzM3Ml19
--->
