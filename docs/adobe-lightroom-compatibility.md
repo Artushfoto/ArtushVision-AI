@@ -11,3 +11,10 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ArtushVision AI - Universal XMP Support: Fits Seamlessly Into Your Existing Ecosystem.
+
+### [Get Started Now]
+* [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
+* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+*ArtushVision AI - Stability and precision for professional photography workflows.*

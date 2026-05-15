@@ -26,6 +26,7 @@ Ensure a seamless experience by verifying your environment setup using the free 
 * **Hardware Compatibility:** Verify that the application runs smoothly on your operating system and that local tools (like ExifTool and FFmpeg) execute correctly on your machine.
 * **API Configuration:** Test your connection to OpenRouter (Cloud AI) or your local Ollama installation (Local AI) to ensure prompts and models respond as expected.
 * **Workflow Integration:** Experiment with the Category Matrix, FTP Profiles, and CSV generation to confirm the software perfectly aligns with your specific microstock distribution needs.
+* **Test It First:** While thoroughly tested internally, some bugs might still slip through. Any discovered issues will be patched as a top priority.
 
 ---
 
@@ -40,7 +41,9 @@ To reset the limits, you must restart the application.
 * **FTP Upload Limit:** You can distribute a maximum of **5 unique assets** via the FTP Uploader per application run.
 * **Getty Optimizer Limit:** You can optimize and translate keywords for a maximum of **5 unique assets** per application run.
 
-*Note: If you select a larger batch of photos than the limit allows, the application will intelligently offer to process only the permitted amount so you do not lose your work.*
+If you select a larger batch of photos than the limit allows, the application will intelligently offer to process only the permitted amount so you do not lose your work.
+
+***NOTE***: *Run Without Limits: You can run the application indefinitely with absolutely no usage caps. If ArtushVision AI ends up saving you valuable time and money, consider purchasing a full license to unlock its peak potential and support further development.*
 
 ---
 
