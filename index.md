@@ -67,9 +67,9 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
   - [Quick Navigation](#quick-navigation)
   - [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
   - [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
-  - [Global Distribution \& Smart FTP Suite](#global-distribution--smart-ftp-suite)
+  - [Global Distribution & Smart FTP Suite](#global-distribution--smart-ftp-suite)
   - [ArtushVision AI vs. Cloud Services](#artushvision-ai-vs-cloud-services)
-  - [1. Installation \& Setup](#1-installation--setup)
+  - [1. Installation & Setup](#1-installation--setup)
     - [System Requirements](#system-requirements)
     - [First Launch](#first-launch)
   - [2. Interface Overview](#2-interface-overview)
@@ -79,9 +79,9 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
   - [3. AI Analysis Workflow](#3-ai-analysis-workflow)
   - [4. Professional Advanced AI Tools](#4-professional-advanced-ai-tools)
     - [Unlimited Customization with AI Profiles](#unlimited-customization-with-ai-profiles)
-  - [5. Manual Editing \& Detail View](#5-manual-editing--detail-view)
+  - [5. Manual Editing & Detail View](#5-manual-editing--detail-view)
   - [6. Batch Operations](#6-batch-operations)
-  - [7. Settings \& Configuration](#7-settings--configuration)
+  - [7. Settings & Configuration](#7-settings--configuration)
     - [\[Get Started Now\]](#get-started-now)
 
 ---
