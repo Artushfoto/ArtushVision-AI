@@ -109,7 +109,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 ---
 
-## Global Distribution & Smart FTP Suite
+## [Global Distribution & Smart FTP Suite](/docs/global-stock-distribution-ftp.md)
 Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
 
 * **Multi-Server Smart FTP:** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
@@ -234,5 +234,5 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2ODI3MzcyXX0=
+eyJoaXN0b3J5IjpbNDQ5Mjc5NzEzLDc4NjgyNzM3Ml19
 -->
