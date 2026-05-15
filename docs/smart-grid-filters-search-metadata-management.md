@@ -61,7 +61,8 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 
 
 | Badge Type         | Description                                                                                |
-| :------------------- | :------------------------------------------------------------------------------------------- |
+| :------------------- | :----------------------------------------------------------------------------------------|
+| :--- | :--- |
 | **Format & Data**  | Indicates if a file is VIDEO, RAW, contains GPS coordinates, or has XMP/CSV backups.       |
 | **Category (CAT)** | Hover over the teal CAT badge to see a tooltip listing all assigned Master Categories.     |
 | **Agency Letters** | Circular letters (S, A, D, etc.) show exactly which FTP servers the file has reached.      |
@@ -91,3 +92,6 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 ---
 
 *ArtushVision AI - Professional precision and advanced portfolio organization.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg5ODM3NjE1N119
+-->
