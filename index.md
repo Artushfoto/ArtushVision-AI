@@ -178,7 +178,7 @@ Own your tools and pay only for the AI you use.
 
 ## 4. Professional Advanced AI Tools
 
-### Unlimited Customization with AI Profiles
+### [Unlimited Customization with AI Profiles](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html)
 Use **[Dynamic Variables](https://vision.artushfoto.eu/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** to feed the AI technical data hidden in your files.
 
 | Category | Variable | Description | Example Output |
