@@ -1,6 +1,6 @@
 ---
-title: "Smart Manual Keywording and Culling | ArtushVision AI"
-description: "Master manual metadata curation and visual culling in ArtushVision AI. Experience real-time tag bubbles, drag-and-drop mechanics, and lightning-fast sorting."
+title: "Smart Manual Keywording and ing | ArtushVision AI"
+description: "Master manual metadata curation and visual culling in ArtushVision AI. Experience real-time tag bubbles, drag-and-drop mechanics, and lightning-fast sortinga sng."
 ---
 <div style="display: none;">
 <style>
@@ -15,7 +15,7 @@ h1 { text-align: center; }
 
 **While our AI engines do the heavy lifting, professional stock contributors know that manual curation is the key to a perfect portfolio. Whether you are adding a highly specific local location, fixing a typo, sorting out the best shots, or copying tags across a series of photos, ArtushVision AI provides a desktop-class editing experience that web browsers simply cannot match.**
 
-Forget clumsy text boxes and constant reloading. Experience real-time visual tagging, intelligent spellchecking, seamless drag-and-drop mechanics, and lightning-fast culling.
+Forget clumsy text boxes and constant reloading. Experience real-time tagging, inecking, seamless drag-and-drop mechanics, and lightning-fast culling.
 
 [IMAGE: A close-up of the main grid showing the Visual Bubbles mode for keywords, with one tag being dragged and dropped onto an adjacent photo, and a 5-star rating highlighted under the thumbnail.]
 
@@ -85,11 +85,11 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 ---
 
-### Master Your Editing in 3 Steps:
+### Master Your ing in 3 Steps:
 
 1. **Cull and Sort:** Rapidly go through your grid using keyboard shortcuts (1-5, P, X) to rate and flag the best photos for microstock submission.
 2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the [Title, Description, and Keywords fields](manual-editing-detailed-photo-view.md#title-and-description-editor).
-3. **Drag and Batch Sync:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the shoot to apply overarching themes everywhere instantly (see [Smart FTP Uploader](global-stock-distribution-ftp.md)).
+. **Drag and :** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the shoverarching themes everywhere instantly (see [Smart FTP Uploader](global-stock-distribution-ftp.md)).
 
 ---
 
@@ -105,3 +105,6 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 ---
 
 *ArtushVision AI - Engineered for absolute control and professional metadata precision.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMzI2NTY5OTBdfQ==
+-->
