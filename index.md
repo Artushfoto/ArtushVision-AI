@@ -40,7 +40,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
   </tr>
   <tr>
     <td style="text-align: center;">No time limits for testing</td>
-    <td style="text-align: center;">One-time payment &bull; No monthly fees</td>
+    <td style="text-align: center;">One-time payment • No monthly fees</td>
   </tr>
 </table>
 
@@ -63,6 +63,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 ---
 
 ## Quick Navigation
+
 - [ArtushVision AI | Professional Metadata Automation](#artushvision-ai--professional-metadata-automation)
   - [Quick Navigation](#quick-navigation)
   - [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
@@ -88,6 +89,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 ---
 
 ## [Versatile AI Engine: Choose Your Workflow](docs/ai-metadata-generation-cloud-local-ollama.md)
+
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **[Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai) (Fast & Maximum Intelligence):** Uses top-tier models via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md). Process up to **150,000 photos for just $5** with ultra-low API costs.
@@ -100,6 +102,7 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 ---
 
 ## [Getty Images Optimizer (Master ESP Tool)](docs/getty-images-esp-metadata-optimizer.md)
+
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images [ESP](docs/getty-images-esp-metadata-optimizer.md) requirements.
 
 * **Non-Destructive Sidecars:** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
@@ -111,6 +114,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 ---
 
 ## Global Distribution & Smart FTP Suite
+
 Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
 
 * **Multi-Server [Smart FTP](docs/global-stock-distribution-ftp.md):** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
@@ -122,27 +126,31 @@ Distribute your work to all major stock agencies simultaneously with a professio
 ---
 
 ## ArtushVision AI vs. Cloud Services
+
 Own your tools and pay only for the AI you use.
 
-| Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
-| :--- | :--- | :--- |
-| **Advanced Metadata** | Limited / Not available | Full Manual & Batch Control |
-| **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
-| **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** ([Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path)) or Thumbnails only |
-| **Pricing Model** | Recurring Subscriptions | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50 via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md)** |
+
+| Feature                  | Typical Online AI Tools | ArtushVision AI (Desktop App)                                                                                                                    |
+| :------------------------- | :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Advanced Metadata**    | Limited / Not available | Full Manual & Batch Control                                                                                                                      |
+| **Format Support**       | JPG Only                | **JPG, RAW, Video, TIFF, PNG, HEIC**                                                                                                             |
+| **Media Privacy**        | Mandatory Cloud Upload  | **100% Privacy** ([Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path)) or Thumbnails only |
+| **Pricing Model**        | Recurring Subscriptions | **Perpetual License ($39.99)**                                                                                                                   |
+| **Cost (10,000 Photos)** | Expensive Credits       | **~$0.50 via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md)**                                                                               |
 
 ---
 
 ## 1. Installation & Setup
 
 ### System Requirements
+
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for [Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path), Maps, and Spell Check.
 * **[Ollama](docs/ollama-installation-guide.md):** Required for [Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) analysis. **([See Installation Guide](docs/ollama-installation-guide.md))**
 * **[OpenRouter API Key](docs/cloud-ai-openrouter-api-setup.md):** Required for [Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) analysis.
 
 ### First Launch
+
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **Trial Version**.
 3. **AI Configuration:** Enter your [OpenRouter](docs/cloud-ai-openrouter-api-setup.md) API Key for Cloud or ensure [Ollama](docs/ollama-installation-guide.md) is installed and running for the [Local Model Manager](docs/local-ai-model-manager-ollama.md).
@@ -152,6 +160,7 @@ Own your tools and pay only for the AI you use.
 ## 2. Interface Overview
 
 ### Top Toolbar
+
 * **Profile:** Select AI prompts (e.g., "Stock Photography"). Click the **Gear icon** to customize.
 * **Run AI:** The **green play button** starts analysis for all selected images.
 * **Absolute Priority AI Hint:** Treats manual user hints (e.g., Latin names) as unquestionable facts.
@@ -159,12 +168,14 @@ Own your tools and pay only for the AI you use.
 * **Backup:** Safety checkboxes for automated **CSV, XMP, and Original JPG backups**.
 
 ### Filter Bar
+
 * **Smart Search:** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
 * **Status Filtering:** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
 * **Quality Control:** Find files that have **Exceeded Limits** or are **Corrupted**.
 
 ### The Image Grid
+
 * **Visual Status Indicators:** Small markers in the top-right corner: ⚪ (Unchanged), 🟡 (Modified), 🟢 (Saved), 🔴 (Error).
 * **Thumbnail Badges:** Top-left icons: **GPS, XMP, ORIG, RAW, VIDEO, GETTY, FTP, CAT,** or **⚠️**.
 * **Context Menu (Right-Click):** Access AI analysis, [Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md), and full File Operations (Copy/Move/Delete).
@@ -172,6 +183,7 @@ Own your tools and pay only for the AI you use.
 ---
 
 ## [3. AI Analysis Workflow](docs/ai-metadata-generation-cloud-local-ollama.md#how-the-agentic-ai-workflow-operates)
+
 1. **[AI Mode Selection](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path):** Choose **Cloud, Local, Hybrid,** or **2-Pass Local** in settings.
 2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
 3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
@@ -183,20 +195,23 @@ Own your tools and pay only for the AI you use.
 ## [4. Professional Advanced AI Tools](docs/advanced-ai-prompting-profiles-variables.md)
 
 ### [Unlimited Customization with AI Profiles](docs/advanced-ai-prompting-profiles-variables.md#2-dynamic-context-injection)
+
 Use **[Dynamic Variables](docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** to feed the AI technical data hidden in your files.
 
-| Category | Variable | Description | Example Output |
-| :--- | :--- | :--- | :--- |
-| **User Context** | `{user_hint}` | Manual hint entered in the window | `"Euphonia laniirostris"` |
-| | `{folder_context}` | Name of the parent folder | `"Wedding 2025"` |
-| **Current Geodata**| `{city}` / `{country}` | Live GPS location data | `"Paris", "France"` |
-| | `{text_ocr}` | Text extracted visually from image | `"Route 66"` |
-| **Technical EXIF** | `{camera_model}` | Camera or Drone model | `"Sony A7IV"` |
-| | `{exposure_info}` | Shutter, Aperture, and ISO | `"1/500s, f/2.8, ISO 100"` |
+
+| Category            | Variable               | Description                        | Example Output             |
+| :-------------------- | :----------------------- | :----------------------------------- | :--------------------------- |
+| **User Context**    | `{user_hint}`          | Manual hint entered in the window  | `"Euphonia laniirostris"`  |
+|                     | `{folder_context}`     | Name of the parent folder          | `"Wedding 2025"`           |
+| **Current Geodata** | `{city}` / `{country}` | Live GPS location data             | `"Paris", "France"`        |
+|                     | `{text_ocr}`           | Text extracted visually from image | `"Route 66"`               |
+| **Technical EXIF**  | `{camera_model}`       | Camera or Drone model              | `"Sony A7IV"`              |
+|                     | `{exposure_info}`      | Shutter, Aperture, and ISO         | `"1/500s, f/2.8, ISO 100"` |
 
 ---
 
 ## [5. Manual Editing & Detail View](docs/manual-editing-detailed-photo-view.md)
+
 Double-click any image to enter the **[Detail Photo View](docs/manual-editing-detailed-photo-view.md)**.
 
 * **[Culling Tools](docs/smart-manual-keywording-batch-editing.md#visual-culling-ratings-flags-and-color-labels):** Rapidly rate and flag photos (1-5, P, X).
@@ -208,6 +223,7 @@ Double-click any image to enter the **[Detail Photo View](docs/manual-editing-de
 ---
 
 ## [6. Batch Operations](docs/batch-operations-metadata-library-management.md)
+
 Modify thousands of assets simultaneously with surgical precision.
 
 * **Smart Actions:** Bulk **Add, Remove, or Replace** text across Title, Description, or Keywords.
@@ -218,6 +234,7 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 
 ## [7. Settings & Configuration](docs/settings-configuration-customization.md)
+
 * **[Workspace](docs/settings-configuration-customization.md#workspace-and-ui-customization):** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
 * **[Video Tuning](docs/settings-configuration-customization.md#ai-and-video-tuning):** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
 * **[CSV Editor](docs/settings-configuration-customization.md#advanced-csv-template-editor):** Reverse-engineer templates by loading existing agency CSV files.
@@ -229,7 +246,9 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 
 ## [8. Frequently Asked Questions (FAQ)](docs/faq.md)
+
 Find quick answers regarding pricing, privacy, [local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) setup, and technical requirements.
+
 * **[General & Pricing](docs/faq.md#general-and-pricing):** License details, Lite version limits, and supported formats.
 * **[AI Privacy & Costs](docs/faq.md#ai-privacy-and-costs):** Data safety, [OpenRouter](docs/cloud-ai-openrouter-api-setup.md) costs, and hardware needs.
 * **[Workflow & Compatibility](docs/faq.md#workflow-and-compatibility):** Getty [ESP](docs/getty-images-esp-metadata-optimizer.md) optimization, existing keywords, and Lightroom integration.
@@ -237,8 +256,10 @@ Find quick answers regarding pricing, privacy, [local AI](docs/ai-metadata-gener
 ---
 
 ### [Get Started Now]
+
 * Download Fully Functional Lite Version
 * Purchase Lifetime License - $39.99
 
 ---
+
 *ArtushVision AI v2026.1.204 - Stability and precision for professional photography workflows.*

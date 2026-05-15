@@ -22,6 +22,7 @@ The configuration suite is divided into several specialized tabs, each focusing 
 ---
 
 ## Workspace and UI Customization
+
 A comfortable workspace is essential for long editing sessions. ArtushVision AI allows you to adjust the interface to suit your monitor size and visual preferences.
 
 * **Thumbnail Management:** Adjust the height and quality of grid thumbnails. Smaller thumbnails allow for more assets on screen, while larger ones are better for visual verification.
@@ -31,6 +32,7 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 ---
 
 ## AI and Video Tuning
+
 Fine-tune how the AI engine interacts with your media, especially when dealing with complex video files.
 
 * **Video Frame Logic:** Set the number of keyframes (3 to 20) the internal FFmpeg engine extracts for analysis. More frames provide more context but increase processing time.
@@ -40,6 +42,7 @@ Fine-tune how the AI engine interacts with your media, especially when dealing w
 ---
 
 ## Advanced CSV Template Editor
+
 The CSV Editor is a powerful tool for reverse-engineering agency requirements or creating custom export formats for internal databases.
 
 * **Template Mapping:** Load an existing CSV file from any agency, and the application will help you map its columns to ArtushVision AI fields (Title, Keywords, Categories, etc.).
@@ -51,6 +54,7 @@ The CSV Editor is a powerful tool for reverse-engineering agency requirements or
 ---
 
 ## The Category Matrix
+
 The [Category Matrix](settings-configuration-customization.md#the-category-matrix) is the translation engine of ArtushVision AI. It ensures that your internal organization is correctly interpreted by different stock agencies.
 
 * **ID Mapping:** Enter the specific numerical or text IDs used by agencies like Adobe Stock, Shutterstock, or Dreamstime for various categories.
@@ -60,6 +64,7 @@ The [Category Matrix](settings-configuration-customization.md#the-category-matri
 ---
 
 ## Maps and Reverse Geocoding
+
 Accurate location data is critical for editorial and travel photography. ArtushVision AI uses real-world map data to prevent AI hallucinations.
 
 * **Map Provider Selection:** Choose between OpenStreetMap or ArcGIS as your primary visual mapping engine.
@@ -71,6 +76,7 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 ---
 
 ## Backup and Data Safety
+
 Protect your work with automated redundancy settings.
 
 * **Automatic Backups:** Enable the application to create safety copies of your [XMP sidecars](batch-operations-metadata-library-management.md#synchronized-file-operations), CSV files, and even original JPGs during the saving process.
@@ -79,6 +85,7 @@ Protect your work with automated redundancy settings.
 ---
 
 ### Professional Workflow in 3 Steps:
+
 1. **Define Your Workspace:** Adjust the UI and thumbnail sizes to match your hardware and visual comfort.
 2. **Configure Translation Logic:** Set up your [CSV templates](#advanced-csv-template-editor) and [Category Matrix](#the-category-matrix) to automate agency-specific requirements.
 3. **Calibrate AI and Maps:** Fine-tune frame extraction and geocoding to ensure the highest possible metadata accuracy.
@@ -86,6 +93,7 @@ Protect your work with automated redundancy settings.
 ---
 
 ### [Get Started Now]
+
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
@@ -94,4 +102,5 @@ Protect your work with automated redundancy settings.
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
+
 *ArtushVision AI - Professional precision and complete configuration control.*

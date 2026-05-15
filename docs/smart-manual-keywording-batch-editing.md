@@ -22,6 +22,7 @@ Forget clumsy text boxes and constant reloading. Experience real-time visual tag
 ---
 
 ## Visual Culling: Ratings, Flags and Color Labels
+
 Organizing a massive photoshoot requires speed. ArtushVision AI features a complete visual rating system built right into the grid, allowing you to cull your photos without taking your hands off the keyboard.
 
 * **Keyboard Shortcuts:** Instantly rate photos using keys 1-5, apply Pick/Reject flags using P and X (or U to unflag), and assign color labels with keys 6-9.
@@ -31,6 +32,7 @@ Organizing a massive photoshoot requires speed. ArtushVision AI features a compl
 ---
 
 ## Visual Tag Bubbles and Seamless Drag-and-Drop
+
 Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 
 * **Reorder on the Fly:** Simply click and drag a bubble to change the order of your keywords.
@@ -41,6 +43,7 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 ---
 
 ## Lightning-Fast Autocomplete (Type Ahead)
+
 Stop typing the same words over and over. As you type, the Smart Autocomplete instantly suggests the best matches from an ultra-fast, pre-warmed database of over 300,000 highly commercial words.
 
 * **Smart Formatting:** Press Enter to accept a suggestion, and the application will automatically add a comma, a space, and turn it into a bubble.
@@ -51,6 +54,7 @@ Stop typing the same words over and over. As you type, the Smart Autocomplete in
 ---
 
 ## Multi-Language Spellcheck and Auto-Corrections
+
 Never get a batch rejected for a typo again. ArtushVision AI features a robust, offline-first spellchecking engine.
 
 * **Dual-Language Support:** Do you shoot local events but tag in English? Set a Primary (e.g., English) and a Secondary language (e.g., Czech or German). The application will validate against both dictionaries simultaneously, so local names are no longer flagged as errors.
@@ -60,6 +64,7 @@ Never get a batch rejected for a typo again. ArtushVision AI features a robust, 
 ---
 
 ## Interactive Synonym Explorer
+
 Struggling to find the right word? Double-click any tag (or right-click and select Synonyms) to open the Interactive Synonym Dialog.
 
 * **Cloud-Powered Vocabulary:** Powered by the Datamuse API, the application pulls dozens of highly relevant synonyms, related concepts, and associations.
@@ -71,6 +76,7 @@ Struggling to find the right word? Double-click any tag (or right-click and sele
 ---
 
 ## Smart Batch Editing and Copy-Paste
+
 When you need to edit 500 photos at once, traditional copy-pasting is too dangerous—you risk overwriting unique tags.
 
 * **Smart Append Sync:** Select 50 photos in the grid. Type a new keyword into one of them. ArtushVision AI intelligently appends that new word to all 50 photos in real-time without destroying their existing, unique tags.
@@ -80,6 +86,7 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 ---
 
 ### Master Your Editing in 3 Steps:
+
 1. **Cull and Sort:** Rapidly go through your grid using keyboard shortcuts (1-5, P, X) to rate and flag the best photos for microstock submission.
 2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the [Title, Description, and Keywords fields](manual-editing-detailed-photo-view.md#title-and-description-editor).
 3. **Drag and Batch Sync:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the shoot to apply overarching themes everywhere instantly (see [Smart FTP Uploader](global-stock-distribution-ftp.md)).
@@ -87,6 +94,7 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 ---
 
 ### [Get Started Now]
+
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
@@ -95,4 +103,5 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
+
 *ArtushVision AI - Engineered for absolute control and professional metadata precision.*

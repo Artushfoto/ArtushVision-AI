@@ -12,25 +12,26 @@ h1 { text-align: center; margin-bottom: 40px; color: #222; }
 h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; color: #444; }
 
 /* Stylování FAQ harmoniky */
-details { 
-    margin-bottom: 12px; 
-    padding: 15px; 
-    border: 1px solid #e1e4e8; 
-    border-radius: 6px; 
-    transition: background 0.3s ease;
+details {
+margin-bottom: 12px;
+padding: 15px;
+border: 1px solid #e1e4e8;
+border-radius: 6px;
+transition: background 0.3s ease;
 }
 details[open] { background: #fcfcfc; border-color: #d1d5da; }
-summary { 
-    font-weight: 600; 
-    cursor: pointer; 
-    font-size: 1.05em; 
-    outline: none;
-    color: #0366d6;
+summary {
+font-weight: 600;
+cursor: pointer;
+font-size: 1.05em;
+outline: none;
+color: #0366d6;
 }
 summary:hover { color: #0056b3; }
 details p { margin-top: 15px; line-height: 1.6; color: #333; }
 details ul { margin-top: 10px; }
 </style>
+
 </div>
 
 # Frequently Asked Questions (FAQ)
@@ -99,8 +100,6 @@ A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="lo
 <summary>Will the AI overwrite my existing keywords?</summary>
 <p>
 No. You have absolute control. Using <a href="manual-editing-detailed-photo-view.md#advanced-protection-logic">Smart Protection</a>, you can tell the AI to only append new tags or use variables like `{existing_keywords}` to let the AI intelligently expand your work.
-</p>
-</details>
 
 <details>
 <summary>How do I optimize for Getty Images / [ESP](getty-images-esp-metadata-optimizer.md)?</summary>
@@ -137,6 +136,7 @@ Check your [OpenRouter](cloud-ai-openrouter-api-setup.md) credit balance (minimu
 ---
 
 ### Need more help?
+
 * [Full AI Workflow Documentation](ai-metadata-generation-cloud-local-ollama.md)
 * [Advanced Prompting Guide](advanced-ai-prompting-profiles-variables.md)
 * [Global FTP Distribution Guide](global-stock-distribution-ftp.md)
@@ -144,8 +144,10 @@ Check your [OpenRouter](cloud-ai-openrouter-api-setup.md) credit balance (minimu
 ---
 
 ### [Get Started Now]
+
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
 ---
+
 *ArtushVision AI - Engineered for absolute control and professional metadata precision.*

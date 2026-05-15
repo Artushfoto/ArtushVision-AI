@@ -17,7 +17,7 @@ h1 { text-align: center; }
 
 Efficiency in professional photography workflows is built on the ability to apply changes across large datasets simultaneously. Whether you need to fix a recurring typo or rename a day's worth of shooting, these tools ensure consistency across your project.
 
-[IMAGE: A screenshot of the [Batch Operations](batch-operations-metadata-library-management.md) window or the Search and Replace dialog showing a complex string manipulation.]
+[IMAGE: A  screenshot of the [Batch Operations](batch-operations-metadata-library-management.md) window or the Search and Replace dialog showing a complex string manipulation.]
 
 ---
 

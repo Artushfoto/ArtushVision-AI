@@ -22,6 +22,7 @@ Double-click any image in the main grid to enter the Detailed Photo View. This d
 ---
 
 ## Intelligent Keyword Management
+
 ArtushVision AI replaces messy comma-separated text strings with an intuitive, drag-and-drop ["Keyword Bubble" system](smart-manual-keywording-batch-editing.md#visual-tag-bubbles-and-seamless-drag-and-drop). This visual approach allows for instant categorization and prioritization.
 
 * **Color-Coded Sources:** Instantly identify the origin of every tag. Blue bubbles represent AI-generated keywords, green indicates manual entries, and black denotes original metadata found in the file.
@@ -31,6 +32,7 @@ ArtushVision AI replaces messy comma-separated text strings with an intuitive, d
 ---
 
 ## Linguistic Intelligence and Translation Tools
+
 Professional metadata requires linguistic precision. The editor includes built-in tools to help you find the perfect terms and avoid spelling errors.
 
 * **[Multilingual Spell Check](manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools):** Right-click any text field or keyword to access live spell-checking. The system supports multiple languages and offers instant correction suggestions.
@@ -42,6 +44,7 @@ Professional metadata requires linguistic precision. The editor includes built-i
 ---
 
 ## Title and Description Editor
+
 The application provides dedicated fields for Titles and Descriptions, equipped with real-time feedback.
 
 * **Character and Word Counters:** Keep your metadata within agency limits. The counters turn red if you exceed standard commercial lengths.
@@ -51,9 +54,10 @@ The application provides dedicated fields for Titles and Descriptions, equipped 
 ---
 
 ## Geospatial Tools and Interactive Mapping
+
 ArtushVision AI provides full support for GPS metadata, essential for travel and editorial photography.
 
-* **[Interactive Map](manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping) Display:** View the exact location where your photo was taken on an integrated map ([OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding)). 
+* **[Interactive Map](manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping) Display:** View the exact location where your photo was taken on an integrated map ([OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding)).
 * **Manual GPS Placement:** If an image lacks coordinates, simply click on the map to set a new location. The application will automatically update the EXIF data.
 * **[Reverse Geocoding](settings-configuration-customization.md#maps-and-reverse-geocoding):** The application can translate GPS coordinates into readable location names (City, State, Country) to provide more context for the AI engine.
 
@@ -62,6 +66,7 @@ ArtushVision AI provides full support for GPS metadata, essential for travel and
 ---
 
 ## Advanced Protection Logic
+
 ArtushVision AI is designed to be a safe companion to your existing professional tools like Adobe Lightroom or Photo Mechanic.
 
 * **Non-Destructive Editing:** All manual changes are buffered in memory and only written to the file (or [XMP sidecar](batch-operations-metadata-library-management.md#synchronized-file-operations)) when you explicitly click Save.
@@ -70,6 +75,7 @@ ArtushVision AI is designed to be a safe companion to your existing professional
 ---
 
 ### Professional Workflow in 3 Steps:
+
 1. **Double-Click to Refine:** Open the Detail View for any asset that requires specific manual attention.
 2. **Reorder and Verify:** Use the bubble system to prioritize keywords and use the spell-checker to ensure professional quality.
 3. **Save and Synchronize:** Click Save to commit changes to the XMP metadata, making them instantly available for Lightroom, Bridge, or the [Smart FTP Uploader](global-stock-distribution-ftp.md).
@@ -77,6 +83,7 @@ ArtushVision AI is designed to be a safe companion to your existing professional
 ---
 
 ### [Get Started Now]
+
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
@@ -85,4 +92,5 @@ ArtushVision AI is designed to be a safe companion to your existing professional
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
+
 *ArtushVision AI - Granular control and linguistic precision for professional image metadata.*

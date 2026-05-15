@@ -22,6 +22,7 @@ Uploading photos and videos to multiple stock agencies can be a full-time job. D
 ---
 
 ## Per-Server Multi-Threading and Auto-Retry
+
 Not all stock agencies are built the same. While some servers can handle aggressive uploads, others, such as Zoonar or Freepik, may temporarily block users for opening too many connections at once.
 
 * **Custom Thread Control:** Assign a specific number of concurrent upload threads (1 to 10) to each individual FTP server to stay within agency limits.
@@ -33,6 +34,7 @@ Not all stock agencies are built the same. While some servers can handle aggress
 ---
 
 ## Dynamic CSV Generation and Category Mapping
+
 Skip the manual spreadsheet work. The FTP module is deeply integrated with a powerful [Category Matrix](settings-configuration-customization.md#the-category-matrix) that translates your internal organization into agency-specific requirements.
 
 * **Automated CSV Upload:** Assign a specific CSV template to an FTP server. When you start an upload, the application automatically generates the required CSV file with correct agency category IDs and uploads it alongside your media.
@@ -44,6 +46,7 @@ Skip the manual spreadsheet work. The FTP module is deeply integrated with a pow
 ---
 
 ## Advanced Tracking and Visual Status Badges
+
 Never upload the same file twice by accident. ArtushVision AI remembers the complete upload history of every asset directly within the file metadata.
 
 * **Micro-Badges in Grid:** Instantly see tiny agency badges (e.g., S for Shutterstock, A for Adobe, F for Freepik) directly on your photo thumbnails in the main grid.
@@ -55,6 +58,7 @@ Never upload the same file twice by accident. ArtushVision AI remembers the comp
 ---
 
 ## Three-State Workflow Filtering
+
 Manage thousands of assets with surgical precision using the dedicated FTP filters in the top bar.
 
 * **Uploaded State:** View only assets that have successfully reached a specific agency.
@@ -64,6 +68,7 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 ---
 
 ### Professional Workflow in 3 Steps:
+
 1. **Filter and Select:** Use the grid filters to show only Not Uploaded files and select the batch you want to distribute.
 2. **Choose Profile:** Open the FTP Uploader, pick a pre-saved Agency Profile, and hit Upload.
 3. **Monitor and Stamp:** The application manages queues, threads, and auto-generated CSVs in the background, instantly stamping your thumbnails with success badges.
@@ -71,6 +76,7 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 ---
 
 ### [Get Started Now]
+
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
@@ -79,7 +85,9 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
+
 *ArtushVision AI - Stability and precision for professional photography and stock distribution.*
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjEwNjk4MjM2OF19
 -->

@@ -15,7 +15,7 @@ h1 { text-align: center; }
 
 **Eliminate submission errors and keyword rejections. ArtushVision AI ensures 100% success with the Getty Images [ESP](getty-images-esp-metadata-optimizer.md) system through automated keyword translation and context-aware AI disambiguation.**
 
-Uploading to Getty Images ([ESP](getty-images-esp-metadata-optimizer.md)) is often challenging due to their strict Controlled Vocabulary (CV). Standard keywords used for other stock agencies are frequently rejected or mismatched by the [ESP](getty-images-esp-metadata-optimizer.md) portal, leading to tedious manual corrections. 
+Uploading to Getty Images ([ESP](getty-images-esp-metadata-optimizer.md)) is often challenging due to their strict Controlled Vocabulary (CV). Standard keywords used for other stock agencies are frequently rejected or mismatched by the [ESP](getty-images-esp-metadata-optimizer.md) portal, leading to tedious manual corrections.
 
 The [Getty Optimizer](getty-images-esp-metadata-optimizer.md) module in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the [ESP](getty-images-esp-metadata-optimizer.md) system.
 
@@ -24,6 +24,7 @@ The [Getty Optimizer](getty-images-esp-metadata-optimizer.md) module in ArtushVi
 ---
 
 ## Built-in Master Dictionary
+
 ArtushVision AI includes a massive, local [Master Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the [ESP](getty-images-esp-metadata-optimizer.md) portal for permitted terms.
 
 * **Automated Mapping:** Instantly translates standard tags into approved Getty alternatives (e.g., mapping "rural" to the required "Rural Scene" structure).
@@ -33,6 +34,7 @@ ArtushVision AI includes a massive, local [Master Dictionary](getty-images-esp-m
 ---
 
 ## Interactive AI Resolver and Disambiguation
+
 A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVision AI uses Vision AI to look at the actual content of your image to resolve these ambiguities.
 
 * **Context-Aware Disambiguation (beta):** If you use the word "crane," the AI analyzes the pixels to determine if it is a bird or a construction machine, selecting the exact correct branch of the Getty vocabulary.
@@ -44,6 +46,7 @@ A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVis
 ---
 
 ## Personal User Dictionary and Memory
+
 Teach ArtushVision AI your specific niche. If you specialize in rare Latin species, local landmarks, or technical subjects missing from the [Master Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary), you can map them once and save the rule directly to your Personal Dictionary.
 
 * **Persistent Learning:** Save custom mappings to your User Dictionary. The application will automatically apply these translations to all future exports.
@@ -52,6 +55,7 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
 ---
 
 ## Non-Destructive Workflow and Sidecars
+
 Your original metadata remains safe. ArtushVision AI follows a professional safety-first logic to ensure your primary files are never corrupted.
 
 * **Independent Sidecars:** All Getty-optimized terms, titles, and descriptions are stored in dedicated .getty JSON sidecar files.
@@ -63,6 +67,7 @@ Your original metadata remains safe. ArtushVision AI follows a professional safe
 ---
 
 ## Final Export and Global Distribution
+
 Once your metadata is verified and the blue GETTY badges are active, you are ready for a flawless submission.
 
 * **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty [ESP](getty-images-esp-metadata-optimizer.md) portal.
@@ -73,6 +78,7 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 ---
 
 ### Professional Workflow in 3 Steps:
+
 1. **Optimize All:** Select your folder and click Optimize All. The app translates the majority of terms using the [Master Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary).
 2. **Resolve Unknowns:** Use the Interactive Resolver to map any remaining red (unknown) words or let the AI pick the best branch for ambiguous terms.
 3. **Export:** Export the final verified data directly into the Getty [ESP](getty-images-esp-metadata-optimizer.md) template. No rejections, no manual mapping on the portal.
@@ -80,6 +86,7 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 ---
 
 ### [Get Started Now]
+
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
@@ -88,7 +95,9 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
+
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTkyMTM4NzkxMCwtODQ3ODkyNjY0XX0=
 -->

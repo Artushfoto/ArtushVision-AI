@@ -24,6 +24,7 @@ However, managing models via a command-line terminal can be intimidating. Artush
 ---
 
 ## Integrated Hub Browser and Downloader
+
 Skip the terminal. ArtushVision AI connects directly to your local [Ollama](ollama-installation-guide.md) installation and the global [Ollama](ollama-installation-guide.md) Hub.
 
 * **Curated Recommendations:** Not sure where to start? Open the **Recommended** browser to see a curated list of the best Vision and Text models currently available for stock photography (like **Qwen2.5-VL** or **Llama 3.2**), complete with descriptions of their specific strengths.
@@ -34,6 +35,7 @@ Skip the terminal. ArtushVision AI connects directly to your local [Ollama](olla
 ---
 
 ## Smart Vision and Text Detection
+
 ArtushVision's advanced Agentic Workflows require knowing exactly what a model is capable of.
 
 * **Auto-Detection:** The manager automatically scans your downloaded models and categorizes them as **Vision** (models that can "see" images) or **Text** (language-only models), color-coding them in the grid for easy identification.
@@ -42,6 +44,7 @@ ArtushVision's advanced Agentic Workflows require knowing exactly what a model i
 ---
 
 ## Deep Technical Insights
+
 Understand exactly what is running on your machine and how it impacts your hardware performance.
 
 * **Hardware Specs at a Glance:** The grid displays crucial technical data for every model, including its physical **Size (GB)**, total **Parameters** (e.g., 3B, 8B, 72B), and **Quantization** level (e.g., Q4_0, Q8_0).
@@ -52,6 +55,7 @@ Understand exactly what is running on your machine and how it impacts your hardw
 ---
 
 ## Personal Notes and Organization
+
 When testing multiple models, it is essential to track which one performed best for specific tasks.
 
 * **Custom Notes:** Double-click the **Note** column next to any model to open a pop-up text editor. Record your findings (e.g., "Excellent for OCR" or "Fast but generic descriptions").
@@ -69,6 +73,7 @@ When testing multiple models, it is essential to track which one performed best 
 ---
 
 ### [Get Started Now]
+
 * [Download Fully Functional Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
@@ -77,4 +82,5 @@ When testing multiple models, it is essential to track which one performed best 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
+
 *ArtushVision AI - Professional precision and complete offline AI control.*

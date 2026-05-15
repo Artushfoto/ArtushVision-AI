@@ -22,6 +22,7 @@ Finding specific files—such as those missing a description or those not yet up
 ---
 
 ## Precision Search and Limit Validation
+
 The top-bar search engine works in real-time, highlighting your target words directly inside the grid text fields in bright yellow for instant verification.
 
 * **Scoped Search:** Search across all fields or restrict your query strictly to Titles, Descriptions, or Keywords to prevent false positives.
@@ -33,6 +34,7 @@ The top-bar search engine works in real-time, highlighting your target words dir
 ---
 
 ## Advanced Metadata and Category Logic
+
 Beyond basic text search, ArtushVision AI allows for complex queries based on the presence or absence of specific metadata, which is crucial for preparing stock batches.
 
 * **Blank Field Detection:** Instantly identify all assets that do not have a Title, Description, or Keywords assigned.
@@ -42,6 +44,7 @@ Beyond basic text search, ArtushVision AI allows for complex queries based on th
 ---
 
 ## Three-State FTP Distribution Filter
+
 Integrated directly with the [Smart FTP](global-stock-distribution-ftp.md) Uploader, this dedicated filter allows you to view your portfolio based on its commercial distribution history.
 
 * **Not Uploaded:** Show only files that have not yet been sent to a specific target agency (e.g., Adobe Stock).
@@ -53,13 +56,15 @@ Integrated directly with the [Smart FTP](global-stock-distribution-ftp.md) Uploa
 ---
 
 ## Visual Grid Badges
+
 ArtushVision AI provides instant feedback through colorful micro-badges stamped directly onto the photo cards in the main grid.
 
-| Badge Type | Description |
-| :--- | :--- |
-| **Format & Data** | Indicates if a file is VIDEO, RAW, contains GPS coordinates, or has XMP/CSV backups. |
-| **Category (CAT)** | Hover over the teal CAT badge to see a tooltip listing all assigned Master Categories. |
-| **Agency Letters** | Circular letters (S, A, D, etc.) show exactly which FTP servers the file has reached. |
+
+| Badge Type         | Description                                                                                |
+| :------------------- | :------------------------------------------------------------------------------------------- |
+| **Format & Data**  | Indicates if a file is VIDEO, RAW, contains GPS coordinates, or has XMP/CSV backups.       |
+| **Category (CAT)** | Hover over the teal CAT badge to see a tooltip listing all assigned Master Categories.     |
+| **Agency Letters** | Circular letters (S, A, D, etc.) show exactly which FTP servers the file has reached.      |
 | **Status Markers** | Color-coded dots indicating if a file is Unchanged, Modified, Saved, or contains an Error. |
 
 [IMAGE: A close-up of a single photo card in the grid highlighting the various badges: GPS, RAW, XMP, and agency letters.]
@@ -67,6 +72,7 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 ---
 
 ## Master Your Workflow in 3 Steps:
+
 1. **Load and Flatten:** Load thousands of files across multiple subfolders and switch to Flat View to see them in a single unified grid.
 2. **Apply Advanced Logic:** Use the "Advanced Metadata Filter" to isolate files without keywords and the "Type" filter to restrict results to Video assets.
 3. **Batch Edit:** Select the isolated files (Ctrl+A), use the AI Engine to generate the missing data using batch actions, and clear the filters (Esc) to return to your organized project.
@@ -74,6 +80,7 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 ---
 
 ### [Get Started Now]
+
 * [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
@@ -82,4 +89,5 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
+
 *ArtushVision AI - Professional precision and advanced portfolio organization.*
