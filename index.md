@@ -100,7 +100,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 * **[Non-Destructive Sidecars:](docs/getty-images-esp-metadata-optimizer.md#non-destructive-workflow-and-sidecars)** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
 * **[Interactive Getty Resolver](docs/getty-images-esp-metadata-optimizer.md#interactive-ai-resolver-and-disambiguation):** Batch-validate keywords against a **[Master Dictionary](docs/getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) of 11,746+ commercial terms**.
-* **V[isual Context Highlighting:](docs/getty-images-esp-metadata-optimizer.md#interactive-ai-resolver-and-disambiguation)** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
+* **[Visual Context Highlighting:](docs/getty-images-esp-metadata-optimizer.md#interactive-ai-resolver-and-disambiguation)** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
 * **[Semantic AI Disambiguation (beta):](docs/getty-images-esp-metadata-optimizer.md#interactive-ai-resolver-and-disambiguation)** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
 * **[Term Splitting:](docs/getty-images-esp-metadata-optimizer.md#interactive-ai-resolver-and-disambiguation)** Double-click to split multi-word phrases (e.g., 'cooked food' to 'cooked, food') and fresh validation is triggered instantly.
 
@@ -113,7 +113,7 @@ Distribute your work to all major stock agencies simultaneously with a professio
 * **[Automated CSV Metadata:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
 * **[Universal Category Mapping:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
 * **FTP Profiles:** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
-* **[Persistent Status Tracking:](docs/global-stock-distribution-ftp.md#three-state-workflow-filtering)** Visual **FTP Status Badges** are written **directly into the file's XMP metadata**, ensuring history is never lost even if files are moved.
+* **[Persistent Status Tracking:](docs/global-stock-distribution-ftp.md#three-state-workflow-filtering)** Visual **[FTP Status Badges](https://vision.artushfoto.eu/docs/global-stock-distribution-ftp.html#advanced-tracking-and-visual-status-badges)** are written **[directly into the file's XMP metadata](https://vision.artushfoto.eu/docs/global-stock-distribution-ftp.html#advanced-tracking-and-visual-status-badges)**, ensuring history is never lost even if files are moved.
 
 ---
 
@@ -135,7 +135,7 @@ Own your tools and pay only for the AI you use.
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
-* **[Ollama:](docs/ollama-installation-guide.md)** Required for Local AI analysis.
+* **[Ollama:](docs/ollama-installation-guide.md)** Required for [Local AI analysis](https://vision.artushfoto.eu/docs/local-ai-model-manager-ollama.html#local-ai-model-manager-complete-offline-control).
 * **[OpenRouter API Key:](docs/cloud-ai-openrouter-api-setup.md)** Required for Cloud AI analysis.
 
 ### First Launch

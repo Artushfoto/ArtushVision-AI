@@ -45,6 +45,13 @@ Skip the manual spreadsheet work. The FTP module is deeply integrated with a pow
 
 ---
 
+## Agency Profiles and Server Groups
+Speed up your distribution workflow by grouping multiple stock agencies together for simultaneous batch uploads.
+
+* **Custom Server Groups:** Create user-defined profiles (e.g., "Video Agencies" or "Editorial Only") to save your current selection of target FTP servers.
+* **One-Click Distribution:** Select your pre-saved profile from the dropdown menu to instantly target all servers belonging to that specific group.
+* **Independent Configuration:** Profile settings are safely stored independently of the main application, ensuring stability and allowing for easy backups.
+
 ## Advanced Tracking and Visual Status Badges
 
 Never upload the same file twice by accident. ArtushVision AI remembers the complete upload history of every asset directly within the file metadata.
@@ -87,7 +94,3 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 ---
 
 *ArtushVision AI - Stability and precision for professional photography and stock distribution.*
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjk4MjM2OF19
--->
