@@ -60,8 +60,6 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 * **[Smart FTP](/docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry):** "Zero-touch" workflow with [automated CSV generation](/docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping).
 * **[Universal Compatibility:](/docs/metadata-compatibility-and-file-handling.md)** Works everywhere [Lightroom, Bridge, Zoner, DigiKam](/docs/metadata-compatibility-and-file-handling.md#seamless-adobe-lightroom-and-other-photo-management-software-compatibility).
 
-
-
 ---
 
 ## Quick Navigation: Core Features
