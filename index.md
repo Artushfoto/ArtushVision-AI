@@ -142,7 +142,7 @@ Own your tools and pay only for the AI you use.
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
-2. **License Activation:** Enter your key or continue with the **Trial Version**.
+2. **License Activation:** Enter your key or continue with the **[Trial Version](/docs/free-trial-limits-and-testing.md)**.
 3. **[AI Configuration:](/#versatile-ai-engine-choose-your-workflow)** Enter your [OpenRouter API Key](docs/cloud-ai-openrouter-api-setup.md) for Cloud or ensure [Ollama](docs/ollama-installation-guide.md) is running for the [Local Model Manager](docs/local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader).
 
 ---
@@ -159,10 +159,10 @@ Own your tools and pay only for the AI you use.
 ### Filter Bar
 * **[Smart Search:](/docs/batch-operations-metadata-library-management.md#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
-* **Status Filtering:** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
-* **Quality Control:** Find files that have **Exceeded Limits** or are **Corrupted**.
+* **[Status Filtering:](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
+* **[Quality Control:](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Find files that have **Exceeded Limits** or are **Corrupted**.
 
-### [The Image Grid]/#the-image-grid)
+### The Image Grid
 * **Visual Status Indicators:** Small markers in the top-right corner: ⚪ (Unchanged), 🟡 (Modified), 🟢 (Saved), 🔴 (Error).
 * **Thumbnail Badges:** Top-left icons: **GPS, XMP, ORIG, RAW, VIDEO, GETTY, FTP, CAT,** or **⚠️**.
 * **Context Menu (Right-Click):** Access AI analysis, Getty Optimizer, and full File Operations (Copy/Move/Delete).
