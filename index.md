@@ -26,7 +26,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 <h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
 
 <p align="center">
-  <i>Test the full professional workflow with our Lite Version before committing to a license.</i>
+  <i>Test the full professional workflow with our <a href="https://vision.artushfoto.eu/docs/free-trial-limits-and-testing.html">Lite Version</a> before committing to a license.</i>
 </p>
 
 <table style="width: 100%; display: table;">
@@ -56,9 +56,9 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
 
 * **[Smart Protection](docs/manual-editing-detailed-photo-view.md#advanced-protection-logic):** AI appends insights without overwriting your manual keywords or Face Tags.
-* **[Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md):** 100% submission success with [Master Dictionary ]/docs/getty-images-esp-metadata-optimizer.md#built-in-master-dictionary)validation.
+* **[Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md):** 100% submission success with [Master Dictionary ](/docs/getty-images-esp-metadata-optimizer.md#built-in-master-dictionary)validation.
 * **[Smart FTP](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry):** "Zero-touch" workflow with [automated CSV generation](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping).
-* **[Universal Compatibility:]/docs/adobe-lightroom-compatibility.md)** Works everywhere [Lightroom, Bridge, Zoner, DigiKam]/docs/adobe-lightroom-compatibility.md).
+* **[Universal Compatibility:](/docs/adobe-lightroom-compatibility.md)** Works everywhere [Lightroom, Bridge, Zoner, DigiKam](/docs/adobe-lightroom-compatibility.md).
 
 
 
@@ -89,7 +89,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and precision.
 
 * **[Cloud AI](docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai-openrouter) (Fast & Maximum Intelligence):** Uses top-tier models via [OpenRouter](docs/cloud-ai-openrouter-api-setup.md). Process up to **150,000 photos for just $5** with ultra-low API costs.
-* **[Local AI](docs/local-ai-model-manager-ollama.md#local-ai-model-manager-complete-offline-control) (Total Privacy):** Run everything on your hardware using offline **[Ollama]/docs/ollama-installation-guide.md)** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
+* **[Local AI](docs/local-ai-model-manager-ollama.md#local-ai-model-manager-complete-offline-control) (Total Privacy):** Run everything on your hardware using offline **[Ollama](/docs/ollama-installation-guide.md)** models via the [Local Model Manager](docs/local-ai-model-manager-ollama.md). Your photos stay on your device; analysis is completely free.
 * **[Hybrid AI](docs/ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai-local-vision--cloud-text) (Local Vision + Cloud Description):** Phase 1 uses local visual analysis, while Phase 2 utilizes cloud threading for text formatting. **Photos never leave your device; only generated text is sent for SEO processing.**
 * **[2-Pass Local AI](docs/ai-metadata-generation-cloud-local-ollama.md#4-two-step-local-ai) (Deep Offline Synthesis):** The flagship offline workflow.
   * **Pass 1:** Deep Visual Analysis using a powerful dedicated Vision Model.
@@ -114,8 +114,8 @@ Distribute your work to all major stock agencies simultaneously with a professio
 * **[Multi-Server Smart FTP:](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry)** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
 * **[Automated CSV Metadata:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
 * **[Universal Category Mapping:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
-* **[FTP Profiles:]/docs/global-stock-distribution-ftp.md#agency-profiles-and-server-groups)** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
-* **[Persistent Status Tracking:](docs/global-stock-distribution-ftp.md#three-state-workflow-filtering)** Visual **[FTP Status Badges]/docs/global-stock-distribution-ftp.md#advanced-tracking-and-visual-status-badges)** are written **[directly into the file's XMP metadata]/docs/global-stock-distribution-ftp.md#advanced-tracking-and-visual-status-badges)**, ensuring history is never lost even if files are moved.
+* **[FTP Profiles:](/docs/global-stock-distribution-ftp.md#agency-profiles-and-server-groups)** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
+* **[Persistent Status Tracking:](docs/global-stock-distribution-ftp.md#three-state-workflow-filtering)** Visual **[FTP Status Badges](/docs/global-stock-distribution-ftp.md#advanced-tracking-and-visual-status-badges)** are written **[directly into the file's XMP metadata](/docs/global-stock-distribution-ftp.md#advanced-tracking-and-visual-status-badges)**, ensuring history is never lost even if files are moved.
 
 ---
 
@@ -137,13 +137,13 @@ Own your tools and pay only for the AI you use.
 ### System Requirements
 * **OS:** Windows 10/11 (64-bit).
 * **Internet:** Required for Cloud AI, Maps, and Spell Check.
-* **[Ollama:](docs/ollama-installation-guide.md)** Required for [Local AI analysis]/docs/local-ai-model-manager-ollama.md#local-ai-model-manager-complete-offline-control).
-* **[OpenRouter API Key:](docs/cloud-ai-openrouter-api-setup.md)** Required for [Cloud AI analysis]/docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai-openrouter).
+* **[Ollama:](docs/ollama-installation-guide.md)** Required for [Local AI analysis](/docs/local-ai-model-manager-ollama.md#local-ai-model-manager-complete-offline-control).
+* **[OpenRouter API Key:](docs/cloud-ai-openrouter-api-setup.md)** Required for [Cloud AI analysis](/docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai-openrouter).
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **Trial Version**.
-3. **[AI Configuration:]/#versatile-ai-engine-choose-your-workflow)** Enter your [OpenRouter API Key](docs/cloud-ai-openrouter-api-setup.md) for Cloud or ensure [Ollama](docs/ollama-installation-guide.md) is running for the [Local Model Manager](docs/local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader).
+3. **[AI Configuration:](/#versatile-ai-engine-choose-your-workflow)** Enter your [OpenRouter API Key](docs/cloud-ai-openrouter-api-setup.md) for Cloud or ensure [Ollama](docs/ollama-installation-guide.md) is running for the [Local Model Manager](docs/local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader).
 
 ---
 
@@ -151,13 +151,13 @@ Own your tools and pay only for the AI you use.
 
 ### Top Toolbar
 * **Profile:** Select AI prompts (e.g., "Stock Photography"). Click the **Gear icon** to customize.
-* **[Run AI:]/docs/ai-metadata-generation-cloud-local-ollama.md)** The **green play button** starts analysis for all selected images.
-* **[Absolute Priority AI Hint:]/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names) as unquestionable facts.
+* **[Run AI:](/docs/ai-metadata-generation-cloud-local-ollama.md)** The **green play button** starts analysis for all selected images.
+* **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names) as unquestionable facts.
 * **Flat View:** Toggle to see all files from all subfolders in a single unified list.
-* **[Backup]/docs/settings-configuration-customization.md#backup-and-data-safety):** Safety checkboxes for automated **[CSV, XMP, and Original JPG backups]/docs/settings-configuration-customization.md#backup-and-data-safety)**.
+* **[Backup](/docs/settings-configuration-customization.md#backup-and-data-safety):** Safety checkboxes for automated **[CSV, XMP, and Original JPG backups](/docs/settings-configuration-customization.md#backup-and-data-safety)**.
 
 ### Filter Bar
-* **[Smart Search:]/docs/batch-operations-metadata-library-management.md#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
+* **[Smart Search:](/docs/batch-operations-metadata-library-management.md#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
 * **Status Filtering:** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
 * **Quality Control:** Find files that have **Exceeded Limits** or are **Corrupted**.
@@ -169,19 +169,19 @@ Own your tools and pay only for the AI you use.
 
 ---
 
-## [3. AI Analysis Workflow]/docs/ai-metadata-generation-cloud-local-ollama.md)
-1. **[AI Mode Selection:]/#versatile-ai-engine-choose-your-workflow)** Choose **[Cloud]/#versatile-ai-engine-choose-your-workflow), [Local]/docs/ai-metadata-generation-cloud-local-ollama.md#2-local-ai), [Hybrid]/docs/ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai),** or **[2-Pass Local]/docs/ai-metadata-generation-cloud-local-ollama.md#4-two-step-local-ai)** in settings.
+## [3. AI Analysis Workflow](/docs/ai-metadata-generation-cloud-local-ollama.md)
+1. **[AI Mode Selection:](/#versatile-ai-engine-choose-your-workflow)** Choose **[Cloud](/#versatile-ai-engine-choose-your-workflow), [Local](/docs/ai-metadata-generation-cloud-local-ollama.md#2-local-ai), [Hybrid](/docs/ai-metadata-generation-cloud-local-ollama.md#3-hybrid-ai),** or **[2-Pass Local](/docs/ai-metadata-generation-cloud-local-ollama.md#4-two-step-local-ai)** in settings.
 2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
 3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
-4. **[Choose Profile:]/docs/advanced-ai-prompting-profiles-variables.md#4-profile-management-and-workflows)** Select the system prompt profile (e.g., "Editorial").
-5. **Run & Monitor:** Click the green **[Run AI]/#versatile-ai-engine-choose-your-workflow)** button. Monitor real-time **[Cost Statistics]/docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai)** with 6-decimal precision.
+4. **[Choose Profile:](/docs/advanced-ai-prompting-profiles-variables.md#4-profile-management-and-workflows)** Select the system prompt profile (e.g., "Editorial").
+5. **Run & Monitor:** Click the green **[Run AI]/#versatile-ai-engine-choose-your-workflow)** button. Monitor real-time **[Cost Statistics](/docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai)** with 6-decimal precision.
 
 ---
 
-## [4. Professional Advanced AI Tools]/docs/advanced-ai-prompting-profiles-variables.md)
+## [4. Professional Advanced AI Tools](/docs/advanced-ai-prompting-profiles-variables.md)
 
-### [Unlimited Customization with AI Profiles]/docs/advanced-ai-prompting-profiles-variables.md#3-professional-prompt-example)
-Use **[Dynamic Variables]/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** to feed the AI technical data hidden in your files.
+### [Unlimited Customization with AI Profiles](/docs/advanced-ai-prompting-profiles-variables.md#3-professional-prompt-example)
+Use **[Dynamic Variables](/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** to feed the AI technical data hidden in your files.
 
 | Category | Variable | Description | Example Output |
 | :--- | :--- | :--- | :--- |
@@ -200,7 +200,7 @@ Double-click any image to enter the **[Detail Photo View](docs/manual-editing-de
 * **[Culling Tools](docs/smart-manual-keywording-batch-editing.md#visual-culling-ratings-flags-and-color-labels):** Rapidly rate and flag photos (1-5, P, X).
 * **[The Editor](docs/manual-editing-detailed-photo-view.md#title-and-description-editor):** Features real-time word counters and **[Multilingual Spell Check](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools)** (right-click for suggestions).
 * **[Keyword Bubbles](docs/manual-editing-detailed-photo-view.md#intelligent-keyword-management-the-bubble-system):** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
-* **[Linguistic Tools](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools):** Right-click a bubble for **[Synonyms]/docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools)** (Datamuse) or view native Translation Tooltips.
+* **[Linguistic Tools](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools):** Right-click a bubble for **[Synonyms](/docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools)** (Datamuse) or view native Translation Tooltips.
 * **[Interactive Map](docs/manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping):** View exact GPS locations with zoom and satellite support.
 
 ---
@@ -208,14 +208,14 @@ Double-click any image to enter the **[Detail Photo View](docs/manual-editing-de
 ## [6. Batch Operations](docs/batch-operations-metadata-library-management.md)
 Modify thousands of assets simultaneously with surgical precision.
 
-* **[Smart Actions:]/docs/batch-operations-metadata-library-management.md#smart-metadata-actions)** Bulk **[Add, Remove, or Replace]/docs/batch-operations-metadata-library-management.md#smart-metadata-actions)** text across Title, Description, or Keywords.
-* **[Search & Replace (Ctrl+H):]/docs/batch-operations-metadata-library-management.md#global-search-and-replace-ctrlh)** Advanced string manipulations across your entire library.
-* **[Dynamic Batch Rename:]/docs/batch-operations-metadata-library-management.md#dynamic-batch-rename)** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}` (counter).
-* **[File Operations:]/docs/batch-operations-metadata-library-management.md#synchronized-file-operations)** Safely Copy, Move, or Delete files along with their **XMP and sidecars**.
+* **[Smart Actions:](/docs/batch-operations-metadata-library-management.md#smart-metadata-actions)** Bulk **[Add, Remove, or Replace](/docs/batch-operations-metadata-library-management.md#smart-metadata-actions)** text across Title, Description, or Keywords.
+* **[Search & Replace (Ctrl+H):](/docs/batch-operations-metadata-library-management.md#global-search-and-replace-ctrlh)** Advanced string manipulations across your entire library.
+* **[Dynamic Batch Rename:](/docs/batch-operations-metadata-library-management.md#dynamic-batch-rename)** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}` (counter).
+* **[File Operations:](/docs/batch-operations-metadata-library-management.md#synchronized-file-operations)** Safely Copy, Move, or Delete files along with their **XMP and sidecars**.
 
 ---
 
-## [7. Settings & Configuration]/docs/settings-configuration-customization.md)
+## [7. Settings & Configuration](/docs/settings-configuration-customization.md)
 * **Workspace:** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
 * **Video Tuning:** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
 * **[CSV Editor:](/docs/settings-configuration-customization.md#advanced-csv-template-editor)** Reverse-engineer templates by loading existing agency CSV files.
