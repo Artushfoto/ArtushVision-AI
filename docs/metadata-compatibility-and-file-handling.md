@@ -87,7 +87,7 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 
 ---
 
-← Back to ArtushVision AI Home
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 ---
 
