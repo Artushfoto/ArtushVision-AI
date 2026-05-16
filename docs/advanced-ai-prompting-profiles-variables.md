@@ -15,7 +15,7 @@ th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**Most AI keywording tools are black boxes—you upload an image, and you get whatever generic keywords the developer decided you should get. ArtushVision AI flips this script entirely. Our built-in Profile Editor gives you absolute freedom to dictate exactly how the AI should "think", format, structure, and prioritize your metadata.**
+**Most AI keywording tools are black boxes, if you upload an image, and you get whatever generic keywords the developer decided you should get. ArtushVision AI flips this script entirely. Our built-in Profile Editor gives you absolute freedom to dictate exactly how the AI should "think", format, structure, and prioritize your metadata.**
 
 Whether you need standard microstock keywords, poetic Instagram captions, or strict journalistic editorial descriptions, you can program the AI to deliver it perfectly.
 

@@ -111,7 +111,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 ## [Global Distribution & Smart FTP Suite](/docs/global-stock-distribution-ftp.md)
 Distribute your work to all major stock agencies simultaneously with a professional "zero-touch" workflow.
 
-* **[Multi-Server Smart FTP:](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry)** Connect to unlimited agencies with unique **thread counts per server** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
+* **[Multi-Server Smart FTP:](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry)** Connect to unlimited agencies with unique **[thread counts per server](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry)** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
 * **[Automated CSV Metadata:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
 * **[Universal Category Mapping:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
 * **[FTP Profiles:](/docs/global-stock-distribution-ftp.md#agency-profiles-and-server-groups)** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
@@ -150,7 +150,7 @@ Own your tools and pay only for the AI you use.
 ## 2. Interface Overview
 
 ### Top Toolbar
-* **Profile:** Select AI prompts (e.g., "Stock Photography"). Click the **Gear icon** to customize.
+* **Profile:** [Select AI prompts](/docs/advanced-ai-prompting-profiles-variables.md) (e.g., "Stock Photography"). Click the **Gear icon** to customize.
 * **[Run AI:](/docs/ai-metadata-generation-cloud-local-ollama.md)** The **green play button** starts analysis for all selected images.
 * **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names) as unquestionable facts.
 * **Flat View:** Toggle to see all files from all subfolders in a single unified list.
