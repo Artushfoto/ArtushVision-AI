@@ -150,7 +150,7 @@ Own your tools and pay only for the AI you use.
 ## 2. Interface Overview
 
 ### Top Toolbar
-* **Profile:** [Select AI prompts](/docs/advanced-ai-prompting-profiles-variables.md) (e.g., "Stock Photography"). Click the **Gear icon** to customize.
+* **Profile:** [Select AI prompts](/docs/advanced-ai-prompting-profiles-variables.md) (e.g., "Stock Photography"). Click the **[Gear icon](docs/advanced-ai-prompting-profiles-variables.md#4-profile-management-and-workflows)** to customize.
 * **[Run AI:](/docs/ai-metadata-generation-cloud-local-ollama.md)** The **green play button** starts analysis for all selected images.
 * **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names) as unquestionable facts.
 * **Flat View:** Toggle to see all files from all subfolders in a single unified list.
@@ -216,8 +216,8 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 
 ## [7. Settings & Configuration](/docs/settings-configuration-customization.md)
-* **Workspace:** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
-* **Video Tuning:** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
+* **[Workspace:](docs/settings-configuration-customization.md#workspace-and-ui-customization)** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
+* **[Video Tuning:](/docs/settings-configuration-customization.md#ai-and-video-tuning)** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
 * **[CSV Editor:](/docs/settings-configuration-customization.md#advanced-csv-template-editor)** Reverse-engineer templates by loading existing agency CSV files.
 * **[Maps:](/docs/manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping)** Choose between OpenStreetMap or ArcGIS for reverse geocoding.
 * **Ollama VRAM Context Tuning:** Optimize hardware memory parameters for local AI models.
