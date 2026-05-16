@@ -221,8 +221,9 @@ Modify thousands of assets simultaneously with surgical precision.
 * **[CSV Editor:](/docs/settings-configuration-customization.md#advanced-csv-template-editor)** Reverse-engineer templates by loading existing agency CSV files.
 * **[Maps:](/docs/manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping)** Choose between OpenStreetMap or ArcGIS for reverse geocoding.
 * **[Ollama VRAM Context Tuning:](/docs/settings-configuration-customization.md#ai-and-video-tuning)** Optimize hardware memory parameters for local AI models.
-* **Integrated Metadata Translator:** Automatically translate generated text and metadata fields.
+* **[Integrated Metadata Translator:](/docs/settings-configuration-customization.md#language-spell-check-and-autocomplete)** Automatically translate generated text and metadata fields.
 * **Export/Import Settings:** Create configuration backups or share custom templates.
+* ***[UI Color Customization and Theming:](/docs/settings-configuration-customization.md#ui-color-customization-and-theming)** Personalize your workspace for maximum visual comfort
 
 ---
 

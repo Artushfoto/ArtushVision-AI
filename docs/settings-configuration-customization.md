@@ -96,12 +96,14 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 
 ---
 
-## Backup and Data Safety
+## Complete System Backup and Migration
 
-Protect your work with automated redundancy settings.
+Protect your entire customized configuration or seamlessly migrate your workflow to a new workstation using the all-in-one Export Settings feature.
 
-* **Automatic Backups:** Enable the application to create safety copies of your [XMP sidecars](batch-operations-metadata-library-management.md#synchronized-file-operations), CSV files, and even original JPGs during the saving process.
-* **Version Control:** Maintain a history of your metadata changes to prevent accidental data loss during [batch operations](batch-operations-metadata-library-management.md).
+* **One-Click Export:** Instantly pack your custom AI profiles (prompts), CSV export templates, category matrices, and UI color preferences into a single, portable ZIP archive.
+* **Vocabulary Preservation:** The backup safely includes your custom User Dictionary (`user_dict.txt`), ensuring your specialized microstock terminology and translated terms are never lost.
+* **Seamless Restoration:** Use the Import Settings button on any computer to unpack your archive. The application will automatically restart and perfectly restore your fully customized environment in seconds.
+* **Security in Mind:** Sensitive data such as your OpenRouter API key and local license activation are securely bundled, utilizing Windows DPAPI protection to keep your credentials safe during the transfer.
 
 ---
 
