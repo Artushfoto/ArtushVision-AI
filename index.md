@@ -58,7 +58,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 * **[Smart Protection](docs/manual-editing-detailed-photo-view.md#advanced-protection-logic):** AI appends insights without overwriting your manual keywords or Face Tags.
 * **[Getty Optimizer](docs/getty-images-esp-metadata-optimizer.md):** 100% submission success with [Master Dictionary ](/docs/getty-images-esp-metadata-optimizer.md#built-in-master-dictionary)validation.
 * **[Smart FTP](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry):** "Zero-touch" workflow with [automated CSV generation](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping).
-* **[Universal Compatibility:](/docs/metadata-compatibility-and-file-handling.md)** Works everywhere [Lightroom, Bridge, Zoner, DigiKam](/docs/metadata-compatibility-and-file-handling#.md).
+* **[Universal Compatibility:](/docs/metadata-compatibility-and-file-handling.md)** Works everywhere [Lightroom, Bridge, Zoner, DigiKam](/docs/metadata-compatibility-and-file-handling#seamless-adobe-lightroom-and-other-photo-management-software-compatibility.md).
 
 
 
