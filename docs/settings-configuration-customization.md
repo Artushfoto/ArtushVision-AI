@@ -41,6 +41,27 @@ Fine-tune how the AI engine interacts with your media, especially when dealing w
 
 ---
 
+## Language, Spell Check, and Autocomplete
+
+Ensure your metadata is flawless and quickly entered with advanced linguistic tools. ArtushVision AI provides comprehensive text assistance tailored to your workflow.
+
+* **Dual-Language Spell Check:** Set both a primary and a secondary language (e.g., English and Spanish) to simultaneously detect typos across bilingual metadata without switching settings.
+* **Smart Autocomplete:** Speed up manual data entry with predictive text. You can also enable online suggestions (via Google/Datamuse) to pull in contextually relevant words and corrections as you type.
+* **Hover Translation:** Select a target language to instantly translate AI-generated or existing keywords simply by hovering your mouse over them.
+* **Diacritics Control:** Choose whether the AI should output text with or without diacritics (accents), ensuring compatibility with stock agencies that have strict character formatting rules.
+
+---
+
+## UI Color Customization and Theming
+
+Personalize your workspace for maximum visual comfort during long editing sessions using the Advanced Color Palette Editor. You have full control over the visual feedback of the application in both Dark and Light modes.
+
+* **Keyword Color Coding:** Assign custom colors to instantly distinguish between Original (loaded from file), AI-Generated, and Manually Edited keywords directly in the grid.
+* **Interface Colors:** Freely adjust the colors of application backgrounds, input fields, buttons, and grid elements to reduce eye strain.
+* **Validation Alerts:** Set specific error highlight colors that will instantly alert you whenever strict agency limits (such as maximum title length or keyword count) are exceeded.
+
+---
+
 ## Advanced CSV Template Editor
 
 The CSV Editor is a powerful tool for reverse-engineering agency requirements or creating custom export formats for internal databases.

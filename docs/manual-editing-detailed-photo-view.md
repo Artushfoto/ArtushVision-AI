@@ -98,7 +98,7 @@ Professional metadata requires linguistic precision. The editor includes built-i
 
 ArtushVision AI provides full support for GPS metadata, essential for travel and editorial photography.
 
-* **Interactive Map Display:** View the exact location where your photo was taken on an integrated map ([OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding)).
+* **[Interactive Map Display:](/docs/manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping)** View the exact location where your photo was taken on an integrated map ([OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding)).
 * **Manual GPS Placement:** If an image lacks coordinates, simply click on the map to set a new location. The application will automatically update the EXIF data.
 * **[Reverse Geocoding](settings-configuration-customization.md#maps-and-reverse-geocoding):** The application can translate GPS coordinates into readable location names (City, State, Country) to provide more context for the AI engine.
 

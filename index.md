@@ -199,7 +199,7 @@ Double-click any image to enter the **[Detail Photo View](docs/manual-editing-de
 
 * **[Culling Tools](docs/smart-manual-keywording-batch-editing.md#visual-culling-ratings-flags-and-color-labels):** Rapidly rate and flag photos (1-5, P, X).
 * **[The Editor](docs/manual-editing-detailed-photo-view.md#title-and-description-editor):** Features real-time word counters and **[Multilingual Spell Check](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools)** (right-click for suggestions).
-* **[Keyword Bubbles](docs/manual-editing-detailed-photo-view.md#intelligent-keyword-management-the-bubble-system):** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
+* **[Keyword Bubbles](/docs/manual-editing-detailed-photo-view.md#interactive-keyword-bubbles-and-drag-and-drop):** Drag and drop to reorder. 🔵 (AI), 🟢 (Manual), ⚫ (Original).
 * **[Linguistic Tools](docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools):** Right-click a bubble for **[Synonyms](/docs/manual-editing-detailed-photo-view.md#linguistic-intelligence-and-translation-tools)** (Datamuse) or view native Translation Tooltips.
 * **[Interactive Map](docs/manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping):** View exact GPS locations with zoom and satellite support.
 
@@ -220,7 +220,7 @@ Modify thousands of assets simultaneously with surgical precision.
 * **[Video Tuning:](/docs/settings-configuration-customization.md#ai-and-video-tuning)** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
 * **[CSV Editor:](/docs/settings-configuration-customization.md#advanced-csv-template-editor)** Reverse-engineer templates by loading existing agency CSV files.
 * **[Maps:](/docs/manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping)** Choose between OpenStreetMap or ArcGIS for reverse geocoding.
-* **Ollama VRAM Context Tuning:** Optimize hardware memory parameters for local AI models.
+* **[Ollama VRAM Context Tuning:](/docs/settings-configuration-customization.md#ai-and-video-tuning)** Optimize hardware memory parameters for local AI models.
 * **Integrated Metadata Translator:** Automatically translate generated text and metadata fields.
 * **Export/Import Settings:** Create configuration backups or share custom templates.
 
