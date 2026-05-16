@@ -31,7 +31,6 @@ summary:hover { color: #0056b3; }
 details p { margin-top: 15px; line-height: 1.6; color: #333; }
 details ul { margin-top: 10px; }
 </style>
-
 </div>
 
 # Frequently Asked Questions (FAQ)
@@ -45,7 +44,7 @@ details ul { margin-top: 10px; }
 <details>
 <summary>Is ArtushVision AI a subscription service?</summary>
 <p>
-No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.99) and own the software forever. There are no recurring monthly fees. You only pay for the [cloud AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) processing you actually use via your own API keys, or use [Local AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) for free.
+No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.99) and own the software forever. There are no recurring monthly fees. You only pay for the <a href="/docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path">cloud AI</a> processing you actually use via your own API keys, or use <a href="/docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path">Local AI</a> for free.
 </p>
 </details>
 
@@ -74,21 +73,21 @@ ArtushVision AI supports professional standards including:
 <details>
 <summary>Is my data private during analysis?</summary>
 <p>
-Privacy is our priority. In <b><a href="ai-metadata-generation-cloud-local-ollama.md#2-local-ai">Local AI mode</a></b>, your photos never leave your machine (processed via <a href="local-ai-model-manager-ollama.md">Local Model Manager</a>). In <b><a href="ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai">Cloud mode</a></b>, only a temporary low-resolution thumbnail is sent to the AI provider—never your high-resolution originals.
+Privacy is our priority. In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.md#2-local-ai">Local AI mode</a></b>, your photos never leave your machine (processed via <a href="/docs/local-ai-model-manager-ollama.md">Local Model Manager</a>). In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai">Cloud mode</a></b>, only a temporary low-resolution thumbnail is sent to the AI provider—never your high-resolution originals.
 </p>
 </details>
 
 <details>
 <summary>How can it be so cheap compared to web tools?</summary>
 <p>
-By using an <a href="cloud-ai-openrouter-api-setup.md">OpenRouter API Key</a>, you pay the raw wholesale price of AI models (like Google Gemini). You bypass the 500%–1000% markups common in web-based subscription tools.
+By using an <a href="/docs/cloud-ai-openrouter-api-setup.md">OpenRouter API Key</a>, you pay the raw wholesale price of AI models (like Google Gemini). You bypass the 500%–1000% markups common in web-based subscription tools.
 </p>
 </details>
 
 <details>
-<summary>Do I need a high-end GPU for [Local AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path)?</summary>
+<summary>Do I need a high-end GPU for <a href="/docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path">Local AI</a>?</summary>
 <p>
-A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="local-ai-model-manager-ollama.md#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to <a href="ollama-installation-guide.md">Ollama's</a> optimized architecture.
+A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/docs/local-ai-model-manager-ollama.md#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to <a href="/docs/ollama-installation-guide.md">Ollama's</a> optimized architecture.
 </p>
 </details>
 
@@ -99,19 +98,21 @@ A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="lo
 <details>
 <summary>Will the AI overwrite my existing keywords?</summary>
 <p>
-No. You have absolute control. Using <a href="manual-editing-detailed-photo-view.md#advanced-protection-logic">Smart Protection</a>, you can tell the AI to only append new tags or use variables like `{existing_keywords}` to let the AI intelligently expand your work.
+No. You have absolute control. Using <a href="/docs/manual-editing-detailed-photo-view.md#advanced-protection-logic">Smart Protection</a>, you can tell the AI to only append new tags or use variables like `{existing_keywords}` to let the AI intelligently expand your work.
+</p>
+</details>
 
 <details>
-<summary>How do I optimize for Getty Images / [ESP](getty-images-esp-metadata-optimizer.md)?</summary>
+<summary>How do I optimize for Getty Images / <a href="/docs/getty-images-esp-metadata-optimizer.md">ESP</a>?</summary>
 <p>
-Use the integrated <a href="getty-images-esp-metadata-optimizer.md">Getty Optimizer</a>. It validates your keywords against a [master dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
+Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.md">Getty Optimizer</a>. It validates your keywords against a <a href="/docs/getty-images-esp-metadata-optimizer.md#built-in-master-dictionary">master dictionary</a> of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
 </p>
 </details>
 
 <details>
 <summary>Does it work with Lightroom, Zoner, or Bridge?</summary>
 <p>
-Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="batch-operations-metadata-library-management.md#synchronized-file-operations">Batch Operations</a> guide for more.
+Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="/docs/batch-operations-metadata-library-management.md#synchronized-file-operations">Batch Operations</a> guide for more.
 </p>
 </details>
 
@@ -120,16 +121,16 @@ Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars
 ## Technical Setup
 
 <details>
-<summary>I get an "[Ollama](ollama-installation-guide.md) not found" error. How to fix it?</summary>
+<summary>I get an "<a href="/docs/ollama-installation-guide.md">Ollama</a> not found" error. How to fix it?</summary>
 <p>
-Ensure <a href="ollama-installation-guide.md">Ollama is installed</a> and the service is running in your system tray. You can manage and download models directly through our <a href="local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader">Integrated Model Manager</a>.
+Ensure <a href="/docs/ollama-installation-guide.md">Ollama is installed</a> and the service is running in your system tray. You can manage and download models directly through our <a href="/docs/local-ai-model-manager-ollama.md#integrated-hub-browser-and-downloader">Integrated Model Manager</a>.
 </p>
 </details>
 
 <details>
 <summary>My API key is active, but AI results are empty.</summary>
 <p>
-Check your [OpenRouter](cloud-ai-openrouter-api-setup.md) credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. Follow our <a href="cloud-ai-openrouter-api-setup.md">OpenRouter Setup Guide</a> for precise settings.
+Check your <a href="/docs/cloud-ai-openrouter-api-setup.md">OpenRouter</a> credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. Follow our <a href="/docs/cloud-ai-openrouter-api-setup.md">OpenRouter Setup Guide</a> for precise settings.
 </p>
 </details>
 
@@ -137,9 +138,9 @@ Check your [OpenRouter](cloud-ai-openrouter-api-setup.md) credit balance (minimu
 
 ### Need more help?
 
-* [Full AI Workflow Documentation](ai-metadata-generation-cloud-local-ollama.md)
-* [Advanced Prompting Guide](advanced-ai-prompting-profiles-variables.md)
-* [Global FTP Distribution Guide](global-stock-distribution-ftp.md)
+* [Full AI Workflow Documentation](/docs/ai-metadata-generation-cloud-local-ollama.md)
+* [Advanced Prompting Guide](/docs/advanced-ai-prompting-profiles-variables.md)
+* [Global FTP Distribution Guide](/docs/global-stock-distribution-ftp.md)
 
 ---
 

@@ -68,11 +68,9 @@ Keep track of your technical data and backup states without ever opening a prope
 
 ## Seamless Adobe Lightroom and other photo management software compatibility
 
-← Back to ArtushVision AI Home
-
 Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and edits into industry-standard XMP sidecars, ensuring your non-destructive workflow remains intact.
 
-* **[Non-Destructive XMP Workflow:](/docs/metadata-compatibility-and-file-handling#file-handling-and-xmp-sidecars)** All metadata edits are safely stored in external sidecar files, keeping your original RAW assets completely untouched.
+* **Non-Destructive XMP Workflow:** All metadata edits are safely stored in external sidecar files, keeping your original RAW assets completely untouched.
 * **Instant Catalog Synchronization:** To apply your AI-generated keywords and edits back to your Lightroom catalog, simply select the modified photos in the Lightroom grid.
 * **One-Click Import:** Right-click the selected assets in Lightroom and choose **Metadata > Read Metadata from File**. Lightroom will instantly update its database with all your new tags, titles, and color labels.
 
@@ -82,8 +80,8 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 
 ### [Get Started Now]
 
-* Download Free Lite Version
-* Purchase Lifetime License - $39.99
+* [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
+* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
 ---
 

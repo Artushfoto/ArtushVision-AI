@@ -31,7 +31,7 @@ Step-by-step guide to register, generate, and secure your API key for ArtushVisi
 
 Navigate to the [OpenRouter platform](https://openrouter.ai/). This is the unified interface for state-of-the-art AI models.
 
-**[OpenRouter](cloud-ai-openrouter-api-setup.md) Homepage**
+**OpenRouter Homepage**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" target="_blank">
 
 <table><tr><td><img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/001.png" alt="OpenRouter platform homepage"></td></tr></table>
@@ -78,7 +78,7 @@ Give your key a recognizable name, for example: `ArtushVision AI`.
 ### Step 5: Secure Your Key (Critical)
 
 > [!IMPORTANT]
-> **Copy the generated key immediately!** For security reasons, [OpenRouter](cloud-ai-openrouter-api-setup.md) will only show you this code **once**. Store it in a password manager or a secure offline file.
+> **Copy the generated key immediately!** For security reasons, OpenRouter will only show you this code **once**. Store it in a password manager or a secure offline file.
 
 **IMPORTANT - Your Secret API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/openrouter/006.png" target="_blank">
@@ -127,7 +127,7 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
 2. Open **ArtushVision AI**.
 3. Go to **File > API Key**.
 4. Paste the key into the field and click **Save**.
-5. You are ready to analyze! (See [AI Metadata Generation](ai-metadata-generation-cloud-local-ollama.md))
+5. You are ready to analyze! (See [AI Metadata Generation](/docs/ai-metadata-generation-cloud-local-ollama.md))
 
 ---
 
@@ -139,9 +139,4 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
   <b>ArtushVision AI Documentation</b><br>
   Last updated: May 2026
 </p>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTIwNjQ2OCwtMTQ3OTY1MjcxMyw5Nz
-g3MDE1NTksLTE3NTEwMzU5MzIsMjA1MDE0MjgzMiwxMjQ4MDky
-MjQ5LC0zNTkxNTI2OTMsMTcyNjExNjE1NywtMzU5MTUyNjkzLC
-0xODMwMDg0MzU3LC0xNzE3NzY3MDA1XX0=
--->
+

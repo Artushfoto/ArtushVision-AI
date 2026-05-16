@@ -1,6 +1,6 @@
 ---
-title: "Smart Manual Keywording and ing | ArtushVision AI"
-description: "Master manual metadata curation and visual culling in ArtushVision AI. Experience real-time tag bubbles, drag-and-drop mechanics, and lightning-fast sortinga sng."
+title: "Smart Manual Keywording and Culling | ArtushVision AI"
+description: "Master manual metadata curation and visual culling in ArtushVision AI. Experience real-time tag bubbles, drag-and-drop mechanics, and lightning-fast sorting and culling."
 ---
 <div style="display: none;">
 <style>
@@ -15,7 +15,7 @@ h1 { text-align: center; }
 
 **While our AI engines do the heavy lifting, professional stock contributors know that manual curation is the key to a perfect portfolio. Whether you are adding a highly specific local location, fixing a typo, sorting out the best shots, or copying tags across a series of photos, ArtushVision AI provides a desktop-class editing experience that web browsers simply cannot match.**
 
-Forget clumsy text boxes and constant reloading. Experience real-time tagging, inecking, seamless drag-and-drop mechanics, and lightning-fast culling.
+Forget clumsy text boxes and constant reloading. Experience real-time tagging, spellchecking, seamless drag-and-drop mechanics, and lightning-fast culling.
 
 [IMAGE: A close-up of the main grid showing the Visual Bubbles mode for keywords, with one tag being dragged and dropped onto an adjacent photo, and a 5-star rating highlighted under the thumbnail.]
 
@@ -27,7 +27,7 @@ Organizing a massive photoshoot requires speed. ArtushVision AI features a compl
 
 * **Keyboard Shortcuts:** Instantly rate photos using keys 1-5, apply Pick/Reject flags using P and X (or U to unflag), and assign color labels with keys 6-9.
 * **Batch Culling:** Select 100 photos and press 5 to rate them all as 5-star instantly.
-* **100% Lightroom and Zoner Compatible:** Your ratings, flags, and color labels are natively written into [EXIF/XMP sidecars](batch-operations-metadata-library-management.md#synchronized-file-operations). If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
+* **[100% Lightroom and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.md#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Your ratings, flags, and color labels are natively written into <a href="/docs/metadata-compatibility-and-file-handling.md">EXIF/XMP sidecars</a>. If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
 
 ---
 
@@ -58,8 +58,8 @@ Stop typing the same words over and over. As you type, the Smart Autocomplete in
 Never get a batch rejected for a typo again. ArtushVision AI features a robust, offline-first spellchecking engine.
 
 * **Dual-Language Support:** Do you shoot local events but tag in English? Set a Primary (e.g., English) and a Secondary language (e.g., Czech or German). The application will validate against both dictionaries simultaneously, so local names are no longer flagged as errors.
-* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The [Cloud AI](ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path) will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
-* **User Dictionary:** Teach the application your specific client names or locations. Add a custom word to your [Personal Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) with one click, and the app will instantly clear the error across your entire portfolio.
+* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The <a href="/docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path">Cloud AI</a> will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
+* **User Dictionary:** Teach the application your specific client names or locations. Add a custom word to your **Personal Dictionary** with one click, and the app will instantly clear the error across your entire portfolio.
 
 ---
 
@@ -85,11 +85,11 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 ---
 
-### Master Your ing in 3 Steps:
+### Master Your Workflow in 3 Steps:
 
 1. **Cull and Sort:** Rapidly go through your grid using keyboard shortcuts (1-5, P, X) to rate and flag the best photos for microstock submission.
-2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the [Title, Description, and Keywords fields](manual-editing-detailed-photo-view.md#title-and-description-editor).
-. **Drag and :** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the shoverarching themes everywhere instantly (see [Smart FTP Uploader](global-stock-distribution-ftp.md)).
+2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the <a href="/docs/manual-editing-detailed-photo-view.md#title-and-description-editor">Title, Description, and Keywords fields</a>.
+3. **Drag and Drop:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the overarching themes everywhere instantly (see the <a href="/docs/global-stock-distribution-ftp.md">Smart FTP Uploader</a>).
 
 ---
 
@@ -105,6 +105,3 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 ---
 
 *ArtushVision AI - Engineered for absolute control and professional metadata precision.*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI2NTY5OTBdfQ==
--->
