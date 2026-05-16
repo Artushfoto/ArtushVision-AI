@@ -59,7 +59,7 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
 Your original metadata remains safe. ArtushVision AI follows a professional safety-first logic to ensure your primary files are never corrupted.
 
 * **Independent Sidecars:** All Getty-optimized terms, titles, and descriptions are stored in dedicated .getty JSON sidecar files.
-* **XMP Integrity:** Your original keywords, Lightroom ratings, and People tags (Face Recognition) are preserved in your original files (see [Smart Protection](/docs/manual-editing-detailed-photo-view.md#advanced-protection-logic)).
+* **XMP Integrity:** Your original keywords, Lightroom ratings, and People tags (Face Recognition) are preserved in your original files (see [Smart Protection](/docs/manual-editing-detailed-photo-view.html#advanced-protection-logic)).
 * **Universal Compatibility:** Work seamlessly alongside Adobe Bridge, Lightroom, or Zoner Photo Studio.
 
 [IMAGE: A smaller screenshot showing the User Dictionary manager window or the right-click context menu.]
@@ -71,7 +71,7 @@ Your original metadata remains safe. ArtushVision AI follows a professional safe
 Once your metadata is verified and the blue GETTY badges are active, you are ready for a flawless submission.
 
 * **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty ESP portal.
-* **Zero-Touch Integration:** Combine this with the [Smart FTP Suite](/docs/global-stock-distribution-ftp.md) to handle both file transfer and metadata synthesis in one unified workflow.
+* **Zero-Touch Integration:** Combine this with the [Smart FTP Suite](/docs/global-stock-distribution-ftp.html) to handle both file transfer and metadata synthesis in one unified workflow.
 
 [IMAGE: A screenshot showing the Export ESP CSV button and the success dialog.]
 
