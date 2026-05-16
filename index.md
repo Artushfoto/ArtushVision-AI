@@ -113,7 +113,7 @@ Distribute your work to all major stock agencies simultaneously with a professio
 
 * **[Multi-Server Smart FTP:](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry)** Connect to unlimited agencies with unique **[thread counts per server](docs/global-stock-distribution-ftp.md#per-server-multi-threading-and-auto-retry)** (e.g., 1 thread for Zoonar, up to 10 for high-speed Shutterstock uploads).
 * **[Automated CSV Metadata:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** Eliminates manual spreadsheet work. The app generates agency-specific CSV files on-the-fly and uploads them alongside your media.
-* **[Universal Category Mapping:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** A smart matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
+* **[Universal Category Mapping:](docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)** A smart customizable matrix that translates your internal categories into agency-specific ones (Adobe Stock, Dreamstime, etc.), with separate logic for **Photo vs. Video**.
 * **[FTP Profiles:](/docs/global-stock-distribution-ftp.md#agency-profiles-and-server-groups)** Organize servers into custom groups (e.g., "Stock Photo" or "Editorial Video") for one-click batch distribution.
 * **[Persistent Status Tracking:](docs/global-stock-distribution-ftp.md#three-state-workflow-filtering)** Visual **[FTP Status Badges](/docs/global-stock-distribution-ftp.md#advanced-tracking-and-visual-status-badges)** are written **[directly into the file's XMP metadata](/docs/global-stock-distribution-ftp.md#advanced-tracking-and-visual-status-badges)**, ensuring history is never lost even if files are moved.
 
@@ -152,7 +152,7 @@ Own your tools and pay only for the AI you use.
 ### Top Toolbar
 * **Profile:** [Select AI prompts](/docs/advanced-ai-prompting-profiles-variables.md) (e.g., "Stock Photography"). Click the **[Gear icon](docs/advanced-ai-prompting-profiles-variables.md#4-profile-management-and-workflows)** to customize.
 * **[Run AI:](/docs/ai-metadata-generation-cloud-local-ollama.md)** The **green play button** starts analysis for all selected images.
-* **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names) as unquestionable facts.
+* **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names, specific animal species, obscure landmarks, or lesser-known objects) as unquestionable facts. When this hint is provided, the AI completely eliminates hallucinations, bypassing generic assumptions and strictly anchoring its analysis to your verified input. This is exceptionally useful for images lacking GPS data, where pinpointing the exact location or context from the visual alone would otherwise be nearly impossible.
 * **Flat View:** Toggle to see all files from all subfolders in a single unified list.
 * **[Backup](/docs/settings-configuration-customization.md#backup-and-data-safety):** Safety checkboxes for automated **[CSV, XMP, and Original JPG backups](/docs/settings-configuration-customization.md#backup-and-data-safety)**.
 

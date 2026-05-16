@@ -39,7 +39,7 @@ To reset the limits, you must restart the application.
 * **AI Generation Limit:** You can process a maximum of **3 photos or videos** using the AI (Cloud, Local, or Hybrid) per application run.
 * **Metadata Saving Limit:** You can save metadata changes to a maximum of **10 unique files** per application run.
 * **FTP Upload Limit:** You can distribute a maximum of **5 unique assets** via the FTP Uploader per application run.
-* **Getty Optimizer Limit:** You can optimize and translate keywords for a maximum of **5 unique assets** per application run.
+* **Getty Optimizer Limit:** You can optimize and translate keywords for a maximum of **3 unique assets** per application run.
 
 If you select a larger batch of photos than the limit allows, the application will intelligently offer to process only the permitted amount so you do not lose your work.
 
