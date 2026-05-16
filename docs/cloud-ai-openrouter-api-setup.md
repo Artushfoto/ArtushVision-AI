@@ -127,7 +127,7 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
 2. Open **ArtushVision AI**.
 3. Go to **File > API Key**.
 4. Paste the key into the field and click **Save**.
-5. You are ready to analyze! (See [AI Metadata Generation](/docs/ai-metadata-generation-cloud-local-ollama.md))
+5. You are ready to analyze! (See [AI Metadata Generation](/docs/ai-metadata-generation-cloud-local-ollama.html))
 
 ---
 

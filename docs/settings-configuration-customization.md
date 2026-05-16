@@ -36,8 +36,8 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 Fine-tune how the AI engine interacts with your media, especially when dealing with complex video files.
 
 * **Video Frame Logic:** Set the number of keyframes (3 to 20) the internal FFmpeg engine extracts for analysis. More frames provide more context but increase processing time.
-* **Economy Mode (Collage) Configuration:** Enable or disable the automatic stitching of video frames into collages to optimize <a href="/docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path">Cloud AI</a> token usage and reduce costs.
-* **Model Context Limits:** Define the VRAM limits for <a href="/docs/local-ai-model-manager-ollama.md">local Ollama models</a> to ensure the application remains stable based on your specific GPU hardware.
+* **Economy Mode (Collage) Configuration:** Enable or disable the automatic stitching of video frames into collages to optimize <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Cloud AI</a> token usage and reduce costs.
+* **Model Context Limits:** Define the VRAM limits for <a href="/docs/local-ai-model-manager-ollama.html">local Ollama models</a> to ensure the application remains stable based on your specific GPU hardware.
 
 ---
 
@@ -68,7 +68,7 @@ The CSV Editor is a powerful tool for reverse-engineering agency requirements or
 
 * **Template Mapping:** Load an existing CSV file from any agency, and the application will help you map its columns to ArtushVision AI fields (Title, Keywords, Categories, etc.).
 * **Custom Headers:** Define specific header names required by niche stock agencies or private archives.
-* **Export Presets:** Save your mappings as presets that can be instantly assigned to different FTP servers in the <a href="/docs/global-stock-distribution-ftp.md">Distribution module</a>.
+* **Export Presets:** Save your mappings as presets that can be instantly assigned to different FTP servers in the <a href="/docs/global-stock-distribution-ftp.html">Distribution module</a>.
 
 [IMAGE: A close-up of the CSV Editor tab showing the column mapping interface and the Load Template button.]
 

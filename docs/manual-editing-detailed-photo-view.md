@@ -87,7 +87,7 @@ Eliminate repetitive typing by applying changes to hundreds of selected files si
 Professional metadata requires linguistic precision. The editor includes built-in tools to help you find the perfect terms and avoid spelling errors.
 
 * **Multilingual Spell Check:** Right-click any text field or keyword to access live spell-checking. The system supports multiple languages and offers instant correction suggestions.
-* **Synonym Integration (Datamuse):** Stuck on a word? Right-click a keyword bubble to pull live synonyms from the <a href="/docs/smart-manual-keywording-batch-editing.md#interactive-synonym-explorer">Datamuse database</a>, helping you expand your reach in stock agency search results.
+* **Synonym Integration (Datamuse):** Stuck on a word? Right-click a keyword bubble to pull live synonyms from the <a href="/docs/smart-manual-keywording-batch-editing.html#interactive-synonym-explorer">Datamuse database</a>, helping you expand your reach in stock agency search results.
 * **Native Translation Tooltips:** For non-native English speakers, the application can display translation tooltips in your preferred language, ensuring you always understand the precise meaning of AI-suggested terms.
 
 [IMAGE: A close-up of the keyword panel showing the right-click menu with Synonym and Spell Check options.]
@@ -98,7 +98,7 @@ Professional metadata requires linguistic precision. The editor includes built-i
 
 ArtushVision AI provides full support for GPS metadata, essential for travel and editorial photography.
 
-* **Interactive Map Display:** View the exact location where your photo was taken on an integrated map (<a href="/docs/settings-configuration-customization.md#maps-and-reverse-geocoding">OpenStreetMap or ArcGIS</a>).
+* **Interactive Map Display:** View the exact location where your photo was taken on an integrated map (<a href="/docs/settings-configuration-customization.html#maps-and-reverse-geocoding">OpenStreetMap or ArcGIS</a>).
 * **Reverse Geocoding:** The application can translate GPS coordinates into readable location names (City, State, Country) to provide more context for the AI engine.
 
 [IMAGE: A screenshot of the Map panel within the Detail View, showing a pinpointed location and the Satellite/Map toggle.]
@@ -109,8 +109,8 @@ ArtushVision AI provides full support for GPS metadata, essential for travel and
 
 ArtushVision AI is designed to be a safe companion to your existing professional tools like Adobe Lightroom or Photo Mechanic.
 
-* **Non-Destructive Editing:** All manual changes are buffered in memory and only written to the file (or <a href="/docs/batch-operations-metadata-library-management.md#synchronized-file-operations">XMP sidecar</a>) when you explicitly click Save.
-* **Face Tag Preservation:** The editor is strictly programmed to preserve existing Person/**Face tags**, ensuring that your manual organization in other software is never lost during the AI enrichment process (see <a href="/docs/batch-operations-metadata-library-management.md">Batch Operations</a>).
+* **Non-Destructive Editing:** All manual changes are buffered in memory and only written to the file (or <a href="/docs/batch-operations-metadata-library-management.html#synchronized-file-operations">XMP sidecar</a>) when you explicitly click Save.
+* **Face Tag Preservation:** The editor is strictly programmed to preserve existing Person/**Face tags**, ensuring that your manual organization in other software is never lost during the AI enrichment process (see <a href="/docs/batch-operations-metadata-library-management.html">Batch Operations</a>).
 
 ---
 
@@ -118,7 +118,7 @@ ArtushVision AI is designed to be a safe companion to your existing professional
 
 1. **Double-Click to Refine:** Open the Detail View for any asset that requires specific manual attention.
 2. **Reorder and Verify:** Use the bubble system to prioritize keywords and use the spell-checker to ensure professional quality.
-3. **Save and Synchronize:** Click Save to commit changes to the XMP metadata, making them instantly available for Lightroom, Bridge, or the <a href="/docs/global-stock-distribution-ftp.md">Smart FTP Uploader</a>.
+3. **Save and Synchronize:** Click Save to commit changes to the XMP metadata, making them instantly available for Lightroom, Bridge, or the <a href="/docs/global-stock-distribution-ftp.html">Smart FTP Uploader</a>.
 
 ---
 

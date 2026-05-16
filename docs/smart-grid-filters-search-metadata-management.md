@@ -38,14 +38,14 @@ The top-bar search engine works in real-time, highlighting your target words dir
 Beyond basic text search, ArtushVision AI allows for complex queries based on the presence or absence of specific metadata, which is crucial for preparing stock batches.
 
 * **Blank Field Detection:** Instantly identify all assets that do not have a Title, Description, or Keywords assigned.
-* **[Category Matrix Filter](settings-configuration-customization.md#the-category-matrix):** Filter the grid to show only photos belonging to a specific Master Category (e.g., "Business") while excluding others (e.g., "Editorial").
-* **Getty Status Integration:** Isolate photos that are fully Getty Optimized versus those requiring action in the [Interactive Resolver](getty-images-esp-metadata-optimizer.md#interactive-ai-resolver-and-disambiguation).
+* **[Category Matrix Filter](settings-configuration-customization.html#the-category-matrix):** Filter the grid to show only photos belonging to a specific Master Category (e.g., "Business") while excluding others (e.g., "Editorial").
+* **Getty Status Integration:** Isolate photos that are fully Getty Optimized versus those requiring action in the [Interactive Resolver](getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation).
 
 ---
 
 ## Three-State FTP Distribution Filter
 
-Integrated directly with the [Smart FTP](global-stock-distribution-ftp.md) Uploader, this dedicated filter allows you to view your portfolio based on its commercial distribution history.
+Integrated directly with the [Smart FTP](global-stock-distribution-ftp.html) Uploader, this dedicated filter allows you to view your portfolio based on its commercial distribution history.
 
 * **Not Uploaded:** Show only files that have not yet been sent to a specific target agency (e.g., Adobe Stock).
 * **Uploaded:** Show assets that are already safely confirmed on the server.

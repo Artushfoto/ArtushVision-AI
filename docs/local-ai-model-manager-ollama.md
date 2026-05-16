@@ -15,9 +15,9 @@ th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**Running AI locally using <a href="/docs/ollama-installation-guide.md">Ollama</a> is the ultimate solution for professional stock contributors. It offers 100% privacy for sensitive shoots (like boudoir or unreleased commercial products) and zero API costs.**
+**Running AI locally using <a href="/docs/ollama-installation-guide.html">Ollama</a> is the ultimate solution for professional stock contributors. It offers 100% privacy for sensitive shoots (like boudoir or unreleased commercial products) and zero API costs.**
 
-However, managing models via a command-line terminal can be intimidating. ArtushVision AI solves this with a fully integrated, desktop-class **Local Model Manager**. It gives you a visual dashboard to browse, download, organize, and monitor your <a href="/docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path">local AI</a> models without ever touching the command line.
+However, managing models via a command-line terminal can be intimidating. ArtushVision AI solves this with a fully integrated, desktop-class **Local Model Manager**. It gives you a visual dashboard to browse, download, organize, and monitor your <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">local AI</a> models without ever touching the command line.
 
 [IMAGE: A wide screenshot of the Local AI Models (Ollama) window, showing the table with Model ID, Size, Parameters, Quantization, Type, and the editable Notes column.]
 
@@ -25,7 +25,7 @@ However, managing models via a command-line terminal can be intimidating. Artush
 
 ## Integrated Hub Browser and Downloader
 
-Skip the terminal. ArtushVision AI connects directly to your local <a href="/docs/ollama-installation-guide.md">Ollama</a> installation and the global Ollama Hub.
+Skip the terminal. ArtushVision AI connects directly to your local <a href="/docs/ollama-installation-guide.html">Ollama</a> installation and the global Ollama Hub.
 
 * **Curated Recommendations:** Not sure where to start? Open the **Recommended** browser to see a curated list of the best Vision and Text models currently available for stock photography (like **Qwen2.5-VL** or **Llama 3.2**), complete with descriptions of their specific strengths.
 * **Direct Downloads:** Type any Model ID (e.g., `moondream:latest`) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
@@ -36,7 +36,7 @@ Skip the terminal. ArtushVision AI connects directly to your local <a href="/doc
 
 ## Smart Vision and Text Detection
 
-ArtushVision's advanced <a href="/docs/ai-metadata-generation-cloud-local-ollama.md">Agentic Workflows</a> require knowing exactly what a model is capable of.
+ArtushVision's advanced <a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Agentic Workflows</a> require knowing exactly what a model is capable of.
 
 * **Auto-Detection:** The manager automatically scans your downloaded models and categorizes them as **Vision** (models that can "see" images) or **Text** (language-only models), color-coding them in the grid for easy identification.
 * **Manual Override:** If you are testing a brand-new or experimental model that the application doesn't recognize yet, simply right-click the model and use the context menu to manually toggle its type.
@@ -67,7 +67,7 @@ When testing multiple models, it is essential to track which one performed best 
 ## How to use Local Models in 3 Steps:
 
 1. **Browse and Download:** Open the Model Manager, click **Recommended**, and download a small Vision model like `qwen2.5-vl:3b`.
-2. **Assign to Profile:** Open the <a href="/docs/advanced-ai-prompting-profiles-variables.md">AI Profile Editor</a> and assign your newly downloaded model to a Local or Hybrid workflow.
+2. **Assign to Profile:** Open the <a href="/docs/advanced-ai-prompting-profiles-variables.html">AI Profile Editor</a> and assign your newly downloaded model to a Local or Hybrid workflow.
 3. **Run Offline:** Disconnect from the internet and watch the AI seamlessly tag your photos in total privacy.
 
 ---

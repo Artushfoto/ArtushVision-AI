@@ -27,7 +27,7 @@ Organizing a massive photoshoot requires speed. ArtushVision AI features a compl
 
 * **Keyboard Shortcuts:** Instantly rate photos using keys 1-5, apply Pick/Reject flags using P and X (or U to unflag), and assign color labels with keys 6-9.
 * **Batch Culling:** Select 100 photos and press 5 to rate them all as 5-star instantly.
-* **[100% Lightroom and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.md#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Your ratings, flags, and color labels are natively written into <a href="/docs/metadata-compatibility-and-file-handling.md">EXIF/XMP sidecars</a>. If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
+* **[100% Lightroom and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Your ratings, flags, and color labels are natively written into <a href="/docs/metadata-compatibility-and-file-handling.html">EXIF/XMP sidecars</a>. If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
 
 ---
 
@@ -58,7 +58,7 @@ Stop typing the same words over and over. As you type, the Smart Autocomplete in
 Never get a batch rejected for a typo again. ArtushVision AI features a robust, offline-first spellchecking engine.
 
 * **Dual-Language Support:** Do you shoot local events but tag in English? Set a Primary (e.g., English) and a Secondary language (e.g., Czech or German). The application will validate against both dictionaries simultaneously, so local names are no longer flagged as errors.
-* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The <a href="/docs/ai-metadata-generation-cloud-local-ollama.md#4-tier-ai-engine-choose-your-processing-path">Cloud AI</a> will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
+* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Cloud AI</a> will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
 * **User Dictionary:** Teach the application your specific client names or locations. Add a custom word to your **Personal Dictionary** with one click, and the app will instantly clear the error across your entire portfolio.
 
 ---
@@ -88,8 +88,8 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 ### Master Your Workflow in 3 Steps:
 
 1. **Cull and Sort:** Rapidly go through your grid using keyboard shortcuts (1-5, P, X) to rate and flag the best photos for microstock submission.
-2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the <a href="/docs/manual-editing-detailed-photo-view.md#title-and-description-editor">Title, Description, and Keywords fields</a>.
-3. **Drag and Drop:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the overarching themes everywhere instantly (see the <a href="/docs/global-stock-distribution-ftp.md">Smart FTP Uploader</a>).
+2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the <a href="/docs/manual-editing-detailed-photo-view.html#title-and-description-editor">Title, Description, and Keywords fields</a>.
+3. **Drag and Drop:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the overarching themes everywhere instantly (see the <a href="/docs/global-stock-distribution-ftp.html">Smart FTP Uploader</a>).
 
 ---
 

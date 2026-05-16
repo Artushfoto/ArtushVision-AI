@@ -24,8 +24,8 @@ Because ArtushVision AI is a robust desktop application that utilizes both cloud
 Ensure a seamless experience by verifying your environment setup using the free Trial version.
 
 * **Hardware Compatibility:** Verify that the application runs smoothly on your operating system and that local tools (like ExifTool and FFmpeg) execute correctly on your machine.
-* **API Configuration:** Test your connection to <a href="/docs/cloud-ai-openrouter-api-setup.md">OpenRouter (Cloud AI)</a> or your local <a href="/docs/ollama-installation-guide.md">Ollama installation (Local AI)</a> to ensure prompts and models respond as expected.
-* **Workflow Integration:** Experiment with the <a href="/docs/settings-configuration-customization.md#the-category-matrix">Category Matrix</a>, <a href="/docs/global-stock-distribution-ftp.md#agency-profiles-and-server-groups">FTP Profiles</a>, and CSV generation to confirm the software perfectly aligns with your specific microstock distribution needs.
+* **API Configuration:** Test your connection to <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter (Cloud AI)</a> or your local <a href="/docs/ollama-installation-guide.html">Ollama installation (Local AI)</a> to ensure prompts and models respond as expected.
+* **Workflow Integration:** Experiment with the <a href="/docs/settings-configuration-customization.html#the-category-matrix">Category Matrix</a>, <a href="/docs/global-stock-distribution-ftp.html#agency-profiles-and-server-groups">FTP Profiles</a>, and CSV generation to confirm the software perfectly aligns with your specific microstock distribution needs.
 * **Test It First:** While thoroughly tested internally, some bugs might still slip through. Any discovered issues will be patched as a top priority.
 
 ---
@@ -38,8 +38,8 @@ To reset the limits, you must restart the application.
 
 * **AI Generation Limit:** You can process a maximum of **3 photos or videos** using the AI (Cloud, Local, or Hybrid) per application run.
 * **Metadata Saving Limit:** You can save metadata changes to a maximum of **10 unique files** per application run.
-* **FTP Upload Limit:** You can distribute a maximum of **5 unique assets** via the <a href="/docs/global-stock-distribution-ftp.md">FTP Uploader</a> per application run.
-* **Getty Optimizer Limit:** You can optimize and translate keywords for a maximum of **3 unique assets** via the <a href="/docs/getty-images-esp-metadata-optimizer.md">Getty Optimizer</a> per application run.
+* **FTP Upload Limit:** You can distribute a maximum of **5 unique assets** via the <a href="/docs/global-stock-distribution-ftp.html">FTP Uploader</a> per application run.
+* **Getty Optimizer Limit:** You can optimize and translate keywords for a maximum of **3 unique assets** via the <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Optimizer</a> per application run.
 
 If you select a larger batch of photos than the limit allows, the application will intelligently offer to process only the permitted amount so you do not lose your work.
 
