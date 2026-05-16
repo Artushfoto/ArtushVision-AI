@@ -159,10 +159,10 @@ Own your tools and pay only for the AI you use.
 ### Filter Bar
 * **[Smart Search:](/docs/batch-operations-metadata-library-management.md#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
-* **[Status Filtering:](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
-* **[Quality Control:](https://vision.artushfoto.eu/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Find files that have **Exceeded Limits** or are **Corrupted**.
+* **[Status Filtering:](/docs/batch-operations-metadata-library-management.md#status-filtering-and-batch-selection)** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
+* **[Quality Control:](/docs/batch-operations-metadata-library-management.md#status-filtering-and-batch-selection)** Find files that have **Exceeded Limits** or are **Corrupted**.
 
-### The Image Grid
+### [The Image Grid](/docs/manual-editing-detailed-photo-view.md#image-grid)
 * **Visual Status Indicators:** Small markers in the top-right corner: ⚪ (Unchanged), 🟡 (Modified), 🟢 (Saved), 🔴 (Error).
 * **Thumbnail Badges:** Top-left icons: **GPS, XMP, ORIG, RAW, VIDEO, GETTY, FTP, CAT,** or **⚠️**.
 * **Context Menu (Right-Click):** Access AI analysis, Getty Optimizer, and full File Operations (Copy/Move/Delete).
@@ -174,7 +174,7 @@ Own your tools and pay only for the AI you use.
 2. **Load Assets:** Click **Load Folders** to scan your directory for images and videos.
 3. **Select Files:** Highlight assets using `Shift + Click` (range) or `Ctrl + Click` (individual).
 4. **[Choose Profile:](/docs/advanced-ai-prompting-profiles-variables.md#4-profile-management-and-workflows)** Select the system prompt profile (e.g., "Editorial").
-5. **Run & Monitor:** Click the green **[Run AI]/#versatile-ai-engine-choose-your-workflow)** button. Monitor real-time **[Cost Statistics](/docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai)** with 6-decimal precision.
+5. **Run & Monitor:** Click the green **[Run AI](#versatile-ai-engine-choose-your-workflow)** button. Monitor real-time **[Cost Statistics](/docs/ai-metadata-generation-cloud-local-ollama.md#1-cloud-ai)** with 6-decimal precision.
 
 ---
 
