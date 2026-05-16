@@ -21,13 +21,64 @@ Double-click any image in the main grid to enter the Detailed Photo View. This d
 
 ---
 
-## Intelligent Keyword Management
+## Image Grid
 
-ArtushVision AI replaces messy comma-separated text strings with an intuitive, drag-and-drop ["Keyword Bubble" system](smart-manual-keywording-batch-editing.md#visual-tag-bubbles-and-seamless-drag-and-drop). This visual approach allows for instant categorization and prioritization.
+**The Image Grid is the central workspace of ArtushVision AI. Designed to handle thousands of high-resolution assets without stuttering, it provides immediate visual feedback, advanced batch editing, and an intuitive drag-and-drop interface for your metadata.**
+
+Instead of hiding data in complex side panels, ArtushVision AI displays the Title, Description, and Keywords directly below every image. This allows you to review and edit entire batches of photos at a single glance.
+
+[IMAGE: A wide screenshot of the main grid showing photos with keyword bubbles, rating stars, and the top filter bar.]
+
+---
+
+## Title and Description Editor
+
+The application provides dedicated fields for Titles and Descriptions, equipped with real-time feedback.
+
+* **Character and Word Counters:** Keep your metadata within agency limits. The counters turn red if you exceed standard commercial lengths.
+* **Contextual Variables:** Quickly insert technical data (like Camera Model or Date) directly into your titles using the right-click variable menu.
+* **Focus Management:** Tab through fields for rapid-fire editing without ever touching your mouse.
+
+---
+## Interactive Keyword Bubbles and Drag-and-Drop
+
+Managing keywords should be fluid. The application transforms standard comma-separated text into interactive chips (bubbles) that you can easily manipulate.
 
 * **Color-Coded Sources:** Instantly identify the origin of every tag. Blue bubbles represent AI-generated keywords, green indicates manual entries, and black denotes original metadata found in the file.
+* **Smart Bubble Interface:** Double-click any keyword bubble to edit it directly, or click the small cross to remove it instantly.
+* **Drag-and-Drop Distribution:** Grab a specific keyword from one photo and drag it onto another. You can even select multiple tags (using Ctrl+Click) and drag them all at once to apply them to different assets.
 * **Drag-and-Drop Reordering:** Simply drag a bubble to change its position. Since most stock agencies prioritize the first 10-15 keywords, this allows for strategic SEO optimization.
 * **Smart Removal:** Click the 'X' on any bubble to remove it. The application keeps track of removed words to prevent the AI from re-suggesting them in the same session.
+---
+
+## Visual Status Badges and File Management
+
+Keep track of your technical data and upload history without ever opening a properties dialog.
+
+* **Micro-Badges:** Small icons on the thumbnails provide immediate technical context. Instantly see if a file contains GPS coordinates, has an XMP sidecar, is a RAW/Video format, or has been backed up to a CSV.
+* **FTP Upload Tracking:** The grid displays tiny agency badges (e.g., S, A, F) on photos that have already been successfully distributed to microstock agencies.
+* **Non-Destructive File Operations:** Right-click any image to access the universal Context Menu. From here, you can rename files, move them to different folders, view raw EXIF data, or open GPS coordinates directly in an external map browser.
+
+---
+
+## Advanced Filtering and Sorting
+
+Locate the exact files you need to work on using the powerful, stackable filters located in the top toolbar.
+
+* **Multi-State Filtering:** Isolate files based on their workflow state. Quickly show only 'Modified' files waiting to be saved, 'Not Uploaded' files, or pinpoint assets missing a title or keywords.
+* **Format and Folder Isolation:** Filter the grid to show only specific file types (e.g., RAW, Video, HEIC) or isolate a single subfolder without reloading the entire project.
+* **Validation and Limit Filters:** Instantly find photos that violate stock agency rules. The 'Exceeded Limits' filter highlights files where the title is too long, or the keyword count is too low, based on your custom Settings.
+* **Instant Text Search:** Type into the Search bar to highlight specific words across all fields, instantly filtering out non-matching images.
+
+---
+
+## Batch Operations and Synchronization
+
+Eliminate repetitive typing by applying changes to hundreds of selected files simultaneously.
+
+* **Mass Synchronization:** Select multiple photos using Shift+Click or Ctrl+A. Any text you type or tag you add to the primary photo is instantly synchronized across the entire selection.
+* **Dedicated Batch Edit Bar:** Use the top Batch Bar to append new text, remove specific words, or perform complex Find & Replace operations across all selected assets at once.
+* **Metadata Copy & Paste:** Use standard keyboard shortcuts (Ctrl+C / Ctrl+V) or the context menu to copy the entire metadata structure from one image and paste it flawlessly onto a batch of others.
 
 ---
 
@@ -43,21 +94,11 @@ Professional metadata requires linguistic precision. The editor includes built-i
 
 ---
 
-## Title and Description Editor
-
-The application provides dedicated fields for Titles and Descriptions, equipped with real-time feedback.
-
-* **Character and Word Counters:** Keep your metadata within agency limits. The counters turn red if you exceed standard commercial lengths.
-* **Contextual Variables:** Quickly insert technical data (like Camera Model or Date) directly into your titles using the right-click variable menu.
-* **Focus Management:** Tab through fields for rapid-fire editing without ever touching your mouse.
-
----
-
 ## Geospatial Tools and Interactive Mapping
 
 ArtushVision AI provides full support for GPS metadata, essential for travel and editorial photography.
 
-* **[Interactive Map](manual-editing-detailed-photo-view.md#geospatial-tools-and-interactive-mapping) Display:** View the exact location where your photo was taken on an integrated map ([OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding)).
+* **Interactive Map Display:** View the exact location where your photo was taken on an integrated map ([OpenStreetMap or ArcGIS](settings-configuration-customization.md#maps-and-reverse-geocoding)).
 * **Manual GPS Placement:** If an image lacks coordinates, simply click on the map to set a new location. The application will automatically update the EXIF data.
 * **[Reverse Geocoding](settings-configuration-customization.md#maps-and-reverse-geocoding):** The application can translate GPS coordinates into readable location names (City, State, Country) to provide more context for the AI engine.
 
