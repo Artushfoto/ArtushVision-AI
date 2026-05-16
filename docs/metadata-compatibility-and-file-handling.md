@@ -56,9 +56,19 @@ The application stores its internal tracking data in standard text fields so it 
 
 ---
 
-## Seamless Adobe Lightroom and other photo managemt software compatibility (Bridge, Zoner, Digikam and others ...)
+## Visual Status Badges and File Management
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+Keep track of your technical data and backup states without ever opening a properties dialog. ArtushVision AI displays small informational micro-badges directly on your image thumbnails in both the grid and detail views.
+
+* **File Type and Geolocation:** Instantly identify special media types with dedicated **RAW** and **VIDEO** badges, or see if a file contains embedded coordinates with the **GPS** badge.
+* **Backup Trackers:** Know your data is safe at a glance. The application highlights files that have a dedicated **XMP** sidecar, an original backup file (**ORIG**), or are safely backed up in a spreadsheet (**CSV**).
+* **Distribution and AI Tags:** Track your workflow visually. The **CAT** badge indicates successfully mapped categories, the **GETTY** badge highlights optimized terms, and tiny agency micro-badges (e.g., S, A, F) show your complete FTP upload history.
+
+---
+
+## Seamless Adobe Lightroom and other photo management software compatibility
+
+← Back to ArtushVision AI Home
 
 Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and edits into industry-standard XMP sidecars, ensuring your non-destructive workflow remains intact.
 
@@ -66,7 +76,9 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 * **Instant Catalog Synchronization:** To apply your AI-generated keywords and edits back to your Lightroom catalog, simply select the modified photos in the Lightroom grid.
 * **One-Click Import:** Right-click the selected assets in Lightroom and choose **Metadata > Read Metadata from File**. Lightroom will instantly update its database with all your new tags, titles, and color labels.
 
-ArtushVision AI - Universal XMP Support: Fits Seamlessly Into Your Existing Ecosystem.
+*ArtushVision AI - Universal XMP Support: Fits Seamlessly Into Your Existing Ecosystem.*
+
+---
 
 ### [Get Started Now]
 
