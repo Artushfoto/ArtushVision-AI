@@ -38,7 +38,7 @@ Not all stock agencies are built the same. While some servers can handle aggress
 Skip the manual spreadsheet work. The FTP module is deeply integrated with a powerful [Category Matrix](/docs/settings-configuration-customization.md#the-category-matrix) that translates your internal organization into agency-specific requirements.
 
 * **Automated CSV Upload:** Assign a specific CSV template to an FTP server. When you start an upload, the application automatically generates the required CSV file with correct agency category IDs and uploads it alongside your media.
-* **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](/docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping)).
+* **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](/docs/global-stock-distribution-ftp.md#dynamic-csv-generation-and-category-mapping).
 * **Agency Profiles:** Group your servers into Profiles (e.g., Exclusive Video Agencies or Main Stock Photo) to select multiple targets with a single click.
 
 [IMAGE: A screenshot of the Category Matrix Editor showing how Master categories map to Adobe Stock, Shutterstock, and Motion Elements IDs.]
