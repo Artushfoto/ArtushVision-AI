@@ -51,7 +51,7 @@ The Lite Edition resets its limits every time you launch the application, allowi
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
     <th style="text-align: center; padding: 15px; background-color: rgba(0,0,0,0.03);">
-      <a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY — Secure Checkout via Polar.sh</a>
+      <a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY - Secure Checkout via Polar.sh</a>
     </th>
   </tr>
   <tr>
