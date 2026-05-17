@@ -99,9 +99,6 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 Stop guessing which keywords will be accepted. ArtushVision AI includes a professional toolkit designed strictly for Getty Images ESP requirements.
 
 * **[Non-Destructive Sidecars:](/docs/getty-images-esp-metadata-optimizer.html#non-destructive-workflow-and-sidecars)** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
-* **[Interactive Getty Resolver](/docs/getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation):** Batch-validate keywords against a **[Master Dictionary](/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary) of 11,746+ commercial terms**.
-
-
 * **[Interactive Getty Resolver](/docs/getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation):** Batch-validate keywords against a **[Master Dictionary](/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary) of 11,746+ commercial terms** to ensure a **Near-Perfect Acceptance Rate** by filtering out controlled vocabulary errors without manual guesswork.
 
 
