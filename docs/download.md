@@ -21,21 +21,44 @@ h1 { text-align: center; }
 
 ## Installation Packages
 
-### ArtushVision AI Lite (Free Version)
-The free version allows you to fully test the interface, local model manager, grid filtering, and standard metadata tools on your hardware. It features non-expiring testing limits per single application run:
+ArtushVision AI uses a unified installation package. The application starts in **Lite Edition** mode by default and can be instantly upgraded to the **Pro Edition** at any time by entering your valid Polar.sh license key directly inside the application settings.
+
+## Installation & Downloads
+
+The download packages below function as a unified build. The application operates in the Limited Free Version mode by default. Entering a valid license key inside the application settings instantly unlocks the full Pro Edition.
+
+* **[Download Standard Installer (.exe)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Recommended for Windows 10/11 64-bit. Guides you through the setup.
+* **[Download Portable Version (.zip)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Run without installation. Simply extract the archive and launch.
+
+---
+
+### Important Installation Notes
+
+**Windows SmartScreen Warning**
+If a "Windows protected your PC" warning appears during launch, click **More info** and then **Run anyway**. This is completely normal for newly released independent software.
+
+**Security & False Positives**
+Because the application is a new release and does not contain an expensive digital signature yet, some antivirus programs might flag it as a warning (False Positive). The file is 100% clean. To verify this yourself, you can upload the downloaded file directly to [VirusTotal](https://www.virustotal.com).
+
+---
+
+## Edition Comparison & Activation
+
+### Lite Edition (Free Configuration)
+With no license key entered, the software operates with non-expiring testing limits that automatically reset every time you restart the application:
 * **3 AI analyses** per run
 * **10 file saves** per run
 * **5 FTP uploads** per run
 * **3 Getty optimizations** per run
 
-* **[Download Installer for Windows (.exe)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)**
-* **Version:** v1.10 (Current Build)
-* **Platform:** Windows 10 / Windows 11 (64-bit)
+### Pro Edition (Commercial Activation)
+Unlock unlimited batch sizes, unrestricted AI tagging, continuous file saving, and full multi-threaded FTP distribution.
+* **How to activate:** Open the downloaded application (Installer or Portable), navigate to *Settings*, paste your unique license key from your Polar purchase confirmation email, and click *Activate*.
 
-### ArtushVision AI Pro (Commercial License)
-If you have purchased a lifetime commercial license, you can download the full standalone production binary or activate your software directly via your Polar license key inside the application.
-* **[Download Pro Production Build](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)**
-* **Activation:** Requires a valid license key or active Polar.sh customer login.
+---
+
+* **Current Version:** v1.10 (Current Build)
+* **Supported Platform:** Windows 10 / Windows 11 (64-bit strictly required)
 
 ---
 

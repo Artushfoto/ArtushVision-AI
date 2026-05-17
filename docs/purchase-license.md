@@ -44,9 +44,16 @@ The Lite Edition resets its limits every time you launch the application, allowi
 * **Payment Methods:** Credit/Debit Cards, Google Pay, Apple Pay
 * **Provider:** Secured via Polar.sh and Stripe ecosystem
 
+---
+
 ### [👉 Secure Checkout via Polar.sh](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
 ---
+
+### ⚖️ Legal Agreements & Vendor Info
+By clicking the checkout link above and purchasing a license, you expressly acknowledge and agree to our official **[Legal Terms, EULA, and Terms of Service](legal-terms.html)**. 
+
+Please note that due to the instant delivery of digital license keys, you expressly waive your right to a 14-day statutory refund period under EU law once the key is delivered. Complete business registration details and out-of-court dispute links can be found on our **[Legal Terms page](legal-terms.html)**.
 
 ## Frequently Asked Licensing Questions
 
