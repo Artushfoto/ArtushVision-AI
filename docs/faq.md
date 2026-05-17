@@ -109,7 +109,7 @@ No. You have absolute control. Using <a href="/docs/manual-editing-detailed-phot
 <details>
 <summary>How do I optimize for Getty Images / <a href="/docs/getty-images-esp-metadata-optimizer.html">ESP</a>?</summary>
 <p>
-Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Optimizer</a>. It validates your keywords against a <a href="/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary">master dictionary</a> of 11,000+ commercial terms to ensure 100% acceptance rates without manual guesswork.
+Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Optimizer</a>. It validates your keywords against a <a href="/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary">master dictionary</a> of 11,000+ commercial terms to ensure Near-Perfect Acceptance Rate without manual guesswork.
 </p>
 </details>
 

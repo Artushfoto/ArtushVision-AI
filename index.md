@@ -100,6 +100,13 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 * **[Non-Destructive Sidecars:](/docs/getty-images-esp-metadata-optimizer.html#non-destructive-workflow-and-sidecars)** Creates individual `.getty` files to store optimized terms, leaving original metadata untouched.
 * **[Interactive Getty Resolver](/docs/getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation):** Batch-validate keywords against a **[Master Dictionary](/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary) of 11,746+ commercial terms**.
+
+
+* **[Interactive Getty Resolver](/docs/getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation):** Batch-validate keywords against a **[Master Dictionary](/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary) of 11,746+ commercial terms** to ensure a **Near-Perfect Acceptance Rate** by filtering out controlled vocabulary errors without manual guesswork.
+
+
+
+
 * **[Visual Context Highlighting:](/docs/getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation)** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
 * **[Semantic AI Disambiguation (beta):](/docs/getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation)** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
 * **[Term Splitting:](/docs/getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation)** Double-click to split multi-word phrases (e.g., 'cooked food' to 'cooked, food') and fresh validation is triggered instantly.

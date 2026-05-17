@@ -13,7 +13,7 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**Eliminate submission errors and keyword rejections. ArtushVision AI ensures 100% success with the Getty Images ESP system through automated keyword translation and context-aware AI disambiguation.**
+**Eliminate submission errors and keyword rejections. ArtushVision AI ensures Near-Perfect Acceptance Rate with the Getty Images ESP system through automated keyword translation and context-aware AI disambiguation.**
 
 Uploading to Getty Images (ESP) is often challenging due to their strict Controlled Vocabulary (CV). Standard keywords used for other stock agencies are frequently rejected or mismatched by the ESP portal, leading to tedious manual corrections.
 
