@@ -91,6 +91,8 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Stability and precision for professional photography and stock distribution.*

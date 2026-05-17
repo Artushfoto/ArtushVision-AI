@@ -113,6 +113,8 @@ The application is built with a safety-first philosophy to protect your existing
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Professional AI vision technology for advanced photography metadata management.*

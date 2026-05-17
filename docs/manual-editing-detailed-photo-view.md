@@ -131,6 +131,8 @@ ArtushVision AI is designed to be a safe companion to your existing professional
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Granular control and linguistic precision for professional image metadata.*

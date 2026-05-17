@@ -65,6 +65,8 @@ Once you have verified that ArtushVision AI meets your professional standards, y
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Professional precision and complete configuration control.*

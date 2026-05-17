@@ -88,6 +88,8 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Professional precision and advanced portfolio organization.*

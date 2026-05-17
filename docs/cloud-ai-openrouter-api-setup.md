@@ -133,6 +133,8 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 <p align="center">

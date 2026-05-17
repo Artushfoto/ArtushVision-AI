@@ -87,6 +87,8 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Professional precision and complete configuration control.*

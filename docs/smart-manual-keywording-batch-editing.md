@@ -102,6 +102,8 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Engineered for absolute control and professional metadata precision.*

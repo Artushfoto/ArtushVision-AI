@@ -230,4 +230,9 @@ Modify thousands of assets simultaneously with surgical precision.
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
 ---
+
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
+---
+
 *ArtushVision AI - Stability and precision for professional photography workflows.*

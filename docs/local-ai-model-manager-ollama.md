@@ -81,6 +81,8 @@ When testing multiple models, it is essential to track which one performed best 
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Professional precision and complete offline AI control.*

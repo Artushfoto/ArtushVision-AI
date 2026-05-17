@@ -94,6 +94,8 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*

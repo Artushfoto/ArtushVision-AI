@@ -151,4 +151,7 @@ Check your <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter</a> cre
 
 ---
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+
 *ArtushVision AI - Engineered for absolute control and professional metadata precision.*

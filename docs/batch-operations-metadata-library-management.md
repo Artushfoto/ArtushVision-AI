@@ -83,5 +83,7 @@ To perform operations effectively, you must first isolate the right files. The F
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 *ArtushVision AI - High-performance library management for professional media creators.*

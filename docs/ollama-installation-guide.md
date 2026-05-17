@@ -67,6 +67,8 @@ You do not need to use the command line (Terminal) to download models. ArtushVis
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
 ---
 
 *ArtushVision AI - Professional precision and complete offline AI control.*

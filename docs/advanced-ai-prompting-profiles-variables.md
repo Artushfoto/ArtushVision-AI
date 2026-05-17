@@ -164,5 +164,8 @@ Build a library of specialized workflows to switch between different project typ
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](faq.html)
+
+
 ---
 *ArtushVision AI - Professional precision and complete offline AI control.*
