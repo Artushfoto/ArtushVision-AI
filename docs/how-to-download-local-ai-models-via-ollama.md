@@ -111,8 +111,8 @@ To keep your local AI environment organized, you can assign personal performance
 * Press **Enter** or click away to save it. This helps you remember which specific subjects or tasks each model handles well and which it doesn't.
 
 **Model Manager Grid & Custom Notes**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/model-manager-grid.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/model-manager-grid.png" alt="Adding a custom note and viewing color-coded model types in the table" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_personal_note.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_personal_note.png" alt="Adding a custom note and viewing color-coded model types in the table" class="screenshot-img">
 </a>
 
 ---
