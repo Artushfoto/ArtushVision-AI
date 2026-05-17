@@ -46,7 +46,28 @@ The Lite Edition resets its limits every time you launch the application, allowi
 
 ---
 
-### [👉 Secure Checkout via Polar.sh](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+
+<table style="width: 100%; display: table; border-collapse: collapse;">
+  <tr>
+    <th style="text-align: center; padding: 15px; background-color: rgba(0,0,0,0.03);">
+      <a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY — Secure Checkout via Polar.sh</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <b>Commercial Lifetime License — Only $39.99</b> (+ local VAT)
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 8px; font-size: 0.9em; color: #666;">
+      One-time payment &bull; No monthly fees &bull; Payments secured via Polar.sh & Stripe
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
