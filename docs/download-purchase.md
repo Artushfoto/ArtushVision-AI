@@ -1,6 +1,6 @@
 ---
-title: "Purchase ArtushVision AI License | Lifetime Commercial Access"
-description: "Get a lifetime commercial license for ArtushVision AI. One-time payment, no monthly subscriptions. Secure checkout powered by Polar and Stripe."
+title: "Download & Purchase ArtushVision AI | Lifetime License"
+description: "Download the free version or buy a lifetime commercial license for ArtushVision AI. One-time payment, no monthly subscriptions."
 ---
 <div style="display: none;">
 <style>
@@ -9,13 +9,32 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Purchase ArtushVision AI
+# Get ArtushVision AI
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [Frequently Asked Questions (FAQ)](faq.html)
 
-**Invest in your stock photography workflow. Buy a lifetime license for ArtushVision AI today and eliminate recurring monthly software fees forever. Simple, secure checkout processed via Polar.sh and Stripe.**
+**Invest in your stock photography workflow. Download the free edition to test your hardware or buy a lifetime commercial license today to eliminate recurring monthly software fees forever.**
+
+---
+
+## Installation & Downloads
+
+ArtushVision AI uses a single, unified build. The application operates in the Limited Free Version mode by default. Entering a valid license key inside the application settings instantly unlocks the full Pro Edition.
+
+* **[Download Standard Installer (.exe)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Recommended for Windows 10/11 64-bit. Guides you through the setup.
+* **[Download Portable Version (.zip)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Run without installation. Simply extract the archive and launch.
+
+---
+
+> ⚠️ **Windows Installation & Security Notes**
+> 
+> **Windows SmartScreen Warning**
+> If a "Windows protected your PC" warning appears during launch, click **More info** and then **Run anyway**. This is completely normal for newly released independent software.
+> 
+> **Security & False Positives**
+> Because the application is a new release and does not contain an expensive digital signature yet, some antivirus programs might flag it as a warning (False Positive). The file is 100% clean. To verify this yourself, you can upload the downloaded file directly to [VirusTotal](https://www.virustotal.com).
 
 ---
 
@@ -33,9 +52,8 @@ h1 { text-align: center; }
 
 ---
 
-## Buy Now
+## Buy Lifetime License
 
-### Lifetime Commercial License
 Unlock the absolute maximum potential of your photography and video portfolios. Get full access to 2-pass offline AI engines, automated temporary CSV creation, multi-threaded FTP uploads, and advanced dictionary mapping tools.
 
 The Lite Edition resets its limits every time you launch the application, allowing you to test hardware compatibility and real-world workflows with zero time pressure. However, for seamless everyday professional workflows without interruptions, continuous restarts, or batch size constraints, the Pro Edition is required.
@@ -47,7 +65,7 @@ The Lite Edition resets its limits every time you launch the application, allowi
 ---
 
 > ⚠️ **Important Note: Try Before You Buy!**
-> Before completing your purchase, we highly recommend downloading and running the **Free Lite Edition** to thoroughly test performance and AI compatibility with your local hardware setup (especially your NVIDIA GPU and Ollama environment). Because all sales are final once the digital license key is issued, please make sure the software fully meets your expectations before buying.
+> Before completing your purchase, we highly recommend downloading and running the **Free Lite Edition** above to thoroughly test performance and AI compatibility with your local hardware setup (especially your NVIDIA GPU and Ollama environment). Because all sales are final once the digital license key is issued, please make sure the software fully meets your expectations before buying.
 
 ---
 
@@ -71,7 +89,7 @@ The Lite Edition resets its limits every time you launch the application, allowi
 
 ---
 
-### ⚖️ Legal Agreements & Vendor Info
+### Legal Agreements & Vendor Info
 By clicking the checkout link above and purchasing a license, you expressly acknowledge and agree to our official **[Legal Terms, EULA, and Terms of Service](legal-terms.html)**. 
 
 Please note that due to the instant delivery of digital license keys, you expressly waive your right to a 14-day statutory refund period under EU law once the key is delivered. Complete business registration details and out-of-court dispute links can be found on our **[Legal Terms page](legal-terms.html)**.
@@ -87,7 +105,7 @@ Yes. Once you buy a license for $39.99, you own that version forever. There are 
 Immediately after a successful checkout, Polar.sh will generate a unique license key and send it to your email address. Open ArtushVision AI on your desktop, navigate to *Settings*, paste your key into the activation field, and click *Activate*.
 
 ### Can I use the license on multiple computers?
-A single commercial license key is valid for activation on up to **two personal devices** (e.g., your main studio workstation and your editing laptop on location), provided that you are the sole user of the software.
+ A single commercial license key is valid for activation on up to **two personal devices** (e.g., your main studio workstation and your editing laptop on location), provided that you are the sole user of the software.
 
 ---
 

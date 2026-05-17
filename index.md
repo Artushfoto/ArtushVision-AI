@@ -31,8 +31,8 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 
 <table style="width: 100%; display: table;">
   <tr>
-    <th style="width: 50%; text-align: center;"><a href="download.html">Download Free Lite / Commercial Version</a></th>
-    <th style="width: 50%; text-align: center;"><a href="purchase-license.html">Get Lifetime License</a></th>
+    <th style="width: 50%; text-align: center;"><a href="/docs/download-purchase.html">Download Free Lite / Commercial Version</a></th>
+    <th style="width: 50%; text-align: center;"><a href="/docs/download-purchase.html">Get Lifetime License</a></th>
   </tr>
   <tr>
     <td style="text-align: center;"><b>Fully Functional Version</b></td>
