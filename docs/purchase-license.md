@@ -23,13 +23,13 @@ h1 { text-align: center; }
 
 | Feature | Lite Edition (Free) | Pro Edition (Lifetime) |
 | :--- | :--- | :--- |
-| **Price** | **$0.00** | **$39.99** *(One-time payment)* |
+| **Price** | **Free to use** | **$39.99** *(One-time payment)* |
 | **Commercial Usage** | Limited by operational constraints | Yes, fully optimized for high-volume business |
 | **AI Batch Processing** | **3 AI analyses** per app run | **Unlimited** image & video batches |
 | **File Saving** | **10 file saves** per app run | **Unlimited** local XMP/IPTC updates |
 | **Getty Images Resolver** | **3 Getty optimizations** per run | **Unlimited** editing & mapping |
 | **FTP Automated Distribution**| **5 FTP uploads** per run | **Unlimited** FTP server groups |
-| **Local Offline AI (Ollama)** | Supported | Supported (Unlimited) |
+| **Local Offline AI (Ollama)** | Supported (Limited) | Supported (Unlimited) |
 
 ---
 
