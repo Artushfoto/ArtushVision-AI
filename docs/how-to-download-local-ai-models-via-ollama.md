@@ -1,3 +1,34 @@
+---
+title: "How to Download Local AI Models via Ollama | ArtushVision AI"
+description: "Step-by-step guide to downloading, managing, and organizing local AI Vision and Text models using Ollama in ArtushVision AI."
+---
+<div style="display: none;">
+<style>
+header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
+h1 { text-align: center; }
+
+/* Profesionální styl pro klikací screenshoty */
+.screenshot-link {
+  display: block;
+  margin: 20px auto;
+  max-width: 800px;
+  text-decoration: none;
+}
+.screenshot-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid #333;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: opacity 0.2s;
+}
+.screenshot-img:hover {
+  opacity: 0.95;
+}
+</style>
+</div>
+
 # How to Download Local AI Models via Ollama
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
@@ -11,41 +42,62 @@ To unlock the full potential of ArtushVision AI's **Enhanced Local AI** or **Hyb
 ---
 
 ## 1. Find a Model on the Ollama Website
+
 First, you need to select the specific model that matches your hardware and workflow needs.
 
-* Open your web browser and navigate to the official [Ollama Library](https://ollama.com/search).
+* Open your web browser and navigate to the official [Ollama Library](https://ollama.com/library).
 * Browse or search for models. Pay close attention to the model capabilities:
   * **Vision Models:** Required to analyze, describe, and tag images (e.g., `gemma4:e2b`, `qwen3-vl:4b`). These are critical for processing visual data and utilizing features like the [Absolute Priority AI Hint](/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables).
   * **Text Models:** Used for advanced metadata formatting, translations, and structuring tag taxonomies (e.g., `qwen2.5:7b`, `deepseek-r1:7b`).
 * Once you find the desired model, copy its exact name including the parameter size tag (for example, copy `qwen3-vl:4b`, not just `qwen3-vl`).
 
-![Screenshot: Finding and copying the exact model name on the Ollama website](images/ollama-website-copy.png)
+**Finding a Model on the Ollama Website**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama_models_search.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama_models_search.png" alt="Finding and copying the exact model name on the Ollama website library" class="screenshot-img">
+</a>
+
+**Copying the Exact Model Name**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama_model_name_copy.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama_model_name_copy.png" alt="Copying the exact model name with size tags from the Ollama repository" class="screenshot-img">
+</a>
 
 ---
 
 ## 2. Open the Internal Model Manager
+
 * In ArtushVision AI, open the **Profile Editor**.
 * Locate the **AI Model** input field and click the **Search Icon** next to it. This will open the internal AI Model Selection window.
 
-![Screenshot: Clicking the search icon in the Profile Editor to open the Model Manager](images/open-model-manager.png)
+**Opening the Local Model Manager**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_management.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_management.png" alt="Clicking the search icon in the Profile Editor to open the Model Manager" class="screenshot-img">
+</a>
 
 ---
 
 ## 3. Download the Model
+
 * Look for the **Download New Model** section, located at the bottom of the Model Selection window.
 * Paste the exact model name you copied from the Ollama website into the text field.
 * Click the **Download** button.
 
-![Screenshot: Pasting the model name and clicking the Download button](images/download-model-button.png)
+**Downloading the Model**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_model_downloading.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_model_downloading.png" alt="Pasting the model name and clicking the Download button" class="screenshot-img">
+</a>
 
 ---
 
 ## 4. Monitor the Download Progress
+
 * The application will connect to your local Ollama instance and initiate the download process.
 * You will see a live download progress indicator displaying the transferred data in MB or GB alongside the download speed.
 * Wait until the download is fully complete. Once finished, a success message will appear, and the model will automatically populate in your list of available models.
 
-![Screenshot: Live download progress indicator showing MB/GB transferred](images/download-progress.png)
+**Monitoring Download Progress**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/download-progress.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/download-progress.png" alt="Live download progress indicator showing MB/GB transferred" class="screenshot-img">
+</a>
 
 ---
 
@@ -63,7 +115,10 @@ To keep your local AI environment organized, you can assign personal performance
 * Type your custom description to document its real-world performance (e.g., *"Great for animal species and fine details"* or *"Fast text formatter, struggles with complex JSON"*).
 * Press **Enter** or click away to save it. This helps you remember which specific subjects or tasks each model handles well and which it doesn't.
 
-![Screenshot: Adding a custom note and viewing color-coded model types in the table](images/model-manager-grid.png)
+**Model Manager Grid & Custom Notes**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/model-manager-grid.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/model-manager-grid.png" alt="Adding a custom note and viewing color-coded model types in the table" class="screenshot-img">
+</a>
 
 ---
 
