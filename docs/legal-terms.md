@@ -52,7 +52,7 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 ## Terms of Service
 
-*Last Updated: March 2026*
+*Last Updated: May 2026*
 
 ### 1. Payment Processing
 All payments for ArtushVision AI are securely processed by Polar. By completing the purchase, you agree to Polar’s Terms of Service and Privacy Policy.
