@@ -81,7 +81,7 @@ First, you need to select the specific model that matches your hardware and work
 * Paste the exact model name you copied from the Ollama website into the text field.
 * Click the **Download** button.
 
-**Downloading the Model**
+**Downloading the Ollama Model**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_model_downloading.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_model_downloading.png" alt="Pasting the model name and clicking the Download button" class="screenshot-img">
 </a>
@@ -93,11 +93,6 @@ First, you need to select the specific model that matches your hardware and work
 * The application will connect to your local Ollama instance and initiate the download process.
 * You will see a live download progress indicator displaying the transferred data in MB or GB alongside the download speed.
 * Wait until the download is fully complete. Once finished, a success message will appear, and the model will automatically populate in your list of available models.
-
-**Monitoring Download Progress**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/download-progress.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/download-progress.png" alt="Live download progress indicator showing MB/GB transferred" class="screenshot-img">
-</a>
 
 ---
 
