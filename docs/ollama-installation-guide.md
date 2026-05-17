@@ -49,12 +49,12 @@ To ensure Ollama is working correctly and ready to connect with ArtushVision AI:
 
 ## Step 4: Connect with ArtushVision AI
 
-You do not need to use the command line (Terminal) to download models. ArtushVision AI handles everything for you visually.
+You do not need to use the command line (Terminal) to download models. ArtushVision AI handles everything for you visually. For a complete step-by-step walkthrough on how to choose and fetch models, please refer to our dedicated <a href="/docs/how-to-download-local-ai-models-via-ollama.html">Model Download Guide</a>.
 
 1. Open **ArtushVision AI**.
 2. Navigate to **AI Mode Selection** and choose **<a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Local AI (Ollama)</a>** or **<a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Hybrid AI</a>**.
 3. Click on the **[Local Model Manager](/docs/local-ai-model-manager-ollama.html)** icon in the interface.
-4. From the built-in **Hub Browser**, you can now browse, download, and manage models (like `qwen2.5-vl:3b` for Vision tasks) with a single click.
+4. From the built-in **Hub Browser**, you can now [browse, download, and manage models](/docs/how-to-download-local-ai-models-via-ollama.html) (like `qwen2.5-vl:3b` for Vision tasks) with a single click.
 
 ---
 
@@ -72,6 +72,8 @@ You do not need to use the command line (Terminal) to download models. ArtushVis
 ---
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+[📖 Step-by-Step Ollama Model Download Guide](/docs/how-to-download-local-ai-models-via-ollama.html)
 
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
