@@ -233,11 +233,9 @@ Modify thousands of assets simultaneously with surgical precision.
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+[❓ Frequently Asked Questions (FAQ)](faq.html)
 
-[💬 Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
-
-[🪲 Report a Bug](https://github.com/Artushfoto/ArtushVision-AI/issues/new)
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
