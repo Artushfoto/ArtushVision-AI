@@ -27,7 +27,7 @@ For any financial queries, invoice requests, or billing issues, please manage yo
 
 ## End User License Agreement (EULA)
 
-*Last Updated: March 2026*
+*Last Updated: May 2026*
 
 This document defines the legal relationship between you (the User) and the software product ArtushVision AI.
 
