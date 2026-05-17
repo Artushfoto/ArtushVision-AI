@@ -11,7 +11,7 @@ h1 { text-align: center; }
 .screenshot-link {
   display: block;
   margin: 20px auto;
-  max-width: 800px;
+  max-width: 100%;
   text-decoration: none;
 }
 .screenshot-img {
