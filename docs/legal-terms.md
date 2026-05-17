@@ -27,7 +27,7 @@ For any financial queries, invoice requests, or billing issues, please manage yo
 
 ## End User License Agreement (EULA)
 
-*Version: 2026.001 | Last Updated: March 2026*
+*Last Updated: March 2026*
 
 This document defines the legal relationship between you (the User) and the software product ArtushVision AI.
 
@@ -65,7 +65,10 @@ Upon successful payment, you will receive an automated confirmation email contai
 * **Waiver of Right to Cancel:** Once the License Key is delivered, you acknowledge that you lose your statutory right to a 14-day refund period under EU Consumer Protection laws. All digital sales are final.
 
 ### 4. License Validity and Updates
-Your purchase grants a lifetime license for the specific version series (v1.x / v2026.x). This includes all minor updates, performance upgrades, and bug fixes within the current cycle. Major upgrades may require a separate upgrade fee.
+Your purchase grants a lifetime license for the specific major software version series you purchased. This includes all minor updates, performance upgrades, and bug fixes within that current version cycle. Major upgrades to a completely new product generation may require a separate upgrade fee.
+
+### 5. Customer Support
+For billing or invoice inquiries, please contact Polar support. For technical assistance, refer to the documentation on this website or visit our community forum.
 
 ---
 

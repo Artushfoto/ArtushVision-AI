@@ -54,7 +54,7 @@ The Lite Edition resets its limits every time you launch the application, allowi
   </tr>
   <tr>
     <td style="text-align: center; padding: 10px;">
-      <b>Commercial Lifetime License — Only $39.99</b> (+ local VAT)
+      <b>Commercial Lifetime License - Only $39.99</b> (+ local VAT)
     </td>
   </tr>
   <tr>
