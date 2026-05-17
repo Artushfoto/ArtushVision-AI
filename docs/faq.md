@@ -149,13 +149,17 @@ Check your <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter</a> cre
 ---
 
 ### [Get Started Now]
-
-* [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
-* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
-*ArtushVision AI - Engineered for absolute control and professional metadata precision.*
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
+
+*ArtushVision AI - Stability and precision for professional photography workflows.*

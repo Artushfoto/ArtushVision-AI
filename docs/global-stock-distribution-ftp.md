@@ -83,16 +83,17 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 ---
 
 ### [Get Started Now]
-
-* [Download Free Lite Version](https://www.artushfoto.eu/Software/Software-ArtushVision-AI)
-* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-[❓ Frequently Asked Questions (FAQ)](faq.html)
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
-*ArtushVision AI - Stability and precision for professional photography and stock distribution.*
+*ArtushVision AI - Stability and precision for professional photography workflows.*

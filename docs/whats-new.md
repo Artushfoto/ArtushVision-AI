@@ -79,16 +79,17 @@ The entire stock photo and video upload process has been rewritten from the grou
 ---
 
 ### [Get Started Now]
-
-* [Download Latest Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
-* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-[Frequently Asked Questions (FAQ)](faq.html)
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
-*ArtushVision AI - Professional precision and complete metadata automation.*
+*ArtushVision AI - Stability and precision for professional photography workflows.*

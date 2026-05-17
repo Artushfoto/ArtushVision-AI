@@ -79,16 +79,17 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 ---
 
 ### [Get Started Now]
-
-* [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
-* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-[❓ Frequently Asked Questions (FAQ)](faq.html)
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
-*ArtushVision AI - Professional precision and complete configuration control.*
+*ArtushVision AI - Stability and precision for professional photography workflows.*

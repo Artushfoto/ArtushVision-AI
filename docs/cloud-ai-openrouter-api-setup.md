@@ -131,14 +131,18 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
 
 ---
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
-
-[❓ Frequently Asked Questions (FAQ)](faq.html)
+### [Get Started Now]
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
-<p align="center">
-  <b>ArtushVision AI Documentation</b><br>
-  Last updated: May 2026
-</p>
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
+
+*ArtushVision AI - Stability and precision for professional photography workflows.*
