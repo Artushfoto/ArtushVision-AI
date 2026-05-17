@@ -46,8 +46,6 @@ The Lite Edition resets its limits every time you launch the application, allowi
 
 ---
 
-
-
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
     <th style="text-align: center; padding: 15px; background-color: rgba(0,0,0,0.03);">
@@ -65,9 +63,6 @@ The Lite Edition resets its limits every time you launch the application, allowi
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
