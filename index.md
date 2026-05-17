@@ -32,7 +32,7 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 <table style="width: 100%; display: table;">
   <tr>
     <th style="width: 50%; text-align: center;"><a href="/docs/download-purchase.html">Download Free Lite / Commercial Version</a></th>
-    <th style="width: 50%; text-align: center;"><a href="/docs/download-purchase.html">Get Lifetime License</a></th>
+    <th style="width: 50%; text-align: center;"><a href="/docs/download-purchase.html#buy-lifetime-license">Get Lifetime License</a></th>
   </tr>
   <tr>
     <td style="text-align: center;"><b>Fully Functional Version</b></td>
@@ -226,8 +226,8 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 
 ### [Get Started Now]
-* [Download Free Lite Version](/docs/download.html)
-* [Purchase Lifetime License - $39.99](/docs/purchase-license.html)
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
