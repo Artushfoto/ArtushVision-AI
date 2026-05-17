@@ -1,40 +1,34 @@
-LICENČNÍ SMLOUVA S KONCOVÝM UŽIVATELEM (EULA) - ArtushVision AI
+LICENČNÍ SMLOUVA S KONCOVÝM UŽIVATELEM (EULA) A PODMÍNKY SLUŽBY
 Produkt: ArtushVision AI
-Verze: 2026.001 (a následující verze)
-Poslední aktualizace: Březen 2026
+Verze: 2026 (a následující verze)
+Poslední aktualizace: Květen 2026
 
-Tato Licenční smlouva s koncovým uživatelem ("Smlouva") je právní dohodou mezi vámi ("Uživatel") a vývojářem ArtushVision AI ("Vývojář"). Instalací, kopírováním nebo jiným používáním Softwaru souhlasíte s podmínkami této Smlouvy.
+Tento dokument definuje právní vztah mezi vámi (Uživatelem) a softwarovým produktem ArtushVision AI.
 
 1. Udělení licence
-Vývojář vám uděluje nevýhradní, nepřenosnou, trvalou licenci k používání ArtushVision AI pro osobní nebo komerční účely, za následujících podmínek:
-Lite verze (Trial): Software můžete používat zdarma s omezeními na relaci (3 dotazy AI a 10 uložení souborů na relaci).
-Plná verze: Po zakoupení platného licenčního klíče přes Polar jsou tato omezení odstraněna.
+Je udělena nevýhradní, nepřenosná a trvalá licence k používání ArtushVision AI.
+Lite edice (Trial): Bezplatné použití s omezeními na relaci (3 AI analýzy, 10 uložení na disk, 5 odeslání přes FTP a 3 Getty optimalizace na jedno spuštění aplikace).
+Pro edice: Po zakoupení platného licenčního klíče přes našeho autorizovaného prodejce Polar jsou tato omezení zcela odstraněna.
 
-2. Zpracování dat a externí služby (Důležité)
-Používáním ArtushVision AI Uživatel bere na vědomí a souhlasí s tím, že Software komunikuje s cloudovými službami třetích stran přes internet za účelem poskytování svých základních funkcí. Data jsou přenášena následovně:
-AI Analýza: Obrázky a prompty vybrané Uživatelem jsou nahrávány na OpenRouter (a následně vybraným poskytovatelům AI modelů, jako jsou OpenAI, Anthropic nebo Google).
-Překlad: Textová data pro překlad jsou přenášena do Google Translate (nebo podobných překladových API).
-Lingvistická data: Požadavky na synonyma a lingvistická metadata jsou zpracovávány přes Datamuse API.
-Prohlášení o ochraně soukromí: Vývojář neukládá vaše obrázky ani osobní údaje na soukromých serverech. Přenos dat probíhá přímo mezi Softwarem a zmíněnými API třetích stran. Uživatel podléhá Zásadám ochrany osobních údajů a Podmínkám služby těchto poskytovatelů.
+2. Zpracování dat a externí služby
+Software komunikuje s cloudovými službami třetích stran. Používáním Softwaru souhlasíte s přenosem textových dat do API služeb OpenRouter, Google a Datamuse. Aplikace neukládá, neshromažďuje ani nenahrává vaše mediální soubory (obrázky/videa) na soukromé vzdálené servery.
 
-3. Žádná podpora a záruka "Tak jak je"
-Žádná podpora: ArtushVision AI je poskytován jako samoobslužný nástroj. Vývojář není povinen poskytovat individuální technickou podporu, údržbu ani vlastní aktualizace.
-Záruka: Software je poskytován "TAK JAK JE" bez jakékoli záruky. Uživatel bere na vědomí dostupnost bezplatné "Lite" verze a je odpovědný za ověření kompatibility se svým hardwarem/OS před nákupem.
+3. Vztah s prodejcem, platby a vracení peněz
+Licence ArtushVision AI jsou bezpečně zpracovávány, fakturovány a distribuovány výhradně přes Polar (Polar Signals Inc. / Polar.sh). Polar funguje jako oficiální prodejce (Merchant of Record). Vzhledem k digitální povaze softwaru a dostupnosti plně funkční bezplatné zkušební verze jsou všechny prodeje konečné. Vrácení peněz se zvažuje pouze v případech duplicitních transakcí nebo prokázaného technického selhání aktivace licenčního klíče.
 
-4. Zásady vracení peněz
-Vzhledem k digitální povaze softwaru a dostupnosti bezplatné zkušební verze jsou všechny prodeje konečné. Jakmile byl vydán licenční klíč, vrácení peněz se zvažuje pouze v případech duplicitních nákupov nebo prokázaného technického selhání samotného licenčního klíče.
+4. Právo na odstoupení od smlouvy
+Žádné vracení peněz: Žádostí o okamžité dodání licenčního klíče výslovně souhlasíte s okamžitým plněním smlouvy.
+Vzdání se práva na zrušení: Jakmile je licenční klíč doručen, berete na vědomí, že ztrácíte své zákonné právo na 14denní lhůtu pro vrácení peněz podle zákonů EU o ochraně spotřebitele. Všechny prodeje digitálního obsahu jsou konečné.
 
-5. Omezení
-NESMÍTE:
-Zpětně analyzovat, dekompilovat nebo disasemblovat Software.
-Pronajímat, půjčovat nebo sublicencovat Software nebo váš unikátní licenční klíč.
-Upravovat nebo vytvářet odvozená díla založená na Softwaru.
+5. Platnost licence a aktualizace
+Váš nákup uděluje doživotní licenci pro konkrétní řadu verzí v2026.x. To zahrnuje všechny menší aktualizace, výkonnostní vylepšení a opravy chyb v rámci celého cyklu v2026. Významné upgrady na zcela novou generaci produktu (např. budoucí řada v2027) mohou vyžadovat samostatný poplatek za upgrade.
 
-6. Knihovny třetích stran
-ArtushVision AI využívá knihovny třetích stran a open-source komponenty. Podrobný seznam konkrétních licencí a kreditů je k dispozici v sekci "O aplikaci" nebo "Právní informace" v aplikaci.
+6. Záruka a podpora
+Software je poskytován „TAK JAK JE“ bez jakékoli záruky. Vývojář není povinen poskytovat individuální technickou podporu typu 1-na-1, k dispozici jsou však automatické aktualizace a komunitní kanály.
 
-7. Omezení odpovědnosti
-V žádném případě nenese Vývojář odpovědnost za jakékoli škody (včetně, bez omezení, ušlého zisku nebo ztráty informací) vzniklé používáním nebo nemožností používat Software.
+7. Identifikace vývojáře a řešení sporů
+Správa produktu: Softwarovou aplikaci ArtushVision AI vyvíjí a spravuje Zdeněk Malý (Adresa: Puklice 127, 588 31, Česká republika, IČO: 68031751, E-mail: artushfoto@gmail.com).
+Řešení sporů: Evropská komise poskytuje online platformu pro mimosoudní řešení sporů v rámci EU: Portál pro řešení spotřebitelských sporů EU. Pro zákazníky v České republice je příslušným orgánem pro mimosoudní řešení spotřebitelských sporů Česká obchodní inspekce (ČOI): www.coi.cz.
 
 8. Rozhodné právo
-Tato Smlouva se řídí zákony České republiky.
+Tato smlouva se řídí a vykládá v souladu se zákony České republiky.
