@@ -23,49 +23,58 @@ Find out what has changed in the latest build and how these new features can acc
 
 ---
 
-## Current Version: v2026.002
+## Main Features
 
-### 🚀 Agentic Multi-Pass AI Workflows
-We have revolutionized the local processing pipeline with our new flagship **2-Pass Local AI** and **Hybrid AI** structures.
-* **Deep Visual Analysis (Pass 1):** The local engine now utilizes specialized Vision models (like `qwen2.5-vl:3b`) to run ultra-deep physical scans of your images and video frame extractions.
-* **SEO Synthesis (Pass 2):** A second, high-performance language model takes the raw visual observations and synthesizes them into highly commercial titles, fluid descriptions, and strategic keywords—completely eliminating cloud API expenses.
+# What's New in ArtushVision AI (v1.10)
 
-### 🧠 Absolute Priority AI Hinting
-Take ultimate control over AI descriptions. The top toolbar now includes an **Absolute Priority Hint** field.
-* When you manually input highly specific context (such as exact Latin species names, rare landmarks, or unreleased product series), the AI treats this hint as an absolute fact. 
-* This totally eliminates AI hallucinations and forces the engine to build its description strictly around your verified data.
+Update 1.10 is the biggest milestone in the application's development so far. It brings absolute independence with local AI support, professional microstock export tools, and advanced metadata management. 
 
-[IMAGE: images/whats-new-priority-hint.png]
+Here is an overview of the most important additions since version 1.02:
 
----
+## Local, Hybrid, and 2-Pass Offline AI
+The application no longer relies solely on cloud APIs. We have integrated the Ollama system, allowing you to process your sensitive (or massive) batches of photos 100% locally, for free, and in complete privacy.
 
-## Core System Improvements
+*   **Three new independent AI Engines:** 
+    *   **Local AI**: Standard analysis on local hardware.
+    *   **Hybrid AI (Local Vision + Cloud Text)**: *Recommended mode*. Your graphics card securely and freely performs the demanding visual analysis (reading pixels). The extracted text is then sent to a cheap but highly intelligent cloud model for lightning-fast SEO formatting. 
+    *   **Enhanced Local AI (2-Pass Offline)**: Maximum quality completely offline. First, a local Vision model reads the photo, then a *second* specialized local text model creates a perfect JSON with keywords.
+*   **2-Pass Batching:** A special batch processing architecture that prevents VRAM overload and drastically speeds up the process.
+*   **Live VRAM/RAM Monitor:** A live memory consumption indicator in the bottom bar showing the load of Ollama models.
 
-### ⚡ Visual Tag Bubbles & Drag-and-Drop Optimization
-The keyword management system received a massive core upgrade. Comma-separated text fields are automatically converted into interactive **Tag Bubbles**.
-* **Color-Coded Sources:** Instantly see where a tag came from: 🔵 (AI-Generated), 🟢 (Manually Added), or ⚫ (Original Metadata inside the file).
-* **Multi-Select Dragging:** Hold `Ctrl`, click multiple bubbles, and drag them all at once onto another photo card in the main grid to synchronize your data instantly.
+## Integrated Model Manager for Ollama
+AI model management is now fully integrated directly into the ArtushVision user interface. No need to open the terminal.
 
-### 🎯 Intelligent Getty Images Disambiguation (Beta)
-The Getty Images ESP Optimizer tool is now powered by localized semantic logic.
-* When running keywords through the **Master Dictionary of 11,746+ commercial terms**, the tool automatically handles homonyms (e.g., recognizing whether "Crane" means the bird or the construction equipment based on the photo context) to ensure 100% submission acceptance.
+*   **Recommended Models Catalog:** Browse and download the best available models for visual and text analysis with a single click directly from the app.
+*   **Smart Management and Detection:** The downloaded models table shows size in GB, parameter count, and quantization level. The app try automatically detects whether it is a Vision or Text model.
+*   **Custom Notes:** Double-click any model to add your own tags and notes (e.g., "Best for illustrations").
 
-### 📁 Advanced Protection Logic & Face Tag Safety
-ArtushVision AI is now 100% safe to use alongside Adobe Lightroom, Photo Mechanic, and digiKam.
-* The file-writing system is strictly programmed to preserve existing Adobe Person/**Face Tags** during XMP synchronization. Your manual portrait organization will never be overwritten or lost.
+## Getty Resolver and Custom Dictionary
+A brand new set of tools designed to solve the hardest task in the microstock world: creating valid metadata for Getty Images / iStock.
 
-[IMAGE: images/whats-new-metadata-badges.png]
+*   **Interactive AI Mapping (Getty Resolver):** An advanced table that checks your keywords against the massive Getty Master Dictionary (>11,000 commercial terms). You can edit and split original and new words directly in-line.
+*   **Intelligent Disambiguation (Assistant):** Cloud AI can study the context of your photo and automatically decide which meaning of a word to select (e.g., reliably distinguishing a 'crane' bird from a 'crane' machine).
+*   **User Dictionary:** The system has a personal memory. Once you manually map a missing word or a custom name to an existing term from the Master database, the app remembers it for all future exports.
 
----
+## Category Matrix and Bulk Management
+No more manual sorting for each agency separately.
 
-## Changelog & Fixes
+*   **Cross AI Mapping:** We created a Category Matrix. The AI model receives a list of "Master Categories" and assigns the best ones to the photo. These categories are then automatically translated into the correct ID formats for Shutterstock, Adobe Stock, Alamy, or Motion Elements during export or upload.
+*   **Motion Elements (Video vs Photo):** The matrix intelligently distinguishes photo and video formats and sends them to the correct subcategories for ME.
+*   **Bulk Adding from Grid:** A new Categories button in the batch edit bar opens a dialog for quick manual selection (up to 3 categories) for hundreds of selected photos at once. You can also define properties and editorial flags in bulk here.
 
-* **Fixed:** Resolved an intermittent connection timeout error when running huge multi-threaded upload batches to legacy FTP servers.
-* **Fixed:** Addressed a Windows Explorer shell conflict where star ratings on compressed JPG files were occasionally misread on specific Windows 11 updates.
-* **Enhanced:** Real-time character and word counters in the Detail View now immediately turn red if metadata lengths exceed strict stock agency commercial limits.
-* **Enhanced:** Local VRAM Monitor added to the status bar, tracking real-time GPU memory consumption to handle large Ollama models safely.
+## FTP Manager and One-Click Distribution with CSV
+The entire stock photo upload process has been rewritten from the ground up to be fully independent and automated.
 
----
+*   **Assign CSV Template to Server:** In the FTP upload window, you can now assign a specific CSV template format to each agency (server).
+*   **One-Click Temp CSV:** When active, the app automatically takes the uploaded photos, generates a temporary CSV tailored to the specific agency, uploads the CSV file immediately after the photos, and then cleans it up from your computer.
+*   **Advanced Server Settings (Threads):** The number of concurrent uploads (threads) is no longer global but set individually for each FTP server. You can safely send to Shutterstock with 10 photos at once, while limiting Zoonar to 1 thread to prevent blocks (421 Too many connections).
+*   **Profiles and Badges:** You can create groups of servers (FTP Profiles). Uploaded agencies are then permanently visualized as colored micro-badges directly in the grid for each photo and can be actively filtered.
+
+*** 
+*(Other technical updates include a new full ZIP backup of all settings, limit color unification, 100% protection against AI error states, and the removal of UI freezing when bulk-selecting thousands of items).*
+
+
+
 
 ### [Get Started Now]
 
