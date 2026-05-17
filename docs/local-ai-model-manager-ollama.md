@@ -66,7 +66,7 @@ When testing multiple models, it is essential to track which one performed best 
 
 ## How to use Local Models in 3 Steps:
 
-1. **Browse and Download:** Open the Model Manager, click **Recommended**, and download a small Vision model like `qwen2.5-vl:3b`. For step-by-step assistance, see our [Model Download Guide](/docs/how-to-download-local-ai-models-via-ollama.html).
+1. **Browse and Download:** Open the Model Manager, click **Recommended**, and download a small Vision model like `gemma4:e2b`. For step-by-step assistance, see our [Model Download Guide](/docs/how-to-download-local-ai-models-via-ollama.html).
 2. **Assign to Profile:** Open the <a href="/docs/advanced-ai-prompting-profiles-variables.html">AI Profile Editor</a> and assign your newly downloaded model to a Local or Hybrid workflow.
 3. **Run Offline:** Disconnect from the internet and watch the AI seamlessly tag your photos in total privacy.
 

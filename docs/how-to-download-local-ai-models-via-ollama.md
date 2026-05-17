@@ -13,7 +13,7 @@ First, you need to select the specific model that matches your hardware and work
 
 * Open your web browser and navigate to the official [Ollama Library](https://ollama.com/library).
 * Browse or search for models. Pay close attention to the model capabilities:
-  * **Vision Models:** Required to analyze, describe, and tag images (e.g., `qwen3-vl:4b`, `llama3.2-vision:11b`). These are critical for processing visual data and utilizing features like the [Absolute Priority AI Hint](/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables).
+  * **Vision Models:** Required to analyze, describe, and tag images (e.g., `gemma4:e2b`, `qwen3-vl:4b`). These are critical for processing visual data and utilizing features like the [Absolute Priority AI Hint](/docs/advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables).
   * **Text Models:** Used for advanced metadata formatting, translations, and structuring tag taxonomies (e.g., `qwen2.5:7b`, `deepseek-r1:7b`).
 * Once you find the desired model, copy its exact name including the parameter size tag (for example, copy `qwen3-vl:4b`, not just `qwen3-vl`).
 
