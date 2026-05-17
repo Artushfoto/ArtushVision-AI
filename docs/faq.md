@@ -39,6 +39,10 @@ details ul { margin-top: 10px; }
 
 ---
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+---
+
 ## General and Pricing
 
 <details>
