@@ -4,6 +4,8 @@
 
 To unlock the full potential of ArtushVision AI's **Enhanced Local AI** or **Hybrid AI** modes, you need to download the appropriate models to your computer. This guide will walk you through choosing, downloading, and organizing your local models directly through the internal Model Manager.
 
+> ⚠️ **Important Prerequisite:** Before downloading any models, you must have Ollama installed and running in the background on your computer. If you haven't set it up yet, please follow our step-by-step [Ollama Installation & Setup Guide](/docs/ollama-installation-guide.html) first.
+
 > 💡 **Tip for Lite Version Users:** Running local models is a fantastic way to bypass cloud API constraints. To see how local models fit into your license tier, check out our [Free Trial Limits and Testing Guide](/docs/free-trial-limits-and-testing.html).
 
 ---
