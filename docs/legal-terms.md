@@ -65,7 +65,7 @@ Upon successful payment, you will receive an automated confirmation email contai
 * **Waiver of Right to Cancel:** Once the License Key is delivered, you acknowledge that you lose your statutory right to a 14-day refund period under EU Consumer Protection laws. All digital sales are final.
 
 ### 4. License Validity and Updates
-Your purchase grants a lifetime license for the specific major software version series you purchased. This includes all minor updates, performance upgrades, and bug fixes within that current version cycle. Major upgrades to a completely new product generation may require a separate upgrade fee.
+Your purchase grants a lifetime license for the specific **v2026.x** version series. This includes all minor updates, performance upgrades, and bug fixes within the entire v2026 cycle. Major upgrades to a completely new product generation (e.g., a future v2027 series) may require a separate upgrade fee.
 
 ### 5. Customer Support
 For billing or invoice inquiries, please contact Polar support. For technical assistance, refer to the documentation on this website or visit our community forum.
