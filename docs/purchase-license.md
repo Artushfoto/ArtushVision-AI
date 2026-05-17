@@ -29,7 +29,7 @@ h1 { text-align: center; }
 | **File Saving** | **10 file saves** per app run | **Unlimited** local XMP/IPTC updates |
 | **Getty Images Resolver** | **3 Getty optimizations** per run | **Unlimited** editing & mapping |
 | **FTP Automated Distribution**| **5 FTP uploads** per run | **Unlimited** FTP server groups |
-| **Local Offline AI (Ollama)** | Supported (Limited) | Supported (Unlimited) |
+| **Local Offline AI (Ollama)** | Supported | Supported (Unlimited) |
 
 ---
 
@@ -43,6 +43,11 @@ The Lite Edition resets its limits every time you launch the application, allowi
 * **Price:** $39.99 (One-time fee, no subscription)
 * **Payment Methods:** Credit/Debit Cards, Google Pay, Apple Pay
 * **Provider:** Secured via Polar.sh and Stripe ecosystem
+
+---
+
+> ⚠️ **Important Note: Try Before You Buy!**
+> Before completing your purchase, we highly recommend downloading and running the **Free Lite Edition** to thoroughly test performance and AI compatibility with your local hardware setup (especially your NVIDIA GPU and Ollama environment). Because all sales are final once the digital license key is issued, please make sure the software fully meets your expectations before buying.
 
 ---
 
@@ -70,6 +75,8 @@ The Lite Edition resets its limits every time you launch the application, allowi
 By clicking the checkout link above and purchasing a license, you expressly acknowledge and agree to our official **[Legal Terms, EULA, and Terms of Service](legal-terms.html)**. 
 
 Please note that due to the instant delivery of digital license keys, you expressly waive your right to a 14-day statutory refund period under EU law once the key is delivered. Complete business registration details and out-of-court dispute links can be found on our **[Legal Terms page](legal-terms.html)**.
+
+---
 
 ## Frequently Asked Licensing Questions
 
