@@ -64,7 +64,7 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 **File -> Open Router Statistic**
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" target="_blank" class="screenshot-link" style="max-width: 600px;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 600px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" alt="ArtushVision AI - Open Router Statistic" style="width: 600px;" class="screenshot-img">
 </a>
 
 
