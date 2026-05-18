@@ -64,8 +64,6 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/instant_batch_pricing.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
 </a>
 
-
-
 * **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
 
 Go to `Top Menu` → `File` → `Open Router Statistic` to view your stats.
@@ -73,9 +71,6 @@ Go to `Top Menu` → `File` → `Open Router Statistic` to view your stats.
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" alt="ArtushVision AI - Open Router Statistic" style="width: 500px;" class="screenshot-img">
 </a>
-
-
-
 
 * **Smart Estimations:** The software continuously calculates your average cost per processed photo and provides a live estimate of how many more assets you can analyze before needing to top up your balance.
 
@@ -85,6 +80,15 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_processing" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_processing" alt="ArtushVision AI Interface - Local AI Batch Processing" width="100%" class="screenshot-img">
+</a>
+
+**Local AI Detail Window Processing single photo using AI hint**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai__edit_window_processing" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai__edit_window_processing" alt="ArtushVision AI Interface - Local AI Detail Window Processing" width="100%" class="screenshot-img">
+</a>
 
 ### 3. Hybrid AI
 
