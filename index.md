@@ -75,7 +75,7 @@ h1 { text-align: center; }
 **Beyond AI automation, it offers a complete organization and distribution toolkit:**
 
 * **[Smart Protection](/docs/manual-editing-detailed-photo-view.html#advanced-protection-logic):** AI appends insights without overwriting your manual keywords or Face Tags.
-* **[Getty Optimizer](/docs/getty-images-esp-metadata-optimizer.html):** 100% submission success with [Master Dictionary ](/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary)validation.
+* **[Getty Optimizer](/docs/getty-images-esp-metadata-optimizer.html):** Near-perfect acceptance rate by validating every keyword against the [Master Dictionary](/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary).
 * **[Smart FTP](/docs/global-stock-distribution-ftp.html#per-server-multi-threading-and-auto-retry):** "Zero-touch" workflow with [automated CSV generation](/docs/global-stock-distribution-ftp.html#dynamic-csv-generation-and-category-mapping).
 * **[Universal Compatibility:](/docs/metadata-compatibility-and-file-handling.html)** Works everywhere [Lightroom, Bridge, Zoner, DigiKam](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility).
 
