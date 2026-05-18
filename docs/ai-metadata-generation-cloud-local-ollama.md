@@ -99,7 +99,7 @@ An intelligent agentic pipeline that combines privacy with high-end SEO formatti
 * **Cloud Synthesis:** Only the extracted text is sent to a fast cloud model to format it into professional, comma-separated keywords and titles.
 
 **Local AI Detail Window: Processing a single photo using Local Vision and Cloud Text for perfect formatting (Ollama gemma4:e2b + Cloud Gemini 2.0 Flash Lite)**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_vision_cloud_text" target="_blank" class="screenshot-link">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_vision_cloud_text.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_vision_cloud_text.png" alt="ArtushVision AI Interface - Local AI Detail Window Processing" width="100%" class="screenshot-img">
 
 ### 4. Two-Step Local AI
