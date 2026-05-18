@@ -5,8 +5,27 @@ description: "The ultimate AI photo tagging and metadata workstation for stock, 
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
-h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
-.main-content, .wrapper, .page-content, main { padding-top: 0 !important; margin-top: 0 !important; }
+h1 { text-align: center; }
+
+/* Profesionální styl pro klikací screenshoty */
+.screenshot-link {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  text-decoration: none;
+}
+.screenshot-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid #333;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: opacity 0.2s;
+}
+.screenshot-img:hover {
+  opacity: 0.95;
+}
 </style>
 </div>
 
@@ -59,6 +78,13 @@ h1 { text-align: center; margin-top: 0 !important; padding-top: 0 !important; }
 * **[Getty Optimizer](/docs/getty-images-esp-metadata-optimizer.html):** 100% submission success with [Master Dictionary ](/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary)validation.
 * **[Smart FTP](/docs/global-stock-distribution-ftp.html#per-server-multi-threading-and-auto-retry):** "Zero-touch" workflow with [automated CSV generation](/docs/global-stock-distribution-ftp.html#dynamic-csv-generation-and-category-mapping).
 * **[Universal Compatibility:](/docs/metadata-compatibility-and-file-handling.html)** Works everywhere [Lightroom, Bridge, Zoner, DigiKam](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility).
+
+---
+
+**ArtushVision AI Grid Overview**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" alt="ArtushVision AI Grid Overview" class="screenshot-img">
+</a>
 
 ---
 
