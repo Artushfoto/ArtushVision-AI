@@ -212,6 +212,7 @@ Own your tools and pay only for the AI you use.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
 * **[Status Filtering:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
 * **[Quality Control:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Find files that have **Exceeded Limits** or are **Corrupted**.
+* **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#rating-and-labels)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots.
 
 
 
