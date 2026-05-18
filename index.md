@@ -81,9 +81,9 @@ h1 { text-align: center; }
 
 ---
 
-**ArtushVision AI Grid Overview**
+**ArtushVision AI**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" alt="ArtushVision AI Grid Overview" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" alt="ArtushVision AI" class="screenshot-img">
 </a>
 
 ---
