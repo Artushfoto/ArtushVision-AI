@@ -25,6 +25,8 @@ Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an un
 
 ArtushVision AI gives you complete freedom over where and how your data is processed.
 
+
+
 ### 1. Cloud AI
 
 Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as Google Gemini 2.0 Flash, Claude 3.5 Sonnet, or GPT-4o.
