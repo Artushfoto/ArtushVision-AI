@@ -6,6 +6,27 @@ description: "Professional AI photo and video tagging workstation. Features a 4-
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 h1 { text-align: center; }
+
+</style>
+/* Profesionální styl pro klikací screenshoty */
+.screenshot-link {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  text-decoration: none;
+}
+.screenshot-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid #333;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: opacity 0.2s;
+}
+.screenshot-img:hover {
+  opacity: 0.95;
+}
 </style>
 </div>
 
@@ -25,7 +46,9 @@ Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an un
 
 ArtushVision AI gives you complete freedom over where and how your data is processed.
 
-
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier_ai-engine.png" target="_blank" class="screenshot-link" style="max-width: 400px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier_ai-engine.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
+</a>
 
 ### 1. Cloud AI
 
@@ -37,6 +60,16 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 * **Instant Batch Pricing:** As soon as an AI analysis batch is completed, the application instantly displays the exact cost of that specific run directly in the success notification.
 * **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
+
+**File -> Open Router Statistic**
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" target="_blank" class="screenshot-link" style="max-width: 600px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 600px;" class="screenshot-img">
+</a>
+
+
+
+
 * **Smart Estimations:** The software continuously calculates your average cost per processed photo and provides a live estimate of how many more assets you can analyze before needing to top up your balance.
 
 ### 2. Local AI
