@@ -199,6 +199,14 @@ Own your tools and pay only for the AI you use.
 * **Flat View:** Toggle to see all files from all subfolders in a single unified list.
 * **[Backup](/docs/settings-configuration-customization.html#backup-and-data-safety):** Safety checkboxes for automated **[CSV, XMP, and Original JPG backups](/docs/settings-configuration-customization.html#backup-and-data-safety)**.
 
+**Top Toolbar**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/Top toolbar.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/Top toolbar.png" alt="ArtushVision AI" class="screenshot-img">
+</a>
+
+
+
+
 ### Filter Bar
 * **[Smart Search:](/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
