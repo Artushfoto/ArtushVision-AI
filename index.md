@@ -200,8 +200,8 @@ Own your tools and pay only for the AI you use.
 * **[Backup](/docs/settings-configuration-customization.html#backup-and-data-safety):** Safety checkboxes for automated **[CSV, XMP, and Original JPG backups](/docs/settings-configuration-customization.html#backup-and-data-safety)**.
 
 **Top Toolbar**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/Top toolbar.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/Top toolbar.png" alt="ArtushVision AI" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" alt="ArtushVision AI" class="screenshot-img">
 </a>
 
 
