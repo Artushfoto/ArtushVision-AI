@@ -91,7 +91,6 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_edit_window_processing.png" alt="ArtushVision AI Interface - Local AI Detail Window Processing" width="100%" class="screenshot-img">
 </a>
 
-
 ### 3. Hybrid AI
 
 An intelligent agentic pipeline that combines privacy with high-end SEO formatting.
@@ -102,7 +101,7 @@ An intelligent agentic pipeline that combines privacy with high-end SEO formatti
 **Local AI Detail Window: Processing a single photo using Local Vision and Cloud Text for perfect formatting (Ollama gemma4:e2b + Cloud Gemini 2.0 Flash Lite)**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_vision_cloud_text.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_vision_cloud_text.png" alt="ArtushVision AI Interface - Local AI Detail Window Processing" width="100%" class="screenshot-img">
-
+</a>
 
 ### 4. Two-Step Local AI
 
@@ -110,7 +109,10 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 * **Resource Management:** The system loads a Vision model to describe the image, unloads it, and then loads a Text model for SEO formatting. This prevents hardware crashes while maintaining elite output quality.
 
-[IMAGE: A close-up of the Language and AI settings tab, highlighting the AI Engine dropdown, [Ollama](/docs/ollama-installation-guide.html) configuration, and VRAM context limits.]
+**Local AI Detail Window: Processing a single photo using Local Vision and Local Text for perfect formatting (Ollama: gemma4:e2b + qwen2.5:7b)**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_vision_local_text" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_vision_local_text" alt="ArtushVision AI Interface - Detail Window Processing Two-Step Local AI" width="100%" class="screenshot-img">
+</a>
 
 ---
 
