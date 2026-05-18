@@ -204,18 +204,12 @@ Own your tools and pay only for the AI you use.
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" alt="ArtushVision AI" class="screenshot-img">
 </a>
 
-
-
-
 ### Filter Bar
 * **[Smart Search:](/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
 * **[Status Filtering:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
 * **[Quality Control:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Find files that have **Exceeded Limits** or are **Corrupted**.
 * **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#rating-and-labels)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots.
-
-
-
 
 **Batch Edit Toolbar**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit" target="_blank" class="screenshot-link">
