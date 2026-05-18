@@ -83,7 +83,7 @@ h1 { text-align: center; }
 
 **ArtushVision AI Interface**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" alt="ArtushVision AI" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" alt="ArtushVision AI Interface" class="screenshot-img">
 </a>
 
 ---
@@ -121,7 +121,7 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
 
 **Select Versatile Ai Workflow**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/versatile_ai_workflow.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/versatile_ai_workflow.png" alt="ArtushVision AI" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/versatile_ai_workflow.png" alt="ArtushVision AI - Select Versatile Ai Workflow" class="screenshot-img">
 </a>
 
 ---
@@ -134,11 +134,10 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 **Getty Images Optimizer**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" alt="ArtushVision AI" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" alt="ArtushVision AI - Getty Images Optimizer" class="screenshot-img">
 </a>
 
 ---
-
 
 * **[Visual Context Highlighting:](/docs/getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation)** The resolver intelligently highlights thumbnails in the grid containing a specific term for absolute accuracy.
 * **[Semantic AI Disambiguation (beta):](/docs/getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation)** Automatically distinguishes homonyms (e.g., "Crane" the bird vs. "Crane" the machine).
@@ -157,7 +156,7 @@ Distribute your work to all major stock agencies simultaneously with a professio
 
 **Global Distribution & Smart FTP Suite**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp_multiple_upload.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp_multiple_upload.png" alt="ArtushVision AI" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp_multiple_upload.png" alt="ArtushVision AI - Global Distribution & Smart FTP Suite" class="screenshot-img">
 </a>
 
 ---
@@ -201,7 +200,7 @@ Own your tools and pay only for the AI you use.
 
 **Top Toolbar**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" alt="ArtushVision AI" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" alt="ArtushVision AI - Top Toolbar" class="screenshot-img">
 </a>
 
 ### Filter Bar
@@ -213,7 +212,7 @@ Own your tools and pay only for the AI you use.
 
 **Batch Edit Toolbar**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" alt="ArtushVision AI" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" alt="ArtushVision AI - Batch Edit Toolbar" class="screenshot-img">
 </a>
 
 
