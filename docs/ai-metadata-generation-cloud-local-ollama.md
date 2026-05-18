@@ -46,8 +46,8 @@ Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an un
 
 ArtushVision AI gives you complete freedom over where and how your data is processed.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier_ai-engine.png" target="_blank" class="screenshot-link" style="max-width: 400px;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier_ai-engine.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier_ai-engine.png" target="_blank" class="screenshot-link" style="max-width: 300px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier_ai-engine.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 300px;" class="screenshot-img">
 </a>
 
 ### 1. Cloud AI
