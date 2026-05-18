@@ -32,7 +32,7 @@ h1 { text-align: center; }
 # ArtushVision AI | Professional Metadata Automation
 
 <p align="center">
-  <b>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global & FTP Distribution.</b>
+  **The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global & FTP Distribution.**
 </p>
 
 ---
@@ -83,29 +83,29 @@ h1 { text-align: center; }
 
 **ArtushVision AI Interface**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" alt="ArtushVision AI Interface" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid_overview.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
 </a>
 
 ---
 
 ## Quick Navigation: Core Features
-  - [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
-  - [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
-  - [Global Distribution & Smart FTP Suite](#global-distribution--smart-ftp-suite)
-  - [ArtushVision AI vs. Cloud Services](#artushvision-ai-vs-cloud-services)
-  - [1. Installation & Setup](#1-installation--setup)
-    - [System Requirements](#system-requirements)
-    - [First Launch](#first-launch)
-  - [2. Interface Overview](#2-interface-overview)
-    - [Top Toolbar](#top-toolbar)
-    - [Filter Bar](#filter-bar)
-    - [The Image Grid](#the-image-grid)
-  - [3. AI Analysis Workflow](#3-ai-analysis-workflow)
-  - [4. Professional Advanced AI Tools](#4-professional-advanced-ai-tools)
-    - [Unlimited Customization with AI Profiles](#unlimited-customization-with-ai-profiles)
-  - [5. Manual Editing & Detail View](#5-manual-editing--detail-view)
-  - [6. Batch Operations](#6-batch-operations)
-  - [7. Settings & Configuration](#7-settings--configuration)
+- [Versatile AI Engine: Choose Your Workflow](#versatile-ai-engine-choose-your-workflow)
+- [Getty Images Optimizer (Master ESP Tool)](#getty-images-optimizer-master-esp-tool)
+- [Global Distribution & Smart FTP Suite](#global-distribution--smart-ftp-suite)
+- [ArtushVision AI vs. Cloud Services](#artushvision-ai-vs-cloud-services)
+- [1. Installation & Setup](#1-installation--setup)
+  - [System Requirements](#system-requirements)
+  - [First Launch](#first-launch)
+- [2. Interface Overview](#2-interface-overview)
+  - [Top Toolbar](#top-toolbar)
+  - [Filter Bar](#filter-bar)
+  - [The Image Grid](#the-image-grid)
+- [3. AI Analysis Workflow](#3-ai-analysis-workflow)
+- [4. Professional Advanced AI Tools](#4-professional-advanced-ai-tools)
+  - [Unlimited Customization with AI Profiles](#unlimited-customization-with-ai-profiles)
+- [5. Manual Editing & Detail View](#5-manual-editing--detail-view)
+- [6. Batch Operations](#6-batch-operations)
+- [7. Settings & Configuration](#7-settings--configuration)
 
 ---
 
@@ -119,9 +119,9 @@ ArtushVision AI provides four distinct AI pathways to balance privacy, cost, and
   * **Pass 1:** Deep Visual Analysis using a powerful dedicated Vision Model.
   * **Pass 2:** Professional Synthesis using a high-performance Text Model for elite results without API costs.
 
-**Select Versatile Ai Workflow**
+**Versatile AI Workflow Selection**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/versatile_ai_workflow.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/versatile_ai_workflow.png" alt="ArtushVision AI - Select Versatile Ai Workflow" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/versatile_ai_workflow.png" alt="ArtushVision AI - Versatile AI Workflow Selection" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -134,7 +134,7 @@ Stop guessing which keywords will be accepted. ArtushVision AI includes a profes
 
 **Getty Images Optimizer**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" alt="ArtushVision AI - Getty Images Optimizer" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" alt="ArtushVision AI - Getty Images Optimizer" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -156,7 +156,7 @@ Distribute your work to all major stock agencies simultaneously with a professio
 
 **Global Distribution & Smart FTP Suite**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp_multiple_upload.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp_multiple_upload.png" alt="ArtushVision AI - Global Distribution & Smart FTP Suite" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp_multiple_upload.png" alt="ArtushVision AI - Global Distribution & Smart FTP Suite" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -170,7 +170,7 @@ Own your tools and pay only for the AI you use.
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
 | **Media Privacy** | Mandatory Cloud Upload | **100% Privacy** (Local AI) or Thumbnails only |
 | **Pricing Model** | Recurring Subscriptions | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50** via OpenRouter google/gemini-2.0-flash-001 |
+| **Cost (10,000 Photos)** | Expensive Credits | **~$0.50** via OpenRouter google/gemini-2.0-flash |
 
 ---
 
@@ -200,7 +200,7 @@ Own your tools and pay only for the AI you use.
 
 **Top Toolbar**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" alt="ArtushVision AI - Top Toolbar" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" alt="ArtushVision AI - Top Toolbar" width="100%" class="screenshot-img">
 </a>
 
 ### Filter Bar
@@ -212,9 +212,8 @@ Own your tools and pay only for the AI you use.
 
 **Batch Edit Toolbar**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" alt="ArtushVision AI - Batch Edit Toolbar" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
 </a>
-
 
 ### [The Image Grid](/docs/manual-editing-detailed-photo-view.html#image-grid)
 * **Visual Status Indicators:** Small markers in the top-right corner: ⚪ (Unchanged), 🟡 (Modified), 🟢 (Saved), 🔴 (Error).
@@ -277,7 +276,7 @@ Modify thousands of assets simultaneously with surgical precision.
 * **[Ollama VRAM Context Tuning:](/docs/settings-configuration-customization.html#ai-and-video-tuning)** Optimize hardware memory parameters for local AI models.
 * **[Integrated Metadata Translator:](/docs/settings-configuration-customization.html#language-spell-check-and-autocomplete)** Automatically translate generated text and metadata fields.
 * **[Export/Import Settings:](/docs/settings-configuration-customization.html#complete-system-backup-and-migration)** Create configuration backups or share custom templates.
-* **[UI Color Customization and Theming:](/docs/settings-configuration-customization.html#ui-color-customization-and-theming)** Personalize your workspace for maximum visual comfort
+* **[UI Color Customization and Theming:](/docs/settings-configuration-customization.html#ui-color-customization-and-theming)** Personalize your workspace for maximum visual comfort.
 
 ---
 
