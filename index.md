@@ -212,8 +212,8 @@ Own your tools and pay only for the AI you use.
 * **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#rating-and-labels)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots.
 
 **Batch Edit Toolbar**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit" alt="ArtushVision AI" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" alt="ArtushVision AI" class="screenshot-img">
 </a>
 
 
