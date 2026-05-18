@@ -59,12 +59,19 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
     ArtushVision AI connects to OpenRouter on a pay-as-you-go basis, meaning you only pay for the API calls you actually make. The cost per image is microscopic (often fractions of a cent), and the application provides comprehensive tools to keep your spending under absolute control.
 
 * **Instant Batch Pricing:** As soon as an AI analysis batch is completed, the application instantly displays the exact cost of that specific run directly in the success notification.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/instant_batch_pricing.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/instant_batch_pricing.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+</a>
+
+
+
 * **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
 
-**File -> Open Router Statistic**
+Go to `Top Menu` → `File` → `Open Router Statistic` to view your stats.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" target="_blank" class="screenshot-link" style="max-width: 600px;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" alt="ArtushVision AI - Open Router Statistic" style="width: 600px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" alt="ArtushVision AI - Open Router Statistic" style="width: 500px;" class="screenshot-img">
 </a>
 
 
