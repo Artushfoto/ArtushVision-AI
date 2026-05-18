@@ -87,8 +87,8 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 </a>
 
 **Local AI Detail Window: Processing a single photo using an AI hint for accurate Caiman Yacare identification**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai__edit_window_processing" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai__edit_window_processing.png" alt="ArtushVision AI Interface - Local AI Detail Window Processing.png" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai__edit_window_processing.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai__edit_window_processing.png" alt="ArtushVision AI Interface - Local AI Detail Window Processing" width="100%" class="screenshot-img">
 </a>
 
 ### 3. Hybrid AI
