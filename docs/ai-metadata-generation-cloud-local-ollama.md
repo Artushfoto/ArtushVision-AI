@@ -81,14 +81,14 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
 
-**Local AI Batch Processing**
+**Local AI Batch Processing (Ollama Model gemma4:e4b)**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_processing.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_processing.png" alt="ArtushVision AI Interface - Local AI Batch Processing" width="100%" class="screenshot-img">
 </a>
 
-**Local AI Detail Window: Processing a single photo using an AI hint for accurate Caiman Yacare identification**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai__edit_window_processing.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai__edit_window_processing.png" alt="ArtushVision AI Interface - Local AI Detail Window Processing" width="100%" class="screenshot-img">
+**Local AI Detail Window: Processing a single photo using an AI hint for accurate Caiman Yacare identification (Ollama Model gemma4:e4b)**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_edit_window_processing.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_edit_window_processing.png" alt="ArtushVision AI Interface - Local AI Detail Window Processing" width="100%" class="screenshot-img">
 </a>
 
 ### 3. Hybrid AI
@@ -97,6 +97,10 @@ An intelligent agentic pipeline that combines privacy with high-end SEO formatti
 
 * **Local Analysis:** A local model extracts raw visual descriptions on your PC.
 * **Cloud Synthesis:** Only the extracted text is sent to a fast cloud model to format it into professional, comma-separated keywords and titles.
+
+**Local AI Detail Window: Processing a single photo using Local Vision and Cloud Text for perfect formatting (Ollama gemma4:e2b + Cloud Gemini 2.0 Flash Lite)**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_vision_cloud_text" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_vision_cloud_text.png" alt="ArtushVision AI Interface - Local AI Detail Window Processing" width="100%" class="screenshot-img">
 
 ### 4. Two-Step Local AI
 
