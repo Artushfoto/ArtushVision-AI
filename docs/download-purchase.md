@@ -23,8 +23,8 @@ h1 { text-align: center; }
 
 ArtushVision AI uses a single, unified build. The application operates in the Limited Free Version mode by default. Entering a valid license key inside the application settings instantly unlocks the full Pro Edition.
 
-* **[Download Standard Installer (.exe)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Recommended for Windows 10/11 64-bit. Guides you through the setup.
-* **[Download Portable Version (.zip)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Run without installation. Simply extract the archive and launch.
+* **[⬇️ Download Standard Installer (.exe)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Recommended for Windows 10/11 64-bit. Guides you through the setup.
+* **[⬇️ Download Portable Version (.zip)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Run without installation. Simply extract the archive and launch.
 
 ---
 
