@@ -21,25 +21,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # Oficiální akce GitHubu pro projekty bez Gemfile, která automaticky zvládne pluginy z _config.yml
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
-          ruby-version: '3.1'
+          source: ./
+          destination: ./_site
 
-      # Instalace Jekyllu a balíčků
-      - name: Install Jekyll and Dependencies
-        run: |
-          gem install jekyll jekyll-sitemap jekyll-feed
-
-      # Bezpečné sestavení s vynuceným UTF-8 kódováním a vypnutým striktním režimem
-      - name: Build Site
-        run: jekyll build --destination _site --safe
-        env:
-          JEKYLL_ENV: production
-          LANG: en_US.UTF-8
-          LC_ALL: en_US.UTF-8
-
-      # Sestavení vyhledávacího indexu nad vygenerovaným HTML
+      # Spustíme vyhledávací index nad vygenerovanou složkou _site
       - name: Run Pagefind Search Indexer
         run: npx pagefind --site _site
 
