@@ -218,7 +218,8 @@ h1 { text-align: center; }
 ## Complete Documentation Index
 
 ### 1. Getting Started
-- [System Requirements, Installation and First Launch](/docs/download-purchase.html)
+- [System Requirements & Installation](/docs/installation.html)
+- [First Launch & Activation](/docs/download-purchase.html)
 - [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
 - [Local AI & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
 

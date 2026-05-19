@@ -19,7 +19,7 @@ h1 { text-align: center; }
 
 ---
 
-## Installation & Downloads
+## Downloads
 
 ArtushVision AI uses a single, unified build. The application operates in the Limited Free Version mode by default. Entering a valid license key inside the application settings instantly unlocks the full Pro Edition.
 

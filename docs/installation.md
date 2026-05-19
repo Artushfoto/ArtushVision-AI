@@ -27,6 +27,10 @@ To ensure smooth operation, especially when running local AI engines and multi-t
 * **Graphics Card (GPU):** Dedicated NVIDIA GeForce RTX 3060 Ti, RTX 4060, or better with at least **8 GB VRAM**. CUDA support is highly recommended for hardware acceleration.
 * **Local AI System:** Installed and active Ollama environment (see our complete [Ollama Installation Guide](ollama-installation-guide.html)).
 
+
+### [Download installation files](/docs/download-purchase-html.)
+
+
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **[Trial Version](/docs/free-trial-limits-and-testing.html)**.
