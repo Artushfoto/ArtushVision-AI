@@ -13,7 +13,7 @@ th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
 
 # Advanced AI Prompting: Ultimate Control Over Your Metadata
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+[← Back to ArtushVision AI Home](/index.html)
 
 **Most AI keywording tools are black boxes, if you upload an image, and you get whatever generic keywords the developer decided you should get. ArtushVision AI flips this script entirely. Our built-in Profile Editor gives you absolute freedom to dictate exactly how the AI should "think", format, structure, and prioritize your metadata.**
 
@@ -133,7 +133,7 @@ This professional-grade prompt template is optimized for high-end microstock aut
     - **HARD CHARACTER LIMIT**: The 'description' value MUST be minimum 150 and maximum 200 characters long. Any output over 200 characters is a critical failure.
     - **STRICT KEYWORD LIMIT**: Array MUST contain exactly 50 strings.
     - **GEOGRAPHY-FREE**: Omit all location data (city, country) for studio shots.
-    - **STRICT ASCII FORMAT***: Use ONLY the basic 26-letter English alphabet. You MUST strip all diacritics and replace local or special characters from ANY language (e.g., ě,š,č,ř,ž,ý,á,í,é, ä,ö,ü,ß, ñ) with their plain English equivalents (e,s,c,r,z,y,a,i,e, a,o,u,ss, n). No single quotes or apostrophes.
+    - **STRICT ASCII FORMAT**: Use ONLY the basic 26-letter English alphabet. You MUST strip all diacritics and replace local or special characters from ANY language (e.g., ě,š,č,ř,ž,ý,á,í,é, ä,ö,ü,ß, ñ) with their plain English equivalents (e,s,c,r,z,y,a,i,e, a,o,u,ss, n). No single quotes or apostrophes.
     - **VALID JSON ONLY**: Return pure valid JSON. NO markdown formatting (do not use ```json). NO newlines, tabs, or control characters inside the string values.
 
 ---
@@ -162,7 +162,7 @@ Build a library of specialized workflows to switch between different project typ
 
 ---
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+[← Back to ArtushVision AI Home](/index.html)
 
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
