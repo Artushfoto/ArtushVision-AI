@@ -9,7 +9,7 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Detail Window Interface Overview
+# Detail Window Overview
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
