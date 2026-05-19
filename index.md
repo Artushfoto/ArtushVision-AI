@@ -37,6 +37,14 @@ h1 { text-align: center; }
 
 ---
 
+<!-- Vyhledávací pole -->
+<div id="search-container">
+  <input type="text" id="search-input" placeholder="Hledat na webu...">
+  <ul id="results-container"></ul>
+</div>
+
+---
+
 > **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
