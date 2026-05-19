@@ -26,6 +26,66 @@ h1 { text-align: center; }
 .screenshot-img:hover {
   opacity: 0.95;
 }
+
+/* Stylování vyhledávacího komponentu */
+#search-container {
+  position: relative;
+  max-width: 500px;
+  margin: 20px auto;
+}
+#search-input {
+  width: 100%;
+  padding: 12px 16px;
+  font-size: 16px;
+  border: 1px solid #444;
+  border-radius: 6px;
+  background-color: #1e1e1e;
+  color: #fff;
+  box-sizing: border-box;
+}
+#search-input:focus {
+  outline: none;
+  border-color: #555;
+  box-shadow: 0 0 8px rgba(255,255,255,0.1);
+}
+#results-container {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: #1e1e1e;
+  border: 1px solid #444;
+  border-radius: 0 0 6px 6px;
+  list-style: none;
+  padding: 0;
+  margin: 4px 0 0 0;
+  z-index: 100;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  max-height: 300px;
+  overflow-y: auto;
+}
+#results-container li {
+  border-bottom: 1px solid #2d2d2d;
+}
+#results-container li:last-child {
+  border-bottom: none;
+}
+#results-container li a {
+  display: block;
+  padding: 12px 16px;
+  text-decoration: none;
+  color: #ddd;
+  font-weight: 500;
+}
+#results-container li a:hover {
+  background-color: #2d2d2d;
+  color: #fff;
+}
+#results-container .no-results {
+  padding: 12px 16px;
+  color: #888;
+  font-style: italic;
+}
 </style>
 </div>
 
@@ -39,7 +99,7 @@ h1 { text-align: center; }
 
 <!-- Vyhledávací pole -->
 <div id="search-container">
-  <input type="text" id="search-input" placeholder="Hledat na webu...">
+  <input type="text" id="search-input" placeholder="Search documentation...">
   <ul id="results-container"></ul>
 </div>
 
@@ -303,3 +363,20 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+
+<!-- SKRIPTY PRO FUNKČNÍ VYHLEDÁVÁNÍ POMOCÍ SIMPLE-JEKYLL-SEARCH -->
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{ site.baseurl }}/search.json',
+      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+      noResultsText: '<li class="no-results">No documentation pages found</li>',
+      limit: 8,
+      fuzzy: false
+    });
+  });
+</script>
