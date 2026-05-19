@@ -21,18 +21,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Nebudeme web stavět, protože GitHub Pages ho v Actions režimu umí zpracovat i přímo z kořene.
-      # Pouze vytvoříme pracovní kopii a necháme Pagefind prohledat vaše .md soubory v docs/
-      - name: Run Pagefind Search Indexer
+      # Žádný Jekyll build! Pouze vytvoříme složku pro publikování
+      # a zkopírujeme do ní vaše zdrojové soubory
+      - name: Prepare Static Files
         run: |
-          mkdir -id _site
+          mkdir -p _site
           cp -r * _site/ 2>/dev/null || true
-          npx pagefind --site docs
 
+      # Spustíme Pagefind, aby vytvořil indexy přímo nad složkou docs/
+      # a výsledek uložíme do cílové složky _site
+      - name: Run Pagefind Search Indexer
+        run: npx pagefind --site _site --output-path _site/pagefind
+
+      # Nahrajeme hotovou složku _site jako artefakt pro Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./
+          path: ./_site
 
   deploy:
     environment:
