@@ -146,11 +146,11 @@ h1 { text-align: center; }
 # ArtushVision AI | Professional Metadata Automation
 
 <p align="center">
-  **The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global & FTP Distribution.**
+  <strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global & FTP Distribution.</strong>
 </p>
 
 <div id="flex-search-container">
-  <input type="text" id="flex-search-input" placeholder="Search documentation (e.g., FTP, Ollama, Getty)...">
+  <input type="text" id="flex-search-input" placeholder="Search documentation (e.g., FTP, Ollama, Getty, Manual)...">
   <ul id="flex-results-container"></ul>
 </div>
 
@@ -181,7 +181,7 @@ h1 { text-align: center; }
 <br>
 
 <p align="center">
-  **Securely processed by Polar & Stripe.** &bull; <a href="https://polar.sh">Manage your licensed devices</a>
+  <strong>Securely processed by Polar & Stripe.</strong> &bull; <a href="https://polar.sh">Manage your licensed devices</a>
 </p>
 
 ---
@@ -189,9 +189,11 @@ h1 { text-align: center; }
 ## Why ArtushVision AI?
 
 * **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast Cloud AI via OpenRouter or 100% private, free Local AI running fully offline via Ollama.
+* **[Advanced Manual Keywording](/docs/manual-editing-detailed-photo-view.html):** Take total control. Double-click any photo to manually add, drag-and-drop reorder, or delete keyword bubbles. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.
+* **[Smart Category Mapping](/docs/global-stock-distribution-ftp.html#universal-category-mapping):** A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.
 * **[Getty Images Master Tool](/docs/getty-images-esp-metadata-optimizer.html):** Validate keywords instantly against a built-in Master Dictionary of 11,746+ controlled commercial terms for near-perfect acceptance rates.
-* **[Smart FTP Distribution](/docs/global-stock-distribution-ftp.html):** "Zero-touch" simultaneous multi-server uploads with automatic, agency-specific CSV metadata generation on-the-fly.
-* **[Universal Compatibility](/docs/metadata-compatibility-and-file-handling.html):** Seamless background integration with Adobe Lightroom, Bridge, Zoner Photo Studio, and DigiKam.
+* **[Smart FTP Distribution](/docs/global-stock-distribution-ftp.html):** Simultaneously upload files to multiple stock agencies with automated, agency-specific CSV metadata generation on-the-fly.
+* **[Universal Compatibility](/docs/metadata-compatibility-and-file-handling.html):** Background integration using industry-standard formats compatible with Adobe Lightroom, Bridge, Zoner Photo Studio, and digiKam.
 
 ---
 
@@ -216,8 +218,7 @@ h1 { text-align: center; }
 ## Complete Documentation Index
 
 ### 1. Getting Started
-- [System Requirements & Installation](/docs/ollama-installation-guide.html)
-- [First Launch & Activation](/docs/download-purchase.html)
+- [System Requirements, Installation and First Launch](/docs/download-purchase.html)
 - [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
 - [Local AI & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
 
