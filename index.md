@@ -323,9 +323,6 @@ Modify thousands of assets simultaneously with surgical precision.
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
 
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-
 <div style="max-width: 500px; margin: 20px auto; position: relative;">
   <input type="text" id="flex-search-input" placeholder="Search documentation..." style="width: 100%; padding: 12px 16px; font-size: 16px; border: 1px solid #444; border-radius: 6px; background-color: #1e1e1e; color: #fff; box-sizing: border-box;">
   <ul id="flex-results-container" style="position: absolute; top: 100%; left: 0; width: 100%; background: #1e1e1e; border: 1px solid #444; border-radius: 0 0 6px 6px; list-style: none; padding: 0; margin: 4px 0 0 0; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.3); max-height: 300px; overflow-y: auto; display: none;"></ul>
@@ -337,41 +334,45 @@ Modify thousands of assets simultaneously with surgical precision.
 document.addEventListener("DOMContentLoaded", function() {
   var searchInput = document.getElementById('flex-search-input');
   var resultsContainer = document.getElementById('flex-results-container');
-  var searchIndex;
-  var documentsData = [];
+  var indexTitle, indexContent;
+  var documentsMap = {};
 
   if (!searchInput || !resultsContainer) return;
 
-  // 1. Vytvoření inteligentního vyhledávacího indexu s podporou překlepů (fuzzy)
-  searchIndex = new FlexSearch.Document({
-    document: {
-      id: "id",
-      index: ["title", "content"],
-      store: ["title", "url"]
-    },
+  // 1. Vytvoříme dva samostatné indexy pro striktní oddělení priorit
+  indexTitle = new FlexSearch.Index({
     tokenize: "forward",
     resolution: 9,
     depth: 1
   });
 
-  // 2. Stažení existujícího indexu search.json generovaného Jekyllem
+  indexContent = new FlexSearch.Index({
+    tokenize: "forward",
+    resolution: 5,
+    depth: 1
+  });
+
+  // 2. Stažení dat ze search.json a jejich indexace s prioritami
   fetch('/search.json')
     .then(response => response.json())
     .then(data => {
       data.forEach((item, index) => {
-        var doc = {
-          id: index,
+        var id = index;
+        
+        // Uložíme si čistá data pro pozdější vykreslení
+        documentsMap[id] = {
           title: item.title,
-          url: item.url,
-          content: item.content || ""
+          url: item.url
         };
-        documentsData.push(doc);
-        searchIndex.add(doc);
+
+        // Přidáme data do indexů odděleně
+        indexTitle.add(id, item.title);
+        indexContent.add(id, item.content || "");
       });
     })
     .catch(err => console.error("Kompilace vyhledávání selhala:", err));
 
-  // 3. Reakce na psaní do vyhledávacího pole
+  // 3. Logika inteligentního vyhledávání a řazení
   searchInput.addEventListener('input', function() {
     var query = this.value.trim();
     resultsContainer.innerHTML = '';
@@ -381,28 +382,39 @@ document.addEventListener("DOMContentLoaded", function() {
       return;
     }
 
-    var results = searchIndex.search(query, { limit: 8, enrich: true });
-    var uniqueIds = new Set();
-    var matchedDocs = [];
+    // Prohledáme oba indexy nezávisle
+    var titleResults = indexTitle.search(query, { limit: 10 });
+    var contentResults = indexContent.search(query, { limit: 10 });
 
-    if (results && results.length > 0) {
-      results.forEach(fieldResult => {
-        fieldResult.result.forEach(res => {
-          if (!uniqueIds.has(res.id)) {
-            uniqueIds.add(res.id);
-            matchedDocs.push(res.doc);
-          }
-        });
-      });
-    }
+    // Bodovací systém (Scoring) pro určení inteligence řazení
+    var scores = {};
 
-    if (matchedDocs.length > 0) {
-      matchedDocs.forEach(doc => {
+    // Kdo má shodu v nadpisu, získá obrovský bonus (vyskočí nahoru)
+    titleResults.forEach(id => {
+      scores[id] = (scores[id] || 0) + 10;
+    });
+
+    // Kdo má shodu v textu/odstavcích, získá menší základní body
+    contentResults.forEach(id => {
+      scores[id] = (scores[id] || 0) + 1;
+    });
+
+    // Seřadíme ID stránek podle dosaženého skóre (sestupně)
+    var sortedIds = Object.keys(scores).sort((a, b) => scores[b] - scores[a]);
+
+    // Omezíme výpis na 8 nejrelevantnějších výsledků
+    var finalIds = sortedIds.slice(0, 8);
+
+    if (finalIds.length > 0) {
+      finalIds.forEach(id => {
+        var doc = documentsMap[id];
+        if (!doc) return;
+
         var li = document.createElement('li');
         li.style.borderBottom = '1px solid #2d2d2d';
         li.innerHTML = '<a href="' + doc.url + '" style="display: block; padding: 12px 16px; text-decoration: none; color: #ddd; font-weight: 500;">' + doc.title + '</a>';
         
-        // Zvýraznění při najetí myší
+        // Vizuální efekty při najetí myší
         li.querySelector('a').addEventListener('mouseover', function() { this.style.backgroundColor = '#2d2d2d'; this.style.color = '#fff'; });
         li.querySelector('a').addEventListener('mouseout', function() { this.style.backgroundColor = 'transparent'; this.style.color = '#ddd'; });
         
@@ -415,14 +427,14 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 
-  // 4. Skrytí výsledků při kliknutí mimo vyhledávač
+  // Skrytí výsledků při kliknutí mimo
   document.addEventListener('click', function(e) {
     if (e.target !== searchInput && e.target !== resultsContainer) {
       resultsContainer.style.display = 'none';
     }
   });
 
-  // 5. Podpora klávesy Enter pro rychlý skok na první nalezený výsledek
+  // Podpora klávesy Enter pro okamžitý skok
   searchInput.addEventListener('keydown', function(e) {
     if (e.key === 'Enter') {
       e.preventDefault();
