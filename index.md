@@ -372,11 +372,13 @@ Modify thousands of assets simultaneously with surgical precision.
     SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
-      json: '/search.json', // Hledá soubor přímo v kořeni domény vision.artushfoto.eu
+      json: '/search.json',
       searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
       noResultsText: '<li class="no-results">No documentation pages found</li>',
       limit: 8,
-      fuzzy: false
+      fuzzy: false,
+      // CRITICAL FIX: Tímto řeknete knihovně, aby prohledávala titulky i samotný text
+      searchFields: ['title', 'content'] 
     });
   });
 </script>
