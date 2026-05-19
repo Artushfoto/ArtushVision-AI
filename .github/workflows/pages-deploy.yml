@@ -25,11 +25,9 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: true # Automaticky si přečte Gemfile a nacachuje ho pro rychlost
+          bundler-cache: true # Načte náš upravený Gemfile bez konfliktů
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
+      # KLÍČOVÁ ZMĚNA: Použijeme standardní čistý build, který ignoruje striktní limity GitHubu
       - name: Build with Jekyll
         run: bundle exec jekyll build --destination _site
         env:
@@ -37,7 +35,7 @@ jobs:
           LANG: en_US.UTF-8
           LC_ALL: en_US.UTF-8
 
-      # GENIALITA PAGEFINDU: Tady se na základě hotových HTML souborů sestaví chytré vyhledávání
+      # Sestavení vyhledávacího indexu Pagefind nad hotovým webem
       - name: Run Pagefind Search Indexer
         run: npx pagefind --site _site
 
