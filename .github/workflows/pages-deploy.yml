@@ -21,21 +21,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1'
-          bundler-cache: true
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
+      # Použijeme oficiální akcelerovaný build přímo od GitHubu bez Bundleru
       - name: Build with Jekyll
-        run: bundle exec jekyll build --destination _site
-        env:
-          JEKYLL_ENV: production
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
 
-      # TENTO KROK STSTAVÍ INTELIGENTNÍ INDEX
+      # Spustíme inteligentní vyhledávací index nad vygenerovaným webem
       - name: Run Pagefind Search Indexer
         run: npx pagefind --site _site
 
