@@ -364,20 +364,36 @@ Modify thousands of assets simultaneously with surgical precision.
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
 
-<!-- SKRIPTY PRO FUNKČNÍ VYHLEDÁVÁNÍ POMOCÍ SIMPLE-JEKYLL-SEARCH -->
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
+    var searchInput = document.getElementById('search-input');
+    var resultsContainer = document.getElementById('results-container');
+
+    var sjs = SimpleJekyllSearch({
+      searchInput: searchInput,
+      resultsContainer: resultsContainer,
       json: '/search.json',
-      searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-      noResultsText: '<li class="no-results">No documentation pages found</li>',
+      // Přidáno explicitní stylování přímo do šablony pro 100% jistotu viditelnosti
+      searchResultTemplate: '<li><a href="{url}" style="display:block; padding:12px 16px; color:#fff; text-decoration:none; font-weight:500;">{title}</a></li>',
+      noResultsText: '<li class="no-results" style="padding:12px 16px; color:#888; font-style:italic;">No documentation pages found</li>',
       limit: 8,
       fuzzy: false,
       searchFields: ['title', 'content']
+    });
+
+    // FIX PRO KLÁVESU ENTER: Když uživatel stiskne Enter, skočí to na první výsledek
+    searchInput.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') {
+        e.preventDefault(); // Zabrání resetu stránky
+        setTimeout(function() {
+          var firstLink = resultsContainer.querySelector('li a');
+          if (firstLink) {
+            window.location.href = firstLink.href;
+          }
+        }, 50);
+      }
     });
   });
 </script>
