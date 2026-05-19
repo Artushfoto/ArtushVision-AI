@@ -97,7 +97,6 @@ h1 { text-align: center; }
 
 ---
 
-<!-- Vyhledávací pole -->
 <div id="search-container">
   <input type="text" id="search-input" placeholder="Search documentation...">
   <ul id="results-container"></ul>
@@ -331,7 +330,7 @@ Modify thousands of assets simultaneously with surgical precision.
 
 * **[Smart Actions:](/docs/batch-operations-metadata-library-management.html#smart-metadata-actions)** Bulk **[Add, Remove, or Replace](/docs/batch-operations-metadata-library-management.html#smart-metadata-actions)** text across Title, Description, or Keywords.
 * **[Search & Replace (Ctrl+H):](/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Advanced string manipulations across your entire library.
-* **[Dynamic Batch Rename:](/docs/batch-operations-metadata-library-management.html#dynamic-batch-rename)** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}` (counter).
+* **[Dynamic Batch Rename:](/docs/batch-rename-operations-metadata-library-management.html)** Use placeholders like `{TITLE}`, `{DATE}`, and `{CC}` (counter).
 * **[File Operations:](/docs/batch-operations-metadata-library-management.html#synchronized-file-operations)** Safely Copy, Move, or Delete files along with their **XMP and sidecars**.
 
 ---
@@ -367,33 +366,29 @@ Modify thousands of assets simultaneously with surgical precision.
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var searchInput = document.getElementById('search-input');
-    var resultsContainer = document.getElementById('results-container');
-
-    var sjs = SimpleJekyllSearch({
-      searchInput: searchInput,
-      resultsContainer: resultsContainer,
-      json: '/search.json',
-      // Přidáno explicitní stylování přímo do šablony pro 100% jistotu viditelnosti
-      searchResultTemplate: '<li><a href="{url}" style="display:block; padding:12px 16px; color:#fff; text-decoration:none; font-weight:500;">{title}</a></li>',
-      noResultsText: '<li class="no-results" style="padding:12px 16px; color:#888; font-style:italic;">No documentation pages found</li>',
-      limit: 8,
-      fuzzy: false,
-      searchFields: ['title', 'content']
-    });
-
-    // FIX PRO KLÁVESU ENTER: Když uživatel stiskne Enter, skočí to na první výsledek
-    searchInput.addEventListener('keydown', function(e) {
-      if (e.key === 'Enter') {
-        e.preventDefault(); // Zabrání resetu stránky
-        setTimeout(function() {
-          var firstLink = resultsContainer.querySelector('li a');
-          if (firstLink) {
-            window.location.href = firstLink.href;
-          }
-        }, 50);
-      }
-    });
-  });
+document.addEventListener("DOMContentLoaded", function() {
+var searchInput = document.getElementById('search-input');
+var resultsContainer = document.getElementById('results-container');
+var sjs = SimpleJekyllSearch({
+searchInput: searchInput,
+resultsContainer: resultsContainer,
+json: '/search.json',
+searchResultTemplate: '<li><a href="{url}" style="display:block; padding:12px 16px; color:#fff; text-decoration:none; font-weight:500;">{title}</a></li>',
+noResultsText: '<li class="no-results" style="padding:12px 16px; color:#888; font-style:italic;">No documentation pages found</li>',
+limit: 8,
+fuzzy: false,
+searchFields: ['title', 'content']
+});
+searchInput.addEventListener('keydown', function(e) {
+if (e.key === 'Enter') {
+e.preventDefault();
+setTimeout(function() {
+var firstLink = resultsContainer.querySelector('li a');
+if (firstLink) {
+window.location.href = firstLink.href;
+}
+}, 50);
+}
+});
+});
 </script>
