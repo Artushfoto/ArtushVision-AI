@@ -221,7 +221,7 @@ h1 { text-align: center; }
 - [System Requirements & Installation](/docs/installation.html)
 - [First Launch & Activation](/docs/download-purchase.html)
 - [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
-- [Local AI & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
+- [Local AI Setup & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
 - [Interface Overview](/docs/interface-overview.html)
 - [Detail Window Interface Overview](/docs/detail-window-interface-overview.html)
 
