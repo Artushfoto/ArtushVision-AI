@@ -27,38 +27,7 @@ h1 { text-align: center; }
   opacity: 0.95;
 }
 
-/* Úprava tmavého vizuálu pro vestavěné vyhledávací UI Pagefind */
-#search {
-  --pagefind-ui-primary: #ffffff;
-  --pagefind-ui-text: #dddddd;
-  --pagefind-ui-background: #1e1e1e;
-  --pagefind-ui-border: #444444;
-  --pagefind-ui-tag: #2d2d2d;
-  width: 100%;
-}
-.pagefind-ui__result-title a {
-  color: #ffffff !important;
-  font-weight: 600;
-}
-.pagefind-ui__result-excerpt mark {
-  background-color: #ffd700 !important;
-  color: #000000 !important;
-  font-weight: bold;
-  border-radius: 2px;
-  padding: 0 2px;
-}
-</style>
-</div>
-
-# ArtushVision AI | Professional Metadata Automation
-
-<p align="center">
-  **The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global & FTP Distribution.**
-</p>
-
----
-
-<style>
+/* GitHub Téma vyhledávacího komponentu (Světlý i Tmavý režim) */
 #flex-search-container {
   max-width: 500px;
   margin: 20px auto;
@@ -90,7 +59,7 @@ h1 { text-align: center; }
 #flex-search-input:focus {
   outline: none;
   background-color: #ffffff;
-  border-color: #0969da; /* GitHub Light modrá */
+  border-color: #0969da;
   box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.3);
 }
 
@@ -115,7 +84,6 @@ h1 { text-align: center; }
 }
 
 #flex-results-container li {
-  border-bottom: 1px solid #hsla(210, 18%, 87%, 1);
   border-bottom: 1px solid #d0d7de;
 }
 
@@ -133,9 +101,8 @@ h1 { text-align: center; }
   transition: background-color 0.1s, color 0.1s;
 }
 
-/* Najetí myší ve světlém režimu */
 #flex-results-container li a:hover {
-  background-color: #0969da; /* Výběr v GitHub Light */
+  background-color: #0969da;
   color: #ffffff;
 }
 
@@ -146,9 +113,7 @@ h1 { text-align: center; }
   font-size: 14px;
 }
 
-/* ==========================================================================
-   AUTOMATICKÝ PŘECHOD NA TMAVÝ REŽIM (Pokud ho má uživatel aktivní v systému)
-   ========================================================================== */
+/* AUTOMATICKÝ PŘECHOD NA TMAVÝ REŽIM */
 @media (prefers-color-scheme: dark) {
   #flex-search-input {
     border: 1px solid #30363d;
@@ -189,15 +154,17 @@ h1 { text-align: center; }
   }
 }
 </style>
+</div>
+
+# ArtushVision AI | Professional Metadata Automation
+
+<p align="center">
+  **The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global & FTP Distribution.**
+</p>
 
 <div id="flex-search-container">
   <input type="text" id="flex-search-input" placeholder="Search documentation...">
   <ul id="flex-results-container"></ul>
-</div>
-
----
-<div style="max-width: 500px; margin: 20px auto; padding: 0 10px;">
-  <div id="search"></div>
 </div>
 
 ---
@@ -373,7 +340,7 @@ Own your tools and pay only for the AI you use.
 * **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
 * **[Status Filtering:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
 * **[Quality Control:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Find files that have **Exceeded Limits** or are **Corrupted**.
-* **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#rating-and-labels)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots.
+* **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots.
 
 **Batch Edit Toolbar**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" target="_blank" class="screenshot-link">
@@ -460,3 +427,78 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+
+<script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var searchInput = document.getElementById('flex-search-input');
+  var resultsContainer = document.getElementById('flex-results-container');
+  var indexTitle, indexContent;
+  var documentsMap = {};
+
+  if (!searchInput || !resultsContainer) return;
+
+  indexTitle = new FlexSearch.Index({ tokenize: "forward", resolution: 9, depth: 1 });
+  indexContent = new FlexSearch.Index({ tokenize: "forward", resolution: 5, depth: 1 });
+
+  fetch('/search.json')
+    .then(response => response.json())
+    .then(data => {
+      data.forEach((item, index) => {
+        var id = index;
+        documentsMap[id] = { title: item.title, url: item.url };
+        indexTitle.add(id, item.title);
+        indexContent.add(id, item.content || "");
+      });
+    })
+    .catch(err => console.error("Kompilace vyhledávání selhala:", err));
+
+  searchInput.addEventListener('input', function() {
+    var query = this.value.trim();
+    resultsContainer.innerHTML = '';
+    
+    if (query.length < 2) {
+      resultsContainer.style.display = 'none';
+      return;
+    }
+
+    var titleResults = indexTitle.search(query, { limit: 10 });
+    var contentResults = indexContent.search(query, { limit: 10 });
+    var scores = {};
+
+    titleResults.forEach(id => { scores[id] = (scores[id] || 0) + 10; });
+    contentResults.forEach(id => { scores[id] = (scores[id] || 0) + 1; });
+
+    var sortedIds = Object.keys(scores).sort((a, b) => scores[b] - scores[a]);
+    var finalIds = sortedIds.slice(0, 8);
+
+    if (finalIds.length > 0) {
+      finalIds.forEach(id => {
+        var doc = documentsMap[id];
+        if (!doc) return;
+        var li = document.createElement('li');
+        li.innerHTML = '<a href="' + doc.url + '">' + doc.title + '</a>';
+        resultsContainer.appendChild(li);
+      });
+      resultsContainer.style.display = 'block';
+    } else {
+      resultsContainer.innerHTML = '<div class="no-results-msg">No documentation pages found</div>';
+      resultsContainer.style.display = 'block';
+    }
+  });
+
+  document.addEventListener('click', function(e) {
+    if (e.target !== searchInput && e.target !== resultsContainer) {
+      resultsContainer.style.display = 'none';
+    }
+  });
+
+  searchInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      var firstLink = resultsContainer.querySelector('li a');
+      if (firstLink) window.location.href = firstLink.href;
+    }
+  });
+});
+</script>
