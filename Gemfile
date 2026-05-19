@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.3"
+# Tímto řekneme, že chceme verzi, kterou GitHub Pages vyžaduje
+gem "jekyll", "~> 3.9"
 
 group :jekyll_plugins do
   gem "jekyll-sitemap"
