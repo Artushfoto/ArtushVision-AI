@@ -41,7 +41,10 @@ A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVis
 * **Visual Context Highlighting:** When selecting a term in the Resolver, the application highlights all thumbnails in your grid that contain that specific concept, allowing for instant batch verification.
 * **Dynamic Word Splitting:** Double-click any complex phrase to split it into individual terms. The application re-evaluates the new terms against the Master Dictionary in real-time.
 
-[IMAGE: A close-up screenshot of the Interactive Resolver window showcasing the AI suggested terms and keyword checkboxes.]
+**Interactive AI Resolver and Disambiguation**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation" width="100%" class="screenshot-img">
+</a>    
 
 ---
 

@@ -29,7 +29,10 @@ Not all stock agencies are built the same. While some servers can handle aggress
 * **Smart Fallback:** If the application detects a "421 Too many connections" error, it automatically drops the thread count and seamlessly reconnects without failing the batch.
 * **Auto-Resumes and Retries:** Set global retry limits for dropped connections or server timeouts to ensure your files always reach their destination.
 
-[IMAGE: A close-up screenshot of the Manage FTP Servers dialog, highlighting the Concurrent Threads slider and the CSV Template dropdown.]
+**Global Distribution & Smart FTP Suite**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp_multiple_upload.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp_multiple_upload.png" alt="ArtushVision AI - Global Distribution & Smart FTP Suite" width="100%" class="screenshot-img">
+</a>   
 
 ---
 
