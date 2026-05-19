@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # Interface Overview
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 **The Image Grid is the central workspace of ArtushVision AI. Designed to handle thousands of high-resolution assets without stuttering, it provides immediate visual feedback, advanced batch editing, and an intuitive drag-and-drop interface for your metadata.**
 
 Instead of hiding data in complex side panels, ArtushVision AI displays the Title, Description, and Keywords directly below every image. This allows you to review and edit entire batches of photos at a single glance.
