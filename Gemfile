@@ -1,9 +1,4 @@
 source "https://rubygems.org"
 
-# Tímto řekneme, že chceme verzi, kterou GitHub Pages vyžaduje
-gem "jekyll", "~> 3.9"
-
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-feed"
-end
+# Oficiální balíček, který v sobě má přesnou verzi Jekyllu i sitemap pluginu
+gem "github-pages", group: :jekyll_plugins
