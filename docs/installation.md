@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Download ArtushVision AI | Installer & System Requirements"
 description: "Download the latest version of ArtushVision AI for Windows. Check hardware requirements for local Ollama AI photo tagging and metadata automation."
 ---
