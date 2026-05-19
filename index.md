@@ -222,11 +222,7 @@ h1 { text-align: center; }
 - [First Launch & Activation](/docs/download-purchase.html)
 - [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
 - [Local AI & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
-<<<<<<< HEAD
-- [Interface Overview](/docs/interface_overwiev.html)
-=======
-- [Interface Overview](/docs/interface?overwiev.html)
->>>>>>> 99dd5f1ae483faf0bfd924949323adf0f3fa6230
+- [Interface Overview](/docs/interface-overwiev.html)
 
 ### 2. Core Workflows
 - [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
