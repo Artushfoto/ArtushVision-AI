@@ -28,7 +28,7 @@ To ensure smooth operation, especially when running local AI engines and multi-t
 * **Local AI System:** Installed and active Ollama environment (see our complete [Ollama Installation Guide](ollama-installation-guide.html)).
 
 
-### [Download installation files](/docs/download-purchase-html.)
+### [⬇️ Download installation files⬇](/docs/download-purchase.html.)
 
 
 ### First Launch
