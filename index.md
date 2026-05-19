@@ -27,64 +27,25 @@ h1 { text-align: center; }
   opacity: 0.95;
 }
 
-/* Stylování vyhledávacího komponentu */
-#search-container {
-  position: relative;
-  max-width: 500px;
-  margin: 20px auto;
-}
-#search-input {
+/* Úprava tmavého vizuálu pro vestavěné vyhledávací UI Pagefind */
+#search {
+  --pagefind-ui-primary: #ffffff;
+  --pagefind-ui-text: #dddddd;
+  --pagefind-ui-background: #1e1e1e;
+  --pagefind-ui-border: #444444;
+  --pagefind-ui-tag: #2d2d2d;
   width: 100%;
-  padding: 12px 16px;
-  font-size: 16px;
-  border: 1px solid #444;
-  border-radius: 6px;
-  background-color: #1e1e1e;
-  color: #fff;
-  box-sizing: border-box;
 }
-#search-input:focus {
-  outline: none;
-  border-color: #555;
-  box-shadow: 0 0 8px rgba(255,255,255,0.1);
+.pagefind-ui__result-title a {
+  color: #ffffff !important;
+  font-weight: 600;
 }
-#results-container {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  width: 100%;
-  background: #1e1e1e;
-  border: 1px solid #444;
-  border-radius: 0 0 6px 6px;
-  list-style: none;
-  padding: 0;
-  margin: 4px 0 0 0;
-  z-index: 100;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-  max-height: 300px;
-  overflow-y: auto;
-}
-#results-container li {
-  border-bottom: 1px solid #2d2d2d;
-}
-#results-container li:last-child {
-  border-bottom: none;
-}
-#results-container li a {
-  display: block;
-  padding: 12px 16px;
-  text-decoration: none;
-  color: #ddd;
-  font-weight: 500;
-}
-#results-container li a:hover {
-  background-color: #2d2d2d;
-  color: #fff;
-}
-#results-container .no-results {
-  padding: 12px 16px;
-  color: #888;
-  font-style: italic;
+.pagefind-ui__result-excerpt mark {
+  background-color: #ffd700 !important;
+  color: #000000 !important;
+  font-weight: bold;
+  border-radius: 2px;
+  padding: 0 2px;
 }
 </style>
 </div>
@@ -97,9 +58,8 @@ h1 { text-align: center; }
 
 ---
 
-<div id="search-container">
-  <input type="text" id="search-input" placeholder="Search documentation...">
-  <ul id="results-container"></ul>
+<div style="max-width: 500px; margin: 20px auto; padding: 0 10px;">
+  <div id="search"></div>
 </div>
 
 ---
@@ -363,32 +323,27 @@ Modify thousands of assets simultaneously with surgical precision.
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
 
-<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-var searchInput = document.getElementById('search-input');
-var resultsContainer = document.getElementById('results-container');
-var sjs = SimpleJekyllSearch({
-searchInput: searchInput,
-resultsContainer: resultsContainer,
-json: '/search.json',
-searchResultTemplate: '<li><a href="{url}" style="display:block; padding:12px 16px; color:#fff; text-decoration:none; font-weight:500;">{title}</a></li>',
-noResultsText: '<li class="no-results" style="padding:12px 16px; color:#888; font-style:italic;">No documentation pages found</li>',
-limit: 8,
-fuzzy: false,
-searchFields: ['title', 'content']
-});
-searchInput.addEventListener('keydown', function(e) {
-if (e.key === 'Enter') {
-e.preventDefault();
-setTimeout(function() {
-var firstLink = resultsContainer.querySelector('li a');
-if (firstLink) {
-window.location.href = firstLink.href;
-}
-}, 50);
-}
-});
-});
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({ 
+      element: "#search", 
+      showSubResults: true,
+      translations: {
+        placeholder: "Search documentation...",
+        clear_search: "Clear",
+        load_more: "Load more results",
+        search_label: "Search",
+        filters_label: "Filters",
+        zero_results: "No results found for [SEARCH_TERM]",
+        many_results: "[COUNT] results found for [SEARCH_TERM]",
+        one_result: "[COUNT] result found for [SEARCH_TERM]",
+        alt_search: "No results for [SEARCH_TERM]. Showing results for [ALT_TERM] instead",
+        search_declined: "Search declined",
+        searching: "Searching..."
+      }
+    });
+  });
 </script>

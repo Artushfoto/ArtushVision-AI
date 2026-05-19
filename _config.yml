@@ -1,6 +1,24 @@
-title: "&nbsp;"
-description: Ultimate AI-powered workstation for photography metadata, Getty Images optimization, and global stock distribution.
+# --- _config.yml ---
+# Hlavní nastavení webu
+title: "ArtushVision AI | Professional Photo Metadata & Auto Keywording"
+description: "Ultimate AI-powered workstation for photography metadata, Getty Images optimization, and global stock distribution."
 lang: en
 url: "https://vision.artushfoto.eu"
+baseurl: "" # Ponechte prázdné pro správné směřování z kořene subdomény
+
+# Nastavení kompilace a formátování
+markdown: kramdown
+highlighter: rouge
+
+# Povolené pluginy na GitHub Pages
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
+
+# Výchozí chování pro soubory (volitelné)
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+# --- _config.yml ---
