@@ -21,29 +21,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1'
-          bundler-cache: true # Bundler si sám nainstaluje přesné verze z github-pages gemu
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      # Sestavení webu pomocí přesných verzí github-pages
-      - name: Build with Jekyll
-        run: bundle exec jekyll build --destination _site
-        env:
-          JEKYLL_ENV: production
-          LANG: en_US.UTF-8
-          LC_ALL: en_US.UTF-8
-
-      # Spuštění inteligentního vyhledávacího indexu nad hotovými HTML soubory
+      # Nebudeme web stavět, protože GitHub Pages ho v Actions režimu umí zpracovat i přímo z kořene.
+      # Pouze vytvoříme pracovní kopii a necháme Pagefind prohledat vaše .md soubory v docs/
       - name: Run Pagefind Search Indexer
-        run: npx pagefind --site _site
+        run: |
+          mkdir -id _site
+          cp -r * _site/ 2>/dev/null || true
+          npx pagefind --site docs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./
 
   deploy:
     environment:
