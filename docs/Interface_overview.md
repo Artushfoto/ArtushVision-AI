@@ -11,43 +11,108 @@ h1 { text-align: center; }
 
 # Interface Overview
 
-### Top Toolbar
-* **Profile:** [**Select AI prompts**](/docs/advanced-ai-prompting-profiles-variables.html) (e.g., "Stock Photography"). Click the **[Gear icon](/docs/advanced-ai-prompting-profiles-variables.html#4-profile-management-and-workflows)** to customize.
-* **[Run AI:](/docs/ai-metadata-generation-cloud-local-ollama.html)** The **Play button** starts analysis for all selected images.
-* **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names, specific animal species, obscure landmarks, or lesser-known objects) as unquestionable facts. When this hint is provided, the AI completely eliminates hallucinations, bypassing generic assumptions and strictly anchoring its analysis to your verified input. This is exceptionally useful for images lacking GPS data, where pinpointing the exact location or context from the visual alone would otherwise be nearly impossible.
-* **Flat View:** Toggle to see all files from all subfolders in a single unified list.
-* **[Backup](/docs/settings-configuration-customization.html#backup-and-data-safety):** Safety checkboxes for automated **[CSV, XMP, and Original JPG backups](/docs/settings-configuration-customization.html#backup-and-data-safety)**.
+ArtushVision AI is designed for maximum productivity when processing hundreds or thousands of photos. The entire interface is centered around the main Grid, offering instant visual feedback and advanced filtering capabilities.
 
-**Top Toolbar**
+## Top Toolbar
+This bar provides basic application control and triggers AI operations:
+*   **Profile:** Select an AI profile (e.g., *Standard Stock Photography*). This defines the instructions given to the AI. Click the Gear icon ⚙️ button to open the Profile Editor.
+* **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names, specific animal species, obscure landmarks, or lesser-known objects) as unquestionable facts. When this hint is provided, the AI completely eliminates hallucinations, bypassing generic assumptions and strictly anchoring its analysis to your verified input. This is exceptionally useful for images lacking GPS data, where pinpointing the exact location or context from the visual alone would otherwise be nearly impossible.
+*   [**Run Cloud AI / Local AI:**](/docs/ai-metadata-generation-cloud-local-ollama.html) The main green (or blue/orange) button to start the AI analysis for the selected photos.
+*   **Columns:** Quickly change the number of columns in the grid. The **Auto** option dynamically adjusts the grid to fit the window size.
+*   **Speed:** Number of concurrent threads for Cloud AI (recommended 5-15). Determines how many photos are analyzed simultaneously.
+*   **Sorting:** Allows you to sort photos by name (A-Z, Z-A) or by date taken (oldest / newest).
+*   **Flat View:** Displays all photos from all loaded folders in a single continuous list (hides folder separators).
+*   [**Backup (CSV / XMP / JPG):**](/docs/settings-configuration-customization.html#backup-and-data-safety) Quick toggles that determine which backups should be created when saving changes.
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" alt="ArtushVision AI - Top Toolbar" width="100%" class="screenshot-img">
 </a>
 
-### Filter Bar
+## Filter & Search Bar
 * **[Smart Search:](/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
-* **Navigation:** Folder dropdown with **real-time photo counts** and format filters.
-* **[Status Filtering:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Isolate files based on workflow state (**Modified, Done, Error**) or FTP status.
-* **[Quality Control:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Find files that have **Exceeded Limits** or are **Corrupted**.
-* **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots.
+Tools for quick navigation and file selection within the current session:
+*   **Folder:** Filters the view to show only a specific loaded folder.
+*   [**Status Filter:**](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)Shows photos based on their current status (All, Selected, Todo, Done, Modified, Corrupted, Exceeded limits, FTP status, etc.).
+*   **Type:** Restricts the view to specific file formats (JPG, RAW, Video, TIFF, HEIC, PNG).
+* **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots..
+*   **Search:** Full-text search. You can specify the target field (Everywhere, Title, Description, Keywords). Supports case sensitivity (Aa).
+*   **Panel Toggles:** The rightmost buttons show/hide the side panels for *Rating* and *Batch Edit*.
 
-**Batch Edit Toolbar**
+## Batch Edit Bar
+The bottom slide-out bar allows for massive metadata operations across the entire selection at once.
+*   **Target (Dropdown):** Determines whether the edit affects the Title, Description, Keywords, or All fields.
+*   **Add (+):** Appends the specified text to the beginning, end, or as a new tag to all selected items. *Supports dynamic variables* (e.g., `{DATE}`, `{FOLDER_NAME}`, `{C}` as a counter).
+*   **Remove (-):** Deletes a specific word or phrase from all selected items.
+*   **Replace (⇄):** Opens the text replacement dialog (supports Find Next / Replace All). Can be triggered by `Ctrl+H`.
+*   **Categories:** Allows bulk assignment of up to 3 Master Categories (stock photography categories) to the selected photos.
+*   **Clear All (×):** Completely erases the chosen fields for the selection.
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
 </a>
 
-### [The Image Grid](/docs/manual-editing-detailed-photo-view.html#image-grid)
-* **Visual Status Indicators:** Small markers in the top-right corner: ⚪ (Unchanged), 🟡 (Modified), 🟢 (Saved), 🔴 (Error).
-* **Thumbnail Badges:** Top-left icons: **GPS, XMP, ORIG, RAW, VIDEO, GETTY, FTP, CAT,** or **⚠️**.
-* **Context Menu (Right-Click):** Access AI analysis, Getty Optimizer, and full File Operations (Copy/Move/Delete).
+## Main Grid (The Image Grid)
+The core of the application. Each card in the grid represents a single file and allows direct metadata editing.
+
+### Visual States and Indicators (Cards)
+Photo cards change their background color based on their current state:
+*   **Gray / White:** Default state, no unsaved changes.
+*   **Yellow:** *Modified* - The photo contains unsaved edits.
+*   **Green:** *Saved* - Metadata has been successfully saved to disk
+*   **Red:** *Error* - Validation error. The photo does not meet the minimum/maximum limits for characters or words (e.g., the title is too long).
+
+### Information Badges
+Micro-badges may appear below the photo thumbnail, indicating file properties:
+*   **GPS:** The file contains GPS coordinates.
+*   **XMP:** An XMP sidecar file with metadata exists for this file.
+*   **ORIG:** A backup of the original file exists (from a previous save).
+*   **CSV:** Data for this file is recorded in a CSV backup.
+*   **RAW** / **VIDEO:** Indicates special file formats.
+*   **GETTY:** Keywords have been optimized for Getty Images ESP.
+*   **CAT:** Master categories have been assigned to the photo. (Hover to see the list).
+*   ⚠️ **N/A:** Corrupted or unreadable file.
+
+### Grid Editing Features
+*   **Keywords (Bubbles):** Can be added using the `+` button. They support **Drag & Drop** (moving and reordering), even for multi-selection (Ctrl+Click, Ctrl+A).
+    *   *Blue bubble:* Word generated by AI.
+    *   *Green bubble:* Word manually added by the user.
+    *   *Gray/White bubble:* Original word loaded from the file.
+*   **Text Fields (Title/Description):** Automatically monitor character limits. Typos are underlined (red wavy line).
+*   **Smart Sync:** Typing a word into the Title/Description when multiple photos are selected will intelligently append the text to all selected cards in real-time.
+*   **Quick Clear:** The cross (×) in the field header clears the content of that specific field for the current (or all selected) photos.
+* **Copy & Paste Tools (Clipboard Icon):** Located in the field header for quickly copying the Title, Description, Tags, and Categories. You can dynamically paste these copied elements into **multiple selected files at once** (batch paste) and choose exactly which fields you want to inject (e.g., copy the entire metadata layout but apply only the Title and Description to the target files).
+
+### Rating & Flags
+Available on a dedicated panel (or via keyboard shortcuts):
+*   **Stars (1-5):** Written to XMP/IPTC (compatible with Lightroom/Zoner).
+*   **Flag (Pick/Reject):** Used for quick culling (Green = Picked, Red = Rejected).
+*   **Color Labels:** Assignment of basic color labels.
+
+### Operations and Context Menu (Right-Click)
+Right-clicking on a card in the grid opens a context menu:
+*   **Copy / Paste Metadata (Ctrl+C / Ctrl+V):** Transfers all metadata, including tags, from one photo to another or to a bulk selection.
+*   **Run AI for Selected / Save Selected (Ctrl+S):** Targeted execution of actions for the local selection.
+*   **Clear Metadata:** Option to delete all metadata or specific fields (Title only, Tags only).
+*   **Lowercase:** Converts the text in the fields to lowercase letters.
+*   **Rename File (F2):** Supports advanced batch renaming with variables (e.g., `{N}_{C}`).
+*   **Copy / Move / Delete:** System file operations (including moving associated .xmp sidecar files).
+*   **Show EXIF / Map:** Displays detailed technical data or the GPS location on a map.
+*   **Getty Optimizer / Export CSV:** Advanced export features.
 
 ---
 
-## 7. Settings & Configuration
-* **[Workspace:](/docs/settings-configuration-customization.html#workspace-and-ui-customization)** Customize **Thumbnail Height**, **Font Size**, and **Field Heights**.
-* **[Video Tuning:](/docs/settings-configuration-customization.html#ai-and-video-tuning)** Set the number of frames to analyze or enable **Economy Mode (Collage)**.
-* **[CSV Editor:](/docs/settings-configuration-customization.html#advanced-csv-template-editor)** Reverse-engineer templates by loading existing agency CSV files.
-* **[Maps:](/docs/manual-editing-detailed-photo-view.html#geospatial-tools-and-interactive-mapping)** Choose between OpenStreetMap or ArcGIS for reverse geocoding.
-* **[Ollama VRAM Context Tuning:](/docs/settings-configuration-customization.html#ai-and-video-tuning)** Optimize hardware memory parameters for local AI models.
-* **[Integrated Metadata Translator:](/docs/settings-configuration-customization.html#language-spell-check-and-autocomplete)** Automatically translate generated text and metadata fields.
-* **[Export/Import Settings:](/docs/settings-configuration-customization.html#complete-system-backup-and-migration)** Create configuration backups or share custom templates.
-* **[UI Color Customization and Theming:](/docs/settings-configuration-customization.html#ui-color-customization-and-theming)** Personalize your workspace for maximum visual comfort.
+### [Get Started Now]
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
+
+*ArtushVision AI - Stability and precision for professional photography workflows.*
