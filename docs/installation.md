@@ -11,6 +11,8 @@ h1 { text-align: center; }
 
 # Installation & Setup
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 ## System Requirements
 
 To ensure smooth operation, especially when running local AI engines and multi-threaded image processing, please verify that your computer meets the following technical specifications:
