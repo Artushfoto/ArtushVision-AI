@@ -58,6 +58,144 @@ h1 { text-align: center; }
 
 ---
 
+<style>
+#flex-search-container {
+  max-width: 500px;
+  margin: 20px auto;
+  position: relative;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+}
+
+#flex-search-input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 14px;
+  line-height: 20px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  transition: border-color 0.2s, box-shadow 0.2s, background-color 0.2s, color 0.2s;
+  
+  /* VÝCHOZÍ SVĚTLÝ REŽIM (GitHub Light) */
+  border: 1px solid #d0d7de;
+  background-color: #f6f8fa;
+  color: #24292f;
+}
+
+#flex-search-input::placeholder {
+  color: #57606a;
+  opacity: 1;
+}
+
+/* Aktivní stav ve světlém režimu */
+#flex-search-input:focus {
+  outline: none;
+  background-color: #ffffff;
+  border-color: #0969da; /* GitHub Light modrá */
+  box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.3);
+}
+
+/* Výsledky vyhledávání ve světlém režimu */
+#flex-results-container {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  border-radius: 6px;
+  list-style: none;
+  padding: 0;
+  margin: 8px 0 0 0;
+  z-index: 100;
+  max-height: 300px;
+  overflow-y: auto;
+  display: none;
+  
+  background-color: #ffffff;
+  border: 1px solid #d0d7de;
+  box-shadow: 0 8px 24px rgba(140, 149, 159, 0.2);
+}
+
+#flex-results-container li {
+  border-bottom: 1px solid #hsla(210, 18%, 87%, 1);
+  border-bottom: 1px solid #d0d7de;
+}
+
+#flex-results-container li:last-child {
+  border-bottom: none;
+}
+
+#flex-results-container li a {
+  display: block;
+  padding: 10px 14px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  color: #24292f;
+  transition: background-color 0.1s, color 0.1s;
+}
+
+/* Najetí myší ve světlém režimu */
+#flex-results-container li a:hover {
+  background-color: #0969da; /* Výběr v GitHub Light */
+  color: #ffffff;
+}
+
+#flex-results-container .no-results-msg {
+  padding: 12px 14px;
+  color: #57606a;
+  font-style: italic;
+  font-size: 14px;
+}
+
+/* ==========================================================================
+   AUTOMATICKÝ PŘECHOD NA TMAVÝ REŽIM (Pokud ho má uživatel aktivní v systému)
+   ========================================================================== */
+@media (prefers-color-scheme: dark) {
+  #flex-search-input {
+    border: 1px solid #30363d;
+    background-color: #0d1117;
+    color: #c9d1d9;
+  }
+  
+  #flex-search-input::placeholder {
+    color: #8b949e;
+  }
+  
+  #flex-search-input:focus {
+    border-color: #58a6ff;
+    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.3);
+  }
+  
+  #flex-results-container {
+    background-color: #161b22;
+    border: 1px solid #30363d;
+    box-shadow: 0 8px 24px rgba(1, 4, 9, 0.8);
+  }
+  
+  #flex-results-container li {
+    border-bottom: 1px solid #21262d;
+  }
+  
+  #flex-results-container li a {
+    color: #c9d1d9;
+  }
+  
+  #flex-results-container li a:hover {
+    background-color: #1f6feb;
+    color: #ffffff;
+  }
+  
+  #flex-results-container .no-results-msg {
+    color: #8b949e;
+  }
+}
+</style>
+
+<div id="flex-search-container">
+  <input type="text" id="flex-search-input" placeholder="Search documentation...">
+  <ul id="flex-results-container"></ul>
+</div>
+
+---
 <div style="max-width: 500px; margin: 20px auto; padding: 0 10px;">
   <div id="search"></div>
 </div>
@@ -322,127 +460,3 @@ Modify thousands of assets simultaneously with surgical precision.
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-
-<div style="max-width: 500px; margin: 20px auto; position: relative;">
-  <input type="text" id="flex-search-input" placeholder="Search documentation..." style="width: 100%; padding: 12px 16px; font-size: 16px; border: 1px solid #444; border-radius: 6px; background-color: #1e1e1e; color: #fff; box-sizing: border-box;">
-  <ul id="flex-results-container" style="position: absolute; top: 100%; left: 0; width: 100%; background: #1e1e1e; border: 1px solid #444; border-radius: 0 0 6px 6px; list-style: none; padding: 0; margin: 4px 0 0 0; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.3); max-height: 300px; overflow-y: auto; display: none;"></ul>
-</div>
-
-<script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var searchInput = document.getElementById('flex-search-input');
-  var resultsContainer = document.getElementById('flex-results-container');
-  var indexTitle, indexContent;
-  var documentsMap = {};
-
-  if (!searchInput || !resultsContainer) return;
-
-  // 1. Vytvoříme dva samostatné indexy pro striktní oddělení priorit
-  indexTitle = new FlexSearch.Index({
-    tokenize: "forward",
-    resolution: 9,
-    depth: 1
-  });
-
-  indexContent = new FlexSearch.Index({
-    tokenize: "forward",
-    resolution: 5,
-    depth: 1
-  });
-
-  // 2. Stažení dat ze search.json a jejich indexace s prioritami
-  fetch('/search.json')
-    .then(response => response.json())
-    .then(data => {
-      data.forEach((item, index) => {
-        var id = index;
-        
-        // Uložíme si čistá data pro pozdější vykreslení
-        documentsMap[id] = {
-          title: item.title,
-          url: item.url
-        };
-
-        // Přidáme data do indexů odděleně
-        indexTitle.add(id, item.title);
-        indexContent.add(id, item.content || "");
-      });
-    })
-    .catch(err => console.error("Kompilace vyhledávání selhala:", err));
-
-  // 3. Logika inteligentního vyhledávání a řazení
-  searchInput.addEventListener('input', function() {
-    var query = this.value.trim();
-    resultsContainer.innerHTML = '';
-    
-    if (query.length < 2) {
-      resultsContainer.style.display = 'none';
-      return;
-    }
-
-    // Prohledáme oba indexy nezávisle
-    var titleResults = indexTitle.search(query, { limit: 10 });
-    var contentResults = indexContent.search(query, { limit: 10 });
-
-    // Bodovací systém (Scoring) pro určení inteligence řazení
-    var scores = {};
-
-    // Kdo má shodu v nadpisu, získá obrovský bonus (vyskočí nahoru)
-    titleResults.forEach(id => {
-      scores[id] = (scores[id] || 0) + 10;
-    });
-
-    // Kdo má shodu v textu/odstavcích, získá menší základní body
-    contentResults.forEach(id => {
-      scores[id] = (scores[id] || 0) + 1;
-    });
-
-    // Seřadíme ID stránek podle dosaženého skóre (sestupně)
-    var sortedIds = Object.keys(scores).sort((a, b) => scores[b] - scores[a]);
-
-    // Omezíme výpis na 8 nejrelevantnějších výsledků
-    var finalIds = sortedIds.slice(0, 8);
-
-    if (finalIds.length > 0) {
-      finalIds.forEach(id => {
-        var doc = documentsMap[id];
-        if (!doc) return;
-
-        var li = document.createElement('li');
-        li.style.borderBottom = '1px solid #2d2d2d';
-        li.innerHTML = '<a href="' + doc.url + '" style="display: block; padding: 12px 16px; text-decoration: none; color: #ddd; font-weight: 500;">' + doc.title + '</a>';
-        
-        // Vizuální efekty při najetí myší
-        li.querySelector('a').addEventListener('mouseover', function() { this.style.backgroundColor = '#2d2d2d'; this.style.color = '#fff'; });
-        li.querySelector('a').addEventListener('mouseout', function() { this.style.backgroundColor = 'transparent'; this.style.color = '#ddd'; });
-        
-        resultsContainer.appendChild(li);
-      });
-      resultsContainer.style.display = 'block';
-    } else {
-      resultsContainer.innerHTML = '<li style="padding: 12px 16px; color: #888; font-style: italic;">No documentation pages found</li>';
-      resultsContainer.style.display = 'block';
-    }
-  });
-
-  // Skrytí výsledků při kliknutí mimo
-  document.addEventListener('click', function(e) {
-    if (e.target !== searchInput && e.target !== resultsContainer) {
-      resultsContainer.style.display = 'none';
-    }
-  });
-
-  // Podpora klávesy Enter pro okamžitý skok
-  searchInput.addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      var firstLink = resultsContainer.querySelector('li a');
-      if (firstLink) {
-        window.location.href = firstLink.href;
-      }
-    }
-  });
-});
-</script>
