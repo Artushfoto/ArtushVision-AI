@@ -21,17 +21,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true # Automaticky si přečte Gemfile a nacachuje ho pro rychlost
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # Oficiální akce GitHubu pro projekty bez Gemfile, která automaticky zvládne pluginy z _config.yml
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+        run: bundle exec jekyll build --destination _site
+        env:
+          JEKYLL_ENV: production
+          LANG: en_US.UTF-8
+          LC_ALL: en_US.UTF-8
 
-      # Spustíme vyhledávací index nad vygenerovanou složkou _site
+      # GENIALITA PAGEFINDU: Tady se na základě hotových HTML souborů sestaví chytré vyhledávání
       - name: Run Pagefind Search Indexer
         run: npx pagefind --site _site
 
