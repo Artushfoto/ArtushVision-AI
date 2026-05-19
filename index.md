@@ -377,8 +377,7 @@ Modify thousands of assets simultaneously with surgical precision.
       noResultsText: '<li class="no-results">No documentation pages found</li>',
       limit: 8,
       fuzzy: false,
-      // CRITICAL FIX: Tímto řeknete knihovně, aby prohledávala titulky i samotný text
-      searchFields: ['title', 'content'] 
+      searchFields: ['title', 'content']
     });
   });
 </script>
