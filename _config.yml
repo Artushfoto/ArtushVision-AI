@@ -326,41 +326,22 @@ Modify thousands of assets simultaneously with surgical precision.
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
 
-<div id="search-container">
-<input type="text" id="search-input" placeholder="Search documentation...">
-<ul id="results-container"></ul>
+<div style="max-width: 500px; margin: 20px auto; padding: 0 10px;">
+  <div id="search"></div>
 </div>
 
-<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  var searchInput = document.getElementById('search-input');
-  var resultsContainer = document.getElementById('results-container');
-  
-  if(searchInput && resultsContainer) {
-    SimpleJekyllSearch({
-      searchInput: searchInput,
-      resultsContainer: resultsContainer,
-      json: '/search.json',
-      searchResultTemplate: '<li><a href="{url}" style="display:block; padding:12px 16px; color:#fff; text-decoration:none; font-weight:500;">{title}</a></li>',
-      noResultsText: '<li class="no-results" style="padding:12px 16px; color:#888; font-style:italic;">No documentation pages found</li>',
-      limit: 8,
-      fuzzy: true,
-      searchFields: ['title', 'content']
-    });
-  }
-
-  // Funkce pro Enter - skočí na první nalezený výsledek
-  searchInput.addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      setTimeout(function() {
-        var firstLink = resultsContainer.querySelector('li a');
-        if (firstLink) {
-          window.location.href = firstLink.href;
+  window.addEventListener('DOMContentLoaded', (event) => {
+    if (typeof PagefindUI !== 'undefined') {
+      new PagefindUI({ 
+        element: "#search", 
+        showSubResults: true,
+        translations: {
+          placeholder: "Search documentation...",
+          clear_search: "Clear",
+          searching: "Searching..."
         }
-      }, 50);
+      });
     }
   });
-});
 </script>
