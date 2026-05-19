@@ -1,7 +1,15 @@
 ---
 ---
-@import "{{ site.theme }}";
+// Tento řádek načte výchozí vzhled tvé GitHub šablony
+@import "jekyll-theme-primer";
 
-header, .page-header, .site-header, footer, .site-footer, .footer {
+// CENTRÁLNÍ FIX: Kompletní smazání automatického modrého balastu na podstránkách
+.markdown-body > h1:first-child,
+.container-lg > h1:first-child {
     display: none !important;
+}
+
+// CENTRÁLNÍ FIX: Automatické vycentrování VŠECH tvých skutečných nadpisů H1 na celém webu
+.markdown-body h1 {
+    text-align: center;
 }

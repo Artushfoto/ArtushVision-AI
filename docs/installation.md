@@ -4,20 +4,7 @@ description: "Download the latest version of ArtushVision AI for Windows. Check 
 ---
 <div style="display: none;">
 <style>
-/* Komponenty hlavního záhlaví a patičky šablony */
-header, .page-header, .site-header, #header, .project-name, .project-tagline, footer, .site-footer, .footer { 
-  display: none !important; 
-}
-
-/* Umlčení automaticky generovaného modrého nadpisu na začátku obsahu šablony */
-#main_content > h1:first-child, 
-.main-content > h1:first-child, 
-.container > h1:first-child, 
-#content > h1:first-child,
-main > h1:first-child { 
-  display: none !important; 
-}
-
+header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 h1 { text-align: center; }
 </style>
 </div>
