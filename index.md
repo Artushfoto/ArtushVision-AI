@@ -222,7 +222,11 @@ h1 { text-align: center; }
 - [First Launch & Activation](/docs/download-purchase.html)
 - [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
 - [Local AI & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
+<<<<<<< HEAD
+- [Interface Overview](/docs/interface_overwiev.html)
+=======
 - [Interface Overview](/docs/interface?overwiev.html)
+>>>>>>> 99dd5f1ae483faf0bfd924949323adf0f3fa6230
 
 ### 2. Core Workflows
 - [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
@@ -242,11 +246,19 @@ h1 { text-align: center; }
 ---
 
 ### [Get Started Now]
-* [Download Free Lite Version](/docs/download-purchase.html) &bull; [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
-
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu) &bull; [❓ Frequently Asked Questions (FAQ)](/docs/faq.html) &bull; [💬 GitHub Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
+
 *ArtushVision AI - Stability and precision for professional photography workflows.*
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
