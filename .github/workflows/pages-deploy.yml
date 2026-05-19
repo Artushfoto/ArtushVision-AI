@@ -21,14 +21,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Použijeme oficiální akcelerovaný build přímo od GitHubu bez Bundleru
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          source: ./
-          destination: ./_site
+          ruby-version: '3.1'
 
-      # Spustíme inteligentní vyhledávací index nad vygenerovaným webem
+      # Ručně nainstalujeme Jekyll a klíčové pluginy, které máte v _config.yml
+      - name: Install Jekyll and Dependencies
+        run: |
+          gem install jekyll jekyll-sitemap jekyll-feed
+
+      # Sestavení webu čistým Jekyllem do složky _site
+      - name: Build Site
+        run: jekyll build --destination _site
+        env:
+          JEKYLL_ENV: production
+
+      # Sestavení vyhledávacího indexu nad vygenerovaným HTML
       - name: Run Pagefind Search Indexer
         run: npx pagefind --site _site
 
