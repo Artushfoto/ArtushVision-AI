@@ -42,8 +42,8 @@ A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVis
 * **Dynamic Word Splitting:** Double-click any complex phrase to split it into individual terms. The application re-evaluates the new terms against the Master Dictionary in real-time.
 
 **Interactive AI Resolver and Disambiguation**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty_resolver_add_terms.png" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.png" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation" width="100%" class="screenshot-img">
 </a>    
 
 ---
