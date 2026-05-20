@@ -16,7 +16,9 @@ The **Category Mapping Matrix** is a powerful feature designed to eliminate the 
 You only need to assign a category once, and the application will automatically translate it into the correct format for every agency during the CSV export or FTP upload.
 
 ## Category Matrix Editor
-You can access the editor by going to **Settings -> Configuration Management -> Category Mapping Matrix...**.
+You can access the editor by going to
+
+Go to `Top Menu` → `File` → `Settings` → **Category Mapping Matrix.**.
 In this editor, you can define exactly how your Master categories map to specific agencies. 
 
 *   **Master Category:** Usually based on the Dreamstime category system (which is very detailed). This is the category you (or the AI) will assign to the photo.
