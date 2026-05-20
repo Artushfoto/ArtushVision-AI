@@ -197,7 +197,7 @@ h1 { text-align: center; }
 
 ---
 
-**ArtushVision AI Workspace Overview**
+**ArtushVision AI Workspace**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
 </a>
