@@ -83,8 +83,8 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
 
 **Local AI Batch Processing (Ollama Model: gemma4:e4b)**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-ai-gemma4e4b-processing.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-ai-gemma4e4b-processing.png" alt="ArtushVision AI Interface - Local AI Batch Processing" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI Interface - Local AI Batch Processing" width="100%" class="screenshot-img">
 </a>
 
 **Local AI Detail Window: Processing a single photo using an AI hint for accurate Caiman Yacare identification (Ollama Model: gemma4:e4b)**
