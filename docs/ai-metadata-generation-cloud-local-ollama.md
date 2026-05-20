@@ -98,7 +98,7 @@ An intelligent agentic pipeline that combines privacy with high-end SEO formatti
 * **Local Analysis:** A local model extracts raw visual descriptions on your PC.
 * **Cloud Synthesis:** Only the extracted text is sent to a fast cloud model to format it into professional, comma-separated keywords and titles.
 
-**Hybrid AI Detail Window:** Processing a single photo using **Local Vision** and **Cloud Text** for perfect formatting (Ollama Local AI Vision: qwen3-vl:4b + Cloud AI: google/gemini-2.0-flash-001)
+**Using Hybrid AI in Detail Window:** Processing a single photo using **Local Vision** and **Cloud Text** for perfect formatting (Ollama Local AI Vision: qwen3-vl:4b + Cloud AI: google/gemini-2.0-flash-001)
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
   </a>
