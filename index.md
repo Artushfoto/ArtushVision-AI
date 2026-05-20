@@ -237,7 +237,7 @@ h1 { text-align: center; }
 
 ### 4. Advanced Management
 - [Batch Metadata Actions, Search & Replace](/docs/batch-operations-metadata-library-management.html)
-- [Dynamic Batch File Rename Placeholders](/docs/batch-rename-operations-metadata-library-management.html)
+- [Dynamic Batch File Rename Placeholders](/docs/batch-operations-metadata-library-management.html)
 - [Workspace Theming, VRAM context tuning & Data Safety](/docs/settings-configuration-customization.html)
 
 ---
