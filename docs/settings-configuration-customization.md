@@ -52,16 +52,6 @@ Ensure your metadata is flawless and quickly entered with advanced linguistic to
 
 ---
 
-## UI Color Customization and Theming
-
-Personalize your workspace for maximum visual comfort during long editing sessions using the Advanced Color Palette Editor. You have full control over the visual feedback of the application in both Dark and Light modes.
-
-* **Keyword Color Coding:** Assign custom colors to instantly distinguish between Original (loaded from file), AI-Generated, and Manually Edited keywords directly in the grid.
-* **Interface Colors:** Freely adjust the colors of application backgrounds, input fields, buttons, and grid elements to reduce eye strain.
-* **Validation Alerts:** Set specific error highlight colors that will instantly alert you whenever strict agency limits (such as maximum title length or keyword count) are exceeded.
-
----
-
 ## Advanced CSV Template Editor
 
 The CSV Editor is a powerful tool for reverse-engineering agency requirements or creating custom export formats for internal databases.
@@ -93,6 +83,16 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 * **Language Preferences:** Set the preferred language for location names to ensure consistency in your metadata.
 
 [IMAGE: A screenshot of the Maps configuration tab showing the API provider selection and the geocoding toggle.]
+
+---
+
+## UI Color Customization and Theming
+
+Personalize your workspace for maximum visual comfort during long editing sessions using the Advanced Color Palette Editor. You have full control over the visual feedback of the application in both Dark and Light modes.
+
+* **Keyword Color Coding:** Assign custom colors to instantly distinguish between Original (loaded from file), AI-Generated, and Manually Edited keywords directly in the grid.
+* **Interface Colors:** Freely adjust the colors of application backgrounds, input fields, buttons, and grid elements to reduce eye strain.
+* **Validation Alerts:** Set specific error highlight colors that will instantly alert you whenever strict agency limits (such as maximum title length or keyword count) are exceeded.
 
 ---
 
