@@ -60,17 +60,17 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 * **Instant Batch Pricing:** As soon as an AI analysis batch is completed, the application instantly displays the exact cost of that specific run directly in the success notification.
 
-**Cloud AI: gemini-2.0-flash-001**
-<a href="Artushfoto/ArtushVision-AI/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
-  <img src="Artushfoto/ArtushVision-AI/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+**Cloud AI processing: gemini-2.0-flash-001**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
 </a>
 
 * **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
 
 Go to `Top Menu` → `File` → `Open Router Statistic` to view your stats.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open_router_statistic.png" alt="ArtushVision AI - Open Router Statistic" style="width: 500px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open-router-statistic.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open-router-statistic.png" alt="ArtushVision AI - Open Router Statistic" style="width: 500px;" class="screenshot-img">
 </a>
 
 * **Smart Estimations:** The software continuously calculates your average cost per processed photo and provides a live estimate of how many more assets you can analyze before needing to top up your balance.
@@ -83,8 +83,8 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
 
 **Local AI Batch Processing (Ollama Model: gemma4:e4b)**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_processing.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_processing.png" alt="ArtushVision AI Interface - Local AI Batch Processing" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-ai-gemma4e4b-processing.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-ai-gemma4e4b-processing.png" alt="ArtushVision AI Interface - Local AI Batch Processing" width="100%" class="screenshot-img">
 </a>
 
 **Local AI Detail Window: Processing a single photo using an AI hint for accurate Caiman Yacare identification (Ollama Model: gemma4:e4b)**
