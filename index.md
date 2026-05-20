@@ -228,7 +228,7 @@ h1 { text-align: center; }
 ### 2. Core Workflows
 - [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
 - [Advanced AI Prompting, Profiles & Variables](/docs/advanced-ai-prompting-profiles-variables.html)
-- [Manual Editing, Multi-language Spellcheck & Interactive Map](/docs/manual-editing-detailed-photo-view.html)
+- [Manual Editing, Multi-language Spellcheck & Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
 
 ### 3. Professional Asset Distribution
 - [Getty Images ESP Metadata Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html)
