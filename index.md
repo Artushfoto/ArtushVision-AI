@@ -190,7 +190,7 @@ h1 { text-align: center; }
 
 * **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast Cloud AI via OpenRouter or 100% private, free Local AI running fully offline via Ollama.
 * **[Advanced Manual Keywording](/docs/smart-manual-keywording-batch-editing.html):** Take total control. Double-click any photo to manually add, drag-and-drop reorder, or delete keyword bubbles. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.
-* **[Smart Category Mapping](/docs/global-stock-distribution-ftp.html#universal-category-mapping):** A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.
+* **[Smart Category Mapping](/docs/category-matrix.hlmt):** A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.
 * **[Getty Images Master Tool](/docs/getty-images-esp-metadata-optimizer.html):** Validate keywords instantly against a built-in Master Dictionary of 11,746+ controlled commercial terms for near-perfect acceptance rates.
 * **[Smart FTP Distribution](/docs/global-stock-distribution-ftp.html):** Simultaneously upload files to multiple stock agencies with automated, agency-specific CSV metadata generation on-the-fly.
 * **[Universal Compatibility](/docs/metadata-compatibility-and-file-handling.html):** Background integration using industry-standard formats compatible with Adobe Lightroom, Bridge, Zoner Photo Studio, and digiKam.
