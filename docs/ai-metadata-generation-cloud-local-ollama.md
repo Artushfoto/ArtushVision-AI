@@ -85,35 +85,23 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 **Local AI Batch Processing (Ollama Model: gemma4:e4b)**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  </a>
 
-**Local AI Detail Window:** Processing a single photo using an **AI hint** for accurate Caiman Yacare identification (Ollama Model: gemma4:e4b)
+**Local AI Detail Window:** Processing a single photo using an **AI hint for accurate Caiman Yacare** identification (Ollama Model: gemma4:e4b)
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-edit-window-processing.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-edit-window-processing.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
-
-
-
-
-
-
-
-
-
-
-
-
-
+  </a>
 
 ### 3. Hybrid AI
 
 An intelligent agentic pipeline that combines privacy with high-end SEO formatting.
-
 * **Local Analysis:** A local model extracts raw visual descriptions on your PC.
 * **Cloud Synthesis:** Only the extracted text is sent to a fast cloud model to format it into professional, comma-separated keywords and titles.
 
-**Local AI Detail Window: Processing a single photo using Local Vision and Cloud Text for perfect formatting (Ollama: gemma4:e2b + Cloud AI: Gemini 2.0 Flash Lite)**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-ai-cloud-text-qwen3-vl4b-and-gemini-2.0-flash-001" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-ai-cloud-text-qwen3-vl4b-and-gemini-2.0-flash-001 alt="ArtushVision AI Interface - Local AI Detail Window Processing" width="100%" class="screenshot-img">
-</a>
+**Hybrid AI Detail Window:** Processing a single photo using **Local Vision** and **Cloud Text** for perfect formatting (Ollama Local AI Vision: qwen3-vl:4b + Cloud AI: google/gemini-2.0-flash-001)
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  </a>
 
 ### 4. Two-Step Local AI
 
@@ -122,9 +110,6 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 * **Resource Management:** The system loads a Vision model to describe the image, unloads it, and then loads a Text model for SEO formatting. This prevents hardware crashes while maintaining elite output quality.
 
 **Local AI Detail Window: Processing a single photo using Local Vision and Local Text for perfect formatting (Ollama: gemma4:e2b + qwen2.5:7b)**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_cloud_text_qwen3-vl4b_and_gemini-2.0-flash-001" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_ai_cloud_text_qwen3-vl4b_and_gemini-2.0-flash-001" alt="ArtushVision AI Interface - Detail Window Processing Two-Step Local AI" width="100%" class="screenshot-img">
-</a>
 
 ---
 
