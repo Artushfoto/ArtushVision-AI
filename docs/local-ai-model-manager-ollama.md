@@ -53,6 +53,13 @@ ArtushVision's advanced <a href="/docs/ai-metadata-generation-cloud-local-ollama
 Understand exactly what is running on your machine and how it impacts your hardware performance.
 
 * **Hardware Specs at a Glance:** The grid displays crucial technical data for every model, including its physical **Size (GB)**, total **Parameters** (e.g., 3B, 8B, 72B), and **Quantization** level (e.g., Q4_0, Q8_0).
+
+
+> **What do Parameters and Quantization mean in local AI?**
+> These two settings directly determine how "smart" your local AI model is and how much graphics card memory (VRAM) it requires. 
+* **Parameters (e.g., 3B, 8B)** represent the size of the AI’s "brain" in billions - a higher number means better recognition of complex details but demands stronger hardware. 
+* **Quantization (e.g., Q4_0, Q8_0)** is the compression level of that brain. Choosing a **Q4_0** or **Q4_K_M** version is the ultimate sweet spot: it shrinks the model size by roughly 70% for blazing-fast performance while retaining about 95% of its original accuracy, allowing it to run smoothly even on standard 8GB graphics cards (like an RTX 3060 Ti). If you have a powerful card with 12GB+ of VRAM and want absolute maximum precision, you can opt for the uncompressed **Q8_0** version.
+
 * **Live VRAM Monitor:** Located in the main application status bar, a live hardware monitor tracks your GPU VRAM usage. If a model exceeds your graphics card's memory, the application intelligently falls back to CPU RAM and provides a warning.
 
 [IMAGE: A close-up of the main application bottom status bar, highlighting the Ollama VRAM: 4.2 GB / 8.0 GB indicator.]
