@@ -163,6 +163,8 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 * **Typography and Layout:** Customize global font sizes and the height of metadata fields. This is particularly useful for managing long descriptions or extensive keyword lists.
 * **Theme and Visibility:** Toggle specific UI elements to reduce clutter and focus strictly on the metadata fields you use most frequently.
 
+Go to `Top Menu` → `File` → `Settings`
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
 </a>
@@ -177,8 +179,10 @@ Fine-tune how the AI engine interacts with your media, especially when dealing w
 * **Economy Mode (Collage) Configuration:** Enable or disable the automatic stitching of video frames into collages to optimize <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Cloud AI</a> token usage and reduce costs.
 * **Model Context Limits:** Define the VRAM limits for <a href="/docs/local-ai-model-manager-ollama.html">local Ollama models</a> to ensure the application remains stable based on your specific GPU hardware.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Batch Edit Toolbar" width="40%" class="screenshot-img">
+Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
+
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
 </a>
 
 ---
@@ -192,8 +196,10 @@ Ensure your metadata is flawless and quickly entered with advanced linguistic to
 * **Hover Translation:** Select a target language to instantly translate AI-generated or existing keywords simply by hovering your mouse over them.
 * **Diacritics Control:** Choose whether the AI should output text with or without diacritics (accents), ensuring compatibility with stock agencies that have strict character formatting rules.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+Go to `Top Menu` → `File` → `Settings` → `Language and AI`.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
 </a>
 
 ---
@@ -205,6 +211,8 @@ The CSV Editor is a powerful tool for reverse-engineering agency requirements or
 * **Template Mapping:** Load an existing CSV file from any agency, and the application will help you map its columns to ArtushVision AI fields (Title, Keywords, Categories, etc.).
 * **Custom Headers:** Define specific header names required by niche stock agencies or private archives.
 * **Export Presets:** Save your mappings as presets that can be instantly assigned to different FTP servers in the <a href="/docs/global-stock-distribution-ftp.html">Distribution module</a>.
+
+Go to `Top Menu` → `File` → `Settings` → `CSV Templates`.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/csv-template-editor.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/csv-template-editor.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
@@ -239,8 +247,8 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 
 Go to `Top Menu` → `File` → `Settings` `Map Settings`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link" style="max-width: 400px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
 </a>
 
 ---

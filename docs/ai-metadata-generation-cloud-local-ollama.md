@@ -249,10 +249,11 @@ ArtushVision AI provides native support for video assets (.mp4, .mov), eliminati
 * **Smart Frame Extraction:** The built-in FFmpeg engine extracts between 3 and 20 keyframes from across the video timeline to capture the entire story.
 * **Economy Mode (Collage):** To save on Cloud API costs, the application stitches extracted frames into a single high-quality collage. The AI analyzes the entire storyline in a single request, reducing token usage by up to 90%.
 
-Go to `Top Menu` → `File` → `Settings` 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI Interface" width="400" class="screenshot-img">
-  </a>
+Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
+
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
+</a>
 
 ---
 
