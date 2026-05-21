@@ -163,6 +163,10 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 * **Typography and Layout:** Customize global font sizes and the height of metadata fields. This is particularly useful for managing long descriptions or extensive keyword lists.
 * **Theme and Visibility:** Toggle specific UI elements to reduce clutter and focus strictly on the metadata fields you use most frequently.
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+</a>
+
 ---
 
 ## AI and Video Tuning
@@ -172,6 +176,10 @@ Fine-tune how the AI engine interacts with your media, especially when dealing w
 * **Video Frame Logic:** Set the number of keyframes (3 to 20) the internal FFmpeg engine extracts for analysis. More frames provide more context but increase processing time.
 * **Economy Mode (Collage) Configuration:** Enable or disable the automatic stitching of video frames into collages to optimize <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Cloud AI</a> token usage and reduce costs.
 * **Model Context Limits:** Define the VRAM limits for <a href="/docs/local-ai-model-manager-ollama.html">local Ollama models</a> to ensure the application remains stable based on your specific GPU hardware.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Batch Edit Toolbar" width="40%" class="screenshot-img">
+</a>
 
 ---
 
@@ -184,6 +192,10 @@ Ensure your metadata is flawless and quickly entered with advanced linguistic to
 * **Hover Translation:** Select a target language to instantly translate AI-generated or existing keywords simply by hovering your mouse over them.
 * **Diacritics Control:** Choose whether the AI should output text with or without diacritics (accents), ensuring compatibility with stock agencies that have strict character formatting rules.
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+</a>
+
 ---
 
 ## Advanced CSV Template Editor
@@ -194,7 +206,9 @@ The CSV Editor is a powerful tool for reverse-engineering agency requirements or
 * **Custom Headers:** Define specific header names required by niche stock agencies or private archives.
 * **Export Presets:** Save your mappings as presets that can be instantly assigned to different FTP servers in the <a href="/docs/global-stock-distribution-ftp.html">Distribution module</a>.
 
-[IMAGE: A close-up of the CSV Editor tab showing the column mapping interface and the Load Template button.]
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/csv-template-editor.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/csv-template-editor.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+</a>
 
 ---
 
@@ -206,6 +220,11 @@ The [Category Matrix](#the-category-matrix) is the translation engine of ArtushV
 * **Media Type Logic:** Apply different category rules for Photo and Video assets, ensuring each media type is funneled into the correct commercial bin.
 * **Master Category Definition:** Create your own set of Master Categories that serve as the source for all agency-specific translations.
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+</a>
+
+
 ---
 
 ## Maps and Reverse Geocoding
@@ -216,7 +235,9 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 * **Reverse Geocoding Logic:** The application automatically translates GPS coordinates into readable City, State, and Country names. This text is then fed to the AI to provide geographical context for keyword generation.
 * **Language Preferences:** Set the preferred language for location names to ensure consistency in your metadata.
 
-[IMAGE: A screenshot of the Maps configuration tab showing the API provider selection and the geocoding toggle.]
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+</a>
 
 ---
 
@@ -227,6 +248,10 @@ Personalize your workspace for maximum visual comfort during long editing sessio
 * **Keyword Color Coding:** Assign custom colors to instantly distinguish between Original (loaded from file), AI-Generated, and Manually Edited keywords directly in the grid.
 * **Interface Colors:** Freely adjust the colors of application backgrounds, input fields, buttons, and grid elements to reduce eye strain.
 * **Validation Alerts:** Set specific error highlight colors that will instantly alert you whenever strict agency limits (such as maximum title length or keyword count) are exceeded.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/advanced-color-settings.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/advanced-color-settings.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+</a>
 
 ---
 
