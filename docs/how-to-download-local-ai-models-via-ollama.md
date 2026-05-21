@@ -52,13 +52,13 @@ First, you need to select the specific model that matches your hardware and work
 * Once you find the desired model, copy its exact name including the parameter size tag (for example, copy `qwen3-vl:4b`, not just `qwen3-vl`).
 
 **Finding a Model on the Ollama Website**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama_models_search.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama_models_search.png" alt="Finding and copying the exact model name on the Ollama website library" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-models-search.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-models-search.png" alt="Finding and copying the exact model name on the Ollama website library" class="screenshot-img">
 </a>
 
 **Copying the Exact Model Name**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama_model_name_copy.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama_model_name_copy.png" alt="Copying the exact model name with size tags from the Ollama repository" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-model-name-copy.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-model-name-copy.png" alt="Copying the exact model name with size tags from the Ollama repository" class="screenshot-img">
 </a>
 
 ---
@@ -69,8 +69,8 @@ First, you need to select the specific model that matches your hardware and work
 * Locate the **AI Model** input field and click the **Search Icon** next to it. This will open the internal AI Model Selection window.
 
 **Opening the Local Model Manager**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_management.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_management.png" alt="Clicking the search icon in the Profile Editor to open the Model Manager" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-management.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-management.png" alt="Clicking the search icon in the Profile Editor to open the Model Manager" class="screenshot-img">
 </a>
 
 ---
@@ -82,8 +82,8 @@ First, you need to select the specific model that matches your hardware and work
 * Click the **Download** button.
 
 **Downloading the Ollama Model**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_model_downloading.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_model_downloading.png" alt="Pasting the model name and clicking the Download button" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" alt="Pasting the model name and clicking the Download button" class="screenshot-img">
 </a>
 
 ---
@@ -111,8 +111,8 @@ To keep your local AI environment organized, you can assign personal performance
 * Press **Enter** or click away to save it. This helps you remember which specific subjects or tasks each model handles well and which it doesn't.
 
 **Model Manager Grid & Custom Notes**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_personal_note.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local_model_personal_note.png" alt="Adding a custom note and viewing color-coded model types in the table" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-personal-note.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-personal-note.png" alt="Adding a custom note and viewing color-coded model types in the table" class="screenshot-img">
 </a>
 
 ---
