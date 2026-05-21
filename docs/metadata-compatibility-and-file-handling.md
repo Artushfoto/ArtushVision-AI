@@ -46,7 +46,7 @@ Every photo management software historically uses slightly different tags for or
 
 ---
 
-## ArtushVision Specific Metadata
+## ArtushVision AI Specific Metadata
 
 The application stores its internal tracking data in standard text fields so it remains readable and persistent even in other editors.
 

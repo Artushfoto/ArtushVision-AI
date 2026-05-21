@@ -30,7 +30,7 @@ This section is dedicated to the photo itself and its technical information.
 *   **Info Strip:** A persistently displayed label below the photo containing the filename and key EXIF data:
     *   *Example:* `ISO 100 | f/8.0 | 1/250s | 50mm`
     *   It also shows the resolution (e.g., 6000x4000) and file size in megabytes.
-*   **Information Badges:** If the photo has specific properties (GPS, XMP sidecar, Video, corrupted data, etc.), corresponding micro-icons are displayed directly in the left column.
+*   **Information Badges:** If the photo has specific properties (GPS, XMP sidecar, Video, corrupted data, TTP Upload, etc.), corresponding micro-icons are displayed directly in the left column.
 *   **Navigation (‹ and ›):** Large round buttons (or keyboard arrows) allow you to seamlessly browse through all photos in the current grid without needing to close the window. Metadata, the image, and the map update instantly.
 
 ---

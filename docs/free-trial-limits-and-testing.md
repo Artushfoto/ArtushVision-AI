@@ -26,7 +26,7 @@ Ensure a seamless experience by verifying your environment setup using the free 
 * **Hardware Compatibility:** Verify that the application runs smoothly on your operating system and that local tools (like ExifTool and FFmpeg) execute correctly on your machine.
 * **API Configuration:** Test your connection to <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter (Cloud AI)</a> or your local <a href="/docs/ollama-installation-guide.html">Ollama installation (Local AI)</a> to ensure prompts and models respond as expected.
 * **Workflow Integration:** Experiment with the <a href="/docs/settings-configuration-customization.html#the-category-matrix">Category Matrix</a>, <a href="/docs/global-stock-distribution-ftp.html#agency-profiles-and-server-groups">FTP Profiles</a>, and CSV generation to confirm the software perfectly aligns with your specific microstock distribution needs.
-* **Test It First:** While thoroughly tested internally, some bugs might still slip through. Any discovered issues will be patched as a top priority.
+* **Test It First:** While thoroughly tested internally, some bugs might still slip through. **Any discovered issues will be patched as a top priority.**
 
 ---
 
