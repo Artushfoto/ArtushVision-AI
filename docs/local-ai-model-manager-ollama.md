@@ -32,6 +32,11 @@ Skip the terminal. ArtushVision AI connects directly to your local <a href="/doc
 
 [IMAGE: A screenshot of the Ollama Hub Browser showing the download progress dialog, transfer rates, and the curated list of recommended models.]
 
+**Integrated Ollama Hub Browser and Downloader**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+</a>
+
 ---
 
 ## Smart Vision and Text Detection

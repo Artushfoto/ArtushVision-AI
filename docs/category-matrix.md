@@ -15,6 +15,11 @@ The **Category Mapping Matrix** is a powerful feature designed to eliminate the 
 
 You only need to assign a category once, and the application will automatically translate it into the correct format for every agency during the CSV export or FTP upload.
 
+**Add Category**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+</a>
+
 ## Category Matrix Editor
 You can access the editor by going to
 
