@@ -153,6 +153,12 @@ The configuration suite is divided into several specialized tabs, each focusing 
 
 [IMAGE: A wide screenshot of the Settings window showing the navigation sidebar with tabs like Workspace, AI, CSV Editor, and Maps.]
 
+Go to `Top Menu` → `File` → `Settings`
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+</a>
+
 ---
 
 ## Workspace and UI Customization
@@ -163,11 +169,10 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 * **Typography and Layout:** Customize global font sizes and the height of metadata fields. This is particularly useful for managing long descriptions or extensive keyword lists.
 * **Theme and Visibility:** Toggle specific UI elements to reduce clutter and focus strictly on the metadata fields you use most frequently.
 
-Go to `Top Menu` → `File` → `Settings`
+Go to `Top Menu` → `File` → `Settings` → `Grid Appearance`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
-</a>
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
 
 ---
 
