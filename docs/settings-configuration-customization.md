@@ -171,7 +171,7 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 
 Go to `Top Menu` → `File` → `Settings` → `Grid Appearance`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" target="_blank" class="screenshot-link" style="max-width: 400px;">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
 </a>
 
@@ -187,7 +187,7 @@ Fine-tune how the AI engine interacts with your media, especially when dealing w
 
 Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
 </a>
 
@@ -203,12 +203,6 @@ Ensure your metadata is flawless and quickly entered with advanced linguistic to
 * **Diacritics Control:** Choose whether the AI should output text with or without diacritics (accents), ensuring compatibility with stock agencies that have strict character formatting rules.
 
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`.
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
-</a>
-
-
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
@@ -259,7 +253,7 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 
 Go to `Top Menu` → `File` → `Settings` `Map Settings`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link" style="max-width: 400px;">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
 </a>
 
@@ -292,7 +286,7 @@ Protect your entire customized configuration or seamlessly migrate your workflow
 
 Go to `Top Menu` → `File` → `Settings` → `Configuration Management` → `Export Settings / Import Settings`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/configuration-management.png" target="_blank" class="screenshot-link" style="max-width: 400px;">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/configuration-management.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/configuration-management.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
 </a>
 
