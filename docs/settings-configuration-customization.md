@@ -235,6 +235,8 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 * **Reverse Geocoding Logic:** The application automatically translates GPS coordinates into readable City, State, and Country names. This text is then fed to the AI to provide geographical context for keyword generation.
 * **Language Preferences:** Set the preferred language for location names to ensure consistency in your metadata.
 
+Go to `Top Menu` → `File` → `Settings` `Map Settings`
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
 </a>
@@ -248,6 +250,7 @@ Personalize your workspace for maximum visual comfort during long editing sessio
 * **Keyword Color Coding:** Assign custom colors to instantly distinguish between Original (loaded from file), AI-Generated, and Manually Edited keywords directly in the grid.
 * **Interface Colors:** Freely adjust the colors of application backgrounds, input fields, buttons, and grid elements to reduce eye strain.
 * **Validation Alerts:** Set specific error highlight colors that will instantly alert you whenever strict agency limits (such as maximum title length or keyword count) are exceeded.
+
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/advanced-color-settings.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/advanced-color-settings.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">

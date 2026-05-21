@@ -250,9 +250,8 @@ ArtushVision AI provides native support for video assets (.mp4, .mov), eliminati
 * **Economy Mode (Collage):** To save on Cloud API costs, the application stitches extracted frames into a single high-quality collage. The AI analyzes the entire storyline in a single request, reducing token usage by up to 90%.
 
 Go to `Top Menu` → `File` → `Settings` 
-
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI Interface" width="400" class="screenshot-img">
   </a>
 
 ---
