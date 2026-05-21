@@ -161,12 +161,12 @@ ArtushVision AI gives you complete freedom over where and how your data is proce
 
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 300px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Setup Language and AI" style="width: 500px;" class="screenshot-img">
 </a>
 
 ---
-
+ 
 **Select AI Engine**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier-ai-engine.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier-ai-engine.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 300px;" class="screenshot-img">
@@ -184,7 +184,7 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 **Cloud AI processing: gemini-2.0-flash-001**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI - Cloud AI processing" width="100%" class="screenshot-img">
 </a>
 
 * **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
@@ -206,12 +206,12 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 
 **Local AI Batch Processing (Ollama Model: gemma4:e4b)**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" alt="ArtushVision AI - Local AI Batch Processing" width="100%" class="screenshot-img">
   </a>
 
 **Local AI Detail Window:** Processing a single photo using an **AI hint for accurate Caiman Yacare** identification (Ollama Model: gemma4:e4b)
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-edit-window-processing.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-edit-window-processing.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-edit-window-processing.png" alt="ArtushVision AI - Local AI Detail Window" width="100%" class="screenshot-img">
   </a>
 
 ### 3. Hybrid AI
@@ -222,7 +222,7 @@ An intelligent agentic pipeline that combines privacy with high-end SEO formatti
 
 **Using Hybrid AI in Detail Window:** Processing a single photo using **Local Vision** and **Cloud Text** for perfect formatting (Ollama Local AI Vision: qwen3-vl:4b + Cloud AI: google/gemini-2.0-flash-001)
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI - Using Hybrid AI in Detail Window" width="100%" class="screenshot-img">
   </a>
 
 ### 4. Two-Step Local AI
@@ -234,7 +234,7 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 **Two Step Local AI Detail Window:** Processing a single photo using **Local Vision** and **Local Text** for perfect formatting (Ollama loacal AI Vision: moondream: + Ollama Local AI text: aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf)
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img">
   </a>
 ---
 
@@ -242,12 +242,15 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 Generic AI tools produce generic metadata. ArtushVision AI injects technical background context into every prompt to ensure specific and accurate results.
 
-* **Global AI Hint:** Input a specific fact—such as a Latin species name—into the [Global Hint](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) field. The AI treats this as an absolute fact and prioritizes it in the generated metadata.
-* **Smart Geolocation:** GPS coordinates are translated via [OpenStreetMap or ArcGIS](/docs/settings-configuration-customization.html#maps-and-reverse-geocoding) into City and Country names, allowing the AI to include specific location context automatically.
-* **Technical EXIF Injection:** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
-* **[Category Matrix](/docs/settings-configuration-customization.html#the-category-matrix) Integration:** The engine ensures generated keywords align with your selected commercial [Master Categories](/docs/settings-configuration-customization.html#the-category-matrix).
+* **[Global AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Input a specific fact—such as a Latin species name—into the [Global Hint field.](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) The AI treats this as an absolute fact and prioritizes it in the generated metadata.
+* **[Smart Geolocation:](/docs/settings-configuration-customization.html#maps-and-reverse-geocoding)** GPS coordinates are translated via [OpenStreetMap or ArcGIS](/docs/settings-configuration-customization.html#maps-and-reverse-geocoding) into City and Country names, allowing the AI to include specific location context automatically.
+* **[Technical EXIF Injection:](/docs/advanced-ai-prompting-profiles-variables.html#technical--exif-parameters)** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
+* **[Category Matrix Integration:](/docs/settings-configuration-customization.html#the-category-matrix)** The engine ensures generated keywords align with your selected commercial [Master Categories](/docs/settings-configuration-customization.html#the-category-matrix).
 
-[IMAGE: A screenshot of the Profile Editor showing prompt variables like camera_model, gps_raw, and user_hint inserted into a system prompt.]
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-prompt.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-prompt.png" alt="ArtushVision AI - Sample of Cloud AI Prompt" width="100%" class="screenshot-img">
+  </a>
+---
 
 ---
 
@@ -261,7 +264,7 @@ ArtushVision AI provides native support for video assets (.mp4, .mov), eliminati
 Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 500px;" class="screenshot-img">
 </a>
 
 ---

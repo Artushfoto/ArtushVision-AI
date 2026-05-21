@@ -151,7 +151,7 @@ You only need to assign a category once, and the application will automatically 
 
 **Add Category**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" alt="ArtushVision AI - Add Category Interface" width="100%" class="screenshot-img">
 </a>
 
 ## Category Matrix Editor
@@ -165,7 +165,7 @@ In this editor, you can define exactly how your Master categories map to specifi
 Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
 </a>
 
 ## How to Assign Categories
