@@ -159,6 +159,15 @@ Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an un
 
 ArtushVision AI gives you complete freedom over where and how your data is processed.
 
+Go to `Top Menu` → `File` → `Settings` → `Language and AI`
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 300px;" class="screenshot-img">
+</a>
+
+---
+
+**Select AI Engine**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier-ai-engine.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier-ai-engine.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 300px;" class="screenshot-img">
 </a>
