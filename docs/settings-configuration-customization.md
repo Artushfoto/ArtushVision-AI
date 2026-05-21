@@ -171,8 +171,9 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 
 Go to `Top Menu` → `File` → `Settings` → `Grid Appearance`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" target="_blank" class="screenshot-link" style="max-width: 500px;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" target="_blank" class="screenshot-link" style="max-width: 400px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
+</a>
 
 ---
 
@@ -239,7 +240,6 @@ Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
 </a>
 
-
 ---
 
 ## Maps and Reverse Geocoding
@@ -266,6 +266,7 @@ Personalize your workspace for maximum visual comfort during long editing sessio
 * **Interface Colors:** Freely adjust the colors of application backgrounds, input fields, buttons, and grid elements to reduce eye strain.
 * **Validation Alerts:** Set specific error highlight colors that will instantly alert you whenever strict agency limits (such as maximum title length or keyword count) are exceeded.
 
+Go to `Top Menu` → `File` → `Settings` → `Advanced Color Settings`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/advanced-color-settings.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/advanced-color-settings.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
@@ -281,6 +282,12 @@ Protect your entire customized configuration or seamlessly migrate your workflow
 * **Vocabulary Preservation:** The backup safely includes your custom User Dictionary (`user_dict.txt`), ensuring your specialized microstock terminology and translated terms are never lost.
 * **Seamless Restoration:** Use the Import Settings button on any computer to unpack your archive. The application will automatically restart and perfectly restore your fully customized environment in seconds.
 * **Security in Mind:** Sensitive data such as your OpenRouter API key and local license activation are securely bundled, utilizing Windows DPAPI protection to keep your credentials safe during the transfer.
+
+Go to `Top Menu` → `File` → `Settings` → `Configuration Management` → `Export Settings / Import Settings`
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/configuration-management.png" target="_blank" class="screenshot-link" style="max-width: 400px;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/configuration-management.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
+</a>
 
 ---
 
