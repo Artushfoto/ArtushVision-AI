@@ -162,7 +162,7 @@ ArtushVision AI gives you complete freedom over where and how your data is proce
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Setup Language and AI" style="width: 500px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Language and AI Settings" style="width: 500px;" class="screenshot-img">
 </a>
 
 ---
@@ -184,7 +184,7 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 **Cloud AI processing: gemini-2.0-flash-001**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI - Cloud AI processing" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI - Cloud processing" width="100%" class="screenshot-img">
 </a>
 
 * **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.

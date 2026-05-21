@@ -156,7 +156,7 @@ The configuration suite is divided into several specialized tabs, each focusing 
 Go to `Top Menu` → `File` → `Settings`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" alt="ArtushVision AI - Global Settings" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -172,7 +172,7 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 Go to `Top Menu` → `File` → `Settings` → `Grid Appearance`
 
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" alt="ArtushVision AI - Grid Appearance Settings" style="width: 400px;" class="screenshot-img">
 </a>
 
 ---
@@ -188,7 +188,7 @@ Fine-tune how the AI engine interacts with your media, especially when dealing w
 Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video and RAW Workflow Settings" style="width: 500px;" class="screenshot-img">
 </a>
 
 ---
@@ -205,7 +205,7 @@ Ensure your metadata is flawless and quickly entered with advanced linguistic to
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 500px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Language and AI Selection" style="width: 500px;" class="screenshot-img">
 </a>
 
 
@@ -222,7 +222,7 @@ The CSV Editor is a powerful tool for reverse-engineering agency requirements or
 Go to `Top Menu` → `File` → `Settings` → `CSV Templates`.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/csv-template-editor.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/csv-template-editor.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/csv-template-editor.png" alt="ArtushVision AI - CSV Templates Editor" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -238,7 +238,7 @@ The [Category Matrix](#the-category-matrix) is the translation engine of ArtushV
 Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -254,7 +254,7 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 Go to `Top Menu` → `File` → `Settings` `Map Settings`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Map Settings" style="width: 400px;" class="screenshot-img">
 </a>
 
 ---
@@ -270,7 +270,7 @@ Personalize your workspace for maximum visual comfort during long editing sessio
 Go to `Top Menu` → `File` → `Settings` → `Advanced Color Settings`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/advanced-color-settings.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/advanced-color-settings.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/advanced-color-settings.png" alt="ArtushVision AI - Advanced Color Settings" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -287,7 +287,7 @@ Protect your entire customized configuration or seamlessly migrate your workflow
 Go to `Top Menu` → `File` → `Settings` → `Configuration Management` → `Export Settings / Import Settings`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/configuration-management.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/configuration-management.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 400px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/configuration-management.png" alt="ArtushVision AI - Configuration Management" style="width: 400px;" class="screenshot-img">
 </a>
 
 ---
