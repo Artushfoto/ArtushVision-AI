@@ -222,8 +222,11 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 * **Resource Management:** The system loads a Vision model to describe the image, unloads it, and then loads a Text model for SEO formatting. This prevents hardware crashes while maintaining elite output quality.
 
-**Local AI Detail Window: Processing a single photo using Local Vision and Local Text for perfect formatting (Ollama: gemma4:e2b + qwen2.5:7b)**
+**Two Step Local AI Detail Window:** Processing a single photo using **Local Vision** and **Local Text** for perfect formatting (Ollama loacal AI Vision: moondream: + Ollama Local AI text: aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf)
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  </a>
 ---
 
 ## Context-Aware Prompting: The AI Knows Your Gear
@@ -246,7 +249,11 @@ ArtushVision AI provides native support for video assets (.mp4, .mov), eliminati
 * **Smart Frame Extraction:** The built-in FFmpeg engine extracts between 3 and 20 keyframes from across the video timeline to capture the entire story.
 * **Economy Mode (Collage):** To save on Cloud API costs, the application stitches extracted frames into a single high-quality collage. The AI analyzes the entire storyline in a single request, reducing token usage by up to 90%.
 
-[IMAGE: A visual comparison of Economy Mode—a grid collage of video frames next to the resulting AI-generated keywords.]
+Go to `Top Menu` → `File` → `Settings` 
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  </a>
 
 ---
 

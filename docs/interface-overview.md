@@ -162,8 +162,8 @@ This bar provides basic application control and triggers AI operations:
 *   **Flat View:** Displays all photos from all loaded folders in a single continuous list (hides folder separators).
 *   [**Backup (CSV / XMP / JPG):**](/docs/settings-configuration-customization.html#backup-and-data-safety) Quick toggles that determine which backups should be created when saving changes.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top_toolbar.png" alt="ArtushVision AI - Top Toolbar" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top-toolbar.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top-toolbar.png" alt="ArtushVision AI - Top Toolbar" width="100%" class="screenshot-img">
 </a>
 
 ## Filter & Search Bar
@@ -185,8 +185,8 @@ The bottom slide-out bar allows for massive metadata operations across the entir
 *   **Categories:** Allows bulk assignment of up to 3 Master Categories (stock photography categories) to the selected photos.
 *   **Clear All (×):** Completely erases the chosen fields for the selection.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar_batch_edit.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar-batch-edit.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar-batch-edit.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
 </a>
 
 ## Main Grid (The Image Grid)

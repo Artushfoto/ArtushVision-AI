@@ -279,6 +279,11 @@ Build a library of specialized workflows to switch between different project typ
 
 [IMAGE: A graphic showing a raw prompt template with variables on the left and the final processed text received by the AI on the right.]
 
+**Prompt Editor for Hybrid AI** (Two steps, Local Vision AI and Cloud AI text)
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-promt-editor.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-promt-editor.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+</a>
+
 ---
 
 ### Professional Workflow in 3 Steps:
