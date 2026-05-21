@@ -157,13 +157,17 @@ You only need to assign a category once, and the application will automatically 
 ## Category Matrix Editor
 You can access the editor by going to
 
-Go to `Top Menu` → `File` → `Settings` → **Category Mapping Matrix.**.
+Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
 In this editor, you can define exactly how your Master categories map to specific agencies. 
 
 *   **Master Category:** Usually based on the Dreamstime category system (which is very detailed). This is the category you (or the AI) will assign to the photo.
 *   **Agency Columns:** You can map the Master category to corresponding categories for Adobe Stock, Shutterstock, Dreamstime, Motion Elements and others.
 *   **Customization:** You can add new rows, delete them, or add entirely new columns if you start contributing to a new agency.
 *   **Smart Split:** For **Motion Elements**, the matrix even distinguishes between `ME Photo` and `ME Video` categories, and the app automatically picks the right one based on the file type you are processing.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+</a>
 
 ## How to Assign Categories
 

@@ -220,6 +220,8 @@ The [Category Matrix](#the-category-matrix) is the translation engine of ArtushV
 * **Media Type Logic:** Apply different category rules for Photo and Video assets, ensuring each media type is funneled into the correct commercial bin.
 * **Master Category Definition:** Create your own set of Master Categories that serve as the source for all agency-specific translations.
 
+Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
 </a>
