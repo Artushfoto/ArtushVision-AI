@@ -206,6 +206,11 @@ When testing multiple models, it is essential to track which one performed best 
 * **Smart Search:** The real-time search bar at the top of the manager searches through both model names and your custom notes, helping you find the perfect model for the job instantly.
 * **Clean Uninstallation:** Free up disk space by deleting outdated models with a single click using the trash can icon.
 
+**Integrated Ollama Hub Browser and Downloader**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
+</a>
+
 ---
 
 ## How to use Local Models in 3 Steps:
