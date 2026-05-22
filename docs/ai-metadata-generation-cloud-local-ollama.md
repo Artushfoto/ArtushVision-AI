@@ -210,8 +210,8 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
   </a>
 
 **Local AI Detail Window:** Processing a single photo using an **AI hint for accurate Caiman Yacare** identification (Ollama Model: gemma4:e4b)
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-edit-window-processing.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-edit-window-processing.png" alt="ArtushVision AI - Local AI Detail Window" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b-edit-window-processing-hint.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b-edit-window-processing-hint.png" alt="ArtushVision AI - Local AI Detail Window" width="100%" class="screenshot-img">
   </a>
 
 ### 3. Hybrid AI
