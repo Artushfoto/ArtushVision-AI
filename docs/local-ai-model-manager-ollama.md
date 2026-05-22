@@ -166,7 +166,7 @@ Skip the terminal. ArtushVision AI connects directly to your local <a href="/doc
 
 **Integrated Ollama Hub Browser and Downloader**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
 </a>
 
 ---

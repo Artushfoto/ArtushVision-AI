@@ -153,7 +153,12 @@ Double-click any image in the main grid to enter the Detailed Photo View. This d
 
 The interface is divided into two main vertical panels with flexible splitters, allowing you to customize the layout exactly to your needs.
 
-[IMAGE: A wide screenshot of the Detailed Photo View showing the large image preview on the left and the metadata editor panels on the right.]
+
+`Double-click any image in the main grid`
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-prompt.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-prompt.png" alt="ArtushVision AI - Sample of Cloud AI Prompt" width="100%" class="screenshot-img">
+  </a>
 
 ---
 

@@ -233,8 +233,8 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 **Two Step Local AI Detail Window:** Processing a single photo using **Local Vision** and **Local Text** for perfect formatting (Ollama loacal AI Vision: moondream: + Ollama Local AI text: aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf)
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/two-step-local-ai-moondream-qwen25-7b-instruct.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/two-step-local-ai-moondream-qwen25-7b-instruct1.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img">
   </a>
 ---
 
@@ -247,10 +247,11 @@ Generic AI tools produce generic metadata. ArtushVision AI injects technical bac
 * **[Technical EXIF Injection:](/docs/advanced-ai-prompting-profiles-variables.html#technical--exif-parameters)** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
 * **[Category Matrix Integration:](/docs/settings-configuration-customization.html#the-category-matrix)** The engine ensures generated keywords align with your selected commercial [Master Categories](/docs/settings-configuration-customization.html#the-category-matrix).
 
+Go to `Top Toolbar` → `Gear button` next to the profile selector
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-prompt.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-prompt.png" alt="ArtushVision AI - Sample of Cloud AI Prompt" width="100%" class="screenshot-img">
   </a>
----
 
 ---
 
