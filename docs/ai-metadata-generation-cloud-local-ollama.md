@@ -249,8 +249,8 @@ Generic AI tools produce generic metadata. ArtushVision AI injects technical bac
 
 Go to `Top Toolbar` → `Gear button` next to the profile selector
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-prompt.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/cloud-ai-prompt.png" alt="ArtushVision AI - Sample of Cloud AI Prompt" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/hybrid-ai-profile-editor" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/hybrid-ai-profile-editor.png" alt="ArtushVision AI - Sample of Cloud AI Prompt" width="100%" class="screenshot-img">
   </a>
 
 ---
