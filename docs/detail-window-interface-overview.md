@@ -156,8 +156,8 @@ The interface is divided into two main vertical panels with flexible splitters, 
 
 `Double-click any image in the main grid`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.png" alt="ArtushVision AI - Sample of Cloud AI Prompt" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.png" alt="ArtushVision AI - Detail Window overview" width="100%" class="screenshot-img">
   </a>
 
 ---
