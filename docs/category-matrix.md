@@ -180,10 +180,6 @@ You can assign categories to your files in two ways:
 ### 1. Automatic AI Categorization
 When you run the Cloud AI or Local AI analysis, the AI can be instructed to automatically select the best-fitting Master categories based on the image content. **To make this work, you must include the `{allowed_categories}` variable in your AI profile's prompt.** The AI then selects from the allowed list in your matrix, and the app instantly stores them in the metadata.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/grid-add-category-menu.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
-</a>
-
 ### 2. Manual Assignment & Additional Properties
 If you prefer to assign categories manually, want to adjust the AI's choices, or need to set specific metadata flags, you can easily do so:
 *   **In the Grid (Batch Edit):** Select one or multiple photos and click the **Categories** button in the Batch Edit bar. Here you can check up to 3 Master categories. You can also define the **Country** (which is automatically extracted if the photo contains GPS, or you can enter it manually) and toggle specific flags like **Editorial**, **Mature (18+)**, **Illustration**, or **AI Generated**. They will be applied to all selected photos instantly.
