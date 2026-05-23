@@ -176,6 +176,18 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 
 ---
 
+### Keyword Sets (Presets)
+
+ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed. 
+
+The feature is fully integrated into your workflow and is available across the entire application:
+* **In the main grid:** You can apply sets in bulk to any number of selected photos – just use the context menu (right-click) or the *Sets* button on the bottom batch edit bar.
+* **In the detail window:** During focused editing of a specific photo, you have instant access to presets via a special icon directly in the header of the Keywords section.
+
+*Smart insertion: Applying a set works non-destructively. The application compares your existing tags on the photo with the preset and adds only the missing words (automatic deduplication). Furthermore, the new words are immediately colored green (indicating manual addition) and undergo instant spell checking.*
+
+---
+
 ## Lightning-Fast Autocomplete (Type Ahead)
 
 Stop typing the same words over and over. As you type, the Smart Autocomplete instantly suggests the best matches from an ultra-fast, pre-warmed database of over 300,000 highly commercial words.
