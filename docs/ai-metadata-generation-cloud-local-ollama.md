@@ -233,7 +233,7 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 **Two Step Local AI Detail Window:** Processing a single photo using **Local Vision** and **Local Text** for perfect formatting (Ollama loacal AI Vision: moondream: + Ollama Local AI text: aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf)
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct" target="_blank" class="screenshot-link">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img">
   </a>
 ---
