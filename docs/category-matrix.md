@@ -149,7 +149,9 @@ The **Category Mapping Matrix** is a powerful feature designed to eliminate the 
 
 You only need to assign a category once, and the application will automatically translate it into the correct format for every agency during the CSV export or FTP upload.
 
-**Add Category**
+Go to `Batch Edit Toolbar` → `Categories`
+
+Select multiple or one file to **Add Categories**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" alt="ArtushVision AI - Add Category Interface" width="100%" class="screenshot-img">
 </a>
@@ -167,6 +169,9 @@ Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
 </a>
+<div style="height: 15px;"></div>
+
+* **Fully Customizable Matrix:** The category matrix is completely editable, allowing you to modify existing mappings or add custom categories for any additional microstock agency.
 
 ## How to Assign Categories
 

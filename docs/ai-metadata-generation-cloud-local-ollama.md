@@ -195,6 +195,7 @@ Go to `Top Menu` → `File` → `Open Router Statistic` to view your stats.
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open-router-statistic.png" alt="ArtushVision AI - Open Router Statistic" style="width: 500px;" class="screenshot-img">
 </a>
 
+
 * **Smart Estimations:** The software continuously calculates your average cost per processed photo and provides a live estimate of how many more assets you can analyze before needing to top up your balance.
 
 ### 2. Local AI
