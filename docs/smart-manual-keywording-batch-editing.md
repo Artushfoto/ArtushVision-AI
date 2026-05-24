@@ -231,10 +231,9 @@ Struggling to find the right word? Double-click any tag (or right-click and sele
 * **Meaning and Definitions:** Hover over any suggested synonym to instantly see its dictionary definition and native translation.
 * **"Did you mean?":** If you open the dialog on a misspelled word, it prominently displays a section with the correct spelling alternatives.
 
-[IMAGE: A screenshot of the Interactive Synonym Dialog. Show the original word at the top, the grid of suggested synonym bubbles below, and a hover tooltip showing the translation and definition.]
-
+**Interactive Synonym Dialog**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" alt="ArtushVision AI - Interactive Synonym Explorer" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" alt="ArtushVision AI - Interactive Synonym Dialog" width="100%" class="screenshot-img">
 </a>
 
 ---
