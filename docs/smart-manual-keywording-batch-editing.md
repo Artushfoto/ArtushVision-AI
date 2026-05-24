@@ -182,11 +182,16 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 
 ### Keyword Sets (Presets)
 
-ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed. 
+ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed.
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" target="_blank" class="screenshot-link" style="max-width: 150px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" alt="ArtushVision AI - Predefined Keyword Sets" style="width: 150px;" class="screenshot-img">
-</a>
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-top: 15px;">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 150px; flex: 0 0 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" alt="ArtushVision AI - Predefined Keyword Sets" style="width: 150px;" class="screenshot-img">
+  </a>
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 600px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" alt="ArtushVision AI - Keyword Sets Editor" style="width: 100%; max-width: 600px;" class="screenshot-img">
+  </a>
+</div>
 <div style="height: 15px;"></div>
 
 The feature is fully integrated into your workflow and is available across the entire application:
@@ -195,10 +200,8 @@ The feature is fully integrated into your workflow and is available across the e
 
 *Smart insertion: Applying a set works non-destructively. The application compares your existing tags on the photo with the preset and adds only the missing words (automatic deduplication). Furthermore, the new words are immediately colored green (indicating manual addition) and undergo instant spell checking.*
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" target="_blank" class="screenshot-link" style="max-width: 700px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" alt="ArtushVision AI - Keyword Sets Editor" style="width: 700px;" class="screenshot-img">
-</a>
-<div style="height: 15px;"></div>
+
+
 
 ---
 
