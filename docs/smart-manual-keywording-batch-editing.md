@@ -194,8 +194,8 @@ When the **Enable Validation** feature is active, the application continuously c
 
 Go to `Top Menu` → `File` → `Settings` → `Field Limits`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" alt="ArtushVision AI - Versatile AI - Field limit settings" style="width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" alt="ArtushVision AI - Versatile AI - Field limit settings" style="width: 300px;" class="screenshot-img">
 </a>
 
 ---
