@@ -247,6 +247,11 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 * **Universal Copy/Paste:** Use standard Ctrl+C and Ctrl+V. If you paste a string of 20 keywords into a selection of photos, the application distributes them cleanly, removes duplicates, and immediately formats them into bubbles.
 * **Visual Undo/Redo:** Made a mistake while mass-editing or rating? Press Ctrl+Z. The application remembers the exact state (including the specific tag colors, ratings, and flags) of your entire batch before the edit and restores it instantly.
 
+**Select the photo widget, press CTRL+C, and select the photos where you want to paste the copied metadata.**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/copy-paste.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/copy-paste.png" alt="ArtushVision AI - Copy Paste function in grid" width="100%" class="screenshot-img">
+</a>
+
 ---
 
 ### Master Your Workflow in 3 Steps:
