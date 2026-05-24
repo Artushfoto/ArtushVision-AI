@@ -189,7 +189,14 @@ To ensure your metadata and files meet the strict requirements of various stock 
 *   **Keywords Count:** Define the required minimum and maximum number of keywords (e.g., min 5, max 50).
 *   **Resolution Limit (Megapixels):** Specify a minimum megapixel count to quickly identify images that are too small and might be rejected by agencies.
 
+
 When the **Enable Validation** feature is active, the application continuously checks your data in real-time. Any field or image falling outside your defined limits will be instantly highlighted with an error color (default red) in both the grid and the detail view. This provides immediate visual feedback, preventing you from uploading incomplete or non-compliant files. You can also fully customize the error highlight color separately for both Light and Dark themes to suit your preferences.
+
+Go to `Top Menu` → `File` → `Settings` → `Field Limits`
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" alt="ArtushVision AI - Versatile AI - Field limit settings" style="width: 400px;" class="screenshot-img">
+</a>
 
 ---
 
@@ -212,9 +219,6 @@ The feature is fully integrated into your workflow and is available across the e
 * **In the detail window:** During focused editing of a specific photo, you have instant access to presets via a special icon directly in the header of the Keywords section.
 
 *Smart insertion: Applying a set works non-destructively. The application compares your existing tags on the photo with the preset and adds only the missing words (automatic deduplication). Furthermore, the new words are immediately colored green (indicating manual addition) and undergo instant spell checking.*
-
-
-
 
 ---
 
