@@ -155,6 +155,17 @@ Forget clumsy text boxes and constant reloading. Experience real-time tagging, s
 
 ---
 
+## Visual Tag Bubbles and Seamless Drag-and-Drop
+
+Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
+
+* **Reorder on the Fly:** Simply click and drag a bubble to change the order of your keywords.
+* **Cross-Photo Drag and Drop:** Need a specific keyword on another photo? Grab the bubble and drop it onto any other image in the grid.
+* **Multi-Select Dragging:** Hold Ctrl to select multiple bubbles at once, then drag the entire batch to instantly apply them to another photo.
+* **Auto-Deduplication:** The application automatically prevents duplicate tags. If a photo already has the tag, it will smoothly ignore the dropped duplicate.
+
+---
+
 ## Visual Culling: Ratings, Flags and Color Labels
 
 Organizing a massive photoshoot requires speed. ArtushVision AI features a complete visual rating system built right into the grid, allowing you to cull your photos without taking your hands off the keyboard.
@@ -169,14 +180,16 @@ Organizing a massive photoshoot requires speed. ArtushVision AI features a compl
 
 ---
 
-## Visual Tag Bubbles and Seamless Drag-and-Drop
+### Field Limits & Validation
 
-Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
+To ensure your metadata and files meet the strict requirements of various stock photography agencies, ArtushVision AI includes a comprehensive **Limits** monitoring system. By configuring these limits in the Settings menu, you can maintain full control over the length and volume of your metadata. You can define specific thresholds for:
 
-* **Reorder on the Fly:** Simply click and drag a bubble to change the order of your keywords.
-* **Cross-Photo Drag and Drop:** Need a specific keyword on another photo? Grab the bubble and drop it onto any other image in the grid.
-* **Multi-Select Dragging:** Hold Ctrl to select multiple bubbles at once, then drag the entire batch to instantly apply them to another photo.
-* **Auto-Deduplication:** The application automatically prevents duplicate tags. If a photo already has the tag, it will smoothly ignore the dropped duplicate.
+*   **Title Length:** Set the minimum and maximum allowed character count for the title.
+*   **Description Length:** Set the minimum and maximum allowed character count for the description.
+*   **Keywords Count:** Define the required minimum and maximum number of keywords (e.g., min 5, max 50).
+*   **Resolution Limit (Megapixels):** Specify a minimum megapixel count to quickly identify images that are too small and might be rejected by agencies.
+
+When the **Enable Validation** feature is active, the application continuously checks your data in real-time. Any field or image falling outside your defined limits will be instantly highlighted with an error color (default red) in both the grid and the detail view. This provides immediate visual feedback, preventing you from uploading incomplete or non-compliant files. You can also fully customize the error highlight color separately for both Light and Dark themes to suit your preferences.
 
 ---
 
