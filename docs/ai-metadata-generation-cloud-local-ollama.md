@@ -161,8 +161,8 @@ ArtushVision AI gives you complete freedom over where and how your data is proce
 
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Language and AI Settings" style="width: 500px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Language and AI Settings" style="width: 400px;" class="screenshot-img">
 </a>
 
 ---
@@ -237,6 +237,7 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img">
   </a>
+
 ---
 
 ## Context-Aware Prompting: The AI Knows Your Gear
@@ -265,8 +266,8 @@ ArtushVision AI provides native support for video assets (.mp4, .mov), eliminati
 
 Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 500px;" class="screenshot-img">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 400px;" class="screenshot-img">
 </a>
 
 ---

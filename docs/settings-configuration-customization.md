@@ -171,8 +171,8 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 
 Go to `Top Menu` → `File` → `Settings` → `Grid Appearance`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" alt="ArtushVision AI - Grid Appearance Settings" style="width: 400px;" class="screenshot-img">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-appearance.png" alt="ArtushVision AI - Grid Appearance Settings" style="width: 300px;" class="screenshot-img">
 </a>
 
 ---
@@ -187,8 +187,8 @@ Fine-tune how the AI engine interacts with your media, especially when dealing w
 
 Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video and RAW Workflow Settings" style="width: 500px;" class="screenshot-img">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video and RAW Workflow Settings" style="width: 400px;" class="screenshot-img">
 </a>
 
 ---
@@ -204,8 +204,8 @@ Ensure your metadata is flawless and quickly entered with advanced linguistic to
 
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Language and AI Selection" style="width: 500px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Language and AI Selection" style="width: 400px;" class="screenshot-img">
 </a>
 
 
@@ -253,8 +253,8 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 
 Go to `Top Menu` → `File` → `Settings` `Map Settings`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Map Settings" style="width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Map Settings" style="width: 300px;" class="screenshot-img">
 </a>
 
 ---

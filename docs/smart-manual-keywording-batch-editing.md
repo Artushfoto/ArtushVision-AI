@@ -163,6 +163,10 @@ Organizing a massive photoshoot requires speed. ArtushVision AI features a compl
 * **Batch Culling:** Select 100 photos and press 5 to rate them all as 5-star instantly.
 * **[100% Lightroom , digiKam and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Your ratings, flags, and color labels are natively written into <a href="/docs/metadata-compatibility-and-file-handling.html">EXIF/XMP sidecars</a>. If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/visual-culling.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/visual-culling.png" alt="ArtushVision AI - Visual Culling" width="100%" class="screenshot-img">
+</a>
+
 ---
 
 ## Visual Tag Bubbles and Seamless Drag-and-Drop
@@ -180,8 +184,8 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 
 ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed. 
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 100px;" class="screenshot-img">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" target="_blank" class="screenshot-link" style="max-width: 150px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" alt="ArtushVision AI - Predefined Keyword Sets" style="width: 150px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -191,8 +195,8 @@ The feature is fully integrated into your workflow and is available across the e
 
 *Smart insertion: Applying a set works non-destructively. The application compares your existing tags on the photo with the preset and adds only the missing words (automatic deduplication). Furthermore, the new words are immediately colored green (indicating manual addition) and undergo instant spell checking.*
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 400px;" class="screenshot-img">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" target="_blank" class="screenshot-link" style="max-width: 700px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" alt="ArtushVision AI - Keyword Sets Editor" style="width: 700px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -228,6 +232,10 @@ Struggling to find the right word? Double-click any tag (or right-click and sele
 * **"Did you mean?":** If you open the dialog on a misspelled word, it prominently displays a section with the correct spelling alternatives.
 
 [IMAGE: A screenshot of the Interactive Synonym Dialog. Show the original word at the top, the grid of suggested synonym bubbles below, and a hover tooltip showing the translation and definition.]
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/synonyms.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/synonyms.png" alt="ArtushVision AI - Interactive Synonym Explorer" width="100%" class="screenshot-img">
+</a>
 
 ---
 
