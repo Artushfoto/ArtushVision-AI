@@ -163,8 +163,8 @@ Organizing a massive photoshoot requires speed. ArtushVision AI features a compl
 * **Batch Culling:** Select 100 photos and press 5 to rate them all as 5-star instantly.
 * **[100% Lightroom , digiKam and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Your ratings, flags, and color labels are natively written into <a href="/docs/metadata-compatibility-and-file-handling.html">EXIF/XMP sidecars</a>. If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/visual-culling.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/visual-culling.png" alt="ArtushVision AI - Visual Culling" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.png" alt="ArtushVision AI - Visual Culling" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -233,8 +233,8 @@ Struggling to find the right word? Double-click any tag (or right-click and sele
 
 [IMAGE: A screenshot of the Interactive Synonym Dialog. Show the original word at the top, the grid of suggested synonym bubbles below, and a hover tooltip showing the translation and definition.]
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/synonyms.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/synonyms.png" alt="ArtushVision AI - Interactive Synonym Explorer" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" alt="ArtushVision AI - Interactive Synonym Explorer" width="100%" class="screenshot-img">
 </a>
 
 ---
