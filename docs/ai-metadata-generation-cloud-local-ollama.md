@@ -249,6 +249,8 @@ Generic AI tools produce generic metadata. ArtushVision AI injects technical bac
 * **[Technical EXIF Injection:](/docs/advanced-ai-prompting-profiles-variables.html#technical--exif-parameters)** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
 * **[Category Matrix Integration:](/docs/settings-configuration-customization.html#the-category-matrix)** The engine ensures generated keywords align with your selected commercial [Master Categories](/docs/settings-configuration-customization.html#the-category-matrix).
 
+**Prompt Editor**
+
 Go to `Top Toolbar` → `Gear button` next to the profile selector
 
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
