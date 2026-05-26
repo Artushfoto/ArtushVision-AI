@@ -176,6 +176,10 @@ Tools for quick navigation and file selection within the current session:
 *   **Search:** Full-text search. You can specify the target field (Everywhere, Title, Description, Keywords). Supports case sensitivity (Aa).
 *   **Panel Toggles:** The rightmost buttons show/hide the side panels for *Rating* and *Batch Edit*.
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" alt="ArtushVision AI - Filter Ba" width="100%" class="screenshot-img">
+</a>
+
 ## Batch Edit Bar
 The bottom slide-out bar allows for massive metadata operations across the entire selection at once.
 *   **Target (Dropdown):** Determines whether the edit affects the Title, Description, Keywords, or All fields.
