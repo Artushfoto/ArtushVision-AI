@@ -171,6 +171,13 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 </a>
 
 
+<video src="video/ seamless-drag-and-drop.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing seamless drag and drop metadata editing in ArtushVision AI">
+  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+</video>
+<p><a href="video/ seamless-drag-and-drop.mp4" target="_blank" style="font-size: 0.9em;">🔍 Open video in full size</a></p>
+
+
+
 ---
 
 ## Visual Culling: Ratings, Flags and Color Labels
