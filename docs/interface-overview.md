@@ -224,6 +224,10 @@ Micro-badges may appear below the photo thumbnail, indicating file properties:
 *   **Quick Clear:** The cross (×) in the field header clears the content of that specific field for the current (or all selected) photos.
 * **Copy & Paste Tools (Clipboard Icon):** Located in the field header for quickly copying the Title, Description, Tags, and Categories. You can dynamically paste these copied elements into **multiple selected files at once** (batch paste) and choose exactly which fields you want to inject (e.g., copy the entire metadata layout but apply only the Title and Description to the target files).
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" alt="ArtushVision AI - Main Grig Overview" width="100%" class="screenshot-img">
+</a>
+
 ### Rating & Flags
 Available on a dedicated panel (or via keyboard shortcuts):
 *   **Stars (1-5):** Written to XMP/IPTC (compatible with Lightroom/Zoner).
