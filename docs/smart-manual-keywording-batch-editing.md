@@ -241,6 +241,13 @@ Never get a batch rejected for a typo again. ArtushVision AI features a robust, 
 * **Quick Fixes:** Right-click any red-underlined word to open the context menu. The <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Cloud AI</a> will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
 * **User Dictionary:** Teach the application your specific client names or locations. Add a custom word to your **Personal Dictionary** with one click, and the app will instantly clear the error across your entire portfolio.
 
+Go to `Top Menu` → `File` → `Settings` → `Field Limits`
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Field limit settings" style="width: 400px;" class="screenshot-img">
+</a>
+
+
 ---
 
 ## Interactive Synonym Explorer
