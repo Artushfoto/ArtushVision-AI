@@ -253,10 +253,12 @@ Generic AI tools produce generic metadata. ArtushVision AI injects technical bac
 
 Go to `Top Toolbar` → `Gear button ` next to the profile selector
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/prompt-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/prompt-editor.png" alt="ArtushVision AI - Prompt Editor" style="width: 600px;" class="screenshot-img">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - Prompt Editor" style="width: 600px;" class="screenshot-img">
 </a>
+<div style="height: 15px;"></div>
 
+**Prompt Editor**
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" alt="ArtushVision AI - Profile Editor" style="width: 600px;" class="screenshot-img">
 </a>
