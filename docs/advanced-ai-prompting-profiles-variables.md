@@ -279,8 +279,8 @@ Build a library of specialized workflows to switch between different project typ
 
 [IMAGE: A graphic showing a raw prompt template with variables on the left and the final processed text received by the AI on the right.]
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear" alt="ArtushVision AI - AI prompt Editor Button" style="width: 500px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - AI prompt Editor Button" style="width: 500px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
