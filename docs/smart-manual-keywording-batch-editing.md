@@ -162,6 +162,9 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 * **Reorder on the Fly:** Simply click and drag a bubble to change the order of your keywords.
 * **Cross-Photo Drag and Drop:** Need a specific keyword on another photo? Grab the bubble and drop it onto any other image in the grid.
 * **Multi-Select Dragging:** Hold Ctrl to select multiple bubbles at once, then drag the entire batch to instantly apply them to another photo.
+
+* **Add a keyword to multiple photos** Select multiple photos (using `Ctrl` + `Click`) and type a keyword to apply it to all selected images in bulk.
+
 * **Auto-Deduplication:** The application automatically prevents duplicate tags. If a photo already has the tag, it will smoothly ignore the dropped duplicate.
 
 <video src="video/ seamless-drag-and-drop.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing seamless drag and drop metadata editing in ArtushVision AI">
