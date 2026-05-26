@@ -164,6 +164,8 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 * **Multi-Select Dragging:** Hold Ctrl to select multiple bubbles at once, then drag the entire batch to instantly apply them to another photo.
 * **Auto-Deduplication:** The application automatically prevents duplicate tags. If a photo already has the tag, it will smoothly ignore the dropped duplicate.
 
+<video src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/seamless-drag-and-drop.mp4" autoplay loop muted playsinline class="screenshot-img" style="max-width: 800px; width: 100%; margin: 20px 0; display: block;"></video>
+
 ---
 
 ## Visual Culling: Ratings, Flags and Color Labels
