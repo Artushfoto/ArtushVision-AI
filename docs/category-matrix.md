@@ -188,6 +188,8 @@ If you prefer to assign categories manually, want to adjust the AI's choices, or
 *   **In the Grid (Batch Edit):** Select one or multiple photos and click the **Categories** button in the Batch Edit bar. Here you can check up to 3 Master categories. You can also define the **Country** (which is automatically extracted if the photo contains GPS, or you can enter it manually) and toggle specific flags like **Editorial**, **Mature (18+)**, **Illustration**, or **AI Generated**. They will be applied to all selected photos instantly.
 *   **In the Detail Window:** The assigned categories, Country, and active flags are clearly displayed in their own section next to the Description. You can review them, see them neatly formatted, and easily delete any incorrect ones using the "×" button.
 
+Click to `Category Button` in Detail Window
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
 </a>
