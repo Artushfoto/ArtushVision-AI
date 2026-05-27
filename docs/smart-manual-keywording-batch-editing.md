@@ -289,6 +289,9 @@ Struggling to find the right word? Double-click any tag (or right-click and sele
 * **"Did you mean?":** If you open the dialog on a misspelled word, it prominently displays a section with the correct spelling alternatives.
 
 **Interactive Synonym Dialog**
+
+Right Nouse Click → `Keyword`
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" alt="ArtushVision AI - Interactive Synonym Dialog" width="100%" class="screenshot-img">
 </a>
