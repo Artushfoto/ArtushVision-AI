@@ -258,7 +258,13 @@ Go to `Top Toolbar` → `Gear button ` next to the profile selector
 </a>
 <div style="height: 15px;"></div>
 
-**Prompt Editor**
+**Cloud AI Prompt Editor**
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" alt="ArtushVision AI - Profile Editor" style="width: 600px;" class="screenshot-img">
+</a>
+
+
+**Hybrid AI Prompt Editor**
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" alt="ArtushVision AI - Profile Editor" style="width: 600px;" class="screenshot-img">
 </a>
