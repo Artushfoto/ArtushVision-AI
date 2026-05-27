@@ -153,10 +153,11 @@ You only need to assign a category once, and the application will automatically 
 
 Go to `Batch Edit Toolbar` → `Categories`
 
-Select multiple or one file to **Add Categories**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-menu.png" alt="ArtushVision AI - Add Category Interface" width="100%" class="screenshot-img">
-</a>
+<video src="video/how-to-add-categories.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Working with categories" aria-label="Add Category in ArtushVision AI">
+  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+</video>
+<p><a href="video/how-to-add-categories.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
 
 ## Category Matrix Editor
 In this editor, you can define exactly how your Master categories map to specific agencies. 
@@ -187,12 +188,10 @@ If you prefer to assign categories manually, want to adjust the AI's choices, or
 *   **In the Grid (Batch Edit):** Select one or multiple photos and click the **Categories** button in the Batch Edit bar. Here you can check up to 3 Master categories. You can also define the **Country** (which is automatically extracted if the photo contains GPS, or you can enter it manually) and toggle specific flags like **Editorial**, **Mature (18+)**, **Illustration**, or **AI Generated**. They will be applied to all selected photos instantly.
 *   **In the Detail Window:** The assigned categories, Country, and active flags are clearly displayed in their own section next to the Description. You can review them, see them neatly formatted, and easily delete any incorrect ones using the "×" button.
 
-<video src="video/how-to-add-categories.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Working with categories" aria-label="Add Category in ArtushVision AI">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
-</video>
-<p><a href="video/how-to-add-categories.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
-
-
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 ## Visual Indicators: The `CAT` Badge
 To give you a quick overview of your progress, ArtushVision provides visual feedback:
