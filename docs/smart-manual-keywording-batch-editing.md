@@ -286,6 +286,13 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/copy-paste.png" alt="ArtushVision AI - Copy Paste function in grid" width="100%" class="screenshot-img">
 </a>
 
+<video src="video/copy-paste-metadata.mp4.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing copy and paste metadata in ArtushVision AI">
+  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+</video>
+<p><a href="video/ seamless-drag-and-drop.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+
+
 ---
 
 ### Master Your Workflow in 3 Steps:
