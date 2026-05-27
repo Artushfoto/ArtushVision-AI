@@ -184,7 +184,7 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 **Select the photo widget**, press **CTRL+C**, and select the photos where you want to paste **(CTRL+V)** the copied metadata.**
 
-<video src="video/copy-paste-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing copy and paste metadata in ArtushVision AI">
+<video src="video/copy-paste-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI" aria-label="Video showing copy and paste metadata in ArtushVision AI">
   ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
 </video>
 <p><a href="video/copy-paste-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>

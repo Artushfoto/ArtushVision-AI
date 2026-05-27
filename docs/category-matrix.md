@@ -184,9 +184,13 @@ When you run the Cloud AI or Local AI analysis, the AI can be instructed to auto
 If you prefer to assign categories manually, want to adjust the AI's choices, or need to set specific metadata flags, you can easily do so:
 *   **In the Grid (Batch Edit):** Select one or multiple photos and click the **Categories** button in the Batch Edit bar. Here you can check up to 3 Master categories. You can also define the **Country** (which is automatically extracted if the photo contains GPS, or you can enter it manually) and toggle specific flags like **Editorial**, **Mature (18+)**, **Illustration**, or **AI Generated**. They will be applied to all selected photos instantly.
 *   **In the Detail Window:** The assigned categories, Country, and active flags are clearly displayed in their own section next to the Description. You can review them, see them neatly formatted, and easily delete any incorrect ones using the "×" button.
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/grid-add-category-search.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-add-category-search.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
-</a>
+
+<video src="video/how-to-add-categories.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Working with categories" aria-label="Add Category in ArtushVision AI">
+  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+</video>
+<p><a href="video/how-to-add-categories.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+
 
 ## Visual Indicators: The `CAT` Badge
 To give you a quick overview of your progress, ArtushVision provides visual feedback:
