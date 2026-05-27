@@ -208,7 +208,7 @@ To give you a quick overview of your progress, ArtushVision provides visual feed
 ## Seamless CSV Export & FTP Integration
 The true magic of the Category Matrix happens when you export your metadata. 
 
-In the **[CSV Template Editor](docs/settings-configuration-customization.html#advanced-csv-template-editor)**, you can add columns for `Mapped Category 1`, `Mapped Category 2`, etc. 
+In the **[CSV Template Editor](settings-configuration-customization.html#advanced-csv-template-editor)**, you can add columns for `Mapped Category 1`, `Mapped Category 2`, etc. 
 
 *   **Smart Auto-Mapping:** If you name your CSV template or FTP Server profile with the name of the agency (for example, `"Adobe Stock"` or `"Dreamstime"`), ArtushVision AI automatically understands where the file is going. It looks into your Category Matrix and fills the CSV column with the exact category required by that specific agency.
 *   **Dreamstime ID Conversion:** For Dreamstime, you don't even need to know their category numbers. The app automatically converts text categories (like "Landscape" or "People") into Dreamstime's required numerical IDs during the export.
