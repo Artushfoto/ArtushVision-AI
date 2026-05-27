@@ -188,7 +188,7 @@ If you prefer to assign categories manually, want to adjust the AI's choices, or
 *   **In the Grid (Batch Edit):** Select one or multiple photos and click the **Categories** button in the Batch Edit bar. Here you can check up to 3 Master categories. You can also define the **Country** (which is automatically extracted if the photo contains GPS, or you can enter it manually) and toggle specific flags like **Editorial**, **Mature (18+)**, **Illustration**, or **AI Generated**. They will be applied to all selected photos instantly.
 *   **In the Detail Window:** The assigned categories, Country, and active flags are clearly displayed in their own section next to the Description. You can review them, see them neatly formatted, and easily delete any incorrect ones using the "×" button.
 
-Click to `Category Button` in Detail Window
+Click to `Categories Button` in Detail Window
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
@@ -199,6 +199,11 @@ Click to `Category Button` in Detail Window
 To give you a quick overview of your progress, ArtushVision provides visual feedback:
 *   **CAT Badge:** As soon as a photo has at least one category assigned, a highly visible turquoise **`CAT` badge** appears on the image thumbnail in both the Grid and the Detail Window.
 *   **Smart Tooltip:** Hovering your mouse over the `CAT` badge or specific asset flags (*Categories, Editorial, Mature (18+), Illustration,* or *AI Generated*) instantly triggers a pop-up tooltip displaying the exact roster of assigned Master categories for that specific file.
+
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" alt="ArtushVision AI - Categories Badge" style="width: 400px;" class="screenshot-img">
+</a>
 
 ## Seamless CSV Export & FTP Integration
 The true magic of the Category Matrix happens when you export your metadata. 
