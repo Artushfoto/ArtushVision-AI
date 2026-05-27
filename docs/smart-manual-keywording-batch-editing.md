@@ -191,6 +191,33 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 ---
 
+### Keyword Sets (Presets)
+
+ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed.
+
+<video src="video/keyword-sets.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI" aria-label="How to use Keyword Set in ArtushVision AI">
+  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+</video>
+<p><a href="video/keyword-sets.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+The feature is fully integrated into your workflow and is available across the entire application:
+* **In the main grid:** You can apply sets in bulk to any number of selected photos – just use the context menu (right-click) or the *Sets* button on the bottom batch edit bar.
+* **In the detail window:** During focused editing of a specific photo, you have instant access to presets via a special icon directly in the header of the Keywords section.
+
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-top: 15px;">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 150px; flex: 0 0 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" alt="ArtushVision AI - Predefined Keyword Sets" style="width: 150px;" class="screenshot-img">
+  </a>
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 600px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" alt="ArtushVision AI - Keyword Sets Editor" style="width: 100%; max-width: 600px;" class="screenshot-img">
+  </a>
+</div>
+<div style="height: 15px;"></div>
+
+*Smart insertion: Applying a set works non-destructively. The application compares your existing tags on the photo with the preset and adds only the missing words (automatic deduplication). Furthermore, the new words are immediately colored green (indicating manual addition) and undergo instant spell checking.*
+
+---
+
 ## Visual Culling: Ratings, Flags and Color Labels
 
 Organizing a massive photoshoot requires speed. ArtushVision AI features a complete visual rating system built right into the grid, allowing you to cull your photos without taking your hands off the keyboard.
@@ -222,34 +249,6 @@ Go to `Top Menu` → `File` → `Settings` → `Field Limits`
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" alt="ArtushVision AI - Versatile AI - Field limit settings" style="width: 300px;" class="screenshot-img">
 </a>
-
----
-
-### Keyword Sets (Presets)
-
-ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed.
-
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-top: 15px;">
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 150px; flex: 0 0 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" alt="ArtushVision AI - Predefined Keyword Sets" style="width: 150px;" class="screenshot-img">
-  </a>
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 600px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" alt="ArtushVision AI - Keyword Sets Editor" style="width: 100%; max-width: 600px;" class="screenshot-img">
-  </a>
-</div>
-<div style="height: 15px;"></div>
-
-The feature is fully integrated into your workflow and is available across the entire application:
-* **In the main grid:** You can apply sets in bulk to any number of selected photos – just use the context menu (right-click) or the *Sets* button on the bottom batch edit bar.
-* **In the detail window:** During focused editing of a specific photo, you have instant access to presets via a special icon directly in the header of the Keywords section.
-
-<video src="video/keyword-sets.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI" aria-label="How to use Keyword Set in ArtushVision AI">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
-</video>
-<p><a href="video/keyword-sets.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
-
-
-*Smart insertion: Applying a set works non-destructively. The application compares your existing tags on the photo with the preset and adds only the missing words (automatic deduplication). Furthermore, the new words are immediately colored green (indicating manual addition) and undergo instant spell checking.*
 
 ---
 
