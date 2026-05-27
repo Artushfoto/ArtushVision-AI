@@ -174,6 +174,23 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 
 ---
 
+## Smart Batch Editing and Copy-Paste
+
+When you need to edit 500 photos at once, traditional copy-pasting is too dangerous—you risk overwriting unique tags.
+
+* **Smart Append Sync:** Select 50 photos in the grid. Type a new keyword into one of them. ArtushVision AI intelligently appends that new word to all 50 photos in real-time without destroying their existing, unique tags.
+* **Universal Copy/Paste:** Use standard Ctrl+C and Ctrl+V. If you paste a string of 20 keywords into a selection of photos, the application distributes them cleanly, removes duplicates, and immediately formats them into bubbles.
+* **Visual Undo/Redo:** Made a mistake while mass-editing or rating? Press Ctrl+Z. The application remembers the exact state (including the specific tag colors, ratings, and flags) of your entire batch before the edit and restores it instantly.
+
+**Select the photo widget**, press **CTRL+C**, and select the photos where you want to paste **(CTRL+V)** the copied metadata.**
+
+<video src="video/copy-paste-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing copy and paste metadata in ArtushVision AI">
+  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+</video>
+<p><a href="video/copy-paste-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+---
+
 ## Visual Culling: Ratings, Flags and Color Labels
 
 Organizing a massive photoshoot requires speed. ArtushVision AI features a complete visual rating system built right into the grid, allowing you to cull your photos without taking your hands off the keyboard.
@@ -255,7 +272,6 @@ Go to `Top Menu` → `File` → `Settings` → `Language and AI`
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Field limit settings" style="width: 400px;" class="screenshot-img">
 </a>
 
-
 ---
 
 ## Interactive Synonym Explorer
@@ -270,23 +286,6 @@ Struggling to find the right word? Double-click any tag (or right-click and sele
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" alt="ArtushVision AI - Interactive Synonym Dialog" width="100%" class="screenshot-img">
 </a>
-
----
-
-## Smart Batch Editing and Copy-Paste
-
-When you need to edit 500 photos at once, traditional copy-pasting is too dangerous—you risk overwriting unique tags.
-
-* **Smart Append Sync:** Select 50 photos in the grid. Type a new keyword into one of them. ArtushVision AI intelligently appends that new word to all 50 photos in real-time without destroying their existing, unique tags.
-* **Universal Copy/Paste:** Use standard Ctrl+C and Ctrl+V. If you paste a string of 20 keywords into a selection of photos, the application distributes them cleanly, removes duplicates, and immediately formats them into bubbles.
-* **Visual Undo/Redo:** Made a mistake while mass-editing or rating? Press Ctrl+Z. The application remembers the exact state (including the specific tag colors, ratings, and flags) of your entire batch before the edit and restores it instantly.
-
-**Select the photo widget**, press **CTRL+C**, and select the photos where you want to paste **(CTRL+V)** the copied metadata.**
-
-<video src="video/copy-paste-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing copy and paste metadata in ArtushVision AI">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
-</video>
-<p><a href="video/copy-paste-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
