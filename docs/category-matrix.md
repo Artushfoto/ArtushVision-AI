@@ -145,6 +145,8 @@ h1 { text-align: center; }
 
 # Category Mapping Matrix
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 The **Category Mapping Matrix** is a powerful feature designed to eliminate the tedious task of manually assigning different categories for each individual stock photo agency. Since every agency (Adobe Stock, Shutterstock, Dreamstime, etc.) uses its own unique category names or ID numbers, ArtushVision AI uses a "Master Category" system to unify them.
 
 You only need to assign a category once, and the application will automatically translate it into the correct format for every agency during the CSV export or FTP upload.
