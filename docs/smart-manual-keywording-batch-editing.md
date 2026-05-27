@@ -282,16 +282,11 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 * **Visual Undo/Redo:** Made a mistake while mass-editing or rating? Press Ctrl+Z. The application remembers the exact state (including the specific tag colors, ratings, and flags) of your entire batch before the edit and restores it instantly.
 
 **Select the photo widget**, press **CTRL+C**, and select the photos where you want to paste **(CTRL+V)** the copied metadata.**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/copy-paste.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/copy-paste.png" alt="ArtushVision AI - Copy Paste function in grid" width="100%" class="screenshot-img">
-</a>
 
-<video src="video/copy-paste-metadata.mp4.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing copy and paste metadata in ArtushVision AI">
+<video src="video/copy-paste-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing copy and paste metadata in ArtushVision AI">
   ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
 </video>
-<p><a href="video/ seamless-drag-and-drop.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
-
-
+<p><a href="video/copy-paste-metadata.mp4.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
