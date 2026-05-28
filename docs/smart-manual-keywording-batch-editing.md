@@ -191,6 +191,49 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 ---
 
+## Bulk Delete Keywords in ArtushVision
+
+ArtushVision offers several ways to bulk delete keywords depending on what exactly you need to achieve.
+
+## Delete Specific Keywords from Multiple Photos
+*Use this method if you want to remove only certain words while keeping the rest of the tags intact.*
+
+**Method A: Using Grid Bubbles (Fastest)**
+1. Select multiple photos in the grid (you can click one and press `Ctrl + A` to select all).
+2. Locate the specific keyword bubble you want to remove in any of the selected photos.
+3. Click the **'×'** (delete) icon on that bubble. 
+> **Result:** The keyword will be instantly and intelligently removed from *all* selected photos that contain it.
+
+**Method B: Using the Batch Edit Panel**
+1. Select the affected photos.
+2. Open the **Batch Edit** panel (click the checklist icon in the top filter bar if it's not visible).
+3. In the *"Batch edit:"* dropdown menu, select **Keywords**.
+4. Type the exact keyword you want to delete into the text field.
+5. Click the **"- Remove"** button.
+
+## Clear All Keywords (Start Fresh)
+*Use this method if you want to completely erase the Keywords field for the selected photos and run the AI again.*
+
+**Method A: Using the Context Menu**
+1. Select the photos in the grid.
+2. **Right-click** anywhere on your selection.
+3. Choose **"Clear keywords (selection)"** from the context menu.
+
+**Method B: Using the Batch Edit Panel**
+1. Select the photos and open the **Batch Edit** panel.
+2. Select **Keywords** from the dropdown menu.
+3. Click the **"⌫ Clear Field"** button.
+
+---
+
+### Pro Tip: Made a Mistake? Restore Original Data!
+If you accidentally deleted the wrong keywords and **haven't clicked the "Save" button yet**, you can easily revert your photos to their original state:
+
+* Select the affected photos, **right-click** them, and choose **"Restore original from disk (selection)"**.
+* *Alternatively*, click the **"⟲ Restore from Backup"** button located in the bottom toolbar.
+
+---
+
 ### Keyword Sets (Presets)
 
 ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed.
