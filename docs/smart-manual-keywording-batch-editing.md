@@ -195,7 +195,7 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 ArtushVision offers several ways to bulk delete keywords depending on what exactly you need to achieve.
 
-## Delete Specific Keywords from Multiple Photos
+### Delete Specific Keywords from Multiple Photos
 *Use this method if you want to remove only certain words while keeping the rest of the tags intact.*
 
 **Method A: Using Grid Bubbles (Fastest)**
@@ -204,14 +204,16 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 3. Click the **'×'** (delete) icon on that bubble. 
 > **Result:** The keyword will be instantly and intelligently removed from *all* selected photos that contain it.
 
-**Method B: Using the Batch Edit Panel**
+***Method B: Using the Batch Edit Panel**
 1. Select the affected photos.
 2. Open the **Batch Edit** panel (click the checklist icon in the top filter bar if it's not visible).
 3. In the *"Batch edit:"* dropdown menu, select **Keywords**.
 4. Type the exact keyword you want to delete into the text field.
 5. Click the **"- Remove"** button.
 
-## Clear All Keywords (Start Fresh)
+---
+
+### Clear All Keywords (Start Fresh)
 *Use this method if you want to completely erase the Keywords field for the selected photos and run the AI again.*
 
 **Method A: Using the Context Menu**
