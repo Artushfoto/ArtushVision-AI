@@ -204,7 +204,7 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 3. Click the **'×'** (delete) icon on that bubble. 
 > **Result:** The keyword will be instantly and intelligently removed from *all* selected photos that contain it.
 
-***Method B: Using the Batch Edit Panel**
+**Method B: Using the Batch Edit Panel**
 1. Select the affected photos.
 2. Open the **Batch Edit** panel (click the checklist icon in the top filter bar if it's not visible).
 3. In the *"Batch edit:"* dropdown menu, select **Keywords**.
