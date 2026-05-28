@@ -211,27 +211,37 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 4. Type the exact keyword you want to delete into the text field.
 5. Click the **"- Remove"** button.
 
+<video src="video/remove-keyword.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI" aria-label="Video showing bulk remove keyword in ArtushVision AI">
+  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+</video>
+<p><a href="video/remove-keyword.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
 ---
 
-### Clear All Keywords (Start Fresh)
+### Clear All Metadata (Start Fresh)
 *Use this method if you want to completely erase the Keywords field for the selected photos and run the AI again.*
 
 **Method A: Using the Context Menu**
 1. Select the photos in the grid.
 2. **Right-click** anywhere on your selection.
-3. Choose **"Clear keywords (selection)"** from the context menu.
+3. Choose **"Clear Metadata (selection)"** from the context menu.
 
-**Method B: Using the Batch Edit Panel**
+**Method B: Using the Batch Edit Panel for Specific Metadata Field**
 1. Select the photos and open the **Batch Edit** panel.
-2. Select **Keywords** from the dropdown menu.
+2. Select **Field** where you want to **Remove Metadata** from the dropdown menu.
 3. Click the **"⌫ Clear Field"** button.
+
+<video src="video/clear-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI" aria-label="Video showing how to clear metadata in ArtushVision AI">
+  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+</video>
+<p><a href="video/clear-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
 ### Pro Tip: Made a Mistake? Restore Original Data!
 If you accidentally deleted the wrong keywords and **haven't clicked the "Save" button yet**, you can easily revert your photos to their original state:
 
-* Select the affected photos, **right-click** them, and choose **"Restore original from disk (selection)"**.
+* Select the affected photos, **right-click** them, and choose **"Restore original from disk (selection) or from Backup CSV (if CSV backup is enabled)"**.
 * *Alternatively*, click the **"⟲ Restore from Backup"** button located in the bottom toolbar.
 
 ---
