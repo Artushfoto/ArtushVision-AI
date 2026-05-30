@@ -211,7 +211,7 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 4. Type the exact keyword you want to delete into the text field.
 5. Click the **"- Remove"** button.
 
-<video src="video/remove-keyword.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI" aria-label="Video showing bulk remove keyword in ArtushVision AI">
+<video src="video/remove-keyword.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - bulk remove keyword" aria-label="Video showing bulk remove keyword in ArtushVision AI">
   ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
 </video>
 <p><a href="video/remove-keyword.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
