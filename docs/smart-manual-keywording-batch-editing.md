@@ -344,7 +344,7 @@ Struggling to find the right word? Double-click any tag (or right-click and sele
 
 **Interactive Synonym Dialog**
 
-Right Nouse Click → `Keyword`
+Right Mouse Click on → `Keyword`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" alt="ArtushVision AI - Interactive Synonym Dialog" width="100%" class="screenshot-img">
