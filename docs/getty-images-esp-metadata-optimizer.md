@@ -244,6 +244,13 @@ A major hurdle in metadata is homonyms—words with multiple meanings. If you us
 
 ---
 
+**Apply CSV file on getty**
+
+<video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP" aria-label="Apply CSV on Getty ESP">
+  ArtushVision AI - Getty resolver with AI beta.
+</video>
+<p><a href="getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
 ## 5. Personal User Getty Dictionary and Memory
 
 Teach ArtushVision AI your specific niche. If you specialize in rare Latin species, local landmarks, or technical subjects missing from the Master Dictionary, you can map them once and save the rule directly to your Personal Dictionary.
