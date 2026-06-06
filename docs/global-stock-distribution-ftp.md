@@ -181,14 +181,14 @@ Skip the manual spreadsheet work. The FTP module is deeply integrated with a pow
 ## Agency Profiles and Server Groups
 Speed up your distribution workflow by grouping multiple stock agencies together for simultaneous batch uploads.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" alt="ArtushVision AI - FTP Agencies Manager" style="width: 600px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" alt="ArtushVision AI - FTP Agencies Manager" style="width: 800px;" class="screenshot-img">
 </a>
 </div>
 <div style="height: 15px;"></div>
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" alt="ArtushVision AI - FTP Editor" style="width: 600px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" alt="ArtushVision AI - FTP Editor" style="width: 400px;" class="screenshot-img">
 </a>
 </div>
 <div style="height: 15px;"></div>
@@ -197,14 +197,8 @@ Speed up your distribution workflow by grouping multiple stock agencies together
 * **One-Click Distribution:** Select your pre-saved profile from the dropdown menu to instantly target all servers belonging to that specific group.
 * **Independent Configuration:** Profile settings are safely stored independently of the main application, ensuring stability and allowing for easy backups.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - Custom Server FTP Group Editor" width="100%" class="screenshot-img">
-</a>   
-
-
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 600px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" alt="ArtushVision AI - FTP Agencies Manager" style="width: 100%; max-width: 600px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
   </a>
 </div>
 <div style="height: 15px;"></div>
