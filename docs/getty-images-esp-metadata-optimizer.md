@@ -244,7 +244,7 @@ A major hurdle in metadata is homonyms—words with multiple meanings. If you us
 
 ---
 
-**Apply CSV file on Getty ESP**
+**Apply CSV file on Getty ESP https://esp.gettyimages.com/**
 
 Go to `Templates` → `Apply from CSV
 
