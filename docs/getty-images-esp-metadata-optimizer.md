@@ -237,8 +237,8 @@ A major hurdle in metadata is homonyms—words with multiple meanings. If you us
    * *If you set it > 0, the AI will also suggest completely new, highly relevant terms from the Getty Master Dictionary.*
 4. Click **"Resolve with AI beta"**.
 
-<video src="video/getty-optimizer-ai.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI" aria-label="AI Getty Optimizer in ArtushVision AI">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+<video src="video/getty-optimizer-ai.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using AI to resolve Getty Terms" aria-label="AI Getty Optimizer in ArtushVision AI">
+  ArtushVision AI - Getty resolver with AI beta.
 </video>
 <p><a href="video/getty-optimizer-ai.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
