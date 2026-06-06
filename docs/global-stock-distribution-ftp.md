@@ -205,11 +205,26 @@ Speed up your distribution workflow by grouping multiple stock agencies together
 
 Never upload the same file twice by accident. ArtushVision AI remembers the complete upload history of every asset directly within the file metadata.
 
-* **Micro-Badges in Grid:** Instantly see tiny agency badges (e.g., S for Shutterstock, A for Adobe, F for Freepik) directly on your photo thumbnails in the main grid.
-* **Persistent XMP Stamping:** Status information is written into the file's XMP metadata, ensuring your upload history is preserved even if you move your files to another drive.
+* **Micro-Badges in Grid:** Instantly see tiny agency badges (e.g., S for Shutterstock, A for Adobe, F for Freepik) directly on your photo thumbnails in the main grid. These badges appear automatically after a successful FTP upload, but you can also add them manually. You can simply type the name of any agency to track it, even if you don't have an FTP connection configured for it.
+* **Persistent Metadata Stamping:** Whether generated automatically or entered manually, the upload history is permanently written into the file's XMP/IPTC metadata. This ensures your tracking is preserved forever, even if you move your files to another drive or open them in another software.
 * **Safeguard Logic:** A built-in protection system automatically skips files that have already been successfully uploaded to the target agency in the past.
 
 [IMAGE: A screenshot of the main photo grid, highlighting the small agency micro-badges on the thumbnails and the Advanced FTP Filter dropdown.]
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
+  </a>
+<div style="height: 15px;"></div>
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
+  </a>
+<div style="height: 15px;"></div>
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
+  </a>
+<div style="height: 15px;"></div>
 
 ---
 
