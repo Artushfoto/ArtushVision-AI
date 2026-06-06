@@ -181,8 +181,8 @@ Skip the manual spreadsheet work. The FTP module is deeply integrated with a pow
 ## Agency Profiles and Server Groups
 Speed up your distribution workflow by grouping multiple stock agencies together for simultaneous batch uploads.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" alt="ArtushVision AI - FTP Agencies Manager" style="width: 800px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.jpg" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.jpg" alt="ArtushVision AI - FTP Agencies Manager" style="width: 800px;" class="screenshot-img">
 </a>
 </div>
 <div style="height: 15px;"></div>
@@ -199,7 +199,7 @@ Speed up your distribution workflow by grouping multiple stock agencies together
 
 **Agency Editor**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiless.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
   </a>
 </div>
 <div style="height: 15px;"></div>
