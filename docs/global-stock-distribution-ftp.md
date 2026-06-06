@@ -190,18 +190,15 @@ Speed up your distribution workflow by grouping multiple stock agencies together
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" alt="ArtushVision AI - FTP Editor" style="width: 400px;" class="screenshot-img">
 </a>
-</div>
 <div style="height: 15px;"></div>
 
 * **Custom Server Groups:** Create user-defined profiles (e.g., "Video Agencies" or "Editorial Only") to save your current selection of target FTP servers.
 * **One-Click Distribution:** Select your pre-saved profile from the dropdown menu to instantly target all servers belonging to that specific group.
 * **Independent Configuration:** Profile settings are safely stored independently of the main application, ensuring stability and allowing for easy backups.
 
-**Agency Editor**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
     <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
   </a>
-</div>
 <div style="height: 15px;"></div>
 
 
