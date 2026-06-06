@@ -246,7 +246,7 @@ A major hurdle in metadata is homonyms—words with multiple meanings. If you us
 
 **Apply CSV file on Getty ESP https://esp.gettyimages.com/**
 
-Go to `Templates` → `Apply from CSV
+Go to `Templates` → `Apply from CSV`
 
 <video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP" aria-label="Apply CSV on Getty ESP">
   ArtushVision AI - Getty resolver with AI beta.
