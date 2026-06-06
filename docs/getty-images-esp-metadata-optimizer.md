@@ -200,8 +200,8 @@ At the top of the window, you'll see thumbnails of your selected batch.
 *   **Multi-Select**: Use `Ctrl + Click` to select multiple thumbnails.
 *   **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
 
-<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI" aria-label="Overview of Getty Optimizer in ArtushVision AI">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Overview of Getty Optimizer in ArtushVision AI">
+  ArtushVision AI - Getty Optimizer Overview.
 </video>
 <p><a href="video/getty-optimizer-overview.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -212,6 +212,11 @@ The Resolver is designed to work perfectly even without an internet connection. 
 1.  **Original Word**: The keyword from your metadata. **Double-click** an original word to edit it in place. If you type a comma (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows and remap them instantly.
 2.  **Getty Term (Chips)**: The mapped terms from the Getty Master Dictionary. If multiple chips are shown, **manually check** the one that fits best based on the photo. You can **double-click** a chip to delete it if it's irrelevant.
 3.  **Status / Source**: Tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*).
+
+<video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in getty Optimizer" aria-label="Getty Optimizer manual editing in ArtushVision AI">
+  ArtushVision AI - Getty Optimizer manual editing Overview.
+</video>
+<p><a href="video/getty-optimizer-manual.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ### Filters & Tools
 Use the top bar filters to quickly isolate problematic terms (*Unknown*, *Multiple terms*, *Cloud Suggested*, *Optimized Terms*).
