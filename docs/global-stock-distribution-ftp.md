@@ -211,18 +211,23 @@ Never upload the same file twice by accident. ArtushVision AI remembers the comp
 
 [IMAGE: A screenshot of the main photo grid, highlighting the small agency micro-badges on the thumbnails and the Advanced FTP Filter dropdown.]
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
+FTP history badge
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.png" alt="ArtushVision AI - FTP History Badge" style="width: 100%; max-width: 400px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
+**FTP upload history editor**
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 100%; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.png" alt="ArtushVision AI - FTP History Editor" style="width: 100%; max-width: 100%;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
+**Add FTP history badge**
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" alt="ArtushVision AI - Manualy add FTP Badge" style="width: 100%; max-width: 400px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
@@ -235,6 +240,15 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 * **Uploaded State:** View only assets that have successfully reached a specific agency.
 * **Not Uploaded State:** Isolate files that still need to be distributed.
 * **Ignore State:** Mark specific files to be skipped for certain agencies without removing them from your project.
+
+**Advanced FTP filter**
+
+Go to `Filter Toolbar` → `Advanced FTP Filter`
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 500px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.png" alt="ArtushVision AI - Advanced FTP filter" style="width: 100%; max-width: 500px;" class="screenshot-img">
+  </a>
+<div style="height: 15px;"></div>
 
 ---
 
