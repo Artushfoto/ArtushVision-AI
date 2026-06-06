@@ -244,12 +244,14 @@ A major hurdle in metadata is homonyms—words with multiple meanings. If you us
 
 ---
 
-**Apply CSV file on getty**
+**Apply CSV file on Getty ESP**
+
+Go to `Templates` → `Apply from CSV
 
 <video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP" aria-label="Apply CSV on Getty ESP">
   ArtushVision AI - Getty resolver with AI beta.
 </video>
-<p><a href="getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ## 5. Personal User Getty Dictionary and Memory
 
@@ -260,8 +262,6 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
     *   *Quick Add:* **Right-click** any Original Word in the table and select "Save 'word' to User Dictionary". Next time you load this word, it will automatically map to your preferred Getty term.
     *   *Manage:* Open the User Dictionary to manually add new mappings, delete old ones, or "Clear All" to rely solely on the built-in Master Dictionary.
 
-[IMAGE: A smaller screenshot showing the User Dictionary manager window or the right-click context menu.]
-
 ---
 
 ## 6. Final Export and Global Distribution
@@ -269,8 +269,6 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
 Once your metadata is verified and the blue GETTY badges are active, you are ready for a flawless submission.
 
 *   **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty ESP portal.
-
-[IMAGE: A screenshot showing the Export ESP CSV button and the success dialog.]
 
 ---
 
