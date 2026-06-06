@@ -184,7 +184,6 @@ Speed up your distribution workflow by grouping multiple stock agencies together
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.jpg" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.jpg" alt="ArtushVision AI - FTP Agencies Manager" style="width: 800px;" class="screenshot-img">
 </a>
-</div>
 <div style="height: 15px;"></div>
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
