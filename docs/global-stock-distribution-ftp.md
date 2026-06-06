@@ -176,28 +176,32 @@ Skip the manual spreadsheet work. The FTP module is deeply integrated with a pow
 * **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor).
 * **Agency Profiles:** Group your servers into Profiles (e.g., Exclusive Video Agencies or Main Stock Photo) to select multiple targets with a single click.
 
-[IMAGE: A screenshot of the Category Matrix Editor showing how Master categories map to Adobe Stock, Shutterstock, and Motion Elements IDs.]
-
 ---
 
 ## Agency Profiles and Server Groups
 Speed up your distribution workflow by grouping multiple stock agencies together for simultaneous batch uploads.
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" alt="ArtushVision AI - FTP Agencies Manager" style="width: 600px;" class="screenshot-img">
+</a>
+</div>
+<div style="height: 15px;"></div>
+
 * **Custom Server Groups:** Create user-defined profiles (e.g., "Video Agencies" or "Editorial Only") to save your current selection of target FTP servers.
 * **One-Click Distribution:** Select your pre-saved profile from the dropdown menu to instantly target all servers belonging to that specific group.
 * **Independent Configuration:** Profile settings are safely stored independently of the main application, ensuring stability and allowing for easy backups.
 
-**Agency FTP Profile Editor**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" alt="ArtushVision AI - FTP Agencies Manager" width="100%" class="screenshot-img">
-</a>   
-
-
-**FPT group profiles**
-
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - Custom Server FTP Group Editor" width="100%" class="screenshot-img">
 </a>   
+
+
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 600px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" alt="ArtushVision AI - FTP Agencies Manager" style="width: 100%; max-width: 600px;" class="screenshot-img">
+  </a>
+</div>
+<div style="height: 15px;"></div>
 
 
 ## Advanced Tracking and Visual Status Badges
