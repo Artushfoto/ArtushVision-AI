@@ -151,8 +151,6 @@ h1 { text-align: center; }
 
 Uploading photos and videos to multiple stock agencies can be a full-time job. Dropped connections, strict rate limits, and the difficulty of tracking what was uploaded where can ruin a professional workflow. The ArtushVision AI FTP Uploader handles the heavy lifting in the background, allowing you to focus on your creative work.
 
-[IMAGE: A wide screenshot of the main FTP Upload window showing the list of agencies, progress bars with speed/ETA, and the Profiles dropdown.]
-
 ---
 
 ## Per-Server Multi-Threading and Auto-Retry
@@ -188,6 +186,19 @@ Speed up your distribution workflow by grouping multiple stock agencies together
 * **Custom Server Groups:** Create user-defined profiles (e.g., "Video Agencies" or "Editorial Only") to save your current selection of target FTP servers.
 * **One-Click Distribution:** Select your pre-saved profile from the dropdown menu to instantly target all servers belonging to that specific group.
 * **Independent Configuration:** Profile settings are safely stored independently of the main application, ensuring stability and allowing for easy backups.
+
+**Agency FTP Profile Editor**
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.png" alt="ArtushVision AI - FTP Agencies Manager" width="100%" class="screenshot-img">
+</a>   
+
+
+**FPT group profiles**
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - Custom Server FTP Group Editor" width="100%" class="screenshot-img">
+</a>   
+
 
 ## Advanced Tracking and Visual Status Badges
 
