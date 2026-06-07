@@ -174,7 +174,7 @@ Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
 ### 1. Cloud AI
 
-Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as Google Gemini 2.0 Flash, Claude 3.5 Sonnet, or GPT-4o.
+Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as `gemini-2.5-flash-lite`, `Claude 3.5 Sonnet`, or `GPT-4o`.
 
 * **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
 * **Transparent AI Pricing and Live Cost Tracking**
@@ -205,12 +205,15 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
 
-**Local AI Batch Processing (Ollama Model: gemma4:e4b)**
+**Local AI Batch Processing** (Ollama Model: `gemma4:e4b`)
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" alt="ArtushVision AI - Local AI Batch Processing" width="100%" class="screenshot-img">
   </a>
+<div style="height: 15px;"></div>
 
-**Local AI Detail Window:** Processing a single photo using an **AI hint for accurate Yacare Caiman** identification (Ollama Model: gemma4:e4b)
+**Local AI Detail Window:** Processing a single photo using an **AI hint for accurate Yacare Caiman** identification (Ollama Model: `gemma4:e4b`)
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b-edit-window-processing-hint.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b-edit-window-processing-hint.png" alt="ArtushVision AI - Local AI Detail Window" width="100%" class="screenshot-img">
   </a>
@@ -221,7 +224,8 @@ An intelligent agentic pipeline that combines privacy with high-end SEO formatti
 * **Local Analysis:** A local model extracts raw visual descriptions on your PC.
 * **Cloud Synthesis:** Only the extracted text is sent to a fast cloud model to format it into professional, comma-separated keywords and titles.
 
-**Using Hybrid AI in Detail Window:** Processing a single photo using **Local Vision** and **Cloud Text** for perfect formatting (Ollama Local AI Vision: qwen3-vl:4b + Cloud AI: google/gemini-2.0-flash-001)
+**Using Hybrid AI in Detail Window:** Processing a single photo using **Local Vision** and **Cloud Text** for perfect formatting (Ollama Local AI Vision: `qwen3-vl:4b` + Cloud AI: `gemini-2.0-flash-001`)
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI - Using Hybrid AI in Detail Window" width="100%" class="screenshot-img">
   </a>
