@@ -243,7 +243,6 @@ If you encounter a crash or an error, providing a debug log helps us investigate
 </p>
 </details>
 
-
 ---
 
 ### Need more help?
