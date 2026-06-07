@@ -151,8 +151,6 @@ h1 { text-align: center; }
 
 Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an unprecedented level of control. Whether you require the speed of massive cloud batches or the absolute privacy of a local offline environment, the 4-Tier AI Engine adapts to your specific professional needs.
 
-[IMAGE:  A wide screenshot showing the main image grid and the detailed AI Prompt Editor, highlighting the AI Engine Mode selection.]
-
 ---
 
 ## 4-Tier AI Engine: Choose Your Processing Path
@@ -182,10 +180,12 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 * **Instant Batch Pricing:** As soon as an AI analysis batch is completed, the application instantly displays the exact cost of that specific run directly in the success notification.
 
-**Cloud AI processing: gemini-2.0-flash-001**
+**Cloud AI processing:** `gemini-2.0-flash-001`
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI - Cloud processing" width="100%" class="screenshot-img">
 </a>
+<div style="height: 15px;"></div>
 
 * **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
 
@@ -236,7 +236,7 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 * **Resource Management:** The system loads a Vision model to describe the image, unloads it, and then loads a Text model for SEO formatting. This prevents hardware crashes while maintaining elite output quality.
 
-**Two Step Local AI Detail Window:** Processing a single photo using **Local Vision** and **Local Text** for perfect formatting (Ollama loacal AI Vision: qwen3-vl:4b: + Ollama Local AI text: aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf)
+**Two Step Local AI Detail Window:** Processing a single photo using **Local Vision** and **Local Text** for perfect formatting (Ollama loacal AI Vision: `qwen3-vl:4b`: + Ollama Local AI text: `aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf`)
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img">
