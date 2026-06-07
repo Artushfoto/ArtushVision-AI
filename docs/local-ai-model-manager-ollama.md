@@ -182,10 +182,10 @@ ArtushVision's advanced <a href="/docs/ai-metadata-generation-cloud-local-ollama
 
 ## Deep Technical Insights
 
-https://ollama.com/library/gemma4
+[GEMMA: https://ollama.com/library/gemma4](https://ollama.com/library/gemma4)
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama HuGemma Models" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama HuGemma Models" width="600px" class="screenshot-img">
 </a>
 
 Understand exactly what is running on your machine and how it impacts your hardware performance.
