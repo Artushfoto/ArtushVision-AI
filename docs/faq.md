@@ -238,7 +238,7 @@ If you encounter a crash or an error, providing a debug log helps us investigate
   <li>Repeat the exact action that caused the error so the application can record the background technical details.</li>
   <li>Go back to <b>File &gt; Logging</b> and click <b>Open Log File</b>. This will open a text file containing the error report.</li>
   <li>Take a screenshot of the application (especially if there is a visible error message or a visual glitch).</li>
-  <li>Send the <b>saved log file</b> along with the <b>screenshots</b> and a <b>brief description</b> of what you were doing when the error occurred to our support email: <b>support [at] artushfoto [dot] com</b>. Alternatively, you can create a new post in our <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a>.</li>
+  <li>Send the <b>saved log file</b> along with the <b>screenshots</b> and a <b>brief description</b> of what you were doing when the error occurred to our support email: <b>support [at] artushfoto [dot] eu</b>. Alternatively, you can create a new post in our <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a>.</li>
 </ol>
 </p>
 </details>
