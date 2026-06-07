@@ -1,3 +1,4 @@
+# --- getty-optimizer-docs ---
 ---
 title: "Getty Images ESP Metadata Optimizer | ArtushVision AI Documentation"
 description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
@@ -159,7 +160,7 @@ The Getty Optimizer module in ArtushVision AI solves this by acting as a profess
 
 ---
 
-## 1. Built-in Master Dictionary & Non-Destructive Workflow
+<h2 id="built-in-master-dictionary">1. Built-in Master Dictionary & Non-Destructive Workflow</h2>
 
 ArtushVision AI includes a massive, local Master Dictionary specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the ESP portal for permitted terms.
 
@@ -174,14 +175,14 @@ ArtushVision AI includes a massive, local Master Dictionary specifically built f
 Select one or more photos in the main grid, right-click, and select **"Getty Optimizer..."** from the context menu.
 
 The main window displays two lists:
-*   **Original Keywords:** Your source metadata (safe and untouched).
-*   **Optimized Getty Keywords:** The resulting keywords mapped against the Master Dictionary.
+* **Original Keywords:** Your source metadata (safe and untouched).
+* **Optimized Getty Keywords:** The resulting keywords mapped against the Master Dictionary.
 
 ### Main Window Actions:
-*   **Interactive Resolver (AI Mapping)...**: Opens the advanced interactive table to manually or AI-resolve unknown words and ambiguities.
-*   **Re-Optimize All (Local)**: A 1-click local optimization. It automatically unchecks unknown words, appends technical tags (e.g., *Horizontal*, *Vertical*, *Photography*), and sorts the keywords. It runs locally without consuming API tokens.
-*   **Export ESP CSV**: Generates the final CSV file formatted specifically for the Getty Images ESP portal.
-*   **Delete Getty Data**: Deletes the generated `.getty` sidecar files if you want to start from scratch.
+* **Interactive Resolver (AI Mapping)...**: Opens the advanced interactive table to manually or AI-resolve unknown words and ambiguities.
+* **Re-Optimize All (Local)**: A 1-click local optimization. It automatically unchecks unknown words, appends technical tags (e.g., *Horizontal*, *Vertical*, *Photography*), and sorts the keywords. It runs locally without consuming API tokens.
+* **Export ESP CSV**: Generates the final CSV file formatted specifically for the Getty Images ESP portal.
+* **Delete Getty Data**: Deletes the generated `.getty` sidecar files if you want to start from scratch.
 
 ---
 
@@ -191,13 +192,13 @@ The Resolver is the heart of the Getty optimization process. Click **Interactive
 
 ### Photo Context, Thumbnails & Dynamic Badges (Top Panel)
 At the top of the window, you'll see thumbnails of your selected batch.
-*   **Dynamic Status Badges**: Each thumbnail features a live badge in the corner showing the exact number of valid Getty terms for that photo.
-    *   **Gray (Neutral)**: Unprocessed. The photo still contains unresolved "Unknown" words waiting for your input or AI analysis.
-    *   **Green**: Optimized. All unknown words are resolved, and the photo has between 5 and 50 valid terms.
-    *   **Red**: Limit Violation. The photo has fewer than 5 or more than 50 terms and needs adjustment.
-*   **Filter by Photo (Left-Click)**: Click any thumbnail to instantly filter the table below. It will show *only* the terms associated with that specific photo. Click again to clear the filter, or use the **"Clear Photo Filter"** button.
-*   **Multi-Select**: Use `Ctrl + Click` to select multiple thumbnails.
-*   **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
+* **Dynamic Status Badges**: Each thumbnail features a live badge in the corner showing the exact number of valid Getty terms for that photo.
+    * **Gray (Neutral)**: Unprocessed. The photo still contains unresolved "Unknown" words waiting for your input or AI analysis.
+    * **Green**: Optimized. All unknown words are resolved, and the photo has between 5 and 50 valid terms.
+    * **Red**: Limit Violation. The photo has fewer than 5 or more than 50 terms and needs adjustment.
+* **Filter by Photo (Left-Click)**: Click any thumbnail to instantly filter the table below. It will show *only* the terms associated with that specific photo. Click again to clear the filter, or use the **"Clear Photo Filter"** button.
+* **Multi-Select**: Use `Ctrl + Click` to select multiple thumbnails.
+* **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
 
 **Getty Images Optimizer Overview in ArtushVision AI**
 
@@ -217,14 +218,14 @@ The Resolver is designed to work perfectly even without an internet connection. 
 **Manual Editing in Getty Optimizer**
 
 <video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty Optimizer">
-  ArtushVision AI - Getty Optimizer manual editing Overview.
+  ArtushVision AI - Getty optimizer manual editing Overview.
 </video>
 <p><a href="video/getty-optimizer-manual.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ### Filters & Tools
 Use the top bar filters to quickly isolate problematic terms (*Unknown*, *Multiple terms*, *Cloud Suggested*, *Optimized Terms*).
-*   **Undo (`Ctrl+Z`) / Redo (`Ctrl+Y`)**: The Resolver features a full local undo stack. If you accidentally split a word or paste the wrong tags, simply click Undo.
-*   **☑ All / ☐ None**: Quickly select or deselect all visible rows (intelligently skips "Unknown" words).
+* **Undo (`Ctrl+Z`) / Redo (`Ctrl+Y`)**: The Resolver features a full local undo stack. If you accidentally split a word or paste the wrong tags, simply click Undo.
+* **☑ All / ☐ None**: Quickly select or deselect all visible rows (intelligently skips "Unknown" words).
 
 ---
 
@@ -262,10 +263,10 @@ Go to `Templates` → `Apply from CSV` → `Submit`
 
 Teach ArtushVision AI your specific niche. If you specialize in rare Latin species, local landmarks, or technical subjects missing from the Master Dictionary, you can map them once and save the rule directly to your Personal Dictionary.
 
-*   **Add Term**: Click this button to search the Getty Master Dictionary manually. You can check multiple terms at once and apply them to the currently selected thumbnails (or to all photos if none are selected).
-*   **User Dictionary**: A place to manage your custom mappings. 
-    *   *Quick Add:* **Right-click** any Original Word in the table and select "Save 'word' to User Dictionary". Next time you load this word, it will automatically map to your preferred Getty term.
-    *   *Manage:* Open the User Dictionary to manually add new mappings, delete old ones, or "Clear All" to rely solely on the built-in Master Dictionary.
+* **Add Term**: Click this button to search the Getty Master Dictionary manually. You can check multiple terms at once and apply them to the currently selected thumbnails (or to all photos if none are selected).
+* **User Dictionary**: A place to manage your custom mappings. 
+     * *Quick Add:* **Right-click** any Original Word in the table and select "Save 'word' to User Dictionary". Next time you load this word, it will automatically map to your preferred Getty term.
+     * *Manage:* Open the User Dictionary to manually add new mappings, delete old ones, or "Clear All" to rely solely on the built-in Master Dictionary.
 
 **Adding Terms to User Getty Dictionary**
 
@@ -280,7 +281,7 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
 
 Once your metadata is verified and the blue GETTY badges are active, you are ready for a flawless submission.
 
-*   **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty ESP portal.
+* **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty ESP portal.
 
 ---
 
@@ -309,3 +310,4 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+# --- getty-optimizer-docs ---

@@ -168,7 +168,7 @@ Because every AI engine behaves differently, ArtushVision AI allows you to save 
   <tr>
     <th style="text-align: center; padding: 15px; background-color: rgba(50, 141, 22, 0.2);">
       <a href="create-and-optimize-custom-ai-prompts.html" style="font-size: 1.2em; font-weight: bold;">👉 See Guide How to Create and Optimize Custom AI Prompts for ArtushVision AI</a>
-     Thames
+    </th>
   </tr>
 </table>
 
@@ -182,7 +182,7 @@ An AI model can't guess what camera you used or where a mountain is located just
 </a>
 <div style="height: 15px;"></div>
 
-### Basic and Contextual Variables
+<h3 id="basic-and-contextual-variables">Basic and Contextual Variables</h3>
 
 | Variable | Description |
 | :--- | :--- |
@@ -216,7 +216,7 @@ Never get rejected for hallucinated locations again.
 | `{existing_country}` | Country | IPTC: Country |
 | `{existing_country_code}`| ISO Country Code | IPTC: Country Code |
 
-### Technical & EXIF Parameters
+<h3 id="technical--exif-parameters">Technical & EXIF Parameters</h3>
 Help the AI understand how the photo was taken to generate highly technical keywords.
 
 | Variable | Description | Contextual Benefit |
