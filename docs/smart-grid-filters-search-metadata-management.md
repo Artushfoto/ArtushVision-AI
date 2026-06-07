@@ -180,13 +180,6 @@ Beyond basic text search, ArtushVision AI allows for complex queries based on th
 * **[Category Matrix Filter](settings-configuration-customization.html#the-category-matrix):** Filter the grid to show only photos belonging to a specific Master Category (e.g., "Business") while excluding others (e.g., "Editorial").
 * **Getty Status Integration:** Isolate photos that are fully Getty Optimized versus those requiring action in the [Interactive Resolver](getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation).
 
-**Using filters in ArtushVision AI**
-
-<video src="video/smart-filters.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
-  ArtushVision AI - Smart Filter Function.
-</video>
-<p><a href="video/smart-filters.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
-
 ---
 
 ## Three-State FTP Distribution Filter

@@ -171,6 +171,13 @@ To perform operations effectively, you must first isolate the right files. The F
 * **Quality Control Filters:** Isolate files that have "Exceeded Limits" (e.g., too many keywords for Getty Images) and use batch actions to trim them down to compliance.
 * **Selection Tools:** Use standard keyboard shortcuts (Shift+Click for ranges, Ctrl+A for all) to define the scope of your batch operation instantly.
 
+**Using filters in ArtushVision AI**
+
+<video src="video/smart-filters.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+  ArtushVision AI - Smart Filter Function.
+</video>
+<p><a href="video/smart-filters.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
 ---
 
 ## Target Selection (Where the change should happen)
