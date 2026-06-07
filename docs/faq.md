@@ -225,7 +225,7 @@ Ensure <a href="/docs/ollama-installation-guide.html">Ollama is installed</a> an
 <details>
 <summary>My API key is active, but AI results are empty.</summary>
 <p>
-Check your <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter</a> credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. It is also possible that the selected model has changed or is temporarily unavailable; try switching to a different model. Follow our guide how to <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#how-to-change-the-ai-model-cloud--local"></a> change AI model.
+Check your <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter</a> credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. It is also possible that the selected model has changed or is temporarily unavailable; try switching to a different model. Follow our guide on how to <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#how-to-change-the-ai-model-cloud--local">change the AI model</a>.
 </p>
 </details>
 
@@ -237,8 +237,8 @@ If you encounter a crash or an error, providing a debug log helps us investigate
   <li>In the top application menu, go to <b>File &gt; Logging</b> and select <b>Debug (All)</b>.</li>
   <li>Repeat the exact action that caused the error so the application can record the background technical details.</li>
   <li>Go back to <b>File &gt; Logging</b> and click <b>Open Log File</b>. This will open a text file containing the error report.</li>
-  <li><i>(Optional)</i> Take a screenshot of the application if there is a visible error message or a visual glitch.</li>
-  <li>Create a new post in our <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a>, or send the files directly to our support email: <b>support [at] artushfoto [dot] com</b>. Please attach the saved log file along with your screenshot and a brief description of what you were trying to do.</li>
+  <li>Take a screenshot of the application (especially if there is a visible error message or a visual glitch).</li>
+  <li>Send the <b>saved log file</b> along with the <b>screenshots</b> and a <b>brief description</b> of what you were doing when the error occurred to our support email: <b>support [at] artushfoto [dot] com</b>. Alternatively, you can create a new post in our <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a>.</li>
 </ol>
 </p>
 </details>
