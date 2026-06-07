@@ -182,11 +182,6 @@ First, you need to select the specific model that matches your hardware and work
 * In ArtushVision AI, open the **Profile Editor**.
 * Locate the **AI Model** input field and click the **Search Icon** next to it. This will open the internal AI Model Selection window.
 
-**Opening the Local Model Manager**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-management.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-management.png" alt="Clicking the search icon in the Profile Editor to open the Model Manager" class="screenshot-img">
-</a>
-
 ---
 
 ## 3. Download the Model
@@ -195,10 +190,11 @@ First, you need to select the specific model that matches your hardware and work
 * Paste the exact model name you copied from the Ollama website into the text field.
 * Click the **Download** button.
 
-**Downloading the Ollama Model**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading-finished.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading-finished.png" alt="ArtushVision AI - Integrated Ollama Hub Downloader" width="100%" class="screenshot-img">
-</a>
+**How to download Ollama Model**
+<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+  ArtushVision AI - Getty Optimizer Overview.
+</video>
+<p><a href="video/ai-model-downloading.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
@@ -207,6 +203,10 @@ First, you need to select the specific model that matches your hardware and work
 * The application will connect to your local Ollama instance and initiate the download process.
 * You will see a live download progress indicator displaying the transferred data in MB or GB alongside the download speed.
 * Wait until the download is fully complete. Once finished, a success message will appear, and the model will automatically populate in your list of available models.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
+</a>
 
 ---
 
@@ -225,8 +225,8 @@ To keep your local AI environment organized, you can assign personal performance
 * Press **Enter** or click away to save it. This helps you remember which specific subjects or tasks each model handles well and which it doesn't.
 
 **Model Manager Grid & Custom Notes**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-personal-note.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-personal-note.png" alt="Adding a custom note and viewing color-coded model types in the table" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
 </a>
 
 ---

@@ -161,15 +161,11 @@ Skip the terminal. ArtushVision AI connects directly to your local <a href="/doc
 * **Direct Downloads:** Type any Model ID (e.g., `moondream:latest or gemma4:e4b`) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
 
 **Integrated Ollama Hub Browser and Downloader**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
-</a>
 
-
-<video src="video/ai-model-downloading..mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
   ArtushVision AI - Getty Optimizer Overview.
 </video>
-<p><a href="video/ai-model-downloading..mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/ai-model-downloading.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 
 ---
@@ -213,8 +209,6 @@ When testing multiple models, it is essential to track which one performed best 
 * **Custom Notes:** Double-click the **Note** column next to any model to open a pop-up text editor. Record your findings (e.g., "Excellent for OCR" or "Fast but generic descriptions").
 * **Smart Search:** The real-time search bar at the top of the manager searches through both model names and your custom notes, helping you find the perfect model for the job instantly.
 * **Clean Uninstallation:** Free up disk space by deleting outdated models with a single click using the trash can icon.
-
-**Integrated Ollama Hub Browser and Downloader**
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
