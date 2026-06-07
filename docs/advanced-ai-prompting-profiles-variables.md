@@ -163,6 +163,16 @@ Because every AI engine behaves differently, ArtushVision AI allows you to save 
 
 ---
 
+<table style="width: 100%; display: table; border-collapse: collapse;">
+  <tr>
+    <th style="text-align: center; padding: 15px; background-color: rgba(50, 141, 22, 0.2);">
+      <a href="docs/create-and-optimize-custom-ai-prompts.html" style="font-size: 1.2em; font-weight: bold;">👉 See Guide How to Create and Optimize Custom AI Prompts for ArtushVision</a>
+    </th>
+  </tr>
+</table>
+
+---
+
 ## 2. Dynamic Context Injection (Variables)
 An AI model can't guess what camera you used or where a mountain is located just by looking at a pixel grid. ArtushVision AI solves this by injecting rich, dynamic metadata directly into your prompt before it reaches the AI.
 
@@ -170,7 +180,6 @@ An AI model can't guess what camera you used or where a mountain is located just
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="ArtushVision AI Available Variables" style="width: 800px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
-
 
 ### Basic and Contextual Variables
 
@@ -275,6 +284,7 @@ This professional-grade prompt template is optimized for high-end microstock aut
     - **VALID JSON ONLY**: Return pure valid JSON. NO markdown formatting (do not use ```json). NO newlines, tabs, or control characters inside the string values.
 
 ---
+
 
 ## 4. Profile Management and Workflows
 Build a library of specialized workflows to switch between different project types instantly.
