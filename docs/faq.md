@@ -62,7 +62,7 @@ The Lite version is a fully functional "<a href="docs/free-trial-limits-and-test
 <details>
 <summary>Which file formats can I process?</summary>
 <p>
-ArtushVision AI supports <a href="/docs/metadata-compatibility-and-file-handling.html">professional standards</a> including:
+ArtushVision AI supports professional standards including:
 <ul>
   <li><b>Images:</b> JPG, RAW (CR2, NEF, ARW, etc.), TIFF, PNG, HEIC, WEBP.</li>
   <li><b>Video:</b> MP4, MOV, AVI, MKV.</li>
@@ -121,7 +121,7 @@ Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Gett
 <details>
 <summary>Does it work with Lightroom, Zoner, or Bridge?</summary>
 <p>
-Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="/docs/batch-operations-metadata-library-management.html#synchronized-file-operations">Batch Operations</a> guide for more.
+Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility">Batch Operations</a> guide for more.
 </p>
 </details>
 
