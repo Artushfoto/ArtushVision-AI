@@ -220,10 +220,10 @@ h1 { text-align: center; }
 ### 1. Getting Started
 - [System Requirements & Installation](/docs/installation.html)
 - [First Launch & Activation](/docs/download-purchase.html)
-- [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
-- [Local AI Setup & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
 - [Interface Overview](/docs/interface-overview.html)
 - [Detail Window Overview](/docs/detail-window-interface-overview.html)
+- [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
+- [Local AI Setup & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
 
 ### 2. Core Workflows
 - [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
