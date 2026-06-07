@@ -216,8 +216,8 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 
 In Lightroom - Click to `Top Menu` → `Metadata` → `Read Metadata from Files`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" alt="ArtushVision AI - Read Metadata from Files in Lightroom" style="width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" target="_blank" class="screenshot-link" style="max-width: 100%; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" alt="ArtushVision AI - Read Metadata from Files in Lightroom" style="width: 100%;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
