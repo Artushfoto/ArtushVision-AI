@@ -151,8 +151,6 @@ h1 { text-align: center; }
 
 The configuration suite is divided into several specialized tabs, each focusing on a different aspect of the metadata and distribution process.
 
-<!-- [IMAGE: A wide screenshot of the Settings window showing the navigation sidebar with tabs like Workspace, AI, CSV Editor, and Maps.] -->
-
 Go to `Top Menu` → `File` → `Settings`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/settings.png" target="_blank" class="screenshot-link">
@@ -274,7 +272,7 @@ Go to `Top Menu` → `File` → `Settings` → `Advanced Color Settings`
 
 ---
 
-## Complete System Backup and Migration
+<h2 id="backup-and-data-safety">Complete System Backup and Migration</h2>
 
 Protect your entire customized configuration or seamlessly migrate your workflow to a new workstation using the all-in-one Export Settings feature.
 

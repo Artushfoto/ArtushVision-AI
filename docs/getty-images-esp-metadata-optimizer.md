@@ -186,7 +186,7 @@ The main window displays two lists:
 
 ---
 
-## 3. Interactive Mapping (Getty Resolver)
+<h2 id="interactive-ai-resolver-and-disambiguation">3. Interactive Mapping (Getty Resolver)</h2>
 
 The Resolver is the heart of the Getty optimization process. Click **Interactive Resolver** to open a detailed, interactive table of all your tags across the selected batch of photos.
 
