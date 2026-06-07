@@ -166,7 +166,7 @@ Because every AI engine behaves differently, ArtushVision AI allows you to save 
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
     <th style="text-align: center; padding: 15px; background-color: rgba(50, 141, 22, 0.2);">
-      <a href="create-and-optimize-custom-ai-prompts.html" style="font-size: 1.2em; font-weight: bold;">👉 See Guide How to Create and Optimize Custom AI Prompts for ArtushVision</a>
+      <a href="create-and-optimize-custom-ai-prompts.html" style="font-size: 1.2em; font-weight: bold;">👉 See Guide How to Create and Optimize Custom AI Prompts for ArtushVision AI</a>
     </th>
   </tr>
 </table>
