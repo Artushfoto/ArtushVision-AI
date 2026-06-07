@@ -151,7 +151,10 @@ h1 { text-align: center; }
 
 Finding specific files—such as those missing a description or those not yet uploaded to a particular agency—is no longer a manual task. The filtering suite ensures you always know exactly which assets require your attention.
 
-[IMAGE: A wide screenshot of the top filtering bar showing the search box, filter dropdowns, and the yellow text highlighting in the grid below.]
+<video src="video/search.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+  ArtushVision AI - Smart Search Function.
+</video>
+<p><a href="video/search.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 

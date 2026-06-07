@@ -173,8 +173,6 @@ To perform operations effectively, you must first isolate the right files. The F
 
 ---
 
-
-
 ## Target Selection (Where the change should happen)
 Before running an operation, use the **"Batch Edit: / Target:"** dropdown to choose which field the action applies to:
 *   **Everywhere** – The action is applied to Title, Description, and Keywords simultaneously.
@@ -205,6 +203,11 @@ Opens a dialog for advanced bulk text replacement.
 *   **Replace All:** Applies the change immediately across all selected photos.
 *   **Replace Next / Find Next:** Allows you to go through the selected photos sequentially and replace words one by one with immediate visual feedback.
 *   *Alternative Quick Syntax:* You can also type `old word -> new word` directly into the main input field in the panel and click `⇄ Replace`.
+
+<video src="video/batch-operations.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+  ArtushVision AI - Batch Operation overview.
+</video>
+<p><a href="video/batch-operations.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ### ⌫ Clear Field
 Completely and permanently deletes the content **only for the currently selected target** (e.g., clears only Descriptions for all selected photos, leaving Title and Keywords untouched).
