@@ -215,7 +215,7 @@ First, you need to select the specific model that matches your hardware and work
 Once a model is successfully downloaded, the Model Manager automatically categorizes and organizes it for you:
 
 ### Auto-Detection & Manual Override
-The manager automatically scans your downloaded models and categorizes them as **Vision** (models that can "see" images) or **Text** (language-only models), color-coding them in the grid for easy identification. If the system fails to recognize the model type automatically, you can easily right-click the model and configure its type **manually**.
+The manager automatically scans your downloaded models and categorizes them as **Text, Image** (models that can "see" images) or **Text** (language-only models), color-coding them in the grid for easy identification. If the system fails to recognize the model type automatically, you can verify the correct type on the official [Ollama website](https://ollama.com/search) and easily right-click the model in the list to configure its type **manually**.
 
 ### Adding Custom Notes
 To keep your local AI environment organized, you can assign personal performance notes to any model:
