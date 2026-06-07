@@ -1,6 +1,6 @@
 ---
-title: "Advanced AI Prompting and Profile Editor | ArtushVision AI Documentation"
-description: "Complete technical reference for AI variables and professional prompting in ArtushVision AI. Master dynamic EXIF, GPS, and metadata injection."
+title: "Create and Optimize Custom AI Prompts | ArtushVision AI Documentation"
+description: "Learn how to use the Meta-Prompt strategy with ChatGPT, Claude, or Gemini to build optimized custom prompt profiles for ArtushVision AI."
 ---
 <div style="display: none;">
 <style>

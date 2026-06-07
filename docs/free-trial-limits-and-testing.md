@@ -186,7 +186,7 @@ If you select a larger batch of photos than the limit allows, the application wi
 Once you have verified that ArtushVision AI meets your professional standards, you can unlock unlimited processing instantly.
 
 * **Lifetime License:** The PRO version is sold as a one-time purchase lifetime license. No hidden subscriptions.
-* **Instant Activation:** Purchase your license key on our website and enter it via **File > Activate License**. The application will instantly remove all session limits without requiring a reinstallation.
+* **Instant Activation:** Purchase your license key on our website and enter it via **License > Activate License** in the top menu. The application will instantly remove all session limits without requiring a reinstallation.
 
 ---
 

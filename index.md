@@ -156,6 +156,10 @@ h1 { text-align: center; }
 
 ---
 
+> **New in Version 1.10:** Complete standalone autonomy. Run powerful Vision & Text models **100% locally and privately via Ollama** with zero API costs, map keywords seamlessly against the official **Getty Images Controlled Vocabulary**, and automate distribution with **per-server multi-threaded FTP uploads** and dynamic CSV mapping. Read the full [v1.10 Release Notes](/docs/whats-new.html).
+
+---
+
 > **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
@@ -163,18 +167,18 @@ h1 { text-align: center; }
 
 <h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
 
-<table style="width: 100%; display: table;">
+<table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
-    <th style="width: 50%; text-align: center;"><a href="/docs/download-purchase.html">Download Free Lite / Commercial Version</a></th>
-    <th style="width: 50%; text-align: center;"><a href="/docs/download-purchase.html#buy-lifetime-license">Get Lifetime License</a></th>
+    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html">Download Free Lite / Commercial Version</a></th>
+    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html#buy-lifetime-license">Get Lifetime License</a></th>
   </tr>
   <tr>
-    <td style="text-align: center;"><b>Fully Functional Version</b></td>
-    <td style="text-align: center;"><b>Only $39.99</b> (+ local VAT)</td>
+    <td style="text-align: center; padding: 10px;"><b>Fully Functional Version</b></td>
+    <td style="text-align: center; padding: 10px;"><b>Only $39.99</b> (+ local VAT)</td>
   </tr>
   <tr>
-    <td style="text-align: center;">No time limits for testing</td>
-    <td style="text-align: center;">One-time payment &bull; No monthly fees</td>
+    <td style="text-align: center; padding: 8px;">No time limits for testing</td>
+    <td style="text-align: center; padding: 8px;">One-time payment &bull; No monthly fees</td>
   </tr>
 </table>
 
@@ -186,14 +190,24 @@ h1 { text-align: center; }
 
 ---
 
+## The 3-Step Microstock Workflow
+
+ArtushVision AI eliminates the friction between editing software, AI tagging, and final agency submission:
+
+1. **Load & Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
+2. **Generate & Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **Getty Images Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
+3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
+
+---
+
 ## Why ArtushVision AI?
 
-* **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast Cloud AI via OpenRouter or 100% private, free Local AI running fully offline via Ollama.
-* **[Advanced Manual Keywording](/docs/smart-manual-keywording-batch-editing.html):** Take total control. Manually add, drag-and-drop reorder, or delete keyword bubbles. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.
-* **[Smart Category Mapping](/docs/category-matrix.html):** A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.
-* **[Getty Images Master Tool](/docs/getty-images-esp-metadata-optimizer.html):** Validate keywords instantly against a built-in Master Dictionary of 9 867+ controlled commercial terms for near-perfect acceptance rates.
-* **[Smart FTP Distribution](/docs/global-stock-distribution-ftp.html):** Simultaneously upload files to multiple stock agencies with automated, agency-specific CSV metadata generation on-the-fly.
-* **[Universal Compatibility](/docs/metadata-compatibility-and-file-handling.html):** Background integration using industry-standard formats compatible with Adobe Lightroom, Bridge, Zoner Photo Studio, and digiKam.
+*   **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast Cloud AI via OpenRouter or **100% Private Local AI** running fully offline via Ollama. Keep sensitive shoots (like boudoir, private clients, or unreleased commercial products) completely safe on your local drive with zero cloud logging and zero API costs.
+*   **[Advanced Manual Keywording](/docs/smart-manual-keywording-batch-editing.html):** Take total control. Manually add, drag-and-drop reorder, or delete keyword bubbles. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.
+*   **[Smart Category Mapping](/docs/settings-configuration-customization.html#the-category-matrix):** A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.
+*   **[Getty Images Master Tool](/docs/getty-images-esp-metadata-optimizer.html):** Validate keywords instantly against a built-in Master Dictionary of **9,867+** controlled commercial terms for near-perfect acceptance rates.
+*   **[Smart FTP Distribution](/docs/global-stock-distribution-ftp.html):** Simultaneously upload files to multiple stock agencies with automated, agency-specific CSV metadata generation on-the-fly.
+*   **[Universal Compatibility](/docs/metadata-compatibility-and-file-handling.html):** Background integration using industry-standard formats compatible with Adobe Lightroom, Bridge, Zoner Photo Studio, and digiKam.
 
 ---
 
@@ -211,7 +225,7 @@ h1 { text-align: center; }
 | **Media Privacy** | Mandatory Cloud Upload | **100% Private (Local AI)** or Thumbnail-only modes |
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
 | **Pricing Model** | Recurring Subscriptions / Credits | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)**| High-tier monthly plans | **~$0.30** using Gemini 2.0 Flash via OpenRouter |
+| **Cost (10,000 Photos)** | High-tier monthly plans | **~$0.30** using Gemini 2.0 Flash via OpenRouter |
 
 ---
 
@@ -281,7 +295,7 @@ document.addEventListener("DOMContentLoaded", function() {
         indexContent.add(id, item.content || "");
       });
     })
-    .catch(err => console.error("Kompilace vyhledávání selhala:", err));
+    .catch(err => console.error("Search index compilation failed:", err));
 
   searchInput.addEventListener('input', function() {
     var query = this.value.trim();

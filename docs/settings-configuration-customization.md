@@ -151,7 +151,7 @@ h1 { text-align: center; }
 
 The configuration suite is divided into several specialized tabs, each focusing on a different aspect of the metadata and distribution process.
 
-[IMAGE: A wide screenshot of the Settings window showing the navigation sidebar with tabs like Workspace, AI, CSV Editor, and Maps.]
+<!-- [IMAGE: A wide screenshot of the Settings window showing the navigation sidebar with tabs like Workspace, AI, CSV Editor, and Maps.] -->
 
 Go to `Top Menu` → `File` → `Settings`
 
@@ -202,12 +202,11 @@ Ensure your metadata is flawless and quickly entered with advanced linguistic to
 * **Hover Translation:** Select a target language to instantly translate AI-generated or existing keywords simply by hovering your mouse over them.
 * **Diacritics Control:** Choose whether the AI should output text with or without diacritics (accents), ensuring compatibility with stock agencies that have strict character formatting rules.
 
-Go to `Top Menu` → `File` → `Settings` → `Language and AI`.
+Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Language and AI Selection" style="width: 400px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-spell-synonyms.png" alt="ArtushVision AI - Language, Spell Check, and Autocomplete Settings" style="width: 400px;" class="screenshot-img">
 </a>
-
 
 ---
 
@@ -219,7 +218,7 @@ The CSV Editor is a powerful tool for reverse-engineering agency requirements or
 * **Custom Headers:** Define specific header names required by niche stock agencies or private archives.
 * **Export Presets:** Save your mappings as presets that can be instantly assigned to different FTP servers in the <a href="/docs/global-stock-distribution-ftp.html">Distribution module</a>.
 
-Go to `Top Menu` → `File` → `Settings` → `CSV Templates`.
+Go to `Top Menu` → `File` → `Settings` → `CSV Templates`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/csv-template-editor.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/csv-template-editor.png" alt="ArtushVision AI - CSV Templates Editor" width="100%" class="screenshot-img">
@@ -235,7 +234,7 @@ The [Category Matrix](#the-category-matrix) is the translation engine of ArtushV
 * **Media Type Logic:** Apply different category rules for Photo and Video assets, ensuring each media type is funneled into the correct commercial bin.
 * **Master Category Definition:** Create your own set of Master Categories that serve as the source for all agency-specific translations.
 
-Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
+Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
@@ -251,7 +250,7 @@ Accurate location data is critical for editorial and travel photography. ArtushV
 * **Reverse Geocoding Logic:** The application automatically translates GPS coordinates into readable City, State, and Country names. This text is then fed to the AI to provide geographical context for keyword generation.
 * **Language Preferences:** Set the preferred language for location names to ensure consistency in your metadata.
 
-Go to `Top Menu` → `File` → `Settings` `Map Settings`
+Go to `Top Menu` → `File` → `Settings` → `Map Settings`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/maps-and-reverse-geocoding.png" alt="ArtushVision AI - Map Settings" style="width: 300px;" class="screenshot-img">

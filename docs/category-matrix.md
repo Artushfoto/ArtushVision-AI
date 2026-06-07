@@ -1,3 +1,4 @@
+<!-- --- artushvision-categories-doc --- -->
 ---
 title: "Smart Category Mapping | ArtushVision AI"
 description: "Master Categories in ArtushVision AI. Experience real-time tag bubbles, drag-and-drop mechanics, and lightning-fast sorting and culling."
@@ -170,7 +171,7 @@ In this editor, you can define exactly how your Master categories map to specifi
 Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Category Mapping Matrix configuration interface in settings" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -191,7 +192,7 @@ If you prefer to assign categories manually, want to adjust the AI's choices, or
 Click to `Categories Button` in Detail Window
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" alt="ArtushVision AI - Category Mapping Matrix" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" alt="ArtushVision AI - Manual category assignment dropdown menu in Detail Window" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -202,7 +203,7 @@ To give you a quick overview of your progress, ArtushVision provides visual feed
 
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" alt="ArtushVision AI - Categories Badge" style="width: 400px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" alt="ArtushVision AI - Turquoise CAT badge visible on image thumbnail" style="width: 400px;" class="screenshot-img">
 </a>
 
 ## Seamless CSV Export & FTP Integration
@@ -230,3 +231,4 @@ In the **[CSV Template Editor](settings-configuration-customization.html#advance
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+<!-- --- artushvision-categories-doc --- -->

@@ -1,3 +1,4 @@
+<!-- --- artushvision-openrouter-doc --- -->
 ---
 title: OpenRouter API Setup | ArtushVision AI
 description: Step-by-step guide on how to configure your OpenRouter API key for Cloud AI metadata automation in ArtushVision AI.
@@ -195,7 +196,7 @@ A dialog will appear. Click **Create** to proceed with generating your **access 
 
 **Initial Create Dialog**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-004.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-004.png" alt="Dialog to create a new API key" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-004.png" alt="OpenRouter initial create dialog for generating a new API key" class="screenshot-img">
 </a>
 
 Give your key a recognizable name, for example: `ArtushVision AI`.
@@ -212,7 +213,7 @@ Give your key a recognizable name, for example: `ArtushVision AI`.
 
 **IMPORTANT - Your Secret API Key**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-006.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-006.png" alt="Secret generated API key window" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-006.png" alt="OpenRouter secret generated API key visibility window" class="screenshot-img">
 </a>
 
 After saving, you will see your active key in the dashboard list.
@@ -272,3 +273,4 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+<!-- --- artushvision-openrouter-doc --- -->

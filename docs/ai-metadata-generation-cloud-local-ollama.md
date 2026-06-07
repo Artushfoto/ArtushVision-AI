@@ -1,3 +1,4 @@
+<!-- --- artushvision-engine-doc --- -->
 ---
 title: "AI Metadata Generation: Cloud and Local Vision Models | ArtushVision AI"
 description: "Professional AI photo and video tagging workstation. Features a 4-tier engine including Cloud (OpenRouter), Local (Ollama), Hybrid, and 2-Pass Local AI processing."
@@ -183,7 +184,7 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 **Cloud AI processing:** `gemini-2.0-flash-001`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI - Cloud processing" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI - Cloud AI processing with Gemini 2.0 Flash" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -236,10 +237,10 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 * **Resource Management:** The system loads a Vision model to describe the image, unloads it, and then loads a Text model for SEO formatting. This prevents hardware crashes while maintaining elite output quality.
 
-**Two Step Local AI Detail Window:** Processing a single photo using **Local Vision** and **Local Text** for perfect formatting (Ollama loacal AI Vision: `qwen3-vl:4b`: + Ollama Local AI text: `aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf`)
+**Two Step Local AI Detail Window:** Processing a single photo using **Local Vision** and **Local Text** for perfect formatting (Ollama local AI Vision: `qwen3-vl:4b` + Ollama Local AI text: `aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf`)
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img">
   </a>
 
 ---
@@ -288,13 +289,13 @@ Go to `Top Toolbar` → `Gear button ` next to the profile selector
 
 **Cloud AI Prompt Editor**
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" alt="ArtushVision AI - Profile Editor" style="width: 600px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" alt="ArtushVision AI - Cloud AI Profile Editor Setup" style="width: 600px;" class="screenshot-img">
 </a>
 
 
 **Hybrid AI Prompt Editor**
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" alt="ArtushVision AI - Profile Editor" style="width: 600px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" alt="ArtushVision AI - Hybrid AI Profile Editor Setup" style="width: 600px;" class="screenshot-img">
 </a>
 
 ---
@@ -348,3 +349,4 @@ The application is built with a safety-first philosophy to protect your existing
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+<!-- --- artushvision-engine-doc --- -->

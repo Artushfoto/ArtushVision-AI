@@ -1,3 +1,4 @@
+<!-- --- artushvision-detail-view-doc --- -->
 ---
 title: "Manual Editing and Detailed Photo View | ArtushVision AI Documentation"
 description: "Master granular metadata control in ArtushVision AI. Learn about the keyword bubble system, linguistic tools, multilingual spell check, and interactive GPS mapping."
@@ -157,18 +158,18 @@ The interface is divided into two main vertical panels with flexible splitters, 
 `Double-click any image in the main grid`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.png" alt="ArtushVision AI - Detail Window overview" width="100%" class="screenshot-img">
-  </a>
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.png" alt="ArtushVision AI - Detailed Photo View and manual metadata editing workspace" width="100%" class="screenshot-img">
+</a>
 
 ---
 
-## Left Panel: Preview and Navigation
+## 1. Left Panel: Preview and Navigation
 This section is dedicated to the photo itself and its technical information.
 
 *   **Image Preview:** Displays the photo. It first instantly loads a smaller thumbnail from the cache, followed by a smooth (fade-in) display of the full-resolution image or a generated preview from RAW/video files.
 *   **Info Strip:** A persistently displayed label below the photo containing the filename and key EXIF data:
     *   *Example:* `ISO 100 | f/8.0 | 1/250s | 50mm`
-    *   It also shows the resolution (e.g., 6000x4000) and file size in megabytes.
+    *   *It also shows the resolution (e.g., 6000x4000) and file size in megabytes.*
 *   **Information Badges:** If the photo has specific properties (GPS, XMP sidecar, Video, corrupted data, TTP Upload, etc.), corresponding micro-icons are displayed directly in the left column.
 *   **Navigation (‹ and ›):** Large round buttons (or keyboard arrows) allow you to seamlessly browse through all photos in the current grid without needing to close the window. Metadata, the image, and the map update instantly.
 
@@ -241,3 +242,4 @@ If the photo contains GPS coordinates, a map background is displayed at the bott
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+<!-- --- artushvision-detail-view-doc --- -->

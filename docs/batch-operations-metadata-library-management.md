@@ -1,3 +1,4 @@
+<!-- --- artushvision-batch-doc --- -->
 ---
 title: "Batch Operations and Library Management | ArtushVision AI Documentation"
 description: "Master bulk metadata editing and file management. Learn how to use global search and replace, dynamic batch renaming, and synchronized file operations."
@@ -173,7 +174,7 @@ To perform operations effectively, you must first isolate the right files. The F
 
 **Using filters in ArtushVision AI**
 
-<video src="video/smart-filters.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+<video src="video/smart-filters.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Smart Filters and Workflow Filtering" aria-label="Video demonstration of filtering assets by workflow status and quality control limits">
   ArtushVision AI - Smart Filter Function.
 </video>
 <p><a href="video/smart-filters.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -211,7 +212,7 @@ Opens a dialog for advanced bulk text replacement.
 *   **Replace Next / Find Next:** Allows you to go through the selected photos sequentially and replace words one by one with immediate visual feedback.
 *   *Alternative Quick Syntax:* You can also type `old word -> new word` directly into the main input field in the panel and click `⇄ Replace`.
 
-<video src="video/batch-operations.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+<video src="video/batch-operations.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Batch Operations and Bulk Text Replacement" aria-label="Video demonstration of adding, removing, and replacing metadata across multiple selected assets simultaneously">
   ArtushVision AI - Batch Operation overview.
 </video>
 <p><a href="video/batch-operations.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -292,3 +293,4 @@ The Global Search and Replace tool is a powerful engine for fixing metadata erro
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+<!-- --- artushvision-batch-doc --- -->

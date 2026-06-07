@@ -173,7 +173,7 @@ Not all stock agencies are built the same. While some servers can handle aggress
 Skip the manual spreadsheet work. The FTP module is deeply integrated with a powerful [Category Matrix](/docs/settings-configuration-customization.html#the-category-matrix) that translates your internal organization into agency-specific requirements.
 
 * **Automated CSV Upload:** Assign a specific CSV template to an FTP server. When you start an upload, the application automatically generates the required CSV file with correct agency category IDs and uploads it alongside your media.
-* **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor).
+* **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor).)
 * **Agency Profiles:** Group your servers into Profiles (e.g., Exclusive Video Agencies or Main Stock Photo) to select multiple targets with a single click.
 
 ---
@@ -216,7 +216,7 @@ Never upload the same file twice by accident. ArtushVision AI remembers the comp
 * **Persistent Metadata Stamping:** Whether generated automatically or entered manually, the upload history is permanently written into the file's XMP/IPTC metadata. This ensures your tracking is preserved forever, even if you move your files to another drive or open them in another software.
 * **Safeguard Logic:** A built-in protection system automatically skips files that have already been successfully uploaded to the target agency in the past.
 
-**FTP history badge in Main Grig**
+**FTP history badge in Main Grid**
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
     <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.png" alt="ArtushVision AI - FTP History Badge" style="width: 100%; max-width: 400px;" class="screenshot-img">
@@ -237,7 +237,7 @@ Right-Mouse-click to any image in the main grid → `Edit FTP History (Selection
 Setup upload history → `Select or add servers, where is file already uploaded`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" alt="ArtushVision AI - Manualy add FTP Badge" style="width: 100%; max-width: 400px;" class="screenshot-img">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" alt="ArtushVision AI - Manually add FTP Badge" style="width: 100%; max-width: 400px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 

@@ -167,7 +167,7 @@ Follow this simple guide to get Ollama running on your Windows machine in under 
 2. Click **Install** in the setup window. No complex configuration is required—the installer handles everything automatically.
 3. Once the installation is complete, Ollama will automatically start running in the background.
 
-[IMAGE: A screenshot of the Windows system tray showing the small Ollama alpaca icon running in the background.]
+<!-- [IMAGE: A screenshot of the Windows system tray showing the small Ollama alpaca icon running in the background.] -->
 
 ---
 

@@ -207,7 +207,7 @@ For billing or invoice inquiries, please contact Polar support. For technical as
 ## Developer Identification & Dispute Resolution
 
 ### Product Administration
-The software application ArtushVision AI is developed and maintained by Zdeněk Malý (Address: Puklice 127, 588 31, Czech Republic, Business Registration Number / IČO: 68031751, Email: artushfoto@gmail.com).
+The software application ArtushVision AI is developed and maintained by Zdeněk Malý (Address: Puklice 127, 588 31, Czech Republic, Business Registration Number / IČO: 68031751, Email: support [at] artushfoto [dot] eu).
 
 ### Out-of-Court Dispute Resolution
 The European Commission provides an online platform for out-of-court dispute resolution within the EU: [EU Consumer Redress Portal](https://ec.europa.eu/consumers/odr/). For customers in the Czech Republic, the competent body for out-of-court settlement of consumer disputes is the Czech Trade Inspection Authority (Česká obchodní inspekce): [www.coi.cz/en/](https://www.coi.cz/en/).

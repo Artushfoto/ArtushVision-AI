@@ -150,7 +150,7 @@ h1 { text-align: center; }
 To unlock the full potential of ArtushVision AI's **Enhanced Local AI** or **Hybrid AI** modes, you need to download the appropriate models to your computer. This guide will walk you through choosing, downloading, and organizing your local models directly through the internal Model Manager.
 
 > ⚠️ **Important Prerequisite:** Before downloading any models, you must have Ollama installed and running in the background on your computer. If you haven't set it up yet, please follow our step-by-step [Ollama Installation & Setup Guide](/docs/ollama-installation-guide.html) first.
-
+> 
 > 💡 **Tip for Lite Version Users:** Running local models is a fantastic way to bypass cloud API constraints. To see how local models fit into your license tier, check out our [Free Trial Limits and Testing Guide](/docs/free-trial-limits-and-testing.html).
 
 ---
@@ -191,8 +191,8 @@ First, you need to select the specific model that matches your hardware and work
 * Click the **Download** button.
 
 **How to download Ollama Model**
-<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
-  ArtushVision AI - Getty Optimizer Overview.
+<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Downloading Local AI Models" aria-label="Video guide showing how to download a local AI model through the internal Model Manager">
+  ArtushVision AI - Demonstration of downloading a local AI model.
 </video>
 <p><a href="video/ai-model-downloading.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -205,7 +205,7 @@ First, you need to select the specific model that matches your hardware and work
 * Wait until the download is fully complete. Once finished, a success message will appear, and the model will automatically populate in your list of available models.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" alt="ArtushVision AI - Local model download interface showing live speed and progress" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -226,7 +226,7 @@ To keep your local AI environment organized, you can assign personal performance
 
 **Model Manager Grid & Custom Notes**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Local AI model manager grid with custom performance notes column" width="100%" class="screenshot-img">
 </a>
 
 ---

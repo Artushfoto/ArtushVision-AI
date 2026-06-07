@@ -202,7 +202,7 @@ The Lite Edition resets its limits every time you launch the application, allowi
 > Before completing your purchase, we highly recommend downloading and running the **Free Lite Edition** above to thoroughly test performance and AI compatibility with your local hardware setup (especially your NVIDIA GPU and Ollama environment). Because all sales are final once the digital license key is issued, please make sure the software fully meets your expectations before buying.
 > 
 > 🐛 **Transparency & Bug Fixes:**
-> ArtushVision AI is a robust, actively developed tool. While we strive for the highest stability, you might occasionally encounter minor bugs. If you do, please report them to our support email support email: <b>support [at] artushfoto [dot] eu</b> or <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a> - we are highly committed to fixing reported issues and releasing updates as quickly as possible.
+> ArtushVision AI is a robust, actively developed tool. While we strive for the highest stability, you might occasionally encounter minor bugs. If you do, please report them to our support email: <b>support [at] artushfoto [dot] eu</b> or <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a> - we are highly committed to fixing reported issues and releasing updates as quickly as possible.
 
 
 <table style="width: 100%; display: table; border-collapse: collapse;">
@@ -232,13 +232,11 @@ Please note that due to the instant delivery of digital license keys, you expres
 
 ---
 
-## Frequently Asked Licensing Questions
-
 ### Is this really a one-time payment?
 Yes. Once you buy a license for $39.99, you own that version forever. There are no monthly subscriptions, hidden costs, or maintenance fees. All minor and major updates within the current version cycle are included for free.
 
 ### How do I activate my software after purchase?
-Immediately after a successful checkout, Polar.sh will generate a unique license key and send it to your email address. Open ArtushVision AI on your desktop, navigate to *Settings*, paste your key into the activation field, and click *Activate*.
+Immediately after a successful checkout, Polar.sh will generate a unique license key and send it to your email address. Open ArtushVision AI on your desktop, go to the top menu, select **License > Activate License**, paste your key into the activation field, and click *Activate*.
 
 ### Can I use the license on multiple computers?
  A single commercial license key is valid for activation on up to **two personal devices** (e.g., your main studio workstation and your editing laptop on location), provided that you are the sole user of the software.

@@ -164,7 +164,6 @@ The Getty Optimizer module in ArtushVision AI solves this by acting as a profess
 ArtushVision AI includes a massive, local Master Dictionary specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the ESP portal for permitted terms.
 
 * **Automated Mapping:** Instantly translates standard tags into approved Getty alternatives (e.g., expanding "`Authentic`" into the required `"Real People", "candid", "Real Life", "Natural Pattern", "Auto Post", "Production Filter", "Digital Authentication"` format).
-
 * **Technical Tag Injection:** Automatically adds required structural tags such as Horizontal/Vertical, Photography, No People that Getty requires for commercial searchability.
 * **Non-Destructive Safety:** Your original metadata remains completely untouched and safe. All Getty-optimized terms, titles, and descriptions are stored in dedicated `.getty` JSON sidecar files.
 
@@ -213,7 +212,7 @@ The Resolver is designed to work perfectly even without an internet connection. 
 2.  **Getty Term (Chips)**: The mapped terms from the Getty Master Dictionary. If multiple chips are shown, **manually check** the one that fits best based on the photo. You can **double-click** a chip to delete it if it's irrelevant.
 3.  **Status / Source**: Tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*).
 
-<video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in getty Optimizer" aria-label="Getty Optimizer manual editing in ArtushVision AI">
+<video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty Optimizer" aria-label="Getty Optimizer manual editing in ArtushVision AI">
   ArtushVision AI - Getty Optimizer manual editing Overview.
 </video>
 <p><a href="video/getty-optimizer-manual.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -249,7 +248,7 @@ A major hurdle in metadata is homonyms—words with multiple meanings. If you us
 Go to `Templates` → `Apply from CSV` → `Submit`
 
 <video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP" aria-label="Apply CSV on Getty ESP">
-  ArtushVision AI - Getty resolver with AI beta.
+  ArtushVision AI - Applying exported CSV to Getty ESP.
 </video>
 <p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -262,7 +261,7 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
     *   *Quick Add:* **Right-click** any Original Word in the table and select "Save 'word' to User Dictionary". Next time you load this word, it will automatically map to your preferred Getty term.
     *   *Manage:* Open the User Dictionary to manually add new mappings, delete old ones, or "Clear All" to rely solely on the built-in Master Dictionary.
 
-<video src="video/getty-user-dictionary.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Add New Term to User Getty Dictionary" aria-label="Apply CSV on Getty ESP">
+<video src="video/getty-user-dictionary.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Add New Term to User Getty Dictionary" aria-label="Video demonstration of adding new terms and custom mappings to the personal User Getty Dictionary">
   ArtushVision AI - Add New Term to User Getty Dictionary.
 </video>
 <p><a href="video/getty-user-dictionary.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>

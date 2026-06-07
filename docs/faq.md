@@ -1,3 +1,4 @@
+<!-- --- artushvision-faq-doc --- -->
 ---
 title: "Frequently Asked Questions | ArtushVision AI Documentation"
 description: "Professional answers to common questions about ArtushVision AI pricing, privacy, local AI setup, and technical requirements."
@@ -137,7 +138,7 @@ By using an <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter API Ke
 </details>
 
 <details>
-<summary>Do I need a high-end GPU for Local AI</summary>
+<summary>Do I need a high-end GPU for Local AI?</summary>
 <p>
 A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/docs/local-ai-model-manager-ollama.html#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to <a href="/docs/ollama-installation-guide.html">Ollama's</a> optimized architecture.
 </p>
@@ -266,3 +267,4 @@ If you encounter a crash or an error, providing a debug log helps us investigate
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+<!-- --- artushvision-faq-doc --- -->

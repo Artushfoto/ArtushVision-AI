@@ -1,6 +1,6 @@
 ---
-title: "Download & Purchase ArtushVision AI | Lifetime License"
-description: "Download the free version or buy a lifetime commercial license for ArtushVision AI. One-time payment, no monthly subscriptions."
+title: "ArtushVision AI Interface Overview | Image Grid & Toolbars"
+description: "Comprehensive guide to the ArtushVision AI user interface. Learn how to navigate the main image grid, top toolbars, filters, and batch editing panel."
 ---
 <div style="display: none;">
 <style>
@@ -154,7 +154,7 @@ Instead of hiding data in complex side panels, ArtushVision AI displays the Titl
 ## Top Toolbar
 This bar provides basic application control and triggers AI operations:
 *   **Profile:** Select an AI profile (e.g., *Standard Stock Photography*). This defines the instructions given to the AI. Click the Gear icon ⚙️ button to open the Profile Editor.
-* **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names, specific animal species, obscure landmarks, or lesser-known objects) as unquestionable facts. When this hint is provided, the AI completely eliminates hallucinations, bypassing generic assumptions and strictly anchoring its analysis to your verified input. This is exceptionally useful for images lacking GPS data, where pinpointing the exact location or context from the visual alone would otherwise be nearly impossible.
+*   **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names, specific animal species, obscure landmarks, or lesser-known objects) as unquestionable facts. When this hint is provided, the AI completely eliminates hallucinations, bypassing generic assumptions and strictly anchoring its analysis to your verified input. This is exceptionally useful for images lacking GPS data, where pinpointing the exact location or context from the visual alone would otherwise be nearly impossible.
 *   [**Run Cloud AI / Local AI:**](/docs/ai-metadata-generation-cloud-local-ollama.html) The main green (or blue/orange) button to start the AI analysis for the selected photos.
 *   **Columns:** Quickly change the number of columns in the grid. The **Auto** option dynamically adjusts the grid to fit the window size.
 *   **Speed:** Number of concurrent threads for Cloud AI (recommended 5-15). Determines how many photos are analyzed simultaneously.
@@ -167,17 +167,17 @@ This bar provides basic application control and triggers AI operations:
 </a>
 
 ## Filter & Search Bar
-* **[Smart Search:](/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 Tools for quick navigation and file selection within the current session:
+*   **[Smart Search:](/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 *   **Folder:** Filters the view to show only a specific loaded folder.
-*   [**Status Filter:**](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)Shows photos based on their current status (All, Selected, Todo, Done, Modified, Corrupted, Exceeded limits, FTP status, etc.).
+*   [**Status Filter:**](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection) Shows photos based on their current status (All, Selected, Todo, Done, Modified, Corrupted, Exceeded limits, FTP status, etc.).
 *   **Type:** Restricts the view to specific file formats (JPG, RAW, Video, TIFF, HEIC, PNG).
-* **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots..
+*   **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots.
 *   **Search:** Full-text search. You can specify the target field (Everywhere, Title, Description, Keywords). Supports case sensitivity (Aa).
 *   **Panel Toggles:** The rightmost buttons show/hide the side panels for *Rating* and *Batch Edit*.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" alt="ArtushVision AI - Filter Ba" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" alt="ArtushVision AI - Filter Bar" width="100%" class="screenshot-img">
 </a>
 
 ## Batch Edit Bar
@@ -222,10 +222,10 @@ Micro-badges may appear below the photo thumbnail, indicating file properties:
 *   **Text Fields (Title/Description):** Automatically monitor character limits. Typos are underlined (red wavy line).
 *   **Smart Sync:** Typing a word into the Title/Description when multiple photos are selected will intelligently append the text to all selected cards in real-time.
 *   **Quick Clear:** The cross (×) in the field header clears the content of that specific field for the current (or all selected) photos.
-* **Copy & Paste Tools (Clipboard Icon):** Located in the field header for quickly copying the Title, Description, Tags, and Categories. You can dynamically paste these copied elements into **multiple selected files at once** (batch paste) and choose exactly which fields you want to inject (e.g., copy the entire metadata layout but apply only the Title and Description to the target files).
+*   **Copy & Paste Tools (Clipboard Icon):** Located in the field header for quickly copying the Title, Description, Tags, and Categories. You can dynamically paste these copied elements into **multiple selected files at once** (batch paste) and choose exactly which fields you want to inject (e.g., copy the entire metadata layout but apply only the Title and Description to the target files).
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" alt="ArtushVision AI - Main Grig Overview" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" alt="ArtushVision AI - Main Grid Overview" width="100%" class="screenshot-img">
 </a>
 
 ### Rating & Flags

@@ -153,7 +153,7 @@ Finding specific files—such as those missing a description or those not yet up
 
 **Batch Operations in ArtushVision AI**
 
-<video src="video/search.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+<video src="video/search.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Real-time Smart Search" aria-label="Video demonstration of real-time search and text highlighting inside the image grid">
   ArtushVision AI - Smart Search Function.
 </video>
 <p><a href="video/search.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -168,7 +168,7 @@ The top-bar search engine works in real-time, highlighting your target words dir
 * **Validation Filters:** Instantly isolate files marked as "Exceeded Limits" (e.g., descriptions too long for specific stock agencies) or those containing "Misspelled Words". The application automatically colors problematic fields red.
 * **File Type and Folder Isolation:** Quickly filter by format (RAW, HEIC, TIFF, PNG, Video) or focus on a single subfolder without losing your overall progress in the project.
 
-[IMAGE: A close-up screenshot of the Advanced Metadata Filter dialog, showing the Has / Hasn't logic dropdowns.]
+<!-- [IMAGE: A close-up screenshot of the Advanced Metadata Filter dialog, showing the Has / Hasn't logic dropdowns.] -->
 
 ---
 
@@ -190,7 +190,7 @@ Integrated directly with the [Smart FTP](global-stock-distribution-ftp.html) Upl
 * **Uploaded:** Show assets that are already safely confirmed on the server.
 * **Ignore State:** Hide files that you deliberately choose not to send to a specific agency (e.g., excluding editorial content from agencies that do not accept it).
 
-[IMAGE: A screenshot of the Advanced FTP Filter dialog showing the selection for agencies like Shutterstock and Freepik.]
+<!-- [IMAGE: A screenshot of the Advanced FTP Filter dialog showing the selection for agencies like Shutterstock and Freepik.] -->
 
 ---
 
@@ -198,15 +198,14 @@ Integrated directly with the [Smart FTP](global-stock-distribution-ftp.html) Upl
 
 ArtushVision AI provides instant feedback through colorful micro-badges stamped directly onto the photo cards in the main grid.
 
+| Badge Type         | Description                                                                                               |
+| :----------------- | :-------------------------------------------------------------------------------------------------------- |
+| **Format & Data**  | Indicates if a file is VIDEO, RAW, contains GPS coordinates, or has XMP/CSV backups.                      |
+| **Category (CAT)** | Hover over the teal CAT badge to see a tooltip listing all assigned Master Categories.                    |
+| **Agency Letters** | Circular letters (S, A, D, etc.) show exactly which FTP servers the file has reached.                      |
+| **Status Markers** | Color-coded dots indicating if a file is Unchanged, Modified, Saved, or contains an Error.                |
 
-| Badge Type         | Description                                                                                |
-| :------------------- | :----------------------------------------------------------------------------------------|
-| **Format & Data**  | Indicates if a file is VIDEO, RAW, contains GPS coordinates, or has XMP/CSV backups.       |
-| **Category (CAT)** | Hover over the teal CAT badge to see a tooltip listing all assigned Master Categories.     |
-| **Agency Letters** | Circular letters (S, A, D, etc.) show exactly which FTP servers the file has reached.      |
-| **Status Markers** | Color-coded dots indicating if a file is Unchanged, Modified, Saved, or contains an Error. |
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badgess.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI - Visual Grid Badges" style="width: 800px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>

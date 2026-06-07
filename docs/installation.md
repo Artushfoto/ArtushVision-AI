@@ -161,16 +161,16 @@ To ensure smooth operation, especially when running local AI engines and multi-t
 * **Processor:** Intel Core i7 / AMD Ryzen 7 or better
 * **Memory:** 16 GB or 32 GB RAM (Crucial for running text models smoothly)
 * **Graphics Card (GPU):** Dedicated NVIDIA GeForce RTX 3060 Ti, RTX 4060, or better with at least **8 GB VRAM**. CUDA support is highly recommended for hardware acceleration.
-* **Local AI System:** Installed and active Ollama environment (see our complete [Ollama Installation Guide](ollama-installation-guide.html)).
+* **Local AI System:** Installed and active Ollama environment (see our complete [Ollama Installation Guide](/docs/ollama-installation-guide.html)).
 
-
-### [⬇️ Download installation files](/docs/download-purchase.html)
-
+<div style="margin: 20px 0; font-size: 1.25em; font-weight: bold;">
+  <a href="/docs/download-purchase.html" style="color: #0366d6; text-decoration: none;">⬇️ Download installation files</a>
+</div>
 
 ### First Launch
 1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your key or continue with the **[Trial Version](/docs/free-trial-limits-and-testing.html)**.
-3. **[AI Configuration:](#versatile-ai-engine-choose-your-workflow)** Enter your [OpenRouter API Key](/docs/cloud-ai-openrouter-api-setup.html) for Cloud or ensure [Ollama](/docs/ollama-installation-guide.html) is running for the [Local Model Manager](/docs/local-ai-model-manager-ollama.html#integrated-hub-browser-and-downloader).
+3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/cloud-ai-openrouter-api-setup.html) for Cloud or ensure [Ollama](/docs/ollama-installation-guide.html) is running for the [Local Model Manager](/docs/local-ai-model-manager-ollama.html#integrated-hub-browser-and-downloader).
 
 ---
 

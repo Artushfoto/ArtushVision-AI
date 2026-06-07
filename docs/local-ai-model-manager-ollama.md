@@ -158,12 +158,12 @@ However, managing models via a command-line terminal can be intimidating. Artush
 Skip the terminal. ArtushVision AI connects directly to your local <a href="/docs/ollama-installation-guide.html">Ollama</a> installation and the global Ollama Hub. For a complete walkthrough of this process, you can follow our detailed <a href="/docs/how-to-download-local-ai-models-via-ollama.html">Model Download Guide</a>.
 
 * **Curated Recommendations:** Not sure where to start? Open the **Recommended** browser to see a curated list of the best Vision and Text models currently available for stock photography (like **gemma4:e4b** or **llama3.2:3b**), complete with descriptions of their specific strengths.
-* **Direct Downloads:** Type any Model ID (e.g., `moondream:18b or gemma4:e4b `) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
+* **Direct Downloads:** Type any Model ID (e.g., `moondream:18b` or `gemma4:e4b`) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
 
 **Integrated Ollama Hub Browser and Downloader**
 
-<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
-  ArtushVision AI - Getty Optimizer Overview.
+<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Downloading Local AI Models via Model Manager" aria-label="Download offline AI model from Ollama">
+  ArtushVision AI - Visual model downloading demonstration.
 </video>
 <p><a href="video/ai-model-downloading.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -192,7 +192,6 @@ Understand exactly what is running on your machine and how it impacts your hardw
 
 * **Hardware Specs at a Glance:** The grid displays crucial technical data for every model, including its physical **Size (GB)**, total **Parameters** (e.g., 3B, 8B, 72B), and **Quantization** level (e.g., Q4_0, Q8_0).
 
-
 > **What do Parameters and Quantization mean in local AI?**
 > These two settings directly determine how "smart" your local AI model is and how much graphics card memory (VRAM) it requires. 
 * **Parameters (e.g., 3B, 8B)** represent the size of the AI’s "brain" in billions - a higher number means better recognition of complex details but demands stronger hardware. 
@@ -211,7 +210,7 @@ When testing multiple models, it is essential to track which one performed best 
 * **Clean Uninstallation:** Free up disk space by deleting outdated models with a single click using the trash can icon.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Local AI model manager grid with personal performance notes" width="100%" class="screenshot-img">
 </a>
 
 ---

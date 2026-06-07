@@ -151,7 +151,7 @@ h1 { text-align: center; }
 
 Forget clumsy text boxes and constant reloading. Experience real-time tagging, spellchecking, seamless drag-and-drop mechanics, and lightning-fast culling.
 
-[IMAGE: A close-up of the main grid showing the Visual Bubbles mode for keywords, with one tag being dragged and dropped onto an adjacent photo, and a 5-star rating highlighted under the thumbnail.]
+<!-- [IMAGE: A close-up of the main grid showing the Visual Bubbles mode for keywords, with one tag being dragged and dropped onto an adjacent photo, and a 5-star rating highlighted under the thumbnail.] -->
 
 ---
 
@@ -162,15 +162,13 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 * **Reorder on the Fly:** Simply click and drag a bubble to change the order of your keywords.
 * **Cross-Photo Drag and Drop:** Need a specific keyword on another photo? Grab the bubble and drop it onto any other image in the grid.
 * **Multi-Select Dragging:** Hold Ctrl to select multiple bubbles at once, then drag the entire batch to instantly apply them to another photo.
-
-* **Add a keyword to multiple photos** Select multiple photos (using `Ctrl` + `Click`) and type a keyword to apply it to all selected images in bulk.
-
+* **Add a keyword to multiple photos:** Select multiple photos (using `Ctrl` + `Click`) and type a keyword to apply it to all selected images in bulk.
 * **Auto-Deduplication:** The application automatically prevents duplicate tags. If a photo already has the tag, it will smoothly ignore the dropped duplicate.
 
-<video src="video/ seamless-drag-and-drop.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing seamless drag and drop metadata editing in ArtushVision AI">
+<video src="video/seamless-drag-and-drop.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing seamless drag and drop metadata editing in ArtushVision AI">
   ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
 </video>
-<p><a href="video/ seamless-drag-and-drop.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/seamless-drag-and-drop.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
@@ -182,10 +180,10 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 * **Universal Copy/Paste:** Use standard Ctrl+C and Ctrl+V. If you paste a string of 20 keywords into a selection of photos, the application distributes them cleanly, removes duplicates, and immediately formats them into bubbles.
 * **Visual Undo/Redo:** Made a mistake while mass-editing or rating? Press Ctrl+Z. The application remembers the exact state (including the specific tag colors, ratings, and flags) of your entire batch before the edit and restores it instantly.
 
-**Select the photo widget**, press **CTRL+C**, and select the photos where you want to paste **(CTRL+V)** the copied metadata.**
+**Select the photo widget**, press **CTRL+C**, and select the target photos where you want to paste the copied metadata via **CTRL+V**.
 
 <video src="video/copy-paste-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI" aria-label="Video showing copy and paste metadata in ArtushVision AI">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+  ArtushVision AI - Demonstration of copying and pasting metadata across assets.
 </video>
 <p><a href="video/copy-paste-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -212,7 +210,7 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 5. Click the **"- Remove"** button.
 
 <video src="video/remove-keyword.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - bulk remove keyword" aria-label="Video showing bulk remove keyword in ArtushVision AI">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+  ArtushVision AI - Demonstration of bulk keyword removal across a selection.
 </video>
 <p><a href="video/remove-keyword.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -232,7 +230,7 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 3. Click the **"⌫ Clear Field"** button.
 
 <video src="video/clear-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI" aria-label="Video showing how to clear metadata in ArtushVision AI">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+  ArtushVision AI - Demonstration of clearing metadata fields completely.
 </video>
 <p><a href="video/clear-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -251,7 +249,7 @@ If you accidentally deleted the wrong keywords and **haven't clicked the "Save" 
 ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed.
 
 <video src="video/keyword-sets.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI" aria-label="How to use Keyword Set in ArtushVision AI">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+  ArtushVision AI - Demonstration of keyword presets and management tools.
 </video>
 <p><a href="video/keyword-sets.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -279,7 +277,7 @@ Organizing a massive photoshoot requires speed. ArtushVision AI features a compl
 
 * **Keyboard Shortcuts:** Instantly rate photos using keys 1-5, apply Pick/Reject flags using P and X (or U to unflag), and assign color labels with keys 6-9.
 * **Batch Culling:** Select 100 photos and press 5 to rate them all as 5-star instantly.
-* **[100% Lightroom , digiKam and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Your ratings, flags, and color labels are natively written into <a href="/docs/metadata-compatibility-and-file-handling.html">EXIF/XMP sidecars</a>. If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
+* **[100% Lightroom, digiKam and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Your ratings, flags, and color labels are natively written into <a href="/docs/metadata-compatibility-and-file-handling.html">EXIF/XMP sidecars</a>. If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.png" alt="ArtushVision AI - Visual Culling" width="100%" class="screenshot-img">
@@ -295,7 +293,6 @@ To ensure your metadata and files meet the strict requirements of various stock 
 *   **Description Length:** Set the minimum and maximum allowed character count for the description.
 *   **Keywords Count:** Define the required minimum and maximum number of keywords (e.g., min 5, max 50).
 *   **Resolution Limit (Megapixels):** Specify a minimum megapixel count to quickly identify images that are too small and might be rejected by agencies.
-
 
 When the **Enable Validation** feature is active, the application continuously checks your data in real-time. Any field or image falling outside your defined limits will be instantly highlighted with an error color (default red) in both the grid and the detail view. This provides immediate visual feedback, preventing you from uploading incomplete or non-compliant files. You can also fully customize the error highlight color separately for both Light and Dark themes to suit your preferences.
 
@@ -314,7 +311,7 @@ Stop typing the same words over and over. As you type, the Smart Autocomplete in
 * **Smart Formatting:** Press Enter to accept a suggestion, and the application will automatically add a comma, a space, and turn it into a bubble.
 * **Case Preservation:** If you start typing with a capital letter, the autocomplete will respect your formatting (e.g., typing "Lon" will suggest "London", not "london").
 
-[IMAGE: A screenshot of a user typing in the Keywords field, showing the autocomplete dropdown menu suggesting words, and a typo underlined in red.]
+<!-- [IMAGE: A screenshot of a user typing in the Keywords field, showing the autocomplete dropdown menu suggesting words, and a typo underlined in red.] -->
 
 ---
 
@@ -329,7 +326,7 @@ Never get a batch rejected for a typo again. ArtushVision AI features a robust, 
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Field limit settings" style="width: 400px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Multi-Language Spellcheck and Language Settings" style="width: 400px;" class="screenshot-img">
 </a>
 
 ---
@@ -355,7 +352,7 @@ Right Mouse Click on → `Keyword`
 ### Master Your Workflow in 3 Steps:
 
 1. **Cull and Sort:** Rapidly go through your grid using keyboard shortcuts (1-5, P, X) to rate and flag the best photos for microstock submission.
-2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the Title, Description, and Keywords fields</a>.
+2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the Title, Description, and Keywords fields.
 3. **Drag and Drop:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the overarching themes everywhere instantly (see the <a href="/docs/global-stock-distribution-ftp.html">Smart FTP Uploader</a>).
 
 ---
