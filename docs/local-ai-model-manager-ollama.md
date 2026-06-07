@@ -184,7 +184,7 @@ ArtushVision's advanced <a href="/docs/ai-metadata-generation-cloud-local-ollama
 [**gemma models family**: https://ollama.com/library/gemma4](https://ollama.com/library/gemma4)
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama Gemma Models"" style="width: 800px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama Gemma Models" style="width: 800px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
