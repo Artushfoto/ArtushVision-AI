@@ -225,7 +225,7 @@ Ensure <a href="/docs/ollama-installation-guide.html">Ollama is installed</a> an
 <details>
 <summary>My API key is active, but AI results are empty.</summary>
 <p>
-Check your <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter</a> credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. It is also possible that the selected model has changed or is temporarily unavailable; try switching to a different model. Follow our <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter Setup Guide</a> for precise settings.
+Check your <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter</a> credit balance (minimum $5 recommended) and ensure you haven't set a "per-request" limit that is too low. It is also possible that the selected model has changed or is temporarily unavailable; try switching to a different model. Follow our guide <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#how-to-change-the-ai-model-cloud--local"></a> how to change AI model.
 </p>
 </details>
 
