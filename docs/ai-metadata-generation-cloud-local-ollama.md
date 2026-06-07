@@ -240,6 +240,30 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 ---
 
+### How to change the AI Model (Cloud & Local)?
+
+Changing your AI model gives you ultimate flexibility—allowing you to balance speed, cost, and privacy. You can use fast, free Local AI models for bulk processing and switch to advanced Cloud models for complex tasks.
+
+Here is how to access and change the model via your AI Profile:
+
+1. In the main top toolbar, click the **⚙ Profile Editor** button to open your active AI Profile.
+2. Locate the **AI Model** input field in the editor window.
+3. Click the **Magnifying Glass icon (🔍)** right next to the input field.
+4. This will open the **Integrated Model Manager**, where you can easily:
+   * Browse the catalog of **Cloud AI** models from OpenRouter (including their prices and specifications).
+   * Browse, manage, and download **Local AI** models directly from the Ollama Hub.
+5. Once you select a model from the list, the field will automatically update with the correct ID. Click **Save** (or *Save as...* to create a new profile) to apply the changes.
+
+*💡 Tip for Getty Images workflow: You can also change your custom Cloud AI model on the fly directly inside the **Interactive Getty Resolver** window. Just use the model dropdown menu located in its top toolbar.*
+
+Go to `Top Toolbar` → `Gear button ` next to the profile selector → `Magnifying Glass icon `
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/change-ai-model.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/change-ai-model.png" alt="ArtushVision AI - How to Change AI Model" width="100%" class="screenshot-img">
+  </a>
+
+---
+
 ## Context-Aware Prompting: The AI Knows Your Gear
 
 Generic AI tools produce generic metadata. ArtushVision AI injects technical background context into every prompt to ensure specific and accurate results.
