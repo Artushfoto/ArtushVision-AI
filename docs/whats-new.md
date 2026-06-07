@@ -209,7 +209,7 @@ The entire stock photo and video upload process has been rewritten from the grou
 * **Lightning-Fast Autocomplete:** Data entry is dramatically accelerated via an ultra-fast, pre-warmed database of over 300,000 highly commercial keywords.
 * **Non-Destructive Keyword Sets:** Create, manage, and batch-apply custom preset combinations of tags (e.g., for specific locations or studio environments) that undergo instant deduplication and live spell checking.
 * **Bi-Directional Lightroom Integration:** All stars, flags, and custom tags map perfectly to standard XMP namespaces (like `XMP-dc`, `XMP-lr`), allowing seamless catalog synchronization via Adobe's "Read Metadata from Files" command.
-* **[Settings Backup & Migration](/docs/settings-configuration-customization.html#complete-system-backup-and-migration):** Added a full, one-click ZIP backup of all custom profiles, AI prompts, and CSV templates, utilizing secure Windows DPAPI encryption to safely package credentials.
+* **[Settings Backup & Migration](/docs/settings-configuration-customization.html#backup-and-data-safety):** Added a full, one-click ZIP backup of all custom profiles, AI prompts, and CSV templates, utilizing secure Windows DPAPI encryption to safely package credentials.
 * **UI Safety & Stability:** Unified validation limit colors (auto-highlighting fields red upon character/word count violations) and introduced 100% protection against AI API error states. The grid memory architecture has been completely optimized to prevent application freezing when handling thousands of high-resolution items simultaneously.
 
 ---
