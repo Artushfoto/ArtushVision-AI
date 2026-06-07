@@ -198,10 +198,8 @@ Keep track of your technical data and backup states without ever opening a prope
 * **Backup Trackers:** Know your data is safe at a glance. The application highlights files that have a dedicated **XMP** sidecar, an original backup file (**ORIG**), or are safely backed up in a spreadsheet (**CSV**).
 * **Distribution and AI Tags:** Track your workflow visually. The **CAT** badge indicates successfully mapped categories, the **GETTY** badge highlights optimized terms, and tiny agency micro-badges (e.g., S, A, F) show your complete FTP upload history.
 
-Click to `Add FTP` or `Double click` to FTP Agency → `Add or Update FTP Settings`
-
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI - Visual Status Badges" style="width: 400px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI - Visual Status Badges" style="width: 600px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -214,7 +212,9 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 
 * **Non-Destructive XMP Workflow:** All metadata edits are safely stored in external sidecar files, keeping your original RAW assets completely untouched.
 * **Instant Catalog Synchronization:** To apply your AI-generated keywords and edits back to your Lightroom catalog, simply select the modified photos in the Lightroom grid.
-* **One-Click Import:** Right-click the selected assets in Lightroom and choose **Metadata > Read Metadata from File**. Lightroom will instantly update its database with all your new tags, titles, and color labels.
+* **One-Click Import:** Right-click the selected assets in Lightroom and choose **Metadata > Read Metadata from Files**. Lightroom will instantly update its database with all your new tags, titles, and color labels.
+
+In Lightroom - Click to `Top Menu` → `Metadata` → `Read Metadata from Files`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" alt="ArtushVision AI - Read Metadata from Files in Lightroom" style="width: 400px;" class="screenshot-img">
