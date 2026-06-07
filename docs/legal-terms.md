@@ -214,6 +214,12 @@ The European Commission provides an online platform for out-of-court dispute res
 
 ---
 
+### [Get Started Now]
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)

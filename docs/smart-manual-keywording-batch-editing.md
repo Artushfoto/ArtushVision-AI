@@ -355,7 +355,7 @@ Right Mouse Click on → `Keyword`
 ### Master Your Workflow in 3 Steps:
 
 1. **Cull and Sort:** Rapidly go through your grid using keyboard shortcuts (1-5, P, X) to rate and flag the best photos for microstock submission.
-2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the <a href="/docs/manual-editing-detailed-photo-view.html#title-and-description-editor">Title, Description, and Keywords fields</a>.
+2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the Title, Description, and Keywords fields</a>.
 3. **Drag and Drop:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the overarching themes everywhere instantly (see the <a href="/docs/global-stock-distribution-ftp.html">Smart FTP Uploader</a>).
 
 ---
