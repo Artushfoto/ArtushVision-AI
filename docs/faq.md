@@ -229,6 +229,21 @@ Check your <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter</a> cre
 </p>
 </details>
 
+<details>
+<summary>How do I report a bug or unexpected behavior?</summary>
+<p>
+If you encounter a crash or an error, providing a debug log helps us investigate and fix the issue much faster. Please follow these steps:
+<ol>
+  <li>In the top application menu, go to <b>File &gt; Logging</b> and select <b>Debug (All)</b>.</li>
+  <li>Repeat the exact action that caused the error so the application can record the background technical details.</li>
+  <li>Go back to <b>File &gt; Logging</b> and click <b>Open Log File</b>. This will open a text file containing the error report.</li>
+  <li><i>(Optional)</i> Take a screenshot of the application if there is a visible error message or a visual glitch.</li>
+  <li>Create a new post in our <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a>, or send the files directly to our support email: <b>support [at] artushfoto [dot] com</b>. Please attach the saved log file along with your screenshot and a brief description of what you were trying to do.</li>
+</ol>
+</p>
+</details>
+
+
 ---
 
 ### Need more help?
