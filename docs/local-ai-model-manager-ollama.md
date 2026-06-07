@@ -165,6 +165,13 @@ Skip the terminal. ArtushVision AI connects directly to your local <a href="/doc
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
 </a>
 
+
+<video src="video/ai-model-downloading..mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+  ArtushVision AI - Getty Optimizer Overview.
+</video>
+<p><a href="video/ai-model-downloading..mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+
 ---
 
 ## Smart Vision and Text Detection
