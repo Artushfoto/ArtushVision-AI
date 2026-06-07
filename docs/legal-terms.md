@@ -147,8 +147,6 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-[Frequently Asked Questions (FAQ)](faq.html) | [Purchase License](purchase-license.html)
-
 ---
 
 ## Merchant of Record & Reseller Information
@@ -216,10 +214,12 @@ The European Commission provides an online platform for out-of-court dispute res
 
 ---
 
-### Community & Help Desk
-
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-[❓ Frequently Asked Questions (FAQ)](faq.html)
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
+
+*ArtushVision AI - Stability and precision for professional photography workflows.*
