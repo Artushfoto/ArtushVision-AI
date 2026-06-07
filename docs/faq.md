@@ -55,14 +55,14 @@ No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.
 <details>
 <summary>What are the limitations of the Lite version?</summary>
 <p>
-The Lite version is a fully functional "trial" designed for testing your entire workflow. It has no time limits, but it processes files in smaller batches and includes a subtle watermark in non-critical metadata fields. The Pro version removes all limits and watermarks.
+The Lite version is a fully functional "<a href="docs/free-trial-limits-and-testing.html">Trial</a>" designed for testing your entire workflow. It has no time limits, but it processes files in smaller batches and includes a subtle watermark in non-critical metadata fields. The Pro version removes all limits and watermarks.
 </p>
 </details>
 
 <details>
 <summary>Which file formats can I process?</summary>
 <p>
-ArtushVision AI supports professional standards including:
+ArtushVision AI supports <a href="/docs/metadata-compatibility-and-file-handling.html">professional standards</a> including:
 <ul>
   <li><b>Images:</b> JPG, RAW (CR2, NEF, ARW, etc.), TIFF, PNG, HEIC, WEBP.</li>
   <li><b>Video:</b> MP4, MOV, AVI, MKV.</li>
