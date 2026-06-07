@@ -102,7 +102,7 @@ A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/d
 <details>
 <summary>Will the AI overwrite my existing keywords?</summary>
 <p>
-No. You have absolute control. Using <a href="/docs/manual-editing-detailed-photo-view.html#advanced-protection-logic">Smart Protection</a>, you can tell the AI to only append new tags or use variables like `{existing_keywords}` to let the AI intelligently expand your work.
+No. You have absolute control. Using <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#smart-data-safeguards">Smart Protection</a>, you can tell the AI to only append new tags or use variables like `{existing_keywords}` to let the AI intelligently expand your work.
 </p>
 </details>
 
