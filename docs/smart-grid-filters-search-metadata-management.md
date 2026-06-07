@@ -151,6 +151,8 @@ h1 { text-align: center; }
 
 Finding specific files—such as those missing a description or those not yet uploaded to a particular agency—is no longer a manual task. The filtering suite ensures you always know exactly which assets require your attention.
 
+**Batch Operations in ArtushVision AI**
+
 <video src="video/search.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
   ArtushVision AI - Smart Search Function.
 </video>
@@ -177,6 +179,13 @@ Beyond basic text search, ArtushVision AI allows for complex queries based on th
 * **Blank Field Detection:** Instantly identify all assets that do not have a Title, Description, or Keywords assigned.
 * **[Category Matrix Filter](settings-configuration-customization.html#the-category-matrix):** Filter the grid to show only photos belonging to a specific Master Category (e.g., "Business") while excluding others (e.g., "Editorial").
 * **Getty Status Integration:** Isolate photos that are fully Getty Optimized versus those requiring action in the [Interactive Resolver](getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation).
+
+**Using filters in ArtushVision AI**
+
+<video src="video/smart-filters.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Download offline AI model from Ollama">
+  ArtushVision AI - Smart Filter Function.
+</video>
+<p><a href="video/smart-filters.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
