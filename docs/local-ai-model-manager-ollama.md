@@ -151,8 +151,6 @@ h1 { text-align: center; }
 
 However, managing models via a command-line terminal can be intimidating. ArtushVision AI solves this with a fully integrated, desktop-class **Local Model Manager**. It gives you a visual dashboard to browse, download, organize, and monitor your <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">local AI</a> models without ever touching the command line.
 
-[IMAGE: A wide screenshot of the Local AI Models (Ollama) window, showing the table with Model ID, Size, Parameters, Quantization, Type, and the editable Notes column.]
-
 ---
 
 ## Integrated Hub Browser and Downloader
@@ -161,8 +159,6 @@ Skip the terminal. ArtushVision AI connects directly to your local <a href="/doc
 
 * **Curated Recommendations:** Not sure where to start? Open the **Recommended** browser to see a curated list of the best Vision and Text models currently available for stock photography (like **Qwen2.5-VL** or **Llama 3.2**), complete with descriptions of their specific strengths.
 * **Direct Downloads:** Type any Model ID (e.g., `moondream:latest or gemma4:e4b`) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
-
-[IMAGE: A screenshot of the Ollama Hub Browser showing the download progress dialog, transfer rates, and the curated list of recommended models.]
 
 **Integrated Ollama Hub Browser and Downloader**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" target="_blank" class="screenshot-link">
@@ -182,11 +178,12 @@ ArtushVision's advanced <a href="/docs/ai-metadata-generation-cloud-local-ollama
 
 ## Deep Technical Insights
 
-[GEMMA: https://ollama.com/library/gemma4](https://ollama.com/library/gemma4)
+[**gemma models family**: https://ollama.com/library/gemma4](https://ollama.com/library/gemma4)
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama HuGemma Models" width="600px" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama Gemma Models"" style="width: 800px;" class="screenshot-img">
 </a>
+<div style="height: 15px;"></div>
 
 Understand exactly what is running on your machine and how it impacts your hardware performance.
 
@@ -200,9 +197,6 @@ Understand exactly what is running on your machine and how it impacts your hardw
 
 * **Live VRAM Monitor:** Located in the main application status bar, a live hardware monitor tracks your GPU VRAM usage. If a model exceeds your graphics card's memory, the application intelligently falls back to CPU RAM and provides a warning.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading-finished.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading-finished.png" alt="ArtushVision AI - Integrated Ollama Hub Downloader" width="100%" class="screenshot-img">
-
 ---
 
 ## Personal Notes and Organization
@@ -214,6 +208,7 @@ When testing multiple models, it is essential to track which one performed best 
 * **Clean Uninstallation:** Free up disk space by deleting outdated models with a single click using the trash can icon.
 
 **Integrated Ollama Hub Browser and Downloader**
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
 </a>

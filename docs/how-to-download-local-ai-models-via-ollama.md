@@ -196,8 +196,8 @@ First, you need to select the specific model that matches your hardware and work
 * Click the **Download** button.
 
 **Downloading the Ollama Model**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" alt="Pasting the model name and clicking the Download button" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading-finished.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading-finished.png" alt="ArtushVision AI - Integrated Ollama Hub Downloader" width="100%" class="screenshot-img">
 </a>
 
 ---
