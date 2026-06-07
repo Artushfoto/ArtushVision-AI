@@ -8,8 +8,22 @@ description: "Professional answers to common questions about ArtushVision AI pri
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 
 /* Celkové ladění dokumentu */
-h1 { text-align: center; margin-bottom: 40px; color: #222; }
-h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; color: #444; }
+h1 { text-align: center; margin-bottom: 20px; color: #222; }
+h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; color: #444; scroll-margin-top: 20px; }
+
+/* Rychlá navigace (Table of Contents) */
+.faq-toc {
+    background: #f8f9fa;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+.faq-toc p { font-weight: bold; margin-top: 0; margin-bottom: 10px; color: #333; }
+.faq-toc ul { margin: 0; padding-left: 20px; }
+.faq-toc li { margin-bottom: 5px; }
+.faq-toc a { color: #0366d6; text-decoration: none; font-weight: 500; }
+.faq-toc a:hover { text-decoration: underline; color: #0056b3; }
 
 /* Stylování FAQ harmoniky */
 details {
@@ -29,7 +43,8 @@ color: #0366d6;
 }
 summary:hover { color: #0056b3; }
 details p { margin-top: 15px; line-height: 1.6; color: #333; }
-details ul { margin-top: 10px; }
+details ul { margin-top: 10px; color: #333; }
+details li { margin-bottom: 5px; }
 </style>
 </div>
 
@@ -43,7 +58,19 @@ details ul { margin-top: 10px; }
 
 ---
 
-## General and Pricing
+<div class="faq-toc">
+  <p>Table of Contents</p>
+  <ul>
+    <li><a href="#general-licensing-and-pricing">General, Licensing and Pricing</a></li>
+    <li><a href="#ai-privacy-and-costs">AI Privacy and Costs</a></li>
+    <li><a href="#workflow-and-compatibility">Workflow and Compatibility</a></li>
+    <li><a href="#microstock-export--ftp-upload">Microstock Export & FTP Upload</a></li>
+    <li><a href="#data-safety--languages">Data Safety & Languages</a></li>
+    <li><a href="#technical-setup">Technical Setup</a></li>
+  </ul>
+</div>
+
+## General, Licensing and Pricing
 
 <details>
 <summary>Is ArtushVision AI a subscription service?</summary>
@@ -53,9 +80,30 @@ No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.
 </details>
 
 <details>
+<summary>Can I get a refund if I don't like the software?</summary>
+<p>
+Due to the digital nature of the software and the availability of a fully functional free Lite version, <b>all sales are final</b>. We strongly encourage you to download the Trial (Lite) version to test compatibility and workflows on your hardware before purchasing. Refunds are only issued in rare cases of proven technical failure of the license activation.
+</p>
+</details>
+
+<details>
+<summary>Do I get free updates after purchasing?</summary>
+<p>
+Yes! Your purchase grants a lifetime license for the specific version series (e.g., v2026.x). You will receive all minor updates, performance upgrades, and bug fixes for free within this cycle. Major generational leaps (e.g., a future v2027 series) may require an optional upgrade fee.
+</p>
+</details>
+
+<details>
+<summary>How many computers can I use my license on?</summary>
+<p>
+Your personal Pro license can be activated on up to 2 of your own devices, allowing you to use ArtushVision AI on your desktop workstation and your travel laptop simultaneously.
+</p>
+</details>
+
+<details>
 <summary>What are the limitations of the Lite version?</summary>
 <p>
-The Lite version is a fully functional "<a href="docs/free-trial-limits-and-testing.html">Trial</a>" designed for testing your entire workflow. It has no time limits, but it processes files in smaller batches and includes a subtle watermark in non-critical metadata fields. The Pro version removes all limits and watermarks.
+The Lite version is a fully functional "<a href="/docs/free-trial-limits-and-testing.html">Trial</a>" designed for testing your entire workflow. It has no time limits, but it processes files in smaller batches (e.g., max 10 saves or 5 FTP uploads per session) and includes a subtle watermark in non-critical metadata fields. The Pro version removes all limits and watermarks.
 </p>
 </details>
 
@@ -102,19 +150,14 @@ A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/d
 <details>
 <summary>Will the AI overwrite my existing keywords?</summary>
 <p>
-No. You have absolute control. Using <a href="/docs/
-ai-metadata-generation-cloud-local-ollama.html#smart-data-safeguards
-
-
-
-">Smart Protection</a>, you can tell the AI to only append new tags or use variables like `{existing_keywords}` to let the AI intelligently expand your work.
+No. You have absolute control. Using <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#smart-data-safeguards">Smart Protection</a>, you can tell the AI to only append new tags or use variables like <code>{existing_keywords}</code> to let the AI intelligently expand your work.
 </p>
 </details>
 
 <details>
 <summary>How do I optimize for Getty Images / <a href="/docs/getty-images-esp-metadata-optimizer.html">ESP</a>?</summary>
 <p>
-Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Optimizer</a>. It validates your keywords against a <a href="/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary">master dictionary</a> of 11,000+ commercial terms to ensure Near-Perfect Acceptance Rate without manual guesswork.
+Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Resolver</a>. It validates your keywords against a <a href="/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary">master dictionary</a> of 11,000+ commercial terms and uses Cloud AI for intelligent disambiguation to ensure a Near-Perfect Acceptance Rate without manual guesswork.
 </p>
 </details>
 
@@ -122,6 +165,49 @@ Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Gett
 <summary>Does it work with Lightroom, Zoner, or Bridge?</summary>
 <p>
 Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility">Batch Operations</a> guide for more.
+</p>
+</details>
+
+---
+
+## Microstock Export & FTP Upload
+
+<details>
+<summary>Can ArtushVision AI upload my photos directly to stock agencies?</summary>
+<p>
+Absolutely. The application features a built-in <b>FTP Manager</b>. You can configure multiple FTP servers (Shutterstock, Adobe Stock, etc.) and upload your finished photos and videos with a single click. It even supports multi-threading and auto-retries for unstable connections.
+</p>
+</details>
+
+<details>
+<summary>Do I have to manually map categories for every single agency?</summary>
+<p>
+No. Thanks to the <b>Category Matrix</b>, you map your image to a "Master Category" once, and the app automatically translates it into the correct specific IDs or subcategories required by Shutterstock, Adobe Stock, Alamy, or MotionElements during the CSV export or FTP upload.
+</p>
+</details>
+
+---
+
+## Data Safety & Languages
+
+<details>
+<summary>What happens if the AI makes a mistake? Can I undo changes?</summary>
+<p>
+You are completely safe. First, the grid editor supports full <b>Undo/Redo (Ctrl+Z)</b>. Second, the software features a robust backup system: it can generate full CSV backups, save original JPG files with a <code>.original</code> extension, or write safely into separate <code>.xmp</code> sidecar files for your RAW images.
+</p>
+</details>
+
+<details>
+<summary>Do I need to install ExifTool or FFmpeg manually?</summary>
+<p>
+No, ArtushVision AI comes pre-bundled with local versions of both ExifTool (for metadata writing) and FFmpeg (for video frame extraction). It works out of the box, though you can point it to custom installations in the Settings if you prefer.
+</p>
+</details>
+
+<details>
+<summary>Can I generate keywords in languages other than English?</summary>
+<p>
+The application natively focuses on English, as it is the strict standard for global microstock agencies. However, the UI features built-in translation tooltips, an interactive synonym finder, and multilingual spellcheck. You can also customize your AI prompts to output text in your native language for personal or local archiving.
 </p>
 </details>
 
@@ -160,8 +246,6 @@ Check your <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter</a> cre
 ---
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
-
-[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
