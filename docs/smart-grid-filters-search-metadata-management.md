@@ -213,7 +213,10 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 | **Agency Letters** | Circular letters (S, A, D, etc.) show exactly which FTP servers the file has reached.      |
 | **Status Markers** | Color-coded dots indicating if a file is Unchanged, Modified, Saved, or contains an Error. |
 
-[IMAGE: A close-up of a single photo card in the grid highlighting the various badges: GPS, RAW, XMP, and agency letters.]
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badgess.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI - Visual Grid Badges" style="width: 800px;" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 ---
 
