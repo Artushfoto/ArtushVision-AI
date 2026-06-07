@@ -157,8 +157,8 @@ However, managing models via a command-line terminal can be intimidating. Artush
 
 Skip the terminal. ArtushVision AI connects directly to your local <a href="/docs/ollama-installation-guide.html">Ollama</a> installation and the global Ollama Hub. For a complete walkthrough of this process, you can follow our detailed <a href="/docs/how-to-download-local-ai-models-via-ollama.html">Model Download Guide</a>.
 
-* **Curated Recommendations:** Not sure where to start? Open the **Recommended** browser to see a curated list of the best Vision and Text models currently available for stock photography (like **Qwen2.5-VL** or **Llama 3.2**), complete with descriptions of their specific strengths.
-* **Direct Downloads:** Type any Model ID (e.g., `moondream:latest or gemma4:e4b`) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
+* **Curated Recommendations:** Not sure where to start? Open the **Recommended** browser to see a curated list of the best Vision and Text models currently available for stock photography (like **gemma4:e4b** or **llama3.2:3b**), complete with descriptions of their specific strengths.
+* **Direct Downloads:** Type any Model ID (e.g., `moondream:18b or gemma4:e4b `) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
 
 **Integrated Ollama Hub Browser and Downloader**
 
