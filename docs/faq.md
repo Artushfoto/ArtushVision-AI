@@ -48,7 +48,7 @@ details ul { margin-top: 10px; }
 <details>
 <summary>Is ArtushVision AI a subscription service?</summary>
 <p>
-No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.99) and own the software forever. There are no recurring monthly fees. You only pay for the <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">cloud AI</a> processing you actually use via your own API keys, or use <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Local AI</a> for free.
+No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.99) and own the software forever. There are no recurring monthly fees. You only pay for the <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai">cloud AI</a> processing you actually use via your own API keys, or use <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai">Local AI</a> for free.
 </p>
 </details>
 
@@ -102,7 +102,8 @@ A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/d
 <details>
 <summary>Will the AI overwrite my existing keywords?</summary>
 <p>
-No. You have absolute control. Using <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#smart-data-safeguards
+No. You have absolute control. Using <a href="/docs/
+ai-metadata-generation-cloud-local-ollama.html#smart-data-safeguards
 
 
 
