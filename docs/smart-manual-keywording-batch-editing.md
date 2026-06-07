@@ -165,7 +165,9 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 * **Add a keyword to multiple photos:** Select multiple photos (using `Ctrl` + `Click`) and type a keyword to apply it to all selected images in bulk.
 * **Auto-Deduplication:** The application automatically prevents duplicate tags. If a photo already has the tag, it will smoothly ignore the dropped duplicate.
 
-<video src="video/seamless-drag-and-drop.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration" aria-label="Video showing seamless drag and drop metadata editing in ArtushVision AI">
+**Seamless Drag and Drop Demonstration**
+
+<video src="video/seamless-drag-and-drop.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration">
   ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
 </video>
 <p><a href="video/seamless-drag-and-drop.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -182,7 +184,9 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 **Select the photo widget**, press **CTRL+C**, and select the target photos where you want to paste the copied metadata via **CTRL+V**.
 
-<video src="video/copy-paste-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI" aria-label="Video showing copy and paste metadata in ArtushVision AI">
+**Copy and Paste Metadata in ArtushVision AI**
+
+<video src="video/copy-paste-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI">
   ArtushVision AI - Demonstration of copying and pasting metadata across assets.
 </video>
 <p><a href="video/copy-paste-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -209,7 +213,9 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 4. Type the exact keyword you want to delete into the text field.
 5. Click the **"- Remove"** button.
 
-<video src="video/remove-keyword.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - bulk remove keyword" aria-label="Video showing bulk remove keyword in ArtushVision AI">
+**Bulk Remove Keyword in ArtushVision AI**
+
+<video src="video/remove-keyword.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - bulk remove keyword">
   ArtushVision AI - Demonstration of bulk keyword removal across a selection.
 </video>
 <p><a href="video/remove-keyword.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -229,7 +235,9 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 2. Select **Field** where you want to **Remove Metadata** from the dropdown menu.
 3. Click the **"⌫ Clear Field"** button.
 
-<video src="video/clear-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI" aria-label="Video showing how to clear metadata in ArtushVision AI">
+**Clearing Metadata in ArtushVision AI**
+
+<video src="video/clear-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Clear Metadata">
   ArtushVision AI - Demonstration of clearing metadata fields completely.
 </video>
 <p><a href="video/clear-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -248,7 +256,9 @@ If you accidentally deleted the wrong keywords and **haven't clicked the "Save" 
 
 ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed.
 
-<video src="video/keyword-sets.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI" aria-label="How to use Keyword Set in ArtushVision AI">
+**Using Keyword Sets in ArtushVision AI**
+
+<video src="video/keyword-sets.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI">
   ArtushVision AI - Demonstration of keyword presets and management tools.
 </video>
 <p><a href="video/keyword-sets.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>

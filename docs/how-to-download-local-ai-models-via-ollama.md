@@ -190,8 +190,9 @@ First, you need to select the specific model that matches your hardware and work
 * Paste the exact model name you copied from the Ollama website into the text field.
 * Click the **Download** button.
 
-**How to download Ollama Model**
-<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Downloading Local AI Models" aria-label="Video guide showing how to download a local AI model through the internal Model Manager">
+**Downloading Local AI Models**
+
+<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Downloading Local AI Models">
   ArtushVision AI - Demonstration of downloading a local AI model.
 </video>
 <p><a href="video/ai-model-downloading.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>

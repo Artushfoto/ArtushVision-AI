@@ -199,7 +199,9 @@ At the top of the window, you'll see thumbnails of your selected batch.
 *   **Multi-Select**: Use `Ctrl + Click` to select multiple thumbnails.
 *   **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
 
-<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer" aria-label="Overview of Getty Optimizer in ArtushVision AI">
+**Getty Images Optimizer Overview in ArtushVision AI**
+
+<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer">
   ArtushVision AI - Getty Optimizer Overview.
 </video>
 <p><a href="video/getty-optimizer-overview.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -212,7 +214,9 @@ The Resolver is designed to work perfectly even without an internet connection. 
 2.  **Getty Term (Chips)**: The mapped terms from the Getty Master Dictionary. If multiple chips are shown, **manually check** the one that fits best based on the photo. You can **double-click** a chip to delete it if it's irrelevant.
 3.  **Status / Source**: Tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*).
 
-<video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty Optimizer" aria-label="Getty Optimizer manual editing in ArtushVision AI">
+**Manual Editing in Getty Optimizer**
+
+<video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty Optimizer">
   ArtushVision AI - Getty Optimizer manual editing Overview.
 </video>
 <p><a href="video/getty-optimizer-manual.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -236,18 +240,20 @@ A major hurdle in metadata is homonyms—words with multiple meanings. If you us
    * *If you set it > 0, the AI will also suggest completely new, highly relevant terms from the Getty Master Dictionary.*
 4. Click **"Resolve with AI beta"**.
 
-<video src="video/getty-optimizer-ai.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using AI to resolve Getty Terms" aria-label="AI Getty Optimizer in ArtushVision AI">
+**Using AI to Resolve Getty Terms**
+
+<video src="video/getty-optimizer-ai.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using AI to resolve Getty Terms">
   ArtushVision AI - Getty resolver with AI beta.
 </video>
 <p><a href="video/getty-optimizer-ai.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
-**Apply CSV file on Getty ESP** (https://esp.gettyimages.com)
+**Applying Exported CSV to Getty ESP** (https://esp.gettyimages.com)
 
 Go to `Templates` → `Apply from CSV` → `Submit`
 
-<video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP" aria-label="Apply CSV on Getty ESP">
+<video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP">
   ArtushVision AI - Applying exported CSV to Getty ESP.
 </video>
 <p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
@@ -261,7 +267,9 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
     *   *Quick Add:* **Right-click** any Original Word in the table and select "Save 'word' to User Dictionary". Next time you load this word, it will automatically map to your preferred Getty term.
     *   *Manage:* Open the User Dictionary to manually add new mappings, delete old ones, or "Clear All" to rely solely on the built-in Master Dictionary.
 
-<video src="video/getty-user-dictionary.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Add New Term to User Getty Dictionary" aria-label="Video demonstration of adding new terms and custom mappings to the personal User Getty Dictionary">
+**Adding Terms to User Getty Dictionary**
+
+<video src="video/getty-user-dictionary.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Add New Term to User Getty Dictionary">
   ArtushVision AI - Add New Term to User Getty Dictionary.
 </video>
 <p><a href="video/getty-user-dictionary.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>

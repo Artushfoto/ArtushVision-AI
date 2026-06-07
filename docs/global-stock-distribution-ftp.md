@@ -162,6 +162,7 @@ Not all stock agencies are built the same. While some servers can handle aggress
 * **Auto-Resumes and Retries:** Set global retry limits for dropped connections or server timeouts to ensure your files always reach their destination.
 
 **Global Distribution & Smart FTP Suite**
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.png" alt="ArtushVision AI - Global Distribution & Smart FTP Suite" width="100%" class="screenshot-img">
 </a>   

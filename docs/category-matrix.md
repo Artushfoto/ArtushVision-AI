@@ -154,7 +154,9 @@ You only need to assign a category once, and the application will automatically 
 
 Go to `Batch Edit Toolbar` → `Categories`
 
-<video src="video/how-to-add-categories.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Working with categories" aria-label="Add Category in ArtushVision AI">
+**Working with categories in ArtushVision AI**
+
+<video src="video/how-to-add-categories.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Working with categories">
   ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
 </video>
 <p><a href="video/how-to-add-categories.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>

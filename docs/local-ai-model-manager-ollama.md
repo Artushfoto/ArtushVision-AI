@@ -160,13 +160,12 @@ Skip the terminal. ArtushVision AI connects directly to your local <a href="/doc
 * **Curated Recommendations:** Not sure where to start? Open the **Recommended** browser to see a curated list of the best Vision and Text models currently available for stock photography (like **gemma4:e4b** or **llama3.2:3b**), complete with descriptions of their specific strengths.
 * **Direct Downloads:** Type any Model ID (e.g., `moondream:18b` or `gemma4:e4b`) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
 
-**Integrated Ollama Hub Browser and Downloader**
+**Downloading Local AI Models via Model Manager**
 
-<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Downloading Local AI Models via Model Manager" aria-label="Download offline AI model from Ollama">
+<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Downloading Local AI Models via Model Manager">
   ArtushVision AI - Visual model downloading demonstration.
 </video>
 <p><a href="video/ai-model-downloading.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
-
 
 ---
 

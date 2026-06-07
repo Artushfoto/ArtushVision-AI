@@ -151,9 +151,9 @@ h1 { text-align: center; }
 
 Finding specific files—such as those missing a description or those not yet uploaded to a particular agency—is no longer a manual task. The filtering suite ensures you always know exactly which assets require your attention.
 
-**Batch Operations in ArtushVision AI**
+**Real-time Smart Search inside Image Grid**
 
-<video src="video/search.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Real-time Smart Search" aria-label="Video demonstration of real-time search and text highlighting inside the image grid">
+<video src="video/search.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Real-time Smart Search">
   ArtushVision AI - Smart Search Function.
 </video>
 <p><a href="video/search.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
