@@ -1,3 +1,4 @@
+<!-- --- artushvision-doc-fix --- -->
 ---
 title: "Advanced AI Prompting and Profile Editor | ArtushVision AI Documentation"
 description: "Complete technical reference for AI variables and professional prompting in ArtushVision AI. Master dynamic EXIF, GPS, and metadata injection."
@@ -167,7 +168,7 @@ Because every AI engine behaves differently, ArtushVision AI allows you to save 
   <tr>
     <th style="text-align: center; padding: 15px; background-color: rgba(50, 141, 22, 0.2);">
       <a href="create-and-optimize-custom-ai-prompts.html" style="font-size: 1.2em; font-weight: bold;">👉 See Guide How to Create and Optimize Custom AI Prompts for ArtushVision AI</a>
-    </th>
+     Thames
   </tr>
 </table>
 
@@ -177,7 +178,7 @@ Because every AI engine behaves differently, ArtushVision AI allows you to save 
 An AI model can't guess what camera you used or where a mountain is located just by looking at a pixel grid. ArtushVision AI solves this by injecting rich, dynamic metadata directly into your prompt before it reaches the AI.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="ArtushVision AI Available Variables" style="width: 800px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="Table of available technical and contextual AI variables in ArtushVision AI" style="width: 800px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -292,7 +293,7 @@ Build a library of specialized workflows to switch between different project typ
 * **One-Click Switching:** Change your active profile in the main grid depending on the batch of photos currently being processed.
 * **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies via the Category Matrix.
 
-[IMAGE: A graphic showing a raw prompt template with variables on the left and the final processed text received by the AI on the right.]
+<!-- [IMAGE: A graphic showing a raw prompt template with variables on the left and the final processed text received by the AI on the right.] -->
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - AI prompt Editor Button" style="width: 800px;" class="screenshot-img">
@@ -300,8 +301,8 @@ Build a library of specialized workflows to switch between different project typ
 <div style="height: 15px;"></div>
 
 **Prompt Editor for Hybrid AI** (Two steps, Local Vision AI and Cloud AI text)
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-promt-editor.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-promt-editor.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" alt="ArtushVision AI - Prompt Editor interface for Hybrid and Two-Step Local AI" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -328,3 +329,4 @@ Build a library of specialized workflows to switch between different project typ
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+<!-- --- artushvision-doc-fix --- -->
