@@ -160,13 +160,13 @@ However, managing models via a command-line terminal can be intimidating. Artush
 Skip the terminal. ArtushVision AI connects directly to your local <a href="/docs/ollama-installation-guide.html">Ollama</a> installation and the global Ollama Hub. For a complete walkthrough of this process, you can follow our detailed <a href="/docs/how-to-download-local-ai-models-via-ollama.html">Model Download Guide</a>.
 
 * **Curated Recommendations:** Not sure where to start? Open the **Recommended** browser to see a curated list of the best Vision and Text models currently available for stock photography (like **Qwen2.5-VL** or **Llama 3.2**), complete with descriptions of their specific strengths.
-* **Direct Downloads:** Type any Model ID (e.g., `moondream:latest`) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
+* **Direct Downloads:** Type any Model ID (e.g., `moondream:latest or gemma4:e4b`) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
 
 [IMAGE: A screenshot of the Ollama Hub Browser showing the download progress dialog, transfer rates, and the curated list of recommended models.]
 
 **Integrated Ollama Hub Browser and Downloader**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-model-model-downloading.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" alt="ArtushVision AI - Integrated Ollama Hub Browser and Downloader" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -181,6 +181,12 @@ ArtushVision's advanced <a href="/docs/ai-metadata-generation-cloud-local-ollama
 ---
 
 ## Deep Technical Insights
+
+https://ollama.com/library/gemma4
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama HuGemma Models" width="100%" class="screenshot-img">
+</a>
 
 Understand exactly what is running on your machine and how it impacts your hardware performance.
 

@@ -188,7 +188,7 @@ You do not need to use the command line (Terminal) to download models. ArtushVis
 1. Open **ArtushVision AI**.
 2. Navigate to **AI Mode Selection** and choose **<a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Local AI (Ollama)</a>** or **<a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Hybrid AI</a>**.
 3. Click on the **[Local Model Manager](/docs/local-ai-model-manager-ollama.html)** icon in the interface.
-4. From the built-in **Hub Browser**, you can now [browse, download, and manage models](/docs/how-to-download-local-ai-models-via-ollama.html) (like `qwen2.5-vl:3b` for Vision tasks) with a single click.
+4. From the built-in **Hub Browser**, you can now [browse, download, and manage models](/docs/how-to-download-local-ai-models-via-ollama.html) (like `gemma4:e4b` for Text/Vision tasks) with a single click.
 
 ---
 
