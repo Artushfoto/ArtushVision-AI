@@ -200,7 +200,8 @@ Understand exactly what is running on your machine and how it impacts your hardw
 
 * **Live VRAM Monitor:** Located in the main application status bar, a live hardware monitor tracks your GPU VRAM usage. If a model exceeds your graphics card's memory, the application intelligently falls back to CPU RAM and provides a warning.
 
-[IMAGE: A close-up of the main application bottom status bar, highlighting the Ollama VRAM: 4.2 GB / 8.0 GB indicator.]
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading-finished.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading-finished.png" alt="ArtushVision AI - Integrated Ollama Hub Downloader" width="100%" class="screenshot-img">
 
 ---
 
