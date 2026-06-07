@@ -202,7 +202,7 @@ The Lite Edition resets its limits every time you launch the application, allowi
 > Before completing your purchase, we highly recommend downloading and running the **Free Lite Edition** above to thoroughly test performance and AI compatibility with your local hardware setup (especially your NVIDIA GPU and Ollama environment). Because all sales are final once the digital license key is issued, please make sure the software fully meets your expectations before buying.
 > 
 > 🐛 **Transparency & Bug Fixes:**
-> ArtushVision AI is a robust, actively developed tool. While we strive for the highest stability, you might occasionally encounter minor bugs. If you do, please report them to our support email or community forum - we are highly committed to fixing reported issues and releasing updates as quickly as possible.
+> ArtushVision AI is a robust, actively developed tool. While we strive for the highest stability, you might occasionally encounter minor bugs. If you do, please report them to our support email support email: <b>support [at] artushfoto [dot] com</b> or <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a> - we are highly committed to fixing reported issues and releasing updates as quickly as possible.
 
 
 <table style="width: 100%; display: table; border-collapse: collapse;">
