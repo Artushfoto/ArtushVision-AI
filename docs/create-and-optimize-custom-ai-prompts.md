@@ -143,7 +143,7 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# How to Create and Optimize Custom AI Prompts for ArtushVision
+# How to Create and Optimize Custom AI Prompts for ArtushVision AI
 
 [← Back to ArtushVision AI Home](/index.html)
 
