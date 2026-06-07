@@ -166,6 +166,12 @@ Because every AI engine behaves differently, ArtushVision AI allows you to save 
 ## 2. Dynamic Context Injection (Variables)
 An AI model can't guess what camera you used or where a mountain is located just by looking at a pixel grid. ArtushVision AI solves this by injecting rich, dynamic metadata directly into your prompt before it reaches the AI.
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variabless.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="ArtushVision AI Available Variables" style="width: 800px;" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+
+
 ### Basic and Contextual Variables
 
 | Variable | Description |
