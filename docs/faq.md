@@ -50,7 +50,7 @@ details li { margin-bottom: 5px; }
 
 # Frequently Asked Questions (FAQ)
 
-**Quick answers to help you master ArtushVision AI—from technical configuration to professional microstock workflows.**
+**Quick answers to help you master ArtushVision AI - from technical configuration to professional microstock workflows.**
 
 ---
 
@@ -103,7 +103,7 @@ Your personal Pro license can be activated on up to 2 of your own devices, allow
 <details>
 <summary>What are the limitations of the Lite version?</summary>
 <p>
-The Lite version is a fully functional "<a href="/docs/free-trial-limits-and-testing.html">Trial</a>" designed for testing your entire workflow. It has no time limits, but it processes files in smaller batches (e.g., max 10 saves or 5 FTP uploads per session) and includes a subtle watermark in non-critical metadata fields. The Pro version removes all limits and watermarks.
+The Lite version is a fully functional "<a href="/docs/free-trial-limits-and-testing.html">Trial</a>" designed for testing your entire workflow. It has no time limits, but it processes files in smaller batches (e.g., max 10 saves or 5 FTP uploads per session) and includes a subtle watermark in non-critical metadata fields. The Pro version removes all limits.
 </p>
 </details>
 
@@ -125,7 +125,7 @@ ArtushVision AI supports professional standards including:
 <details>
 <summary>Is my data private during analysis?</summary>
 <p>
-Privacy is our priority. In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai">Local AI mode</a></b>, your photos never leave your machine (processed via <a href="/docs/local-ai-model-manager-ollama.html">Local Model Manager</a>). In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai">Cloud mode</a></b>, only a temporary low-resolution thumbnail is sent to the AI provider—never your high-resolution originals.
+Privacy is our priority. In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai">Local AI mode</a></b>, your photos never leave your machine (processed via <a href="/docs/local-ai-model-manager-ollama.html">Local Model Manager</a>). In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai">Cloud mode</a></b>, only a temporary low-resolution thumbnail is sent to the AI provider - never your high-resolution originals.
 </p>
 </details>
 
@@ -137,7 +137,7 @@ By using an <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter API Ke
 </details>
 
 <details>
-<summary>Do I need a high-end GPU for <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Local AI</a>?</summary>
+<summary>Do I need a high-end GPU for Local AI</summary>
 <p>
 A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/docs/local-ai-model-manager-ollama.html#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to <a href="/docs/ollama-installation-guide.html">Ollama's</a> optimized architecture.
 </p>
@@ -157,14 +157,14 @@ No. You have absolute control. Using <a href="/docs/ai-metadata-generation-cloud
 <details>
 <summary>How do I optimize for Getty Images / <a href="/docs/getty-images-esp-metadata-optimizer.html">ESP</a>?</summary>
 <p>
-Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Resolver</a>. It validates your keywords against a <a href="/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary">master dictionary</a> of 11,000+ commercial terms and uses Cloud AI for intelligent disambiguation to ensure a Near-Perfect Acceptance Rate without manual guesswork.
+Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Resolver</a>. It validates your keywords against a <a href="/docs/getty-images-esp-metadata-optimizer.html#built-in-master-dictionary">master dictionary</a> of 9,867+ commercial terms and uses Cloud AI for intelligent disambiguation to ensure a Near-Perfect Acceptance Rate without manual guesswork.
 </p>
 </details>
 
 <details>
 <summary>Does it work with Lightroom, Zoner, or Bridge?</summary>
 <p>
-Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility">Batch Operations</a> guide for more.
+Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility">Software Compatibility</a> guide for more.
 </p>
 </details>
 
