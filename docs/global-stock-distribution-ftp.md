@@ -179,7 +179,7 @@ Skip the manual spreadsheet work. The FTP module is deeply integrated with a pow
 
 ---
 
-## Agency FTP Profiles and Upload Server Groups
+<h2 id="agency-profiles-and-server-groups">Agency FTP Profiles and Upload Server Groups</h2>
 Speed up your distribution workflow by grouping multiple stock agencies together for simultaneous batch uploads.
 
 Click to `File` → `Settings` → `Manage FTP Servers` or Select files and Click On Bottom Bar → `Upload via FTP` → `Manage FTP Servers`
