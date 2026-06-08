@@ -146,7 +146,7 @@ h1 { text-align: center; }
 # ArtushVision AI | Professional Metadata Automation
 
 <p align="center">
-  <strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global & FTP Distribution.</strong>
+  <strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong>
 </p>
 
 <div id="flex-search-container">
@@ -154,9 +154,19 @@ h1 { text-align: center; }
   <ul id="flex-results-container"></ul>
 </div>
 
+<!-- LOKÁLNÍ AI A PRIVÁTNÍ ARCHIVY - HLAVNÍ CALLOUT BOX -->
+<div style="background-color: rgba(138, 43, 226, 0.08); border: 1px solid rgba(138, 43, 226, 0.35); border-radius: 6px; padding: 18px; margin: 25px auto; max-width: 900px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
+  <h4 style="color: #a371f7; margin-top: 0; margin-bottom: 8px; font-size: 15px; display: flex; align-items: center; gap: 8px;">
+    🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives
+  </h4>
+  <p style="margin: 0; font-size: 13.5px; color: #c9d1d9; line-height: 1.5;">
+    Protect your family memories, private travel logs, and sensitive client shoots. By running advanced Vision models entirely <strong>locally via Ollama</strong>, your images are analyzed right on your own graphics card. <strong>No photos ever leave your computer</strong>, zero data is uploaded to corporate clouds, and absolute data logging privacy is fully guaranteed.
+  </p>
+</div>
+
 ---
 
-> **New in Version 1.10:** Complete standalone autonomy. Run powerful Vision & Text models **100% locally and privately via Ollama** with zero API costs, map keywords seamlessly against the official **Getty Images Controlled Vocabulary**, and automate distribution with **per-server multi-threaded FTP uploads** and dynamic CSV mapping. Read the full [v1.10 Release Notes](/docs/whats-new.html).
+> **New in Version 1.10:** Complete standalone autonomy. Run powerful Vision &amp; Text models **100% locally and privately via Ollama** with zero API costs, map keywords seamlessly against the official **Getty Images Controlled Vocabulary**, and automate distribution with **per-server multi-threaded FTP uploads** and dynamic CSV mapping. Read the full [v1.10 Release Notes](/docs/whats-new.html).
 
 ---
 
@@ -185,24 +195,24 @@ h1 { text-align: center; }
 <br>
 
 <p align="center">
-  <strong>Securely processed by Polar & Stripe.</strong> &bull; <a href="https://polar.sh">Manage your licensed devices</a>
+  <strong>Securely processed by Polar &amp; Stripe.</strong> &bull; <a href="https://polar.sh">Manage your licensed devices</a>
 </p>
 
 ---
 
-## The 3-Step Microstock Workflow
+## The 3-Step Production Workflow
 
-ArtushVision AI eliminates the friction between editing software, AI tagging, and final agency submission:
+ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
 
-1. **Load & Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
-2. **Generate & Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **Getty Images Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
+1. **Load &amp; Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
+2. **Generate &amp; Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **Getty Images Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
 3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
 
 ---
 
 ## Why ArtushVision AI?
 
-*   **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast Cloud AI via OpenRouter or **100% Private Local AI** running fully offline via Ollama. Keep sensitive shoots (like boudoir, private clients, or unreleased commercial products) completely safe on your local drive with zero cloud logging and zero API costs.
+*   **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast Cloud AI via OpenRouter or **100% Private Local AI** running fully offline via Ollama. Keep personal archives, home family photos, travel journals, or sensitive unreleased commercial shoots completely safe on your local drive with zero cloud logging and zero API costs.
 *   **[Advanced Manual Keywording](/docs/smart-manual-keywording-batch-editing.html):** Take total control. Manually add, drag-and-drop reorder, or delete keyword bubbles. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.
 *   **[Smart Category Mapping](/docs/settings-configuration-customization.html#the-category-matrix):** A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.
 *   **[Getty Images Master Tool](/docs/getty-images-esp-metadata-optimizer.html):** Validate keywords instantly against a built-in Master Dictionary of **9,867+** controlled commercial terms for near-perfect acceptance rates.
@@ -222,37 +232,37 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 | Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
 | :--- | :--- | :--- |
-| **Media Privacy** | Mandatory Cloud Upload | **100% Private (Local AI)** or Thumbnail-only modes |
+| **Media Privacy** | Mandatory Cloud Upload | 🔒 **100% Private (Local AI via Ollama)** or Thumbnail-only modes |
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
 | **Pricing Model** | Recurring Subscriptions / Credits | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | High-tier monthly plans | **~$0.30** using Gemini Flash via OpenRouter |
+| **Cost (10,000 Photos)** | High-tier monthly plans | **~$0.30** using Gemini Flash or **$0.00** utilizing Local AI |
 
 ---
 
 ## Complete Documentation Index
 
 ### 1. Getting Started
-- [System Requirements & Installation](/docs/installation.html)
-- [First Launch & Activation](/docs/download-purchase.html)
+- [System Requirements &amp; Installation](/docs/installation.html)
+- [First Launch &amp; Activation](/docs/download-purchase.html)
 - [Interface Overview](/docs/interface-overview.html)
 - [Detail Window Overview](/docs/detail-window-interface-overview.html)
-- [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
-- [Local AI Setup & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
+- [Cloud AI &amp; OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
+- [Local AI Setup &amp; Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
 
 ### 2. Core Workflows
 - [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
-- [Advanced AI Prompting, Profiles & Variables](/docs/advanced-ai-prompting-profiles-variables.html)
-- [Manual Editing, Multi-language Spellcheck & Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
+- [Advanced AI Prompting, Profiles &amp; Variables](/docs/advanced-ai-prompting-profiles-variables.html)
+- [Manual Editing, Multi-language Spellcheck &amp; Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
 
 ### 3. Professional Asset Distribution
-- [Getty Images ESP Metadata Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html)
-- [Global Stock Distribution & Multi-threaded FTP Suite](/docs/global-stock-distribution-ftp.html)
+- [Getty Images ESP Metadata Optimizer &amp; Resolver](/docs/getty-images-esp-metadata-optimizer.html)
+- [Global Stock Distribution &amp; Multi-threaded FTP Suite](/docs/global-stock-distribution-ftp.html)
 - [Dynamic CSV Template Mapping](/docs/settings-configuration-customization.html#advanced-csv-template-editor)
 
 ### 4. Advanced Management
-- [Batch Metadata Actions, Search & Replace](/docs/batch-operations-metadata-library-management.html)
+- [Batch Metadata Actions, Search &amp; Replace](/docs/batch-operations-metadata-library-management.html)
 - [Dynamic Batch File Rename Placeholders](/docs/batch-operations-metadata-library-management.html)
-- [Workspace Theming, VRAM context tuning & Data Safety](/docs/settings-configuration-customization.html)
+- [Workspace Theming, VRAM context tuning &amp; Data Safety](/docs/settings-configuration-customization.html)
 
 ---
 
@@ -266,7 +276,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
-[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+[💬 Support, Bugs &amp; Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
