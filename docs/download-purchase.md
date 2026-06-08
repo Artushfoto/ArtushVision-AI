@@ -172,7 +172,7 @@ If the latest release introduces unexpected behavior you can instantly roll back
 > If a "Windows protected your PC" warning appears during launch, click **More info** and then **Run anyway**. This is completely normal for newly released independent software.
 > 
 > **Security & False Positives**
-> Because the application is a new release and does not contain an expensive digital signature yet, some antivirus programs might flag it as a warning (False Positive). The file is 100% clean. To verify this yourself, you can upload the downloaded file directly to [VirusTotal](https://www.virustotal.com).
+> Because the application is a new release and does not contain an expensive digital signature yet, some antivirus programs might flag it as a warning (False Positive). The file is 100% clean. To verify this yourself, you can upload the downloaded file directly to [**VirusTotal**](https://www.virustotal.com).
 
 ---
 
