@@ -210,10 +210,11 @@ Keep track of your technical data and backup states without ever opening a prope
 Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and edits into industry-standard XMP sidecars, ensuring your non-destructive workflow remains intact.
 
 * **Non-Destructive XMP Workflow:** All metadata edits are safely stored in external sidecar files, keeping your original RAW assets completely untouched.
-* **Instant Catalog Synchronization:** To apply your AI-generated keywords and edits back to your Lightroom catalog, simply select the modified photos in the Lightroom grid.
-* **One-Click Import:** Right-click the selected assets in Lightroom and choose **Metadata > Read Metadata from Files**. Lightroom will instantly update its database with all your new tags, titles, and color labels.
-
-Select Files → Go to Top Menu → Metadata → Read Metadata from Files
+* **Two-Way Synchronization:** Made changes directly in Lightroom or other software? No problem. To pull external edits (like new ratings, color labels, or descriptions) back into ArtushVision AI, simply select the affected photos in the grid, right-click, and choose **Restore original from disk**. Alternatively, you can click **Refresh from Disk** in the Detail window or just reload the entire folder.
+* **Instant Catalog Synchronization:** To apply your AI-generated keywords and edits back to your master catalog, simply select the modified photos in your software's grid and reload the metadata:
+  * **Adobe Lightroom:** Right-click the selected assets and choose **Metadata > Read Metadata from Files**.
+  * **Capture One:** Right-click the selected assets and choose **Load Metadata**.
+  * **digiKam:** Select the assets, go to the top menu **Item**, and choose **Read Metadata from File**.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" target="_blank" class="screenshot-link" style="max-width: 100%; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" alt="ArtushVision AI - Read Metadata from Files in Lightroom" style="width: 100%;" class="screenshot-img">
