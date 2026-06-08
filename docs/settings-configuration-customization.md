@@ -166,6 +166,7 @@ A comfortable workspace is essential for long editing sessions. ArtushVision AI 
 * **Thumbnail Management:** Adjust the height and quality of grid thumbnails. Smaller thumbnails allow for more assets on screen, while larger ones are better for visual verification.
 * **Typography and Layout:** Customize global font sizes and the height of metadata fields. This is particularly useful for managing long descriptions or extensive keyword lists.
 * **Theme and Visibility:** Toggle specific UI elements to reduce clutter and focus strictly on the metadata fields you use most frequently.
+* **Persistent Window Geometry:** Every dialog and window within the application can be freely resized to fit your workspace. The software automatically saves these dimensions upon closing and restores them on the next launch, ensuring a perfectly tailored layout across different monitor resolutions.
 
 Go to `Top Menu` → `File` → `Settings` → `Grid Appearance`
 
