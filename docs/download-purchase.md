@@ -162,7 +162,7 @@ ArtushVision AI uses a single, unified build. The application operates in the Li
 
 **Version Archive & Rollback**
 
-If the latest release introduces unexpected behavior you can instantly roll back to any [previous stable milestone below.](https://github.com/Artushfoto/ArtushVision-AI/releases) 
+If the latest release introduces unexpected behavior you can instantly roll back to any [**previous stable version.**](https://github.com/Artushfoto/ArtushVision-AI/releases) 
 
 ---
 
