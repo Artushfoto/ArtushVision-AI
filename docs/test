@@ -1,0 +1,259 @@
+# --- download-purchase-docs ---
+---
+title: "Download ArtushVision AI | Installer & Portable Standalone"
+description: "Download the latest stable version of ArtushVision AI for Windows. Choose between the standard executable installer or the fully portable standalone folder."
+---
+<div style="display: none;">
+<style>
+header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
+h1 { text-align: center; }
+
+/* Profesionální styl pro tlačítka stahování */
+.download-container {
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 30px;
+  text-align: center;
+  max-width: 650px;
+  margin: 30px auto;
+}
+.download-grid {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+.btn-download {
+  display: inline-block;
+  padding: 12px 24px;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 15px;
+  transition: opacity 0.2s;
+  min-width: 200px;
+}
+.btn-exe {
+  background-color: #1f6feb;
+  color: #ffffff !important;
+}
+.btn-zip {
+  background-color: #238636;
+  color: #ffffff !important;
+}
+.btn-download:hover {
+  opacity: 0.9;
+}
+
+/* GitHub Téma vyhledávacího komponentu (Světlý i Tmavý režim) */
+#flex-search-container {
+  max-width: 500px;
+  margin: 25px auto;
+  position: relative;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+}
+
+#flex-search-input {
+  width: 100%;
+  padding: 12px 16px;
+  font-size: 14px;
+  line-height: 20px;
+  border-radius: 6px;
+  box-sizing: border-box;
+  transition: border-color 0.2s, box-shadow 0.2s, background-color 0.2s, color 0.2s;
+  border: 1px solid #d0d7de;
+  background-color: #f6f8fa;
+  color: #24292f;
+}
+
+#flex-search-input::placeholder {
+  color: #57606a;
+  opacity: 1;
+}
+
+#flex-search-input:focus {
+  outline: none;
+  background-color: #ffffff;
+  border-color: #0969da;
+  box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.3);
+}
+
+#flex-results-container {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  border-radius: 6px;
+  list-style: none;
+  padding: 0;
+  margin: 8px 0 0 0;
+  z-index: 100;
+  max-height: 300px;
+  overflow-y: auto;
+  display: none;
+  background-color: #ffffff;
+  border: 1px solid #d0d7de;
+  box-shadow: 0 8px 24px rgba(140, 149, 159, 0.2);
+}
+
+#flex-results-container li {
+  border-bottom: 1px solid #d0d7de;
+}
+
+#flex-results-container li:last-child {
+  border-bottom: none;
+}
+
+#flex-results-container li a {
+  display: block;
+  padding: 12px 16px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  color: #24292f;
+  transition: background-color 0.1s, color 0.1s;
+}
+
+#flex-results-container li a:hover {
+  background-color: #0969da;
+  color: #ffffff;
+}
+
+#flex-results-container .no-results-msg {
+  padding: 12px 16px;
+  color: #57606a;
+  font-style: italic;
+  font-size: 14px;
+}
+
+@media (prefers-color-scheme: dark) {
+  #flex-search-input {
+    border: 1px solid #30363d;
+    background-color: #0d1117;
+    color: #c9d1d9;
+  }
+  #flex-search-input::placeholder {
+    color: #8b949e;
+  }
+  #flex-search-input:focus {
+    border-color: #58a6ff;
+    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.3);
+  }
+  #flex-results-container {
+    background-color: #161b22;
+    border: 1px solid #30363d;
+    box-shadow: 0 8px 24px rgba(1, 4, 9, 0.8);
+  }
+  #flex-results-container li {
+    border-bottom: 1px solid #21262d;
+  }
+  #flex-results-container li a {
+    color: #c9d1d9;
+  }
+  #flex-results-container li a:hover {
+    background-color: #1f6feb;
+    color: #ffffff;
+  }
+  #flex-results-container .no-results-msg {
+    color: #8b949e;
+  }
+}
+</style>
+</div>
+
+# Download ArtushVision AI
+
+[← Back to ArtushVision AI Home](/index.html)
+
+Get the latest production-ready build. ArtushVision AI requires **Windows 10 or Windows 11 (64-bit)**. No complex database setup or forced installations required.
+
+---
+
+<!-- HLAVNÍ DOWNLOAD BOX PRO NEJNOVĚJŠÍ VERZI -->
+<div class="download-container">
+  <h3 style="color: #ffffff; margin-top: 0; font-family: sans-serif;">Latest Stable Version</h3>
+  <div style="font-size: 28px; font-weight: bold; color: #2ea44e; font-family: sans-serif; margin-bottom: 5px;">v2026.1.02</div>
+  <div style="font-size: 13px; color: #8b949e; font-family: sans-serif; margin-bottom: 25px;">Released: April 2026 • Windows 10/11 (64-bit)</div>
+  
+  <div class="download-grid">
+    <!-- Standard Installer Link -->
+    <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.02/ArtushVision_AI_v2026.1.02_Setup.exe" class="btn-download btn-exe">
+      💻 Download Installer (.EXE)
+    </a>
+    
+    <!-- Portable ZIP Link -->
+    <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.02/ArtushVision_AI_v2026.1.02_Portable.zip" class="btn-download btn-zip">
+      📦 Download Portable (.ZIP)
+    </a>
+  </div>
+  
+  <div style="margin-top: 20px; font-size: 12px; color: #8b949e; font-family: sans-serif;">
+    Sha-256 integrity verified on GitHub Releases portal.
+  </div>
+</div>
+
+---
+
+## 📦 Version Archive & Rollback
+
+If the latest release introduces unexpected behavior with your specific GPU drivers or local Ollama configurations, you can instantly roll back to any previous stable milestone below. 
+
+*Detailed release logs, feature descriptions, and commits are available directly on the GitHub Releases interface.*
+
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px; font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 14px;">
+  <thead>
+    <tr style="border-bottom: 2px solid #30363d; text-align: left; color: #8b949e;">
+      <th style="padding: 12px;">Version</th>
+      <th style="padding: 12px;">Release Date</th>
+      <th style="padding: 12px; text-align: center;">Installer</th>
+      <th style="padding: 12px; text-align: center;">Portable</th>
+      <th style="padding: 12px; text-align: right;">Release Log</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Verze 1.02 (Aktuální) -->
+    <tr style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+      <td style="padding: 14px; font-weight: bold; color: #58a6ff;">v2026.1.02</td>
+      <td style="padding: 14px;">April 2026</td>
+      <td style="padding: 14px; text-align: center;"><a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.02/ArtushVision_AI_v2026.1.02_Setup.exe" style="color: #58a6ff; text-decoration: none;">Setup.exe</a></td>
+      <td style="padding: 14px; text-align: center;"><a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.02/ArtushVision_AI_v2026.1.02_Portable.zip" style="color: #2ea44e; text-decoration: none; font-weight: 500;">Portable.zip</a></td>
+      <td style="padding: 14px; text-align: right;"><a href="https://github.com/Artushfoto/ArtushVision-AI/releases/tag/v2026.1.02" target="_blank" style="color: #8b949e; text-decoration: none;">View on GitHub →</a></td>
+    </tr>
+    <!-- Verze 1.01 -->
+    <tr style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+      <td style="padding: 14px; font-weight: bold;">v2026.1.01</td>
+      <td style="padding: 14px;">April 2026</td>
+      <td style="padding: 14px; text-align: center;"><a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.01/ArtushVision_AI_v2026.1.01_Setup.exe" style="color: #58a6ff; text-decoration: none;">Setup.exe</a></td>
+      <td style="padding: 14px; text-align: center;"><a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.01/ArtushVision_AI_v2026.1.01_Portable.zip" style="color: #58a6ff; text-decoration: none;">Portable.zip</a></td>
+      <td style="padding: 14px; text-align: right;"><a href="https://github.com/Artushfoto/ArtushVision-AI/releases/tag/v2026.1.01" target="_blank" style="color: #8b949e; text-decoration: none;">View on GitHub →</a></td>
+    </tr>
+    <!-- Verze 1.00 -->
+    <tr style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+      <td style="padding: 14px; font-weight: bold;">v2026.1.00</td>
+      <td style="padding: 14px;">March 2026</td>
+      <td style="padding: 14px; text-align: center;"><a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.00/ArtushVision_AI_v2026.1.00_Setup.exe" style="color: #58a6ff; text-decoration: none;">Setup.exe</a></td>
+      <td style="padding: 14px; text-align: center;"><a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.00/ArtushVision_AI_v2026.1.00_Portable.zip" style="color: #58a6ff; text-decoration: none;">Portable.zip</a></td>
+      <td style="padding: 14px; text-align: right;"><a href="https://github.com/Artushfoto/ArtushVision-AI/releases/tag/v2026.1.00" target="_blank" style="color: #8b949e; text-decoration: none;">View on GitHub →</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### [Purchase Options]
+* [Purchase Lifetime License - $39.99](#buy-lifetime-license)
+
+---
+
+[← Back to ArtushVision AI Home](/index.html)
+
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
+
+*ArtushVision AI - Stability and precision for professional photography workflows.*
+# --- download-purchase-docs ---
