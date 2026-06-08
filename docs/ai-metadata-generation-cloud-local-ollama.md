@@ -199,6 +199,15 @@ Go to `Top Menu` → `File` → `Open Router Statistic` to view your stats.
 
 * **Smart Estimations:** The software continuously calculates your average cost per processed photo and provides a live estimate of how many more assets you can analyze before needing to top up your balance.
 
+---
+
+> **⚠️ IMPORTANT: Dynamic AI Model Deprecations & API Updates**
+> Cloud AI models are constantly evolving. Third-party providers and API aggregators (such as OpenRouter) frequently update, replace, or deprecate older model endpoints to ensure optimal performance, security, and cost-efficiency. When an older AI model is officially retired, any saved AI Prompt Profile still pointing to that specific deprecated endpoint will fail and return an API connection error.
+>
+> **Action Required:** If your cloud AI processing suddenly stops working or throws an unexpected API error, the selected model has likely been deprecated. Open the **AI Profile Editor** (or check your global AI settings), select a current, active model from the dropdown list, and save your updated profile to restore immediate functionality.
+
+---
+
 ### 2. Local AI
 
 Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your local [Ollama](/docs/ollama-installation-guide.html) installation (see our [Ollama Setup Guide](/docs/ollama-installation-guide.html) if you haven't installed it yet).

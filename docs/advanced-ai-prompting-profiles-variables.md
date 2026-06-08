@@ -307,6 +307,13 @@ Build a library of specialized workflows to switch between different project typ
 
 ---
 
+> **⚠️ IMPORTANT: Dynamic AI Model Deprecations & API Updates**
+> Cloud AI models are constantly evolving. Third-party providers and API aggregators (such as OpenRouter) frequently update, replace, or deprecate older model endpoints to ensure optimal performance, security, and cost-efficiency. When an older AI model is officially retired, any saved AI Prompt Profile still pointing to that specific deprecated endpoint will fail and return an API connection error.
+>
+> **Action Required:** If your cloud AI processing suddenly stops working or throws an unexpected API error, the selected model has likely been deprecated. Open the **AI Profile Editor** (or check your global AI settings), select a current, active model from the dropdown list, and save your updated profile to restore immediate functionality.
+
+---
+
 ### Professional Workflow in 3 Steps:
 1. **Select a Profile:** Choose the appropriate prompt template for your current batch.
 2. **Add User Hints:** Enter any specific facts (like Latin names or specific events) into the Global Hint bar.
