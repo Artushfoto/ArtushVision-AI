@@ -7,6 +7,32 @@ description: "The ultimate AI photo tagging and metadata workstation for stock, 
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 h1 { text-align: center; }
 
+/* Zelený Privacy Callout Box s plnou podporou pro Světlý i Tmavý režim */
+.privacy-callout {
+  background-color: rgba(46, 164, 78, 0.08);
+  border: 1px solid rgba(26, 127, 55, 0.3);
+  border-radius: 6px;
+  padding: 18px;
+  margin: 25px auto;
+  max-width: 900px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+}
+.privacy-callout h4 {
+  color: #1a7f37;
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.privacy-callout p {
+  margin: 0;
+  font-size: 13.5px;
+  color: #24292f;
+  line-height: 1.5;
+}
+
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
@@ -109,6 +135,16 @@ h1 { text-align: center; }
 }
 
 @media (prefers-color-scheme: dark) {
+  .privacy-callout {
+    background-color: rgba(35, 134, 54, 0.15);
+    border: 1px solid rgba(46, 164, 78, 0.4);
+  }
+  .privacy-callout h4 {
+    color: #2ea44e;
+  }
+  .privacy-callout p {
+    color: #c9d1d9;
+  }
   #flex-search-input {
     border: 1px solid #30363d;
     background-color: #0d1117;
@@ -154,16 +190,6 @@ h1 { text-align: center; }
   <ul id="flex-results-container"></ul>
 </div>
 
-<!-- LOKÁLNÍ AI A PRIVÁTNÍ ARCHIVY - HLAVNÍ CALLOUT BOX -->
-<div style="background-color: rgba(138, 43, 226, 0.08); border: 1px solid rgba(138, 43, 226, 0.35); border-radius: 6px; padding: 18px; margin: 25px auto; max-width: 900px; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
-  <h4 style="color: #a371f7; margin-top: 0; margin-bottom: 8px; font-size: 15px; display: flex; align-items: center; gap: 8px;">
-    🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives
-  </h4>
-  <p style="margin: 0; font-size: 13.5px; color: #c9d1d9; line-height: 1.5;">
-    Protect your family memories, private travel logs, and sensitive client shoots. By running advanced Vision models entirely <strong>locally via Ollama</strong>, your images are analyzed right on your own graphics card. <strong>No photos ever leave your computer</strong>, zero data is uploaded to corporate clouds, and absolute data logging privacy is fully guaranteed.
-  </p>
-</div>
-
 ---
 
 > **New in Version 1.10:** Complete standalone autonomy. Run powerful Vision &amp; Text models **100% locally and privately via Ollama** with zero API costs, map keywords seamlessly against the official **Getty Images Controlled Vocabulary**, and automate distribution with **per-server multi-threaded FTP uploads** and dynamic CSV mapping. Read the full [v1.10 Release Notes](/docs/whats-new.html).
@@ -172,6 +198,16 @@ h1 { text-align: center; }
 
 > **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
+
+---
+
+<!-- LOKÁLNÍ AI A PRIVÁTNÍ ARCHIVY - NOVÝ ČISTÝ ZELENÝ BOX -->
+<div class="privacy-callout">
+  <h4>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h4>
+  <p>
+    Protect your family memories, private travel logs, and sensitive client shoots. By running advanced Vision models entirely <strong>locally via Ollama</strong>, your images are analyzed right on your own graphics card. <strong>No photos ever leave your computer</strong>, zero data is uploaded to corporate clouds, and absolute data logging privacy is fully guaranteed.
+  </p>
+</div>
 
 ---
 
