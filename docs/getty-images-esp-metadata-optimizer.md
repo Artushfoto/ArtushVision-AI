@@ -204,7 +204,7 @@ At the top of the window, you'll see thumbnails of your selected batch.
 The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. Understanding the color coding is key to mastering the Resolver:
 
 * **Blue Terms (Standard)**: These are standard, valid Getty terms successfully mapped from the master dictionary.
-* **Green Terms (AI Suggested)**: These are brand new, highly relevant terms suggested by the Cloud AI based on your photo's text context.
+* **Green Terms (AI Suggested)**: These are brand new, highly relevant terms suggested by the Cloud AI based on your photo's text context and your prompt.
 * **Red Text/Rows (Unknown)**: Words marked in red are not recognized by the Getty dictionary. **You must uncheck these rows** (or map them to a valid term), otherwise Getty will reject them during upload.
 
 **Working with Multiple Terms & Purple Chips:**
