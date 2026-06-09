@@ -200,6 +200,8 @@ At the top of the window, you'll see thumbnails of your selected batch.
 * **Multi-Select & Targeted Edits**: Use `Ctrl + Click` to select multiple thumbnails. When one or more thumbnails are selected, **any changes you make in the table below (checking terms, unchecking, or adding new terms) will apply strictly to those selected photos**, leaving the rest of the batch untouched.
 * **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
 
+---
+
 ### Interactive Table & Color-Coded Terms
 The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. Understanding the color coding is key to mastering the Resolver:
 
@@ -208,9 +210,15 @@ The main table displays your original keywords on the left and the corresponding
 * **Red Text/Rows (Unknown)**: Words marked in red are not recognized by the Getty dictionary. **You must uncheck these rows** (or map them to a valid term), otherwise Getty will reject them during submit.
 
 **Working with Multiple Terms & Purple Chips:**
-Often, an original word can have multiple meanings (e.g., "Crane" can be a bird or machinery), or you simply want to assign multiple valid terms to to one or more selected photos.
+Often, an original word can have multiple meanings (e.g., "Crane" can be a bird or machinery), or you simply want to assign multiple valid terms to one or more selected photos.
 * **Global vs. Per-Photo Selection**: You can check multiple terms at once. By default, checking a term applies it to *all* photos in the batch that share the original word. However, you can click a specific photo thumbnail (Top Panel) and check a term *only* for that single photo.
 * **The Purple Term (Mixed State)**: If you select a term for *some* photos but not *all* photos in your current batch view, the chip turns **Purple**. This immediately tells you that you have customized the selection and successfully disambiguated meanings across different photos within the same batch.
+
+**Context Visualizer & Drag and Drop:**
+To speed up your workflow when dealing with multiple photos and terms, you can use these interactive features:
+* **Hover to Highlight**: Hover your mouse over any term (chip) to instantly highlight the photo thumbnails it is currently assigned to. If you hover over an *unselected* term, it will light up all photos containing that original keyword, showing you exactly where the term *can* be assigned.
+* **Drag & Drop**: Found a perfect term and want to assign it to just one specific photo? Simply grab the term (bubble) and drag & drop it directly onto the desired photo thumbnail in the top panel. It will be instantly and exclusively added to that photo without affecting the rest of the batch.
+
 
 ---
 
