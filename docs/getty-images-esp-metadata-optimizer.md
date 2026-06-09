@@ -189,6 +189,7 @@ The main window displays two lists:
 
 The Resolver is the heart of the Getty optimization process. Click **Interactive Resolver** to open a detailed, interactive table of all your tags across the selected batch of photos.
 
+---
 ### Photo Context, Thumbnails & Dynamic Badges (Top Panel)
 At the top of the window, you'll see thumbnails of your selected batch.
 * **Dynamic Status Badges**: Each thumbnail features a live badge in the corner showing the exact number of valid Getty terms for that photo.
@@ -198,6 +199,20 @@ At the top of the window, you'll see thumbnails of your selected batch.
 * **Filter by Photo (Left-Click)**: Click any thumbnail to instantly filter the table below. It will show *only* the terms associated with that specific photo. Click again to clear the filter, or use the **"Clear Photo Filter"** button.
 * **Multi-Select & Targeted Edits**: Use `Ctrl + Click` to select multiple thumbnails. When one or more thumbnails are selected, **any changes you make in the table below (checking terms, unchecking, or adding new terms) will apply strictly to those selected photos**, leaving the rest of the batch untouched.
 * **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
+
+### Interactive Table & Color-Coded Terms
+The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. Understanding the color coding is key to mastering the Resolver:
+
+* **Blue Terms (Standard)**: These are standard, valid Getty terms successfully mapped from the master dictionary.
+* **Green Terms (AI Suggested)**: These are brand new, highly relevant terms suggested by the Cloud AI based on your photo's text context.
+* **Red Text/Rows (Unknown)**: Words marked in red are not recognized by the Getty dictionary. **You must uncheck these rows** (or map them to a valid term), otherwise Getty will reject them during upload.
+
+**Working with Multiple Terms & Purple Chips:**
+Often, an original word can have multiple meanings (e.g., "Crane" can be a bird or machinery), or you simply want to assign multiple valid terms to a single word.
+* **Global vs. Per-Photo Selection**: You can check multiple terms at once. By default, checking a term applies it to *all* photos in the batch that share the original word. However, you can click a specific photo thumbnail (Top Panel) and check a term *only* for that single photo.
+* **The Purple Term (Mixed State)**: If you select a term for *some* photos but not *all* photos in your current batch view, the chip turns **Purple**. This immediately tells you that you have customized the selection and successfully disambiguated meanings across different photos within the same batch.
+
+---
 
 **Getty Images Optimizer Overview in ArtushVision AI**
 
