@@ -205,7 +205,7 @@ The main table displays your original keywords on the left and the corresponding
 
 * **Blue Terms (Standard)**: These are standard, valid Getty terms successfully mapped from the master dictionary.
 * **Green Terms (AI Suggested)**: These are brand new, highly relevant terms suggested by the Cloud AI based on your photo's text context and your prompt.
-* **Red Text/Rows (Unknown)**: Words marked in red are not recognized by the Getty dictionary. **You must uncheck these rows** (or map them to a valid term), otherwise Getty will reject them during upload.
+* **Red Text/Rows (Unknown)**: Words marked in red are not recognized by the Getty dictionary. **You must uncheck these rows** (or map them to a valid term), otherwise Getty will reject them during submit.
 
 **Working with Multiple Terms & Purple Chips:**
 Often, an original word can have multiple meanings (e.g., "Crane" can be a bird or machinery), or you simply want to assign multiple valid terms to to one or more selected photos.
