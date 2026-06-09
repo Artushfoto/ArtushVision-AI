@@ -208,7 +208,7 @@ The main table displays your original keywords on the left and the corresponding
 * **Red Text/Rows (Unknown)**: Words marked in red are not recognized by the Getty dictionary. **You must uncheck these rows** (or map them to a valid term), otherwise Getty will reject them during upload.
 
 **Working with Multiple Terms & Purple Chips:**
-Often, an original word can have multiple meanings (e.g., "Crane" can be a bird or machinery), or you simply want to assign multiple valid terms to a single word.
+Often, an original word can have multiple meanings (e.g., "Crane" can be a bird or machinery), or you simply want to assign multiple valid terms to to one or more selected photos.
 * **Global vs. Per-Photo Selection**: You can check multiple terms at once. By default, checking a term applies it to *all* photos in the batch that share the original word. However, you can click a specific photo thumbnail (Top Panel) and check a term *only* for that single photo.
 * **The Purple Term (Mixed State)**: If you select a term for *some* photos but not *all* photos in your current batch view, the chip turns **Purple**. This immediately tells you that you have customized the selection and successfully disambiguated meanings across different photos within the same batch.
 
