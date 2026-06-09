@@ -199,10 +199,10 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 * **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
 
-Go to `Top Menu` → `File` → `Open Router Statistic` to view your stats.
+Go to `Top Menu` → `File` → `OpenRouter Statistic` to view your stats.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open-router-statistic.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open-router-statistic.png" alt="ArtushVision AI - Open Router Statistic" style="width: 500px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open-router-statistic.png" alt="ArtushVision AI - OpenRouter Statistic" style="width: 500px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
