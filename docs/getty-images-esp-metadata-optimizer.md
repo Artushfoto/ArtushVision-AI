@@ -1,4 +1,3 @@
-# --- getty-optimizer-docs ---
 ---
 title: "Getty Images ESP Metadata Optimizer | ArtushVision AI Documentation"
 description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
@@ -197,7 +196,7 @@ At the top of the window, you'll see thumbnails of your selected batch.
     * **Green**: Optimized. All unknown words are resolved, and the photo has between 5 and 50 valid terms.
     * **Red**: Limit Violation. The photo has fewer than 5 or more than 50 terms and needs adjustment.
 * **Filter by Photo (Left-Click)**: Click any thumbnail to instantly filter the table below. It will show *only* the terms associated with that specific photo. Click again to clear the filter, or use the **"Clear Photo Filter"** button.
-* **Multi-Select**: Use `Ctrl + Click` to select multiple thumbnails.
+* **Multi-Select & Targeted Edits**: Use `Ctrl + Click` to select multiple thumbnails. When one or more thumbnails are selected, **any changes you make in the table below (checking terms, unchecking, or adding new terms) will apply strictly to those selected photos**, leaving the rest of the batch untouched.
 * **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
 
 **Getty Images Optimizer Overview in ArtushVision AI**
@@ -213,7 +212,10 @@ The Resolver is designed to work perfectly even without an internet connection. 
 
 1.  **Original Word**: The keyword from your metadata. **Double-click** an original word to edit it in place. If you type a comma (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows and remap them instantly.
 2.  **Getty Term (Chips)**: The mapped terms from the Getty Master Dictionary. If multiple chips are shown, **manually check** the one that fits best based on the photo. You can **double-click** a chip to delete it if it's irrelevant.
-3.  **Status / Source**: Tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*).
+    * **Hover Context Visualizer**: Hover your mouse over any term chip. The thumbnails at the top will instantly light up to show you exactly which photos contain this specific term (dimming the rest).
+    * **Blue Chips (Full Selection)**: The term is fully selected and applied to **all** currently filtered/viewed photos.
+    * **Purple Chips (Partial Selection)**: The term is partially selected-meaning it is active in **some** of the currently filtered photos, but not all. Clicking a purple chip will synchronize and apply it to all currently filtered photos.
+3.  **Status / Source**: Tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*). AI suggestions will feature green text, multiple ambiguous choices will be orange, and unknown words will be red.
 
 **Manual Editing in Getty Optimizer**
 
@@ -296,18 +298,17 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 ---
 
 ### [Get Started Now]
-* [Download Free Lite Version](/docs/download-purchase.html)
-* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+* Download Free Lite Version
+* Purchase Lifetime License - $39.99
 
 ---
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+← Back to ArtushVision AI Home
 
-[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+❓ Frequently Asked Questions (FAQ)
 
-[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+💬 Support, Bugs & Community Forum
 
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-# --- getty-optimizer-docs ---
