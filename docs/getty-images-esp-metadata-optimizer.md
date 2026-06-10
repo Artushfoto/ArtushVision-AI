@@ -183,6 +183,13 @@ The main window displays two lists:
 * **Export ESP CSV**: Generates the final CSV file formatted specifically for the Getty Images ESP portal.
 * **Delete Getty Data**: Deletes the generated `.getty` sidecar files if you want to start from scratch.
 
+**Getty Images Optimizer Overview in ArtushVision AI**
+
+<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer">
+  ArtushVision AI - Getty Optimizer Overview.
+</video>
+<p><a href="video/getty-optimizer-overview.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
 ---
 
 <h2 id="interactive-ai-resolver-and-disambiguation">3. Interactive Mapping (Getty Resolver)</h2>
@@ -218,15 +225,6 @@ Often, an original word can have multiple meanings (e.g., "Crane" can be a bird 
 To speed up your workflow when dealing with multiple photos and terms, you can use these interactive features:
 * **Hover to Highlight**: Hover your mouse over any term (chip) to instantly highlight the photo thumbnails it is currently assigned to. If you hover over an *unselected* term, it will light up all photos containing that original keyword, showing you exactly where the term *can* be assigned.
 * **Drag & Drop**: Found a perfect term and want to assign it to just one specific photo? Simply grab the term (bubble) and drag & drop it directly onto the desired photo thumbnail in the top panel. It will be instantly and exclusively added to that photo without affecting the rest of the batch.
-
----
-
-**Getty Images Optimizer Overview in ArtushVision AI**
-
-<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer">
-  ArtushVision AI - Getty Optimizer Overview.
-</video>
-<p><a href="video/getty-optimizer-overview.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
