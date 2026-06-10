@@ -231,19 +231,26 @@ To speed up your workflow when dealing with multiple photos and terms, you can u
 
 ---
 
-### The Resolution Table (Manual & Offline Workflow)
-The Resolver is designed to work perfectly even without an internet connection. You can resolve ambiguities manually by simply checking the correct boxes.
+### Interactive Table & Color-Coded Terms new
 
-1.  **Original Word**: The keyword from your metadata. **Double-click** an original word to edit it in place. If you type a comma (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows and remap them instantly.
-2.  **Getty Term (Chips)**: The mapped terms from the Getty Master Dictionary. If multiple chips are shown, **manually check** the one that fits best based on the photo. You can **double-click** a chip to delete it if it's irrelevant.
-    * **Hover Context Visualizer**: Hover your mouse over any term chip. The thumbnails at the top will instantly light up to show you exactly which photos contain this specific term (dimming the rest).
-    * **Drag & Drop (Assign & Remove)**: You can grab any chip and drag it onto a specific photo thumbnail in the top panel to instantly assign it. To **remove** a term from a specific photo, hold **Alt** (or **Shift**) while dropping the chip onto the thumbnail. Alternatively, hold **Alt** and click a highlighted thumbnail while hovering over a chip to remove it instantly.
-    * **Blue Chips (Full Selection)**: The term is fully selected and applied to **all** currently filtered/viewed photos.
-    * **Purple Chips (Partial Selection)**: The term is partially selected-meaning it is active in **some** of the currently filtered photos, but not all. Clicking a purple chip will synchronize and apply it to all currently filtered photos.
-3.  **Status / Source**: Tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*). AI suggestions will feature green text, multiple ambiguous choices will be orange, and unknown words will be red.
+The Getty Resolver is designed to work perfectly even without an internet connection. The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. Understanding the interface and color coding is key to mastering the Resolver:
+
+1. **Original Word**: The keyword from your metadata. **Double-click** an original word to edit it in place. If you type a comma (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows and remap them instantly. Words marked in **red** are not recognized by the Getty dictionary and **must be unchecked** (or mapped to a valid term), otherwise Getty will reject them during submit.
+
+2. **Getty Term (Chips)**: The mapped terms from the Getty Master Dictionary.
+    * **Color Coding**:
+        * **Blue Terms (Standard)**: These are standard, valid Getty terms successfully mapped from the master dictionary.
+        * **Green Terms (AI Suggested)**: These are brand new, highly relevant terms suggested by the Cloud AI based on your photo's text context and your prompt.
+        * **Purple Chips (Mixed State)**: If you select a term for *some* photos but not *all* photos in your current batch view, the chip turns **Purple**. This immediately tells you that you have customized the selection and successfully disambiguated meanings across different photos.
+    * **Interaction**:
+        * **Manual Selection**: You can check multiple terms at once. By default, this applies the term to *all* photos in the batch that share the original word. To apply a term to a single photo, click its thumbnail in the top panel first.
+        * **Double-Click to Delete**: If multiple chips are shown and a suggested term is irrelevant, you can **double-click** the chip to delete it from the options.
+        * **Hover Context Visualizer**: Hover your mouse over any term (chip) to instantly highlight the photo thumbnails it is currently assigned to. If you hover over an *unselected* term, it will light up all photos containing that original keyword, showing you exactly where the term *can* be assigned.
+        * **Drag & Drop (Assign & Remove)**: Found a perfect term and want to assign it to just one specific photo? Simply grab the chip and drag & drop it directly onto the desired photo thumbnail to instantly assign it. To **remove** a term from a specific photo, hold **Alt** (or **Shift**) while dropping the chip onto the thumbnail. Alternatively, hold **Alt** and click a highlighted thumbnail while hovering over a chip to remove it instantly.
+
+3. **Status / Source**: This column tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*). AI suggestions will feature green text, multiple ambiguous choices will be orange, and unknown words will be red.
 
 ---
-
 **Manual Editing in Getty Optimizer**
 
 <video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty Optimizer">
