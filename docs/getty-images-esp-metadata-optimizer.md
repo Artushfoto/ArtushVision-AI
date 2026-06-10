@@ -229,6 +229,7 @@ To speed up your workflow when dealing with multiple photos and terms, you can u
 </video>
 <p><a href="video/getty-optimizer-overview.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
+---
 
 ### The Resolution Table (Manual & Offline Workflow)
 The Resolver is designed to work perfectly even without an internet connection. You can resolve ambiguities manually by simply checking the correct boxes.
@@ -236,9 +237,12 @@ The Resolver is designed to work perfectly even without an internet connection. 
 1.  **Original Word**: The keyword from your metadata. **Double-click** an original word to edit it in place. If you type a comma (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows and remap them instantly.
 2.  **Getty Term (Chips)**: The mapped terms from the Getty Master Dictionary. If multiple chips are shown, **manually check** the one that fits best based on the photo. You can **double-click** a chip to delete it if it's irrelevant.
     * **Hover Context Visualizer**: Hover your mouse over any term chip. The thumbnails at the top will instantly light up to show you exactly which photos contain this specific term (dimming the rest).
+    * **Drag & Drop (Assign & Remove)**: You can grab any chip and drag it onto a specific photo thumbnail in the top panel to instantly assign it. To **remove** a term from a specific photo, hold **Alt** (or **Shift**) while dropping the chip onto the thumbnail. Alternatively, hold **Alt** and click a highlighted thumbnail while hovering over a chip to remove it instantly.
     * **Blue Chips (Full Selection)**: The term is fully selected and applied to **all** currently filtered/viewed photos.
     * **Purple Chips (Partial Selection)**: The term is partially selected-meaning it is active in **some** of the currently filtered photos, but not all. Clicking a purple chip will synchronize and apply it to all currently filtered photos.
 3.  **Status / Source**: Tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*). AI suggestions will feature green text, multiple ambiguous choices will be orange, and unknown words will be red.
+
+---
 
 **Manual Editing in Getty Optimizer**
 
