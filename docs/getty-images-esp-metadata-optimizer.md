@@ -229,7 +229,7 @@ The Getty Resolver is designed to work perfectly even without an internet connec
 3. **Status / Source**: This column tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*). AI suggestions will feature green text, multiple ambiguous choices will be orange, and unknown words will be red.
 
 ---
-**Manual Editing in Getty Optimizer**
+**Manual Editing in Getty Optimizer, Drag & Drop (Assign & Remove)**
 
 <video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty Optimizer">
   ArtushVision AI - Getty optimizer manual editing Overview.
