@@ -304,7 +304,7 @@ Once your metadata is verified and the blue GETTY badges are active, you are rea
 1. **Open the Optimizer:** Select your finished photos in the main grid and right-click to open the **Getty Optimizer**.
 2. **Review & AI Fix:** Click **Interactive Resolver**. Set "New AI terms" to `10-30` and click **Resolve with AI beta** to let the AI fix any ambiguous words based on image context (or manually check the correct bubbles).
 3. **Local Cleanup:** Click **Re-Optimize All (Local)**. This will automatically uncheck any remaining "Unknown" words, add required technical tags (Horizontal/Vertical, Photography), and sort the list.
-4. **Verify Badges & Save:** Make sure the badges on the thumbnails have turned **Green** (indicating 5-50 valid terms). Click **OK** to save the `.getty` sidecar files to your disk.
+4. **Verify Badges & Save:** Make sure the badges on the thumbnails have turned **Blue or Green** (indicating 5-50 valid terms). Click **OK** to save the `.getty` sidecar files to your disk.
 5. **Export:** Back in the main Optimizer window, click **Export ESP CSV** to generate your final spreadsheet ready for upload. No rejections, no manual mapping on the portal.
 
 ---
