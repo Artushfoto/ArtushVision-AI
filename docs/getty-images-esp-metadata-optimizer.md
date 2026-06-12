@@ -293,7 +293,7 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
 
 ## 6. Final Export and Global Distribution
 
-Once your metadata is verified and the blue GETTY badges are active, you are ready for a flawless submission.
+Once your metadata is verified and the blue/green/purple GETTY badges are active, you are ready for a flawless submission.
 
 * **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty ESP portal.
 
