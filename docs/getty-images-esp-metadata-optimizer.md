@@ -151,7 +151,7 @@ h1 { text-align: center; }
 
 Uploading to Getty Images (ESP) is often challenging due to their strict Controlled Vocabulary (CV). Standard keywords used for other stock agencies are frequently rejected or mismatched by the ESP portal, leading to tedious manual corrections.
 
-The Getty Optimizer module in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the ESP system. You can map words **manually (100% offline)** or let the **Cloud AI** do the heavy lifting for you.
+The Getty Optimizer module in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the ESP system. You can map words **manually (100% offline)** or let the **Cloud AI** do the "heavy lifting for you".
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.png" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation" width="100%" class="screenshot-img">
@@ -224,7 +224,7 @@ The Getty Resolver is designed to work perfectly even without an internet connec
         * **Manual Selection**: You can check multiple terms at once. By default, this applies the term to *all* photos in the batch that share the original word. To apply a term to a single photo, click its thumbnail in the top panel first.
         * **Double-Click to Delete**: If multiple chips are shown and a suggested term is irrelevant, you can **double-click** the chip to delete it from the options.
         * **Hover Context Visualizer**: Hover your mouse over any term (chip) to instantly highlight the photo thumbnails it is currently assigned to. If you hover over an *unselected* term, it will light up all photos containing that original keyword, showing you exactly where the term *can* be assigned.
-        * **Drag & Drop (Assign & Remove)**: Found a perfect term and want to assign it to just one specific photo? Simply grab the chip and drag & drop it directly onto the desired photo thumbnail to instantly assign it. To **remove** a term from a specific photo, hold **Alt** (or **Shift**) while dropping the chip onto the thumbnail. Alternatively, hold **Alt** and click a highlighted thumbnail while hovering over a chip to remove it instantly.
+        * **Drag & Drop (Assign & Remove)**: Found a perfect term and want to assign it to just one specific photo? Simply grab the chip and drag & drop it directly onto the desired photo thumbnail to instantly assign it. To **remove** a term from a specific photo, hold **Alt** (or **Shift**) while dropping the chip onto the thumbnail. 
 
 3. **Status / Source**: This column tells you where the term came from (e.g., *Internal Dictionary*, *User Dictionary*, *Cloud Suggested*, or *Unknown*). AI suggestions will feature green text, multiple ambiguous choices will be orange, and unknown words will be red.
 
