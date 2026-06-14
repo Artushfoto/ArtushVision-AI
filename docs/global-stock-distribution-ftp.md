@@ -147,11 +147,11 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**Distribute your portfolio to dozens of stock agencies in just a few clicks. ArtushVision AI eliminates the manual work of microstock distribution with intelligent tracking, auto-reconnects, and dynamic CSV generation.**
+**Distribute your portfolio to dozens of stock agencies in just a few clicks. ArtushVision AI eliminates the manual work  with intelligent tracking, auto-reconnects, and dynamic CSV generation.**
 
 Uploading photos and videos to multiple stock agencies can be a full-time job. Dropped connections, strict rate limits, and the difficulty of tracking what was uploaded where can ruin a professional workflow. The ArtushVision AI FTP Uploader handles the heavy lifting in the background, allowing you to focus on your creative work.
 
----
+ the ma---
 
 ## Per-Server Multi-Threading and Auto-Retry
 
@@ -171,10 +171,10 @@ Not all stock agencies are built the same. While some servers can handle aggress
 
 ## Dynamic CSV Generation and Category Mapping
 
-Skip the manual spreadsheet work. The FTP module is deeply integrated with a powerful [Category Matrix](/docs/settings-configuration-customization.html#the-category-matrix) that translates your internal organization into agency-specific requirements.
+Skip the manual spreadsheet work. The FTP module is deeply integrated with a powerful [Category Matrix](/docs/settings-configuration-customization.htmlmd#the-category-matrix) that translates your internal organization into agency-specific requirements.
 
 * **Automated CSV Upload:** Assign a specific CSV template to an FTP server. When you start an upload, the application automatically generates the required CSV file with correct agency category IDs and uploads it alongside your media.
-* **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor).)
+* **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](/docs/settings-configuration-customization.htmlmd#advanced-csv-template-editor).).
 * **Agency Profiles:** Group your servers into Profiles (e.g., Exclusive Video Agencies or Main Stock Photo) to select multiple targets with a single click.
 
 ---
@@ -207,14 +207,16 @@ Select `FTP Agencies` and `Save Profile Group`
     <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
+[IMAGE: A screenshot of the [Category Matrix](settings-configuration-customization.md#the-category-matrix) Editor showing how Master categories map to Adobe Stock, Shutterstock, and Motion Elements IDs.]
 
+---
 
 ## Advanced Tracking and Visual Status Badges
 
 Never upload the same file twice by accident. ArtushVision AI remembers the complete upload history of every asset directly within the file metadata.
 
 * **Micro-Badges in Grid:** Instantly see tiny agency badges (e.g., S for Shutterstock, A for Adobe, F for Freepik) directly on your photo thumbnails in the main grid. These badges appear automatically after a successful FTP upload, but you can also add them manually. You can simply type the name of any agency to track it, even if you don't have an FTP connection configured for it.
-* **Persistent Metadata Stamping:** Whether generated automatically or entered manually, the upload history is permanently written into the file's XMP/IPTC metadata. This ensures your tracking is preserved forever, even if you move your files to another drive or open them in another software.
+* **Persistent MetadataXMP Stamping:** Whether generated automatically or entered manually, the upload history is permanentlyStatus information is written into the file's XMP/IPTC metadata. This, ensuresing your trackingupload history is preserved forever, even if you move your files to another drive or open them in another software.
 * **Safeguard Logic:** A built-in protection system automatically skips files that have already been successfully uploaded to the target agency in the past.
 
 **FTP history badge in Main Grid**
@@ -226,7 +228,7 @@ Never upload the same file twice by accident. ArtushVision AI remembers the comp
 
 **FTP upload history editor**
 
-Right-Mouse-click to any image in the main grid → `Edit FTP History (Selection)`
+Right-Mouse-click to any image in[IMAGE: A screenshot of the main photo grid, highlighting the smain grid → `Edit FTP History (Selection)`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 100%; flex: 1 1 auto;">
     <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.png" alt="ArtushVision AI - FTP History Editor" style="width: 100%; max-width: 100%;" class="screenshot-img">
@@ -259,7 +261,17 @@ Go to `Filter Toolbar` → `Advanced FTP Filter`
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 500px; flex: 1 1 auto;">
     <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.png" alt="ArtushVision AI - Advanced FTP filter" style="width: 100%; max-width: 500px;" class="screenshot-img">
   </a>
-<div style="height: 15px;"></div>
+<div style="height: 15px;"></div>ll agency micro-badges on the thumbnails and the Advanced FTP Filter dropdown.]
+
+---
+
+## Three-State Workflow Filtering
+
+Manage thousands of assets with surgical precision using the dedicated FTP filters in the top bar.
+
+* **Uploaded State:** View only assets that have successfully reached a specific agency.
+* **Not Uploaded State:** Isolate files that still need to be distributed.
+* **Ignore State:** Mark specific files to be skipped for certain agencies without removing them from your project.
 
 ---
 
@@ -272,6 +284,7 @@ Go to `Filter Toolbar` → `Advanced FTP Filter`
 ---
 
 ### [Get Started Now]
+
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
@@ -281,8 +294,17 @@ Go to `Filter Toolbar` → `Advanced FTP Filter`
 
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
-[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussionshttps://www.artushfoto.eu/Software/Download-ArtushVision-AI)
+* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
 ---
 
-*ArtushVision AI - Stability and precision for professional photography workflows.*
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+---
+
+*ArtushVision AI - Stability and precision for professional photography workflowsand stock distribution.*
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTExMzY0NjA2M119
+-->
