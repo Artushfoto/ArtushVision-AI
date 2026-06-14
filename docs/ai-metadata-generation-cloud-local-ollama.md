@@ -146,7 +146,7 @@ h1 { text-align: center; }
 
 # AI Metadata Generation: Smart, Fast, and 100% Private
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+[← Back to ArtushVision AI Home](u)
 
 **Transform your photography workflow by replacing manual tagging with state-of-the-art Vision-Language Models (VLMs). ArtushVision AI "looks" at your media to instantly generate professional Titles, Descriptions, and Keywords.**
 
@@ -173,7 +173,7 @@ Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
 ### 1. Cloud AI
 
-Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as `gemini-2.5-flash-lite`, `Claude 3.5 Sonnet`, or `GPT-4o`.
+Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.htmlmd) to access elite models such as `gemini 2f0 Flash-lite`, `Claude 3.5 Sonnet`, or `GPT-4o`.iecaegrari dito s
 
 ---
 
@@ -208,11 +208,12 @@ Go to `Top Menu` → `File` → `OpenRouter Statistic` to view your stats.
 
 * **Smart Estimations:** The software continuously calculates your average cost per processed photo and provides a live estimate of how many more assets you can analyze before needing to top up your balance.
 
----
+---* **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
+* **Precision Cost Tracking:** A built-in tracker monitors your API spend to 6 decimal places in real-time.
 
 ### 2. Local AI
 
-Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your local [Ollama](/docs/ollama-installation-guide.html) installation (see our [Ollama Setup Guide](/docs/ollama-installation-guide.html) if you haven't installed it yet).
+Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your local [Ollama](/docs/ollama-installation-guide.htmlmd) installation (see our [Ollama Setup Guide](/docs/ollama-installation-guide.htmlmd) if you haven't installed it yet).
 
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
@@ -233,6 +234,7 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 ### 3. Hybrid AI
 
 An intelligent agentic pipeline that combines privacy with high-end SEO formatting.
+
 * **Local Analysis:** A local model extracts raw visual descriptions on your PC.
 * **Cloud Synthesis:** Only the extracted text is sent to a fast cloud model to format it into professional, comma-separated keywords and titles.
 
@@ -260,7 +262,13 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 Changing your AI model gives you ultimate flexibility—allowing you to balance speed, cost, and privacy. You can use fast, free Local AI models for bulk processing and switch to advanced Cloud models for complex tasks.
 
-Here is how to access and change the model via your AI Profile:
+Here is how to access and cha### 4. Two-Step Local AI
+
+Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM).
+
+* **Resource Management:** The system loads a Vision model to describe the image, unloads it, and then loads a Text model for SEO formatting. This prevents hardware crashes while maintaining elite output quality.
+
+[IMAGE: A close-up of the Language and AI settinges the model via your AI Profile:
 
 1. In the main top toolbar, click the **⚙ Profile Editor** button to open your active AI Profile.
 2. Locate the **AI Model** input field in the editor window.
@@ -284,17 +292,25 @@ Go to `Top Toolbar` → `Gear button ` next to the profile selector → `Magnify
 
 Generic AI tools produce generic metadata. ArtushVision AI injects technical background context into every prompt to ensure specific and accurate results.
 
-* **[Global AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Input a specific fact—such as a Latin species name—into the [Global Hint field.](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) The AI treats this as an absolute fact and prioritizes it in the generated metadata.
-* **[Smart Geolocation:](/docs/settings-configuration-customization.html#maps-and-reverse-geocoding)** GPS coordinates are translated via [OpenStreetMap or ArcGIS](/docs/settings-configuration-customization.html#maps-and-reverse-geocoding) into City and Country names, allowing the AI to include specific location context automatically.
-* **[Technical EXIF Injection:](/docs/advanced-ai-prompting-profiles-variables.html#technical--exif-parameters)** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
-* **[Category Matrix Integration:](/docs/settings-configuration-customization.html#the-category-matrix)** The engine ensures generated keywords align with your selected commercial [Master Categories](/docs/settings-configuration-customization.html#the-category-matrix).
+* **[Global AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Input a specific fact—such as a Latin species name—into the [Global Hint field.](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) The AI treats this as an absolute fact and prioritizes it in the generated metadataab, highlighting the AI Engine dropdown, [Ollama](ollama-installation-guide.md) configuration, and VRAM context limits.]
+
+---
+
+## Context-Aware Prompting: The AI Knows Your Gear
+
+Generic AI tools produce generic metadata. ArtushVision AI injects technical background context into every prompt to ensure specific and accurate results.
+
+* **Technical EXIF Injection:** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
+* **[Smart Geolocation:](/docs/settings-configuration-customization.html#maps-and-reverse-geocoding)** GPS coordinates are translated via [OpenStreetMap or ArcGIS](/docs/settings-configuration-customization.htmlmd#maps-and-reverse-geocoding) into City and Country names, allowing the AI to include specific location context automatically.
+* **[Technical EXIF Injection:](/docs/advanced-ai-prompting-profiles-variables.html#technical--exif-parameters)** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of fieldGlobal AI Hint:** Input a specific fact—such as a Latin species name—into the [Global Hint](advanced-ai-prompting-profiles-variables.md#basic-and-contextual-variables) field. The AI treats this as an absolute fact and prioritizes it in the generated metadata.
+* **[Category Matrix Integration:](/docs/](settings-configuration-customization.htmlmd#the-category-matrix) Integration:** The engine ensures generated keywords align with your selected commercial [Master Categories](/docs/settings-configuration-customization.htmlmd#the-category-matrix).
 
 **Prompt Editor**
 
 Go to `Top Toolbar` → `Gear button ` next to the profile selector
 
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - Prompt Editor" style="width: 600px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - Prompt[IMAGE: A screenshot of the Profile Editor" style="width: 600px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -307,7 +323,7 @@ Go to `Top Toolbar` → `Gear button ` next to the profile selector
 **Hybrid AI Prompt Editor**
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" alt="ArtushVision AI - Hybrid AI Profile Editor Setup" style="width: 600px;" class="screenshot-img">
-</a>
+</a>howing prompt variables like camera_model, gps_raw, and user_hint inserted into a system prompt.]
 
 ---
 
@@ -320,9 +336,9 @@ ArtushVision AI provides native support for video assets (.mp4, .mov), eliminati
 
 Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushV[IMAGE: A visual comparision-AI/main/docs/images/video-analysis-e of Economy-m Mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 400px;" class="screenshot-img">
-</a>
+</a>—a grid collage of video frames next to the resulting AI-generated keywords.]
 
 ---
 
@@ -346,6 +362,7 @@ The application is built with a safety-first philosophy to protect your existing
 ---
 
 ### [Get Started Now]
+
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
@@ -355,9 +372,21 @@ The application is built with a safety-first philosophy to protect your existing
 
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
-[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
+* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
 ---
 
-*ArtushVision AI - Stability and precision for professional photography workflows.*
-<!-- --- artushvision-engine-doc --- -->
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+---
+
+*ArtushVision- AI/discussions)
+
+---
+
+*ArtushVi - Professional AI - Stability and precision for professional photography workflows.*
+<!-- --- artushvision-engine-doc --- -->vision technology for advanced photography metadata management.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjMyMjI2ODQ3XX0=
+-->
