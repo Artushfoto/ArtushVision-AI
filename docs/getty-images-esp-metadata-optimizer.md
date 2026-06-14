@@ -323,4 +323,98 @@ Once your metadata is verified and the blue/green/purple GETTY badges are active
 
 ---
 
+*ArtushVision AI - Stability and precision for professional photography workflows.*</style>
+</div>
+
+# Getty Images Export Optimizer: Master the ESP Controlled Vocabulary
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+**Eliminate submission errors and keyword rejections. ArtushVision AI ensures 100% success with the Getty Images [ESP](getty-images-esp-metadata-optimizer.md) system through automated keyword translation and context-aware AI disambiguation.**
+
+Uploading to Getty Images ([ESP](getty-images-esp-metadata-optimizer.md)) is often challenging due to their strict Controlled Vocabulary (CV). Standard keywords used for other stock agencies are frequently rejected or mismatched by the [ESP](getty-images-esp-metadata-optimizer.md) portal, leading to tedious manual corrections.
+
+The [Getty Optimizer](getty-images-esp-metadata-optimizer.md) module in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the [ESP](getty-images-esp-metadata-optimizer.md) system.
+
+[IMAGE: A wide, clean screenshot of the [Getty Optimizer](getty-images-esp-metadata-optimizer.md) main window showing the photo grid, the Optimize All button, and the blue GETTY status badges.]
+
+---
+
+## Built-in Master Dictionary
+
+ArtushVision AI includes a massive, local [Master Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the [ESP](getty-images-esp-metadata-optimizer.md) portal for permitted terms.
+
+* **Automated Mapping:** Instantly translates standard tags into approved Getty alternatives (e.g., mapping "rural" to the required "Rural Scene" structure).
+* **Technical Tag Injection:** Automatically adds required structural tags such as Number of People, Camera Settings, or Age Brackets that Getty requires for commercial searchability.
+* **Redundancy Cleanup:** Intelligently merges duplicate meanings and removes prohibited terms before they reach the submission stage.
+
+---
+
+## Interactive AI Resolver and Disambiguation
+
+A major hurdle in metadata is homonyms—words with multiple meanings. ArtushVision AI uses Vision AI to look at the actual content of your image to resolve these ambiguities.
+
+* **Context-Aware Disambiguation (beta):** If you use the word "crane," the AI analyzes the pixels to determine if it is a bird or a construction machine, selecting the exact correct branch of the Getty vocabulary.
+* **Visual Context Highlighting:** When selecting a term in the Resolver, the application highlights all thumbnails in your grid that contain that specific concept, allowing for instant batch verification.
+* **Dynamic Word Splitting:** Double-click any complex phrase to split it into individual terms. The application re-evaluates the new terms against the [Master Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary) in real-time.
+
+[IMAGE: A close-up screenshot of the Interactive Resolver window showcasing the AI suggested terms and keyword checkboxes.]
+
+---
+
+## Personal User Dictionary and Memory
+
+Teach ArtushVision AI your specific niche. If you specialize in rare Latin species, local landmarks, or technical subjects missing from the [Master Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary), you can map them once and save the rule directly to your Personal Dictionary.
+
+* **Persistent Learning:** Save custom mappings to your User Dictionary. The application will automatically apply these translations to all future exports.
+* **Database Control:** You have full access to edit or remove your custom mappings, ensuring your personal metadata database remains accurate as your portfolio grows.
+
+---
+
+## Non-Destructive Workflow and Sidecars
+
+Your original metadata remains safe. ArtushVision AI follows a professional safety-first logic to ensure your primary files are never corrupted.
+
+* **Independent Sidecars:** All Getty-optimized terms, titles, and descriptions are stored in dedicated .getty JSON sidecar files.
+* **XMP Integrity:** Your original keywords, Lightroom ratings, and People tags (Face Recognition) are preserved in your original files (see [Smart Protection](manual-editing-detailed-photo-view.md#advanced-protection-logic)).
+* **Universal Compatibility:** Work seamlessly alongside Adobe Bridge, Lightroom, or Zoner Photo Studio.
+
+[IMAGE: A smaller screenshot showing the User Dictionary manager window or the right-click context menu.]
+
+---
+
+## Final Export and Global Distribution
+
+Once your metadata is verified and the blue GETTY badges are active, you are ready for a flawless submission.
+
+* **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty [ESP](getty-images-esp-metadata-optimizer.md) portal.
+* **Zero-Touch Integration:** Combine this with the [Smart FTP Suite](global-stock-distribution-ftp.md) to handle both file transfer and metadata synthesis in one unified workflow.
+
+[IMAGE: A screenshot showing the Export [ESP](getty-images-esp-metadata-optimizer.md) CSV button and the success dialog.]
+
+---
+
+### Professional Workflow in 3 Steps:
+
+1. **Optimize All:** Select your folder and click Optimize All. The app translates the majority of terms using the [Master Dictionary](getty-images-esp-metadata-optimizer.md#built-in-master-dictionary).
+2. **Resolve Unknowns:** Use the Interactive Resolver to map any remaining red (unknown) words or let the AI pick the best branch for ambiguous terms.
+3. **Export:** Export the final verified data directly into the Getty [ESP](getty-images-esp-metadata-optimizer.md) template. No rejections, no manual mapping on the portal.
+
+---
+
+### [Get Started Now]
+
+* [Download Free Lite Version](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
+* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+---
+
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM4MDc1MzEyOV19
+-->
