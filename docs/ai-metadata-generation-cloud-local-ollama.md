@@ -336,7 +336,7 @@ ArtushVision AI provides native support for video assets (.mp4, .mov), eliminati
 
 Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushV[IMAGE: A visual comparision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 400px;" class="screenshot-img">
 </a>—a grid collage of video frames next to the resulting AI-generated keywords.]
 
@@ -360,20 +360,6 @@ The application is built with a safety-first philosophy to protect your existing
 4. **Review and Save:** Watch the real-time progress as the application merges commercial metadata directly into your assets.
 
 ---
-
-### [Get Started Now]
-
-* [Download Free Lite Version](/docs/download-purchase.html)
-* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
-
----
-
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
-
-[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
-
-[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
-* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
