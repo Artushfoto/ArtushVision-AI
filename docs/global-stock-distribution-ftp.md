@@ -151,7 +151,6 @@ h1 { text-align: center; }
 
 Uploading photos and videos to multiple stock agencies can be a full-time job. Dropped connections, strict rate limits, and the difficulty of tracking what was uploaded where can ruin a professional workflow. The ArtushVision AI FTP Uploader handles the heavy lifting in the background, allowing you to focus on your creative work.
 
- the ma---
 
 ## Per-Server Multi-Threading and Auto-Retry
 
@@ -166,6 +165,14 @@ Not all stock agencies are built the same. While some servers can handle aggress
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.png" alt="ArtushVision AI - Global Distribution & Smart FTP Suite" width="100%" class="screenshot-img">
 </a>   
+<div style="height: 15px;"></div>
+
+### Automated FTP Distribution and Smart Grid Status Tracking
+
+<video src="video/ftp-upload.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Smart FTP Upload and Status Tracking">
+  ArtushVision AI - Multi-threaded FTP uploading, custom agency server groups configuration, and automated status tracking badges in the main photo grid.
+</video>
+<p><a href="video/ftp-upload.mp4" target="_blank" style="font-size: 0.9em;">Watch full-size FTP upload and status tracking workflow video</a></p>
 
 ---
 
