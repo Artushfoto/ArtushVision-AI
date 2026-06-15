@@ -146,6 +146,7 @@ h1 { text-align: center; }
 # Get ArtushVision AI
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+## [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 [Frequently Asked Questions (FAQ)](faq.html)
 
