@@ -146,7 +146,7 @@ h1 { text-align: center; }
 
 # AI Metadata Generation: Smart, Fast, and 100% Private
 
-[← Back to ArtushVision AI Home](u)
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 **Transform your photography workflow by replacing manual tagging with state-of-the-art Vision-Language Models (VLMs). ArtushVision AI "looks" at your media to instantly generate professional Titles, Descriptions, and Keywords.**
 
