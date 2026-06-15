@@ -292,7 +292,7 @@ Go to `Top Toolbar` → `Gear button ` next to the profile selector → `Magnify
 
 Generic AI tools produce generic metadata. ArtushVision AI injects technical background context into every prompt to ensure specific and accurate results.
 
-* **[Global AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Input a specific fact—such as a Latin species name—into the [Global Hint field.](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) The AI treats this as an absolute fact and prioritizes it in the generated metadataab, highlighting the AI Engine dropdown, [Ollama](ollama-installation-guide.html) configuration, and VRAM context limits.]
+* **[Global AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Input a specific fact - such as a Latin species name - into the [Global Hint field.](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) The AI treats this as an absolute fact and prioritizes it in the generated metadataab, highlighting the AI Engine dropdown, [Ollama](ollama-installation-guide.html) configuration, and VRAM context limits.]
 
 ---
 
@@ -336,7 +336,7 @@ ArtushVision AI provides native support for video assets (.mp4, .mov), eliminati
 
 Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushV[IMAGE: A visual comparision-AI/main/docs/images/video-analysis-e of Economy-m Mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushV[IMAGE: A visual comparision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 400px;" class="screenshot-img">
 </a>—a grid collage of video frames next to the resulting AI-generated keywords.]
 
@@ -375,18 +375,18 @@ The application is built with a safety-first philosophy to protect your existing
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/https://www.artushfoto.eu/Software/Download-ArtushVision-AI)
 * [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
 
+### [Get Started Now]
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
 ---
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
 ---
 
-*ArtushVision- AI/discussions)
-
----
-
-*ArtushVi - Professional AI - Stability and precision for professional photography workflows.*
-<!-- --- artushvision-engine-doc --- -->vision technology for advanced photography metadata management.*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMjI2ODQ3XX0=
--->
+*ArtushVision AI - Stability and precision for professional photography workflows.*
