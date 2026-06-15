@@ -338,7 +338,7 @@ Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 400px;" class="screenshot-img">
-</a>—a grid collage of video frames next to the resulting AI-generated keywords.]
+</a>
 
 ---
 
