@@ -310,18 +310,17 @@ Once your metadata is verified and the blue/green/purple GETTY badges are active
 ---
 
 ### [Get Started Now]
-* Download Free Lite Version
-* Purchase Lifetime License - $39.99
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
-← Back to ArtushVision AI Home
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-❓ Frequently Asked Questions (FAQ)
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
-💬 Support, Bugs & Community Forum
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
-*ArtushVision AI - Stability and precision for professional photography workflows.*</style>
-</div>
+*ArtushVision AI - Stability and precision for professional photography workflows.*
