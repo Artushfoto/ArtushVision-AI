@@ -173,7 +173,7 @@ Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
 ### 1. Cloud AI
 
-Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as `gemini 2f0 Flash-lite`, `Claude 3.5 Sonnet`, or `GPT-4o`.iecaegrari dito s
+Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as `gemini-2.5-flash-lite`, `Claude 3.5 Sonnet`, or `GPT-4o`.iecaegrari dito s
 
 ---
 
@@ -190,7 +190,7 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 * **Instant Batch Pricing:** As soon as an AI analysis batch is completed, the application instantly displays the exact cost of that specific run directly in the success notification.
 
-**Cloud AI processing:** `gemini-2.0-flash-001`
+**Cloud AI processing:** `gemini-2.5-flash-lite`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI - Cloud AI processing with Gemini 2.0 Flash" width="100%" class="screenshot-img">
@@ -238,7 +238,7 @@ An intelligent agentic pipeline that combines privacy with high-end SEO formatti
 * **Local Analysis:** A local model extracts raw visual descriptions on your PC.
 * **Cloud Synthesis:** Only the extracted text is sent to a fast cloud model to format it into professional, comma-separated keywords and titles.
 
-**Using Hybrid AI in Detail Window:** Processing a single photo using **Local Vision** and **Cloud Text** for perfect formatting (Ollama Local AI Vision: `qwen3-vl:4b` + Cloud AI: `gemini-2.0-flash-001`)
+**Using Hybrid AI in Detail Window:** Processing a single photo using **Local Vision** and **Cloud Text** for perfect formatting (Ollama Local AI Vision: `qwen3-vl:4b` + Cloud AI: `gemini-2.5-flash-lite`)
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI - Using Hybrid AI in Detail Window" width="100%" class="screenshot-img">
