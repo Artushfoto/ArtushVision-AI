@@ -193,7 +193,7 @@ Because the application is a new release and does not contain an expensive digit
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
     <th style="text-align: center; padding: 15px; background-color: rgba(50, 141, 22, 0.2);">
-      <a href="https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY - Secure Checkout via Polar.sh</a>
+      <a href="https://vision.artushfoto.eu/docs/download-purchase.html#buy-lifetime-license" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY - Secure Checkout via Polar.sh</a>
     </th>
   </tr>
   <tr>
