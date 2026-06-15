@@ -184,16 +184,10 @@ Because the application is a new release and does not contain an expensive digit
 
 ---
 
-> ⚠️ **Important Note: Try Before You Buy!**
-> Before completing your purchase, we highly recommend downloading and running the **Free Lite Edition** above to thoroughly test performance and AI compatibility with your local hardware setup (especially your NVIDIA GPU and Ollama environment). Because all sales are final once the digital license key is issued, please make sure the software fully meets your expectations before buying.
-> 
-> 🐛 **Transparency & Bug Fixes:**
-> ArtushVision AI is a robust, actively developed tool. While we strive for the highest stability, you might occasionally encounter minor bugs. If you do, please report them to our support email: <b>support [at] artushfoto [dot] eu</b> or <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a> - we are highly committed to fixing reported issues and releasing updates as quickly as possible.
-
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
     <th style="text-align: center; padding: 15px; background-color: rgba(50, 141, 22, 0.2);">
-      <a href="https://buy.polar.sh/polar_cl_TUTPvMmsbZpRDvy0uTbcx5KEIOpW3VA7ckcK52APZOz" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY - Secure Checkout via Polar.sh</a>
+      <a href="https://vision.artushfoto.eu/docs/download-purchase.html#buy-lifetime-license" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY - Secure Checkout via Polar.sh</a>
     </th>
   </tr>
   <tr>
