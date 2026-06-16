@@ -184,6 +184,15 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 ---
 
+### Cloud AI Keywording, Automatic Categorization, and Editorial Tagging
+
+<video src="video/cloud-ai-keywording.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Cloud AI Keywording and Metadata Generation">
+  ArtushVision AI - High-speed cloud AI keywording, automated stock agency category mapping, marking assets as Editorial, and live metadata status validation badges in the main photo grid.
+</video>
+<p><a href="video/cloud-ai-keywording.mp4" target="_blank" style="font-size: 0.9em;">Watch the full-size Cloud AI keywording and metadata automation video</a></p>
+
+---
+
 * **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
 * **Transparent AI Pricing and Live Cost Tracking**
     ArtushVision AI connects to OpenRouter on a pay-as-you-go basis, meaning you only pay for the API calls you actually make. The cost per image is microscopic (often fractions of a cent), and the application provides comprehensive tools to keep your spending under absolute control.
