@@ -1,64 +1,76 @@
 {
   "models": [
     {
-      "name": "gemma3:1b",
-      "type": "Text",
-      "size": "0.8 GB",
-      "description": "ULTRA-LIGHTWEIGHT TEXT (CPU/Integrated GPU): The perfect model for laptops without a dedicated GPU. Extremely fast text generation for basic tasks."
-    },
-    {
-      "name": "deepseek-r1:7b",
-      "type": "Text",
-      "size": "4.7 GB",
-      "description": "RECOMMENDED FOR REASONING (8GB VRAM): State-of-the-art reasoning model. Ideal for the 2nd stage of the hybrid system to refine descriptions and metadata."
-    },
-    {
-      "name": "qwen2.5:7b",
-      "type": "Text",
-      "size": "4.4 GB",
-      "description": "RECOMMENDED FOR GENERAL TASKS (16GB VRAM): Superior logic and knowledge. Excellent for general text processing and structured data generation."
-    },
-    {
       "name": "aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf:latest",
       "type": "Text",
-      "size": "4.2 GB",
-      "description": "RECOMMENDED FOR CREATIVE FREEDOM (16GB VRAM): Special 'unfiltered' version of Qwen 2.5. Ideal for unrestricted creative tasks."
+      "size": "4.15 GB",
+      "description": "Good Text model for 2 pass AI\n100% GPU on RTX3060Ti with 8 GB VRAM\nINFO: Ollama version for https://huggingface.co/mradermacher/Qwen2.5-7B-Instruct-abliterated-v2-GGUF"
     },
     {
-      "name": "gemma4:e2b",
-      "type": "Vision",
-      "size": "7.2 GB",
-      "description": "EXPERIMENTAL (8GB VRAM): Latest April 2026 model from Google. High intelligence, but very demanding on VRAM. Use with all other apps closed."
+      "name": "gemma2:9b",
+      "type": "Text",
+      "size": "5.07 GB",
+      "description": "Very good Text model for 2 pass AI\n20% CPU/80% GPU on RTX3060Ti with 8 GB\nGoogle Gemma 2 is a high-performing and efficient model"
     },
     {
       "name": "gemma3:4b",
       "type": "Vision",
-      "size": "3.2 GB",
-      "description": "RECOMMENDED FOR FAST ANALYTICS (8GB VRAM): Extremely fast and efficient vision model. Perfect for quick batch processing and initial image descriptions."
+      "size": "3.11 GB",
+      "description": "Very good Vision offline model.\n100% GPU on RTX3060Ti with 8 GB VRAM\nINFO: The current, most capable model that runs on a single GPU."
+    },
+    {
+      "name": "gemma3n:e4b",
+      "type": "Text",
+      "size": "7.03 GB",
+      "description": "Good Text model for 2 pass AI, Generate more keywords than 50\n100% GPU on RTX3060Ti with 8 GB VRAM\nGemma 3n models are designed for efficient execution on everyday devices such as laptops, tablets or phones."
+    },
+    {
+      "name": "gemma4:e2b",
+      "type": "Vision",
+      "size": "6.67 GB",
+      "description": "Good Vision offline model\n100% GPU on RTX3060Ti with 8 GB VRAM\nINFO: Gemma 4 models are designed to deliver frontier-level performance at each size. They are well-suited for reasoning, agentic workflows, coding, and multimodal understanding."
+    },
+    {
+      "name": "gemma4:e4b",
+      "type": "Vision",
+      "size": "8.95 GB",
+      "description": "Good Vision offline model.\n100% GPU on RTX3060Ti with 8 GB VRAM\nINFO: Gemma 4 models are designed to deliver frontier-level performance at each size. They are well-suited for reasoning, agentic workflows, coding, and multimodal understanding."
+    },
+    {
+      "name": "hhao/openbmb-minicpm-llama3-v-2_5:latest",
+      "type": "Vision",
+      "size": "5.54 GB",
+      "description": "Generating only a few keywords.\n100% GPU on RTX3060Ti with 8 GB VRAM\nINFO: MiniCPM-V surpasses proprietary models such as GPT-4V, Gemini Pro, Qwen-VL and Claude 3 in overall performance, and support multimodal conversation for over 30 languages."
+    },
+    {
+      "name": "llava:7b",
+      "type": "Vision",
+      "size": "4.41 GB",
+      "description": "Fast model, but has low instruction-following accuracy.\n100% GPU on RTX3060Ti with 8 GB"
+    },
+    {
+      "name": "llava-llama3:8b",
+      "type": "Vision",
+      "size": "5.16 GB",
+      "description": "Fast model, but has low instruction-following accuracy.\n100% GPU on RTX3060Ti with 8 GB"
+    },
+    {
+      "name": "moondream:1.8b",
+      "type": "Vision",
+      "size": "1.62 GB",
+      "description": "Compact vision model, ideal for 2-pass AI mode. pro slabší PC\n100% GPU on RTX3060Ti with 8 GB\nINFO: a tiny vision language model that kicks ass and runs anywhere\""
+    },
+    {
+      "name": "qwen2.5vl:7b",
+      "type": "Vision",
+      "size": "5.56 GB",
+      "description": "Good offline model.\n26% CPU/74% GPU on RTX3060Ti with 8 GB\nINFO: Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support."
     },
     {
       "name": "qwen3-vl:4b",
       "type": "Vision",
-      "size": "3.1 GB",
-      "description": "RECOMMENDED FOR DESKTOP (8GB VRAM): Next-gen vision model. Significant improvement in spatial understanding and detailed object recognition."
-    },
-    {
-      "name": "glm-ocr:latest",
-      "type": "Vision",
-      "size": "2.1 GB",
-      "description": "RECOMMENDED FOR OCR SPECIALIST (8GB VRAM): Specialist in extracting text from documents, labels, and complex images. Extremely fast and precise."
-    },
-    {
-      "name": "llama3.2-vision:11b",
-      "type": "Vision",
-      "size": "7.3 GB",
-      "description": "RECOMMENDED FOR HIGH-END (16GB+ VRAM): Premium multimodal model from Meta. Best-in-class image reasoning for complex scenes."
-    },
-    {
-      "name": "moondream:latest",
-      "type": "Vision",
-      "size": "1.7 GB",
-      "description": "RECOMMENDED FOR LOW-END (CPU/Laptop): Ultra-lightweight vision model. Suitable for basic image tagging on hardware without dedicated GPU."
+      "size": "3.07 GB",
+      "description": "Generating only a few keywords. Good for Vision in 2 pass AI mode.\n100% GPU on RTX3060Ti with 8 GB VRAM\nThe most powerful vision-language model in the Qwen model family to date."
     }
   ]
 }
