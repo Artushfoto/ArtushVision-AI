@@ -196,6 +196,8 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 * **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
 * **Transparent AI Pricing and Live Cost Tracking**
     ArtushVision AI connects to OpenRouter on a pay-as-you-go basis, meaning you only pay for the API calls you actually make. The cost per image is microscopic (often fractions of a cent), and the application provides comprehensive tools to keep your spending under absolute control.
+    
+* **Smart Free-Text Fallback (No JSON):** Small local models (under 7B parameters) often struggle with strict JSON formatting, which can lead to empty or broken responses. If you remove the word `JSON` from your AI profile prompt (or add the `[FORMAT: TEXT]` tag), ArtushVision AI automatically disables strict JSON enforcement. The model can reply in natural text, and our robust internal Regex engine will flawlessly extract your Title, Description, and Keywords. This guarantees maximum stability even on the smallest offline models!
 
 * **Instant Batch Pricing:** As soon as an AI analysis batch is completed, the application instantly displays the exact cost of that specific run directly in the success notification.
 
