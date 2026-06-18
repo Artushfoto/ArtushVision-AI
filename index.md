@@ -196,11 +196,6 @@ h1 { text-align: center; }
 
 ---
 
-> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
-> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
-
----
-
 <!-- LOKÁLNÍ AI A PRIVÁTNÍ ARCHIVY - NOVÝ ČISTÝ ZELENÝ BOX -->
 <div class="privacy-callout">
   <h4>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h4>
@@ -272,6 +267,11 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
 | **Pricing Model** | Recurring Subscriptions / Credits | **Perpetual License ($39.99)** |
 | **Cost (10,000 Photos)** | High-tier monthly plans | **~$0.30** using Gemini Flash or **$0.00** utilizing Local AI |
+
+---
+
+> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
+> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
 ---
 
