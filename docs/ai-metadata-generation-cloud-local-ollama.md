@@ -1,4 +1,3 @@
-<!-- --- artushvision-engine-doc --- -->
 ---
 title: "AI Metadata Generation: Cloud and Local Vision Models | ArtushVision AI"
 description: "Professional AI photo and video tagging workstation. Features a 4-tier engine including Cloud (OpenRouter), Local (Ollama), Hybrid, and 2-Pass Local AI processing."
@@ -175,33 +174,26 @@ Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
 ### 1. Cloud AI
 
-Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as `gemini-2.5-flash-lite`, `Claude 3.5 Sonnet`, or `GPT-4o`.iecaegrari dito s
-
----
+Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as `gemini-2.5-flash-lite`, `Claude 3.5 Sonnet`, or `GPT-4o`.
 
 > **⚠️ IMPORTANT: Dynamic AI Model Deprecations & API Updates**
 > Cloud AI models are constantly evolving. Third-party providers and API aggregators (such as OpenRouter) frequently update, replace, or deprecate older model endpoints to ensure optimal performance, security, and cost-efficiency. When an older AI model is officially retired, any saved AI Prompt Profile still pointing to that specific deprecated endpoint will fail and return an API connection error.
 >
 > **Action Required:** If your cloud AI processing suddenly stops working or throws an unexpected API error, the selected model has likely been deprecated. Open the **AI Profile Editor** (or check your global AI settings), select a current, active model from the dropdown list, and save your updated profile to restore immediate functionality.
 
----
-
-### Cloud AI Keywording, Automatic Categorization, and Editorial Tagging
+#### Cloud AI Keywording, Automatic Categorization, and Editorial Tagging
 
 <video src="video/cloud-ai-keywording.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Cloud AI Keywording and Metadata Generation">
   ArtushVision AI - High-speed cloud AI keywording, automated stock agency category mapping, marking assets as Editorial, and live metadata status validation badges in the main photo grid.
 </video>
 <p><a href="video/cloud-ai-keywording.mp4" target="_blank" style="font-size: 0.9em;">Watch the full-size Cloud AI keywording and metadata automation video</a></p>
 
----
-
 * **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
-* **Transparent AI Pricing and Live Cost Tracking**
-    ArtushVision AI connects to OpenRouter on a pay-as-you-go basis, meaning you only pay for the API calls you actually make. The cost per image is microscopic (often fractions of a cent), and the application provides comprehensive tools to keep your spending under absolute control.
-    
-* **Smart Free-Text Fallback (No JSON):** Small local models (under 7B parameters) often struggle with strict JSON formatting, which can lead to empty or broken responses. If you remove the word `JSON` from your AI profile prompt (or add the `[FORMAT: TEXT]` tag), ArtushVision AI automatically disables strict JSON enforcement. The model can reply in natural text, and our robust internal Regex engine will flawlessly extract your Title, Description, and Keywords. This guarantees maximum stability even on the smallest offline models!
-
-* **Instant Batch Pricing:** As soon as an AI analysis batch is completed, the application instantly displays the exact cost of that specific run directly in the success notification.
+* **Transparent AI Pricing and Live Cost Tracking:** ArtushVision AI connects to OpenRouter on a pay-as-you-go basis. You only pay for the API calls you actually make. The cost per image is microscopic, and a built-in tracker monitors your API spend to 6 decimal places in real-time.
+* **Instant Batch Pricing:** As soon as an AI analysis batch is completed, the exact cost of that specific run is instantly displayed directly in the success notification.
+* **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
+* **Smart Estimations:** The software continuously calculates your average cost per processed photo and provides a live estimate of how many more assets you can analyze before needing to top up your balance.
+* **Smart Free-Text Fallback (No JSON):** Small local models (under 7B parameters) often struggle with strict JSON formatting. If you remove the word `JSON` from your AI profile prompt (or add the `[FORMAT: TEXT]` tag), ArtushVision AI automatically disables strict JSON enforcement. The model can reply in natural text, and our robust internal Regex engine will flawlessly extract your Title, Description, and Keywords.
 
 **Cloud AI processing:** `gemini-2.5-flash-lite`
 
@@ -210,19 +202,7 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 </a>
 <div style="height: 15px;"></div>
 
-* **Detailed Analytics Dashboard:** Access the dedicated OpenRouter Statistics window from the top menu to monitor your complete usage history, total spent, and remaining available credit.
-
-Go to `Top Menu` → `File` → `OpenRouter Statistic` to view your stats.
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open-router-statistic.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/open-router-statistic.png" alt="ArtushVision AI - OpenRouter Statistic" style="width: 500px;" class="screenshot-img">
-</a>
-<div style="height: 15px;"></div>
-
-* **Smart Estimations:** The software continuously calculates your average cost per processed photo and provides a live estimate of how many more assets you can analyze before needing to top up your balance.
-
----* **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
-* **Precision Cost Tracking:** A built-in tracker monitors your API spend to 6 decimal places in real-time.
+---
 
 ### 2. Local AI
 
@@ -232,7 +212,7 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 > Due to their inherent technical limitations, small local AI models may occasionally fail or produce an error during generation. **This is normal model behavior, not a bug in the application.** If a model fails to process an image, simply **run the image through it again**. In most cases, the second attempt will successfully process the image and generate the correct description and keywords. Additionally, **modifying or simplifying your prompt** can help the model succeed if it struggles with complex instructions.
 
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
-* **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
+* **Live CPU / VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
 
 **Local AI Batch Processing** (Ollama Model: `gemma4:e4b`)
 
@@ -247,6 +227,8 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b-edit-window-processing-hint.png" alt="ArtushVision AI - Local AI Detail Window" width="100%" class="screenshot-img">
   </a>
 
+---
+
 ### 3. Hybrid AI
 
 An intelligent agentic pipeline that combines privacy with high-end SEO formatting.
@@ -259,6 +241,8 @@ An intelligent agentic pipeline that combines privacy with high-end SEO formatti
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI - Using Hybrid AI in Detail Window" width="100%" class="screenshot-img">
   </a>
+
+---
 
 ### 4. Two-Step Local AI
 
@@ -274,17 +258,11 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 ---
 
-### How to change the AI Model (Cloud & Local)?
+## How to Change the AI Model (Cloud & Local)
 
 Changing your AI model gives you ultimate flexibility—allowing you to balance speed, cost, and privacy. You can use fast, free Local AI models for bulk processing and switch to advanced Cloud models for complex tasks.
 
-Here is how to access and cha### 4. Two-Step Local AI
-
-Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM).
-
-* **Resource Management:** The system loads a Vision model to describe the image, unloads it, and then loads a Text model for SEO formatting. This prevents hardware crashes while maintaining elite output quality.
-
-[IMAGE: A close-up of the Language and AI settinges the model via your AI Profile:
+Here is how to access and change the model via your AI Profile:
 
 1. In the main top toolbar, click the **⚙ Profile Editor** button to open your active AI Profile.
 2. Locate the **AI Model** input field in the editor window.
@@ -304,15 +282,7 @@ Go to `Top Toolbar` → `Gear button ` next to the profile selector → `Magnify
 
 ---
 
-## Context-Aware Prompting: Global AI Hint
-
-Generic AI tools produce generic metadata. ArtushVision AI injects technical background context into every prompt to ensure specific and accurate results.
-
-* **[Global AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Input a specific fact - such as a Latin species name - into the [Global Hint field.](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) The AI treats this as an absolute fact and prioritizes it in the generated metadataab, highlighting the AI Engine dropdown, [Ollama](ollama-installation-guide.html) configuration, and VRAM context limits.
-
----
-
-### 💡 Endless Prompt Customization
+## Endless Prompt Customization & Context-Aware Prompting
 
 The application is distributed with a curated set of **sample prompts** to help you get started right out of the box. These built-in templates are designed to cover common use cases and demonstrate how to effectively interact with the AI models.
 
@@ -321,23 +291,21 @@ However, these samples are just the beginning. The true power of the software li
 * **Edit Existing:** You can easily tweak and modify any of the provided sample prompts to better align with your personal workflow.
 * **Unlimited Creation:** You are not restricted to the presets! You have the absolute freedom to **create an unlimited number of custom prompts** from scratch, tailoring the AI's behavior and output exactly to your specific needs, projects, and creative vision.
 
----
-
-## Context-Aware Prompting: The AI Knows Your Gear
+### The AI Knows Your Gear & Context
 
 Generic AI tools produce generic metadata. ArtushVision AI injects technical background context into every prompt to ensure specific and accurate results.
 
-* **Technical EXIF Injection:** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
-* **[Smart Geolocation:](/docs/settings-configuration-customization.html#maps-and-reverse-geocoding)** GPS coordinates are translated via [OpenStreetMap or ArcGIS](/docs/settings-configuration-customization.html#maps-and-reverse-geocoding) into City and Country names, allowing the AI to include specific location context automatically.
-* **[Technical EXIF Injection:](/docs/advanced-ai-prompting-profiles-variables.html#technical--exif-parameters)** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of fieldGlobal AI Hint:** Input a specific fact—such as a Latin species name—into the [Global Hint](advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) field. The AI treats this as an absolute fact and prioritizes it in the generated metadata.
-* **[Category Matrix Integration:](/docs/](settings-configuration-customization.html#the-category-matrix) Integration:** The engine ensures generated keywords align with your selected commercial [Master Categories](/docs/settings-configuration-customization.html#the-category-matrix).
+* **[Global AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Input a specific fact—such as a Latin species name or a client's name—into the Global Hint field. The AI treats this as an absolute fact and prioritizes it in the generated metadata.
+* **[Smart Geolocation:](/docs/settings-configuration-customization.html#maps-and-reverse-geocoding)** GPS coordinates are translated via OpenStreetMap or ArcGIS into City and Country names, allowing the AI to include specific location context automatically.
+* **[Technical EXIF Injection:](/docs/advanced-ai-prompting-profiles-variables.html#technical--exif-parameters)** The AI is informed of the camera model, lens settings, and exposure data (e.g., DJI Mavic 3, f/2.8, ISO 100). It uses this to add relevant tags like drone photography or shallow depth of field.
+* **[Category Matrix Integration:](/docs/settings-configuration-customization.html#the-category-matrix)** The engine ensures generated keywords align with your selected commercial Master Categories.
 
 **Prompt Editor**
 
 Go to `Top Toolbar` → `Gear button ` next to the profile selector
 
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - Prompt[IMAGE: A screenshot of the Profile Editor" style="width: 600px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - Prompt Editor" style="width: 600px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -346,11 +314,10 @@ Go to `Top Toolbar` → `Gear button ` next to the profile selector
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" alt="ArtushVision AI - Cloud AI Profile Editor Setup" style="width: 600px;" class="screenshot-img">
 </a>
 
-
 **Hybrid AI Prompt Editor**
   <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" alt="ArtushVision AI - Hybrid AI Profile Editor Setup" style="width: 600px;" class="screenshot-img">
-</a>howing prompt variables like camera_model, gps_raw, and user_hint inserted into a system prompt.]
+</a>
 
 ---
 
