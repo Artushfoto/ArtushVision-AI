@@ -171,6 +171,19 @@ Go to `Top Menu` → `File` → `Settings` → `Language and AI`
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier-ai-engine.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 300px;" class="screenshot-img">
 </a>
 
+---
+
+### 💡 Endless Prompt Customization
+
+The application is distributed with a curated set of **sample prompts** to help you get started right out of the box. These built-in templates are designed to cover common use cases and demonstrate how to effectively interact with the AI models.
+
+However, these samples are just the beginning. The true power of the software lies in its complete flexibility:
+
+* **Edit Existing:** You can easily tweak and modify any of the provided sample prompts to better align with your personal workflow.
+* **Unlimited Creation:** You are not restricted to the presets! You have the absolute freedom to **create an unlimited number of custom prompts** from scratch, tailoring the AI's behavior and output exactly to your specific needs, projects, and creative vision.
+
+---
+
 ### 1. Cloud AI
 
 Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as `gemini-2.5-flash-lite`, `Claude 3.5 Sonnet`, or `GPT-4o`.iecaegrari dito s
