@@ -252,6 +252,22 @@ If you accidentally deleted the wrong keywords and **haven't clicked the "Save" 
 
 ---
 
+### How to assign categories and other info (Country, Editorial...)
+
+---
+
+**1. Batch assignment in the Grid view**
+If you need to assign the same categories or properties to multiple photos at once, select them in the grid (e.g., by dragging the mouse, or using `Ctrl+Click` / `Shift+Click`). Then, in the top bar under the **Batch Edit** panel, click the **Categories** button, or select **Other info (Country, Editorial...)** from the target dropdown menu and click **+ Add**. In these dialogs, you can batch edit:
+*   Check up to 3 matching Master categories.
+*   Set the country of origin (the application can also automatically load this from the GPS coordinates of individual photos).
+*   Mark photos as Editorial, Illustration, or 18+ (Mature).
+Upon confirmation, these properties are immediately applied to all currently selected images.
+
+**2. Individually in the Edit window (Photo detail)**
+During the detailed editing of a specific photo, you will find the **Categories** and **Properties** sections located right next to the Description field. The currently assigned categories are displayed here as a neat bulleted list (you can easily remove them using the cross button or add new ones). Just below them, you will find a dropdown with a complete list of countries for manual country editing, and checkboxes for quick toggling of flags (Editorial, Illustration, etc.).
+
+---
+
 ### Keyword Sets (Presets)
 
 ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that significantly speeds up routine photo tagging. Instead of repeatedly typing the same expressions, you can save frequently used combinations of tags (e.g., for specific locations, studio shoots, or animal species) as named sets. Using the built-in **Sets Editor**, you can easily create, manage, and modify these presets as needed.
