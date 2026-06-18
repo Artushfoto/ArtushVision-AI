@@ -173,17 +173,6 @@ Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
 ---
 
-### 💡 Endless Prompt Customization
-
-The application is distributed with a curated set of **sample prompts** to help you get started right out of the box. These built-in templates are designed to cover common use cases and demonstrate how to effectively interact with the AI models.
-
-However, these samples are just the beginning. The true power of the software lies in its complete flexibility:
-
-* **Edit Existing:** You can easily tweak and modify any of the provided sample prompts to better align with your personal workflow.
-* **Unlimited Creation:** You are not restricted to the presets! You have the absolute freedom to **create an unlimited number of custom prompts** from scratch, tailoring the AI's behavior and output exactly to your specific needs, projects, and creative vision.
-
----
-
 ### 1. Cloud AI
 
 Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API key](/docs/cloud-ai-openrouter-api-setup.html) to access elite models such as `gemini-2.5-flash-lite`, `Claude 3.5 Sonnet`, or `GPT-4o`.iecaegrari dito s
@@ -315,11 +304,22 @@ Go to `Top Toolbar` → `Gear button ` next to the profile selector → `Magnify
 
 ---
 
-## Context-Aware Prompting: The AI Knows Your Gear
+## Context-Aware Prompting: Global AI Hint
 
 Generic AI tools produce generic metadata. ArtushVision AI injects technical background context into every prompt to ensure specific and accurate results.
 
-* **[Global AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Input a specific fact - such as a Latin species name - into the [Global Hint field.](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) The AI treats this as an absolute fact and prioritizes it in the generated metadataab, highlighting the AI Engine dropdown, [Ollama](ollama-installation-guide.html) configuration, and VRAM context limits.]
+* **[Global AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Input a specific fact - such as a Latin species name - into the [Global Hint field.](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables) The AI treats this as an absolute fact and prioritizes it in the generated metadataab, highlighting the AI Engine dropdown, [Ollama](ollama-installation-guide.html) configuration, and VRAM context limits.
+
+---
+
+### 💡 Endless Prompt Customization
+
+The application is distributed with a curated set of **sample prompts** to help you get started right out of the box. These built-in templates are designed to cover common use cases and demonstrate how to effectively interact with the AI models.
+
+However, these samples are just the beginning. The true power of the software lies in its complete flexibility:
+
+* **Edit Existing:** You can easily tweak and modify any of the provided sample prompts to better align with your personal workflow.
+* **Unlimited Creation:** You are not restricted to the presets! You have the absolute freedom to **create an unlimited number of custom prompts** from scratch, tailoring the AI's behavior and output exactly to your specific needs, projects, and creative vision.
 
 ---
 
