@@ -10,7 +10,7 @@
       "name": "gemma2:9b",
       "type": "Text",
       "size": "5.07 GB",
-      "description": "Very good Text model for 2 pass AI\n20% CPU/80% GPU on RTX3060Ti with 8 GB\nGoogle Gemma 2 is a high-performing and efficient model"
+      "description": "Very good Text model for 2 pass AI\n20% CPU/80% GPU on RTX3060Ti with 8 GB VRAM\nGoogle Gemma 2 is a high-performing and efficient model"
     },
     {
       "name": "gemma3:4b",
@@ -58,7 +58,7 @@
       "name": "moondream:1.8b",
       "type": "Vision",
       "size": "1.62 GB",
-      "description": "Compact vision model, ideal for 2-pass AI mode. pro slabší PC\n100% GPU on RTX3060Ti with 8 GB\nINFO: a tiny vision language model that kicks ass and runs anywhere\""
+      "description": "Compact vision model, ideal for 2-pass AI mode.\n100% GPU on RTX3060Ti with 8 GB\nINFO: a tiny vision language model that kicks ass and runs anywhere\""
     },
     {
       "name": "qwen2.5vl:7b",
