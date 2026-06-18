@@ -226,6 +226,9 @@ Go to `Top Menu` → `File` → `OpenRouter Statistic` to view your stats.
 
 Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs. The application integrates directly with your local [Ollama](/docs/ollama-installation-guide.html) installation (see our [Ollama Setup Guide](/docs/ollama-installation-guide.html) if you haven't installed it yet).
 
+> **⚠️ IMPORTANT NOTE regarding small local Ollama models:** 
+> Due to their inherent technical limitations, small local AI models may occasionally fail or produce an error during generation. **This is normal model behavior, not a bug in the application.** If a model fails to process an image, simply **run the image through it again**. In most cases, the second attempt will successfully process the image and generate the correct description and keywords. Additionally, **modifying or simplifying your prompt** can help the model succeed if it struggles with complex instructions.
+
 * **Total Privacy:** Photos never leave your local hardware; no internet connection is required.
 * **Live VRAM Monitoring:** The status bar actively tracks GPU memory usage to ensure stability during local processing.
 
