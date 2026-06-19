@@ -192,7 +192,7 @@ h1 { text-align: center; }
 
 ---
 
-> **WHAT IS NEW: (Will be available soon)** Complete standalone autonomy. Run powerful Vision &amp; Text models **100% locally and privately via Ollama** with zero API costs, map keywords seamlessly against the official **Getty Images Controlled Vocabulary**, and automate distribution with **per-server multi-threaded FTP uploads** and dynamic CSV mapping. Read the full [v1.10 Release Notes](/docs/whats-new.html).
+> **WHAT IS NEW: (New version will be available soon)** Complete standalone autonomy. Run powerful Vision &amp; Text models **100% locally and privately via Ollama** with zero API costs, map keywords seamlessly against the official **Getty Images Controlled Vocabulary**, and automate distribution with **per-server multi-threaded FTP uploads** and dynamic CSV mapping. Read the full [v1.10 Release Notes](/docs/whats-new.html).
 
 ---
 
@@ -243,7 +243,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 ## Why ArtushVision AI?
 
-*   **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast Cloud AI via OpenRouter or **100% Private Local AI** running fully offline via Ollama. Keep personal archives, home family photos, travel journals, or sensitive unreleased commercial shoots completely safe on your local drive with zero cloud logging and zero API costs.
+*   **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast and accurate Cloud AI via OpenRouter or **100% Private Local AI** running fully offline via Ollama. Keep personal archives, home family photos, travel journals, or sensitive unreleased commercial shoots completely safe on your local drive with zero cloud logging and zero API costs.
 *   **[Advanced Manual Keywording](/docs/smart-manual-keywording-batch-editing.html):** Take total control. Manually add, drag-and-drop reorder, or delete keyword bubbles, and easily assign relevant categories. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.
 *   **[Smart Category Mapping](/docs/settings-configuration-customization.html#the-category-matrix):** A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.
 * **[Getty Images Keyword Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html):** Validate keywords instantly against a built-in Master Dictionary of **9,867+** controlled Getty commercial terms. Choose between **fast and intuitive manual validation** or **AI-powered optimization** - available both for individual items and in **batches** - to ensure consistent, near-perfect acceptance rates.
