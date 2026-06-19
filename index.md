@@ -266,7 +266,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 | **Media Privacy** | Mandatory Cloud Upload | 🔒 **100% Private (Local AI via Ollama)** or Thumbnail-only modes |
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
 | **Pricing Model** | Recurring Subscriptions / Credits | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | High-tier monthly plans | **~$0.30** using Gemini Flash or **$0.00** utilizing Local AI |
+| **Cost (10,000 Photos)** | High-tier monthly plans | **~$0.30** using Gemini Flash or **$0.003** utilizing Local AI |
 
 ---
 
