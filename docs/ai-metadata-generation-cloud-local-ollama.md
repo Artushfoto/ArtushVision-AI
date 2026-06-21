@@ -282,6 +282,24 @@ Go to `Top Toolbar` → `Gear button ` next to the profile selector → `Magnify
 
 ---
 
+## 5. Local Ollama Model Setup & Recommended Models
+When working with local AI models (via Ollama):
+* **Profile Editor**: Use the Local Profile Editor to configure the prompt and choose the model.
+* **Model Browser**: Clicking the model lookup search button (`⌕`) and choosing **Recommended...** opens the **Recommended Ollama Models** browser dialog.
+* **Curated Model Registry**: The browser downloads a live list of tested models from an online resource, showcasing details like:
+  - **Model Name**: The model tag identifier for Ollama.
+  - **Type**: Displays whether the model supports **Text** or multimodal **Text, Image** (Vision) inputs.
+  - **Size**: Displays how much disk space the model consumes.
+  - **Description**: Detailed guidelines about the model's capabilities and what photography keywording scenarios it excels at.
+* **Tested & Verified Options**: This curated registry contains models that have been thoroughly tested and verified to work reliably with ArtushVision AI's metadata generation tools. For beginners, it is highly recommended to start with these predefined models to ensure optimal compatibility and performance before experimenting with custom settings. They provide a reliable, plug-and-play experience for generating high-quality keywording results out of the box.
+* **Interface Polish**: Search, filter models by capability, and easily double-click to choose your model. The table remembers custom column resizing and utilizes unified row heights (comfortable `8px 5px` item padding) for seamless readability.
+
+<video src="video/download-recomended-model.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI">
+  ArtushVision AI - Local Ollama Model Setup & Recommended Models.
+</video>
+<p><a href="video/download-recomended-model.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+
 ## Endless Prompt Customization & Context-Aware Prompting
 
 The application is distributed with a curated set of **sample prompts** to help you get started right out of the box. These built-in templates are designed to cover common use cases and demonstrate how to effectively interact with the AI models.
