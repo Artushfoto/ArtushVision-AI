@@ -154,7 +154,7 @@ You only need to assign a category once, and the application will automatically 
 **Working with categories in ArtushVision AI**
 
 <video src="video/how-to-add-categories.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Working with categories">
-  ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
+  Video demonstration of ArtushVision AI: Learn how to seamlessly map, batch edit, and automatically assign metadata categories for microstock agencies.
 </video>
 <p><a href="video/how-to-add-categories.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -209,9 +209,12 @@ To give you a quick overview of your categorization progress, ArtushVision provi
 *   **CAT Badge:** As soon as a photo has at least one category assigned, a highly visible turquoise **`CAT` badge** appears on the image thumbnail in both the Grid and the Detail Window.
 *   **Smart Tooltip:** Hovering your mouse over the `CAT` badge or specific asset flags instantly triggers a pop-up tooltip displaying the exact roster of assigned Master categories for that specific file.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" alt="ArtushVision AI - Turquoise CAT badge visible on image thumbnail" style="width: 400px;" class="screenshot-img">
-</a>
+---
+
+<video src="video/category-filter.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Working with categories">
+  Video demonstration of ArtushVision AI: Automatically filter categories for microstock agencies and work with categories in detail window.
+</video>
+<p><a href="video/category-filter.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
