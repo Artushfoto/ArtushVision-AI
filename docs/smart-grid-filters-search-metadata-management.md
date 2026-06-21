@@ -177,7 +177,7 @@ The top-bar search engine works in real-time, highlighting your target words dir
 Beyond basic text search, ArtushVision AI allows for complex queries based on the presence or absence of specific metadata, which is crucial for preparing stock batches.
 
 * **Blank Field Detection:** Instantly identify all assets that do not have a Title, Description, or Keywords assigned.
-* **[Category Matrix Filter](settings-configuration-customization.html#the-category-matrix):** Filter the grid to show only photos belonging to a specific Master Category (e.g., "Business") while excluding others (e.g., "Editorial").
+* **[Category Matrix Filter](category-matrix.html):** Filter the grid to show only photos belonging to a specific Master Category (e.g., "Business") while excluding others (e.g., "Editorial").
 * **Getty Status Integration:** Isolate photos that are fully Getty Optimized versus those requiring action in the [Interactive Resolver](getty-images-esp-metadata-optimizer.html#interactive-ai-resolver-and-disambiguation).
 
 ---
