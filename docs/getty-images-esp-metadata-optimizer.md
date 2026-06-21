@@ -299,15 +299,38 @@ Once your metadata is verified and the blue/green/purple GETTY badges are active
 
 ---
 
-## 7. Recommended Professional Workflow in 5 Steps
+## 7. Recommended Professional Workflow
 
-1. **Open the Optimizer:** Select your finished photos in the main grid and right-click to open the **Getty Optimizer**.
-2. **Review & AI Fix:** Click **Interactive Resolver**. Set "New AI terms" to `10-30` and click **Resolve with AI beta** to let the AI fix any ambiguous words based on image context (or manually check the correct bubbles).
-3. **Local Cleanup, if You dont use AI:** Click **Re-Optimize All (Local)**. This will automatically uncheck any remaining "Unknown" words, add required technical tags (Horizontal/Vertical, Photography), and sort the list.
-4. **Verify Badges & Save:** Make sure the badges on the thumbnails have turned **Blue/Green/Violet** (indicating 5-50 valid terms). Click **OK** to save the `.getty` sidecar files to your disk.
-5. **Export:** Back in the main Optimizer window, click **Export ESP CSV** to generate your final spreadsheet ready for upload. No rejections, no manual mapping on the portal.
-
----
+### Step-by-Step Workflow
+#### 1. Load Your Files
+* Open the **Getty Images Export Optimizer** in the application.
+* Load a single image or a batch of photos that you wish to optimize.
+#### 2. Open the Interactive Resolver
+* Click on **Interactive Resolver** to review the mapping table.
+* The table highlights recognized terms in **Green**, multiple alternatives in **Orange**, and unknown/unmapped words in **Red**.
+#### 3. Navigate and Filter Interactively
+* **Highlight Photos by Term:** Hover your mouse cursor over any Getty term chip in the table to instantly highlight the thumbnails of photos where this term is (or can be) assigned.
+* **Filter Terms by Photo:** Click on any photo thumbnail to filter the table and show only the terms associated with that specific image (click again to clear the filter).
+* **Drag & Drop Term Assignment:** You can drag any term chip and drop it directly onto another photo thumbnail to instantly assign it.
+  * *Tip:* Hold the **Alt** or **Shift** key while dragging a term onto a thumbnail (or clicking it) to remove/deselect the term from that photo instead.
+#### 4. Clean Up and Edit Keywords
+* **Deselect Unfit Terms:** Simply click on any active (colored) bubble to uncheck it. It will be removed from your final keyword list.
+* **Split Multi-Word Keywords:** Double-click on any original word in the left column to edit it directly or split it into individual keywords using a comma (`,`).
+#### 5. Leverage Cloud AI for Disambiguation (Auto-Resolve)
+* When an original keyword maps to multiple alternative Getty terms (e.g., the word *'crane'* could mean a bird, a construction machine, or a camera rig), **Cloud AI** comes to the rescue.
+* Click **Run AI Resolve**:
+  * The AI engine studies the visual context of your photo (using its title, description, and metadata).
+  * It automatically determines the correct meaning of the keyword and selects the most accurate Getty term.
+  * It can also suggest additional context-aware keywords to fill in any gaps.
+#### 6. Build Your Custom Dictionary (Memory)
+* If the Resolver doesn't recognize a custom term (e.g., a specific landmark, person, or brand), you can map it manually.
+* Right-click the original word in the table and select **Save to User Dictionary**. The application will permanently remember this mapping and apply it automatically to all future exports.
+#### 7. Export the ESP-Compliant CSV
+* Once you are satisfied with the resolved terms, click **Export ESP CSV** to generate the upload template.
+#### 8. Upload to Getty ESP
+* Upload your media files to the Getty Images ESP portal.
+* Apply the exported CSV file to your batch upload according to the integration guide:
+  👉 [Applying Exported CSV to Getty ESP Guide]
 
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
