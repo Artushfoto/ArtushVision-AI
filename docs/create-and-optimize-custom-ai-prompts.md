@@ -235,6 +235,8 @@ Once ChatGPT/Claude/Gemini generates your optimized prompt:
 
 [← Back to ArtushVision AI Home](/index.html)
 
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)

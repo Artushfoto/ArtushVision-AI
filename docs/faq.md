@@ -262,9 +262,10 @@ If you encounter a crash or an error, providing a debug log helps us investigate
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-<!-- --- artushvision-faq-doc --- -->

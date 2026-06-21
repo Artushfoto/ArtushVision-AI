@@ -256,6 +256,8 @@ Immediately after a successful checkout, Polar.sh will generate a unique license
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)

@@ -233,6 +233,8 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)

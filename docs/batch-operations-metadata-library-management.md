@@ -322,6 +322,8 @@ The Global Search and Replace tool is a powerful engine for fixing metadata erro
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
@@ -337,7 +339,3 @@ The Global Search and Replace tool is a powerful engine for fixing metadata erro
 
 ---
 *ArtushVision AI - High-performance library mand precisionagement for professional photography workflows.*
-<!-- --- artushvision-batch-doc --- -->media creators.*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA0NjgxODldfQ==
--->

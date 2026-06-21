@@ -199,6 +199,8 @@ Once you have verified that ArtushVision AI meets your professional standards, y
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)

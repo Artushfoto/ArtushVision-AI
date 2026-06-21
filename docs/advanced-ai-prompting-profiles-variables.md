@@ -329,6 +329,8 @@ Build a library of specialized workflows to switch between different project typ
 
 [← Back to ArtushVision AI Home](/index.html)
 
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
@@ -336,4 +338,3 @@ Build a library of specialized workflows to switch between different project typ
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-<!-- --- artushvision-doc-fix --- -->
