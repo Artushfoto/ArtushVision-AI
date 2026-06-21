@@ -209,6 +209,10 @@ To give you a quick overview of your categorization progress, ArtushVision provi
 *   **CAT Badge:** As soon as a photo has at least one category assigned, a highly visible turquoise **`CAT` badge** appears on the image thumbnail in both the Grid and the Detail Window.
 *   **Smart Tooltip:** Hovering your mouse over the `CAT` badge or specific asset flags instantly triggers a pop-up tooltip displaying the exact roster of assigned Master categories for that specific file.
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" alt="ArtushVision AI - Category badge" style="width: 500px;" class="screenshot-img">
+</a>
+
 ---
 
 ## Category Matrix Editor
