@@ -158,20 +158,6 @@ You only need to assign a category once, and the application will automatically 
 </video>
 <p><a href="video/how-to-add-categories.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
-## Category Matrix Editor
-
-In this editor, you can define exactly how your Master categories map to specific agencies. Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
-
-*   **Master Category:** Usually based on the highly detailed Dreamstime category system. This is the core category you (or the AI) will assign to your photos.
-*   **Agency Columns:** Map the Master category to the corresponding categories for Adobe Stock, Shutterstock, Motion Elements, and others.
-*   **Fully Customizable:** You can modify existing mappings, delete rows, or add entirely new columns if you start contributing to a new microstock agency.
-*   **Smart Split:** For agencies like **Motion Elements**, the matrix distinguishes between `ME Photo` and `ME Video` categories, automatically selecting the correct one based on the file type you are processing.
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Category Mapping Matrix configuration interface in settings" width="100%" class="screenshot-img">
-</a>
-<div style="height: 15px;"></div>
-
 ---
 
 ## How to Assign Categories & Properties
@@ -226,6 +212,22 @@ To give you a quick overview of your categorization progress, ArtushVision provi
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" alt="ArtushVision AI - Turquoise CAT badge visible on image thumbnail" style="width: 400px;" class="screenshot-img">
 </a>
+
+---
+
+## Category Matrix Editor
+
+In this editor, you can define exactly how your Master categories map to specific agencies. Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
+
+*   **Master Category:** Usually based on the highly detailed Dreamstime category system. This is the core category you (or the AI) will assign to your photos.
+*   **Agency Columns:** Map the Master category to the corresponding categories for Adobe Stock, Shutterstock, Motion Elements, and others.
+*   **Fully Customizable:** You can modify existing mappings, delete rows, or add entirely new columns if you start contributing to a new microstock agency.
+*   **Smart Split:** For agencies like **Motion Elements**, the matrix distinguishes between `ME Photo` and `ME Video` categories, automatically selecting the correct one based on the file type you are processing.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Category Mapping Matrix configuration interface in settings" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 ---
 
