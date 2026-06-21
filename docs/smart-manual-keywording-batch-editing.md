@@ -250,6 +250,11 @@ If you accidentally deleted the wrong keywords and **haven't clicked the "Save" 
 * Select the affected photos, **right-click** them, and choose **"Restore original from disk (selection) or from Backup CSV (if CSV backup is enabled)"**.
 * *Alternatively*, click the **"⟲ Restore from Backup"** button located in the bottom toolbar.
 
+<video src="video/restore-metadata-from-backup.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI">
+  ArtushVision AI - Made a Mistake? Restore Original Data from automatic CSV backup.
+</video>
+<p><a href="video/restore-metadata-from-backup.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
 ---
 
 ### How to assign categories and other info (Country, Editorial...)
