@@ -103,7 +103,7 @@ h1 { text-align: center; }
   <div class="review-card">
     <div class="review-header">
       <div class="reviewer-info">
-        <h3>Steven Heap / BackyardSilver</h3>
+        <h3>BackyardSilver</h3>
         <p class="reviewer-role">Professional Stock Photographer</p>
       </div>
     </div>
