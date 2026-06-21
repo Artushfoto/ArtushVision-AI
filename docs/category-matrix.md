@@ -180,8 +180,6 @@ If you prefer manual control, want to adjust the AI's choices, or need to set sp
 
 ---
 
----
-
 ## Smart Batch Editing Controls
 
 When editing multiple files at once, ArtushVision AI provides advanced controls and safeguards to ensure you don't accidentally overwrite diverse metadata.
