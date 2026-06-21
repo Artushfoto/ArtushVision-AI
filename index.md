@@ -17,7 +17,7 @@ h1 { text-align: center; }
   max-width: 900px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
-.privacy-callout h4 {
+.privacy-callout h2 {
   color: #1a7f37;
   margin-top: 0;
   margin-bottom: 8px;
@@ -139,7 +139,7 @@ h1 { text-align: center; }
     background-color: rgba(35, 134, 54, 0.15);
     border: 1px solid rgba(46, 164, 78, 0.4);
   }
-  .privacy-callout h4 {
+  .privacy-callout h2 {
     color: #2ea44e;
   }
   .privacy-callout p {
@@ -198,15 +198,15 @@ h1 { text-align: center; }
 
 <!-- LOKÁLNÍ AI A PRIVÁTNÍ ARCHIVY - NOVÝ ČISTÝ ZELENÝ BOX -->
 <div class="privacy-callout">
-  <h2>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h4>
+  <h2>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h2>
   <p>
-    Protect your family memories, private travel logs, and sensitive client shoots. By running advanced Vision models entirely <strong>locally via Ollama</strong>, your images are analyzed right on your own graphics card. <strong>No photos ever leave your computer</strong>, zero data is uploaded to corporate clouds, and absolute data logging privacy is fully guaranteed.
+    Protect your family memories, private travel logs, and sensitive client shoots. By running advanced Vision models entirely <strong>locally on your own hardware</strong>, your images are analyzed right on your graphics card. <strong>No photos ever leave your computer</strong>, zero data is uploaded to corporate clouds, and absolute data logging privacy is fully guaranteed.
   </p>
 </div>
 
 ---
 
-<h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
+<h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h2>
 
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
@@ -236,14 +236,14 @@ h1 { text-align: center; }
 ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
 
 1. **Load &amp; Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
-2. **Generate &amp; Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **Getty Images Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
+2. **Generate &amp; Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
 3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
 
 ---
 
 ## Why ArtushVision AI?
 
-*   **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast and accurate Cloud AI via OpenRouter or **100% Private Local AI** running fully offline via Ollama. Keep personal archives, home family photos, travel journals, or sensitive unreleased commercial shoots completely safe on your local drive with zero cloud logging and zero API costs.
+*   **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast and accurate Cloud AI via OpenRouter or **100% Private Local AI** running fully offline. Keep personal archives, home family photos, travel journals, or sensitive unreleased commercial shoots completely safe on your local drive with zero cloud logging and zero API costs.
 *   **[Advanced Manual Keywording](/docs/smart-manual-keywording-batch-editing.html):** Take total control. Manually add, drag-and-drop reorder, or delete keyword bubbles, and easily assign relevant categories. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.
 *   **[Smart Category Mapping](/docs/category-matrix.html):** A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.
 * **[Getty Images Keyword Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html):** Validate keywords instantly against a built-in Master Dictionary of **9,867+** controlled Getty commercial terms. Choose between **fast and intuitive manual validation** or **AI-powered optimization** - available both for individual items and in **batches** - to ensure consistent, near-perfect acceptance rates.
