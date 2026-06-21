@@ -289,6 +289,9 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 - [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
 - [Advanced AI Prompting, Profiles &amp; Variables](/docs/advanced-ai-prompting-profiles-variables.html)
 - [Manual Editing, Multi-language Spellcheck &amp; Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
+- [Batch Metadata Actions, Search &amp; Replace](/docs/batch-operations-metadata-library-management.html)
+- [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
+
 
 ### 3. Professional Asset Distribution
 - [Getty Images ESP Metadata Optimizer &amp; Resolver](/docs/getty-images-esp-metadata-optimizer.html)
@@ -296,8 +299,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 - [Dynamic CSV Template Mapping](/docs/settings-configuration-customization.html#advanced-csv-template-editor)
 
 ### 4. Advanced Management
-- [Batch Metadata Actions, Search &amp; Replace](/docs/batch-operations-metadata-library-management.html)
-- [Dynamic Batch File Rename Placeholders](/docs/batch-operations-metadata-library-management.html)
+
 - [Workspace Theming, VRAM context tuning &amp; Data Safety](/docs/settings-configuration-customization.html)
 
 ---
