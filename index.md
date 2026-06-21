@@ -314,6 +314,8 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
+[⭐ User Reviews & Testimonials](/docs/reviews.html)
+
 [💬 Support, Bugs &amp; Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
