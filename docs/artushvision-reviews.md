@@ -132,22 +132,7 @@ Are you a content creator, blogger, YouTuber, or photography educator? We'd love
 
 To learn more about our commission rates and to request your custom affiliate link, please reach out to us:
 
-<a href="#" id="affiliate-link" style="font-weight: bold; text-decoration: none; color: #0969da;">📧 Contact us via Email to join</a>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var affLink = document.getElementById("affiliate-link");
-  if (affLink) {
-    affLink.addEventListener("click", function(e) {
-      e.preventDefault();
-      var user = "affiliate";
-      var domain = "artushfoto.eu";
-      var subject = "?subject=ArtushVision%20Affiliate%20Program";
-      window.location.href = "mailto:" + user + "@" + domain + subject;
-    });
-  }
-});
-</script>
+**📧 Contact us to join:** Send an email to **affiliate [at] artushfoto [dot] eu** (Subject: Affiliate Program)
 
 ---
 
