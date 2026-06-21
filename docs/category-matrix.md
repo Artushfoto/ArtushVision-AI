@@ -173,10 +173,12 @@ If you prefer manual control, want to adjust the AI's choices, or need to set sp
 *   **Detail Window (Single File):** Assigned categories, the Country tag, and active property flags are clearly displayed next to the Description. You can review them, see them neatly formatted, and easily remove any incorrect tags using the "×" button.
 *   **Grid (Batch Edit):** Select multiple photos and click the **Categories** button in the Batch Edit bar. Here you can assign up to 3 Master categories, define the Country (auto-extracted from GPS or entered manually), and toggle property flags. Your changes will be applied to all selected photos instantly.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" alt="ArtushVision AI - Manual category assignment dropdown menu in Detail Window" width="100%" class="screenshot-img">
-</a>
-<div style="height: 15px;"></div>
+<video src="video/category-filter.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Working with categories">
+  Video demonstration of ArtushVision AI: Automatically filter categories for microstock agencies and work with categories in detail window.
+</video>
+<p><a href="video/category-filter.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+---
 
 ---
 
@@ -208,13 +210,6 @@ Property flags (`Illustration`, `Editorial`, `18+ Mature`, `AI Generated`, `3D R
 To give you a quick overview of your categorization progress, ArtushVision provides immediate visual feedback:
 *   **CAT Badge:** As soon as a photo has at least one category assigned, a highly visible turquoise **`CAT` badge** appears on the image thumbnail in both the Grid and the Detail Window.
 *   **Smart Tooltip:** Hovering your mouse over the `CAT` badge or specific asset flags instantly triggers a pop-up tooltip displaying the exact roster of assigned Master categories for that specific file.
-
----
-
-<video src="video/category-filter.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Working with categories">
-  Video demonstration of ArtushVision AI: Automatically filter categories for microstock agencies and work with categories in detail window.
-</video>
-<p><a href="video/category-filter.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
