@@ -126,6 +126,16 @@ h1 { text-align: center; }
 
 ---
 
+## 🤝 Partner & Affiliate Program
+
+Are you a content creator, blogger, YouTuber, or photography educator? We'd love to partner with you! Earn a commission for every new user you refer to ArtushVision AI. 
+
+We personally review all our partners to ensure a great fit for the community. To learn more about our commission rates and to request your custom affiliate link, please reach out to us:
+
+**[📧 Contact us via Email to join](mailto:TVUJ@EMAIL.CZ?subject=ArtushVision%20Affiliate%20Program)**
+
+---
+
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
