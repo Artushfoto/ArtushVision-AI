@@ -261,7 +261,7 @@ If you accidentally deleted the wrong keywords and **haven't clicked the "Save" 
 
 ---
 
-**1. Batch assignment in the Grid view**
+[**1. Batch assignment in the Grid view**](docs/category-matrix.html)
 If you need to assign the same categories or properties to multiple photos at once, select them in the grid (e.g., by dragging the mouse, or using `Ctrl+Click` / `Shift+Click`). Then, in the top bar under the **Batch Edit** panel, click the **Categories** button, or select **Other info (Country, Editorial...)** from the target dropdown menu and click **+ Add**. In these dialogs, you can batch edit:
 *   Check up to 3 matching Master categories.
 *   Set the country of origin (the application can also automatically load this from the GPS coordinates of individual photos).
