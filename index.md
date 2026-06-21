@@ -1,3 +1,4 @@
+
 ---
 title: "ArtushVision AI | Professional Photo Metadata & Auto Keywording"
 description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with local & cloud Vision AI."
@@ -266,11 +267,11 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 | **Media Privacy** | Mandatory Cloud Upload | 🔒 **100% Private (Local AI via Ollama)** or Thumbnail-only modes |
 | **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
 | **Pricing Model** | Recurring Subscriptions / Credits | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | High-tier monthly plans | **~$0.30** using Gemini Flash or **$0.003** utilizing Local AI |
+| **Cost (10,000 Photos)** | High-tier monthly plans | **~$6** using Gemini Flash or **Free** utilizing Local AI |
 
 ---
 
-> **Exceptional Value:** Describe up to **150,000 photos for only $5** with perfect, high-quality results.
+> **Exceptional Value:** Describe up to **10,000 photos for only $6** with perfect, high-quality results.
 > **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
 ---
