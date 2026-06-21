@@ -268,7 +268,7 @@ If you need to assign the same categories or properties to multiple photos at on
 *   Mark photos as Editorial, Illustration, or 18+ (Mature).
 Upon confirmation, these properties are immediately applied to all currently selected images.
 
-**2. Individually in the Edit window (Photo detail)**
+[**2. Individually in the Edit window (Photo detail)**](docs/category-matrix.html#how-to-assign-categories--properties)
 During the detailed editing of a specific photo, you will find the **Categories** and **Properties** sections located right next to the Description field. The currently assigned categories are displayed here as a neat bulleted list (you can easily remove them using the cross button or add new ones). Just below them, you will find a dropdown with a complete list of countries for manual country editing, and checkboxes for quick toggling of flags (Editorial, Illustration, etc.).
 
 ---
