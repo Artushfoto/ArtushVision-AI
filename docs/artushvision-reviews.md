@@ -130,7 +130,7 @@ h1 { text-align: center; }
 
 Are you a content creator, blogger, YouTuber, or photography educator? We'd love to partner with you! Earn a commission for every new user you refer to ArtushVision AI. 
 
-We personally review all our partners to ensure a great fit for the community. To learn more about our commission rates and to request your custom affiliate link, please reach out to us:
+To learn more about our commission rates and to request your custom affiliate link, please reach out to us:
 
 <a href="#" id="affiliate-link" style="font-weight: bold; text-decoration: none; color: #0969da;">📧 Contact us via Email to join</a>
 
