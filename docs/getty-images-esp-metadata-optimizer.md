@@ -307,7 +307,7 @@ Once your metadata is verified and the blue/green/purple GETTY badges are active
 * Load a single image or a batch of photos that you wish to optimize.
 #### 2. Open the Interactive Resolver
 * Click on **Interactive Resolver** to review the mapping table.
-* The table highlights recognized terms in **Green**, multiple alternatives in **Orange**, and unknown/unmapped words in **Red**.
+* The table highlights recognized terms in **Blue**, multiple alternatives in **Orange**, and unknown/unmapped words in **Red**.
 #### 3. Navigate and Filter Interactively
 * **Highlight Photos by Term:** Hover your mouse cursor over any Getty term chip in the table to instantly highlight the thumbnails of photos where this term is (or can be) assigned.
 * **Filter Terms by Photo:** Click on any photo thumbnail to filter the table and show only the terms associated with that specific image (click again to clear the filter).
