@@ -198,7 +198,7 @@ h1 { text-align: center; }
 
 <!-- LOKÁLNÍ AI A PRIVÁTNÍ ARCHIVY - NOVÝ ČISTÝ ZELENÝ BOX -->
 <div class="privacy-callout">
-  <h4>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h4>
+  <h2>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h4>
   <p>
     Protect your family memories, private travel logs, and sensitive client shoots. By running advanced Vision models entirely <strong>locally via Ollama</strong>, your images are analyzed right on your own graphics card. <strong>No photos ever leave your computer</strong>, zero data is uploaded to corporate clouds, and absolute data logging privacy is fully guaranteed.
   </p>
@@ -206,7 +206,7 @@ h1 { text-align: center; }
 
 ---
 
-<h3 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
+<h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h3>
 
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
