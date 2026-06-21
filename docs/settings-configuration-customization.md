@@ -227,7 +227,7 @@ Go to `Top Menu` → `File` → `Settings` → `CSV Templates`
 
 ## The Category Matrix
 
-The [Category Matrix](#the-category-matrix) is the translation engine of ArtushVision AI. It ensures that your internal organization is correctly interpreted by different stock agencies.
+The Category Matrix is the translation engine of ArtushVision AI. It ensures that your internal organization is correctly interpreted by different stock agencies.
 
 * **ID Mapping:** Enter the specific numerical or text IDs used by agencies like Adobe Stock, Shutterstock, or Dreamstime for various categories.
 * **Media Type Logic:** Apply different category rules for Photo and Video assets, ensuring each media type is funneled into the correct commercial bin.

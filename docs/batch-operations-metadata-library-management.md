@@ -1,13 +1,12 @@
-<!-- --- artushvision-batch-doc --- -->
 ---
-title: "Batch Operations and Library Management | ArtushVision AI Documentation"
-description: "Master bulk metadata editing and file management. Learn how to use global search and replace, dynamic batch renaming, and synchronized file operations."
+title: "AI Metadata Generation: Cloud and Local Vision Models | ArtushVision AI"
+description: "Professional AI photo and video tagging workstation. Automate stock photo & video metadata tagging. Local batch operations, XMP sidecar support & AI global search. Save time on manual keywording."
 ---
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 h1 { text-align: center; }
-shot
+
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
@@ -15,12 +14,7 @@ shot
   max-width: 100%;
   text-decoration: none;
 }
-.screen</style>
-</div>
-
-# Batch Operations: Surgical Precision for Massive Libraries
-
-[← Back to ArtushVision AI Home](https://vision.artushfot-img {
+.screenshot-img {
   width: 100%;
   height: auto;
   display: block;
