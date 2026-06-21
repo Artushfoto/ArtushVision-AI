@@ -1,4 +1,3 @@
-<!-- --- artushvision-categories-doc --- -->
 ---
 title: "Smart Category Mapping | ArtushVision AI"
 description: "Master Categories in ArtushVision AI. Experience real-time tag bubbles, drag-and-drop mechanics, and lightning-fast sorting and culling."
@@ -148,11 +147,9 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-The **Category Mapping Matrix** is a powerful feature designed to eliminate the tedious task of manually assigning different categories for each individual stock photo agency. Since every agency (Adobe Stock, Shutterstock, Dreamstime, etc.) uses its own unique category names or ID numbers, ArtushVision AI uses a "Master Category" system to unify them.
+The **Category Mapping Matrix** is a powerful feature designed to eliminate the tedious task of manually assigning different categories for each individual stock photo agency. Since every agency (Adobe Stock, Shutterstock, Dreamstime, etc.) uses its own unique category names or ID numbers, ArtushVision AI uses a unified "Master Category" system.
 
-You only need to assign a category once, and the application will automatically translate it into the correct format for every agency during the CSV export or FTP upload.
-
-Go to `Batch Edit Toolbar` → `Categories`
+You only need to assign a category once, and the application will automatically translate it into the correct format for every agency during your CSV export or FTP upload.
 
 **Working with categories in ArtushVision AI**
 
@@ -161,60 +158,85 @@ Go to `Batch Edit Toolbar` → `Categories`
 </video>
 <p><a href="video/how-to-add-categories.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
-
 ## Category Matrix Editor
-In this editor, you can define exactly how your Master categories map to specific agencies. 
 
-*   **Master Category:** Usually based on the Dreamstime category system (which is very detailed). This is the category you (or the AI) will assign to the photo.
-*   **Agency Columns:** You can map the Master category to corresponding categories for Adobe Stock, Shutterstock, Dreamstime, Motion Elements and others.
-*   **Customization:** You can add new rows, delete them, or add entirely new columns if you start contributing to a new agency.
-*   **Smart Split:** For **Motion Elements**, the matrix even distinguishes between `ME Photo` and `ME Video` categories, and the app automatically picks the right one based on the file type you are processing.
+In this editor, you can define exactly how your Master categories map to specific agencies. Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
 
-Go to `Top Menu` → `File` → `Settings` → `Category Mapping Matrix`.
+*   **Master Category:** Usually based on the highly detailed Dreamstime category system. This is the core category you (or the AI) will assign to your photos.
+*   **Agency Columns:** Map the Master category to the corresponding categories for Adobe Stock, Shutterstock, Motion Elements, and others.
+*   **Fully Customizable:** You can modify existing mappings, delete rows, or add entirely new columns if you start contributing to a new microstock agency.
+*   **Smart Split:** For agencies like **Motion Elements**, the matrix distinguishes between `ME Photo` and `ME Video` categories, automatically selecting the correct one based on the file type you are processing.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI - Category Mapping Matrix configuration interface in settings" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
-* **Fully Customizable Matrix:** The category matrix is completely editable, allowing you to modify existing mappings or add custom categories for any additional microstock agency.
+---
 
-## How to Assign Categories
+## How to Assign Categories & Properties
 
-You can assign categories to your files in two ways:
+You can assign categories to your files in two main ways:
 
 ### 1. Automatic AI Categorization
-When you run the Cloud AI or Local AI analysis, the AI can be instructed to automatically select the best-fitting Master categories based on the image content. **To make this work, you must include the `{allowed_categories}` variable in your AI profile's prompt.** The AI then selects from the allowed list in your matrix, and the app instantly stores them in the metadata.
+When running Cloud AI or Local AI analysis, the system can automatically select the best-fitting Master categories based on the image content. **To enable this, include the `{allowed_categories}` variable in your AI profile's prompt.** The AI will then choose exclusively from the allowed list in your matrix and instantly store the results in the metadata.
 
-### 2. Manual Assignment & Additional Properties
-If you prefer to assign categories manually, want to adjust the AI's choices, or need to set specific metadata flags, you can easily do so:
-*   **In the Grid (Batch Edit):** Select one or multiple photos and click the **Categories** button in the Batch Edit bar. Here you can check up to 3 Master categories. You can also define the **Country** (which is automatically extracted if the photo contains GPS, or you can enter it manually) and toggle specific flags like **Editorial**, **Mature (18+)**, **Illustration**, or **AI Generated**. They will be applied to all selected photos instantly.
-*   **In the Detail Window:** The assigned categories, Country, and active flags are clearly displayed in their own section next to the Description. You can review them, see them neatly formatted, and easily delete any incorrect ones using the "×" button.
+### 2. Manual & Batch Assignment
+If you prefer manual control, want to adjust the AI's choices, or need to set specific metadata flags (like Country, Editorial, Mature 18+, Illustration, or AI Generated), you can do so easily:
 
-Click to `Categories Button` in Detail Window
+*   **Detail Window (Single File):** Assigned categories, the Country tag, and active property flags are clearly displayed next to the Description. You can review them, see them neatly formatted, and easily remove any incorrect tags using the "×" button.
+*   **Grid (Batch Edit):** Select multiple photos and click the **Categories** button in the Batch Edit bar. Here you can assign up to 3 Master categories, define the Country (auto-extracted from GPS or entered manually), and toggle property flags. Your changes will be applied to all selected photos instantly.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/add-category-menu.png" alt="ArtushVision AI - Manual category assignment dropdown menu in Detail Window" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
-## Visual Indicators: The `CAT` Badge
-To give you a quick overview of your progress, ArtushVision provides visual feedback:
-*   **CAT Badge:** As soon as a photo has at least one category assigned, a highly visible turquoise **`CAT` badge** appears on the image thumbnail in both the Grid and the Detail Window.
-*   **Smart Tooltip:** Hovering your mouse over the `CAT` badge or specific asset flags (*Categories, Editorial, Mature (18+), Illustration,* or *AI Generated*) instantly triggers a pop-up tooltip displaying the exact roster of assigned Master categories for that specific file.
+---
 
+## Smart Batch Editing Controls
+
+When editing multiple files at once, ArtushVision AI provides advanced controls and safeguards to ensure you don't accidentally overwrite diverse metadata.
+
+### "Apply/Change Categories" Safeguard
+To prevent accidentally overwriting the unique categories of your photos when bulk editing other fields (like Country or Editorial status):
+*   **Automatic Detection:** If your selected photos have *different* categories, the **`Apply/Change categories`** checkbox at the top of the dialog will default to **unchecked** (`False`), and the categories list will be disabled.
+*   **Preserving Existing Data:** As long as this remains unchecked, the program bypasses the 3-category limit check and leaves the original categories of all photos completely untouched.
+*   **Explicit Overwriting:** If you *do* want to unify and apply the same categories to all selected photos, simply check the box, select up to 3 categories, and apply.
+
+### Three-State (Tristate) Property Flags
+Property flags (`Illustration`, `Editorial`, `18+ Mature`, `AI Generated`, `3D Render`) support three distinct states, giving you maximum control over mixed batches:
+
+| Checkbox State | Visual Appearance | Action on Save |
+| :--- | :---: | :--- |
+| **Checked** | `[x]` | Force-sets the property to **True** for all selected photos. |
+| **Unchecked** | `[ ]` | Force-sets the property to **False** for all selected photos. |
+| **Partially Checked** | `[-]` | **Keep Existing:** Preserves the individual original values for each photo. |
+
+*How to use it:* If your selected photos contain a mix of properties (e.g., only some are marked as `Editorial`), the checkbox will automatically initialize as **Partially Checked** `[-]`. Click it to force all to True, click again for False, or leave it as `[-]` to retain their current mixed states while you modify other properties.
+
+---
+
+## Visual Indicators: The `CAT` Badge
+
+To give you a quick overview of your categorization progress, ArtushVision provides immediate visual feedback:
+*   **CAT Badge:** As soon as a photo has at least one category assigned, a highly visible turquoise **`CAT` badge** appears on the image thumbnail in both the Grid and the Detail Window.
+*   **Smart Tooltip:** Hovering your mouse over the `CAT` badge or specific asset flags instantly triggers a pop-up tooltip displaying the exact roster of assigned Master categories for that specific file.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" alt="ArtushVision AI - Turquoise CAT badge visible on image thumbnail" style="width: 400px;" class="screenshot-img">
 </a>
 
+---
+
 ## Seamless CSV Export & FTP Integration
-The true magic of the Category Matrix happens when you export your metadata. 
 
-In the **[CSV Template Editor](settings-configuration-customization.html#advanced-csv-template-editor)**, you can add columns for `Mapped Category 1`, `Mapped Category 2`, etc. 
+The true magic of the Category Matrix happens when you export your metadata.
 
-*   **Smart Auto-Mapping:** If you name your CSV template or FTP Server profile with the name of the agency (for example, `"Shutterstock"` or `"Dreamstime"`), ArtushVision AI automatically understands where the file is going. It looks into your Category Matrix and fills the CSV column with the exact category required by that specific agency.
-*   **Dreamstime ID Conversion:** For Dreamstime, you don't even need to know their category numbers. The app automatically converts text categories (like "Landscape" or "People") into Dreamstime's required numerical IDs during the export.
+In the **[CSV Template Editor](settings-configuration-customization.html#advanced-csv-template-editor)**, you can easily add dynamic columns for `Mapped Category 1`, `Mapped Category 2`, etc.
+
+*   **Smart Auto-Mapping:** If you name your CSV template or FTP Server profile with the name of the agency (e.g., `"Shutterstock"` or `"Dreamstime"`), ArtushVision AI automatically understands the destination. It looks into your Category Matrix and populates the export with the exact category format required by that specific agency.
+*   **Dreamstime ID Conversion:** For Dreamstime, you don't even need to memorize their category numbers. The app automatically converts text-based Master categories (like "Landscape" or "People") into Dreamstime's required numerical IDs during export.
 
 ---
 
@@ -233,4 +255,3 @@ In the **[CSV Template Editor](settings-configuration-customization.html#advance
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-<!-- --- artushvision-categories-doc --- -->
