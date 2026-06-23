@@ -217,12 +217,12 @@ The Getty Resolver is designed to work perfectly even without an internet connec
 
 2. **Getty Term (Chips)**: The mapped terms from the Getty Master Dictionary.
     * **Color Coding**:
+        * **Orange Terms** (Unmapped / Unrecognized): These are custom or unrecognized terms that could not be found in the Getty master dictionary or your user mappings. The orange chip indicates a raw keyword that you can manually map, edit, delete or save to your dictionary.
         * **Blue Terms (Standard)**: These are standard, valid Getty terms successfully mapped from the master dictionary.
         * **Green Terms (AI Suggested)**: These are brand new, highly relevant terms suggested by the Cloud AI based on your photo's text context and your prompt.
         * **Purple Chips (Mixed State)**: If you select a term for *some* photos but not *all* photos in your current batch view, the chip turns **Purple**. This immediately tells you that you have customized the selection and successfully disambiguated meanings across different photos.
     * **Interaction**:
         * **Manual Selection**: You can check multiple terms at once. By default, this applies the term to *all* photos in the batch that share the original word. To apply a term to a single photo, click its thumbnail in the top panel first.
-        * **Double-Click to Delete**: If multiple chips are shown and a suggested term is irrelevant, you can **double-click** the chip to delete it from the options.
         * **Hover Context Visualizer**: Hover your mouse over any term (chip) to instantly highlight the photo thumbnails it is currently assigned to. If you hover over an *unselected* term, it will light up all photos containing that original keyword, showing you exactly where the term *can* be assigned.
         * **Drag & Drop (Assign & Remove)**: Found a perfect term and want to assign it to just one specific photo? Simply grab the chip and drag & drop it directly onto the desired photo thumbnail to instantly assign it. To **remove** a term from a specific photo, hold **Alt** (or **Shift**) while dropping the chip onto the thumbnail. 
 
