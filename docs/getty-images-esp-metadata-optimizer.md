@@ -301,7 +301,7 @@ Go to `Templates` → `Apply from CSV` → `Submit`
 </video>
 <p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
-### Option B: Export for Getty (Direct Metadata Embedding)
+### Option B: Export JPG for Getty (Direct Metadata Embedding)
 Export copies of your actual image/video files with Getty-optimized metadata written directly into the files themselves.
 * **How it works:** Click **Export for Getty...** and select a destination folder. ArtushVision AI creates a folder named `YYYYMMDD-getty` (e.g., `20260624-getty`) and copies the files. It then writes the Getty titles, descriptions, and keywords directly into standard metadata fields (e.g., `XMP-dc`, `IPTC`, `XPKeywords`) and custom `XMP-getty` fields.
 * **RAW & Video Support:** For JPEGs, the metadata is written directly inside the file headers. For RAW formats and videos, it will automatically write to `.xmp` sidecar files (if the raw writing option is enabled in settings) to preserve the original file integrity.
