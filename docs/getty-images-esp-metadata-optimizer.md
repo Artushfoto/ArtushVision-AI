@@ -342,7 +342,7 @@ Choose the export method that suits your workflow:
 #### 8. Upload to Getty ESP
 * Upload your media files to the Getty Images ESP portal.
 * Apply the exported CSV file to your batch upload according to the integration guide:
-  👉 [Applying Exported CSV to Getty ESP Guide]
+  👉 [[Applying Exported CSV to Getty ESP Guide](getty-images-esp-metadata-optimizer.html#option-a-precision-csv-export-for-esp-web-portal)]
 
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
