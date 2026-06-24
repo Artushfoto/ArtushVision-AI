@@ -180,7 +180,8 @@ The main window displays two lists:
 ### Main Window Actions:
 * **Interactive Resolver (AI Mapping)...**: Opens the advanced interactive table to manually or AI-resolve unknown words and ambiguities.
 * **Re-Optimize All (Local)**: A 1-click local optimization. It automatically unchecks unknown words, appends technical tags (e.g., *Horizontal*, *Vertical*, *Photography*), and sorts the keywords. It runs locally without consuming API tokens.
-* **Export ESP CSV**: Generates the final CSV file formatted specifically for the Getty Images ESP portal.
+* **Export CSV...** (previously *Export ESP CSV*): Generates a final CSV file formatted specifically for uploading metadata to the Getty Images ESP portal.
+* **Export for Getty...**: Creates copies of the actual selected files (JPEGs, RAWs, or videos) in a designated directory and writes the optimized Getty Title, Description, and Keywords directly into standard metadata fields (EXIF/IPTC/XMP) using ExifTool.
 * **Delete Getty Data**: Deletes the generated `.getty` sidecar files if you want to start from scratch.
 
 ---
@@ -209,7 +210,7 @@ At the top of the window, you'll see thumbnails of your selected batch.
 
 ---
 
-### Interactive Table & Color-Coded Terms new
+### Interactive Table & Color-Coded Terms
 
 The Getty Resolver is designed to work perfectly even without an internet connection. The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. Understanding the interface and color coding is key to mastering the Resolver:
 
@@ -293,9 +294,18 @@ Teach ArtushVision AI your specific niche. If you specialize in rare Latin speci
 
 ## 6. Final Export and Global Distribution
 
-Once your metadata is verified and the blue/green/purple GETTY badges are active, you are ready for a flawless submission.
+Once your metadata is verified and the blue/green/purple GETTY badges are active, you have two options for exporting your work:
 
-* **Precision CSV Export:** Generate a flawlessly formatted spreadsheet ready for the Getty ESP portal.
+### Option A: Precision CSV Export (For ESP Web Portal)
+Generate a flawlessly formatted spreadsheet ready for the Getty Images ESP portal.
+* **How it works:** Click **Export CSV...** and choose your preferred CSV template. It will export a `.csv` file mapping filenames to their optimized Getty tags, titles, and descriptions.
+* **Uploading:** Go to the Getty ESP portal, upload your media files, and then apply the metadata in one go using the `Templates` → `Apply from CSV` option.
+
+### Option B: Export for Getty (Direct Metadata Embedding)
+Export copies of your actual image/video files with Getty-optimized metadata written directly into the files themselves.
+* **How it works:** Click **Export for Getty...** and select a destination folder. ArtushVision AI creates a folder named `YYYYMMDD-getty` (e.g., `20260624-getty`) and copies the files. It then writes the Getty titles, descriptions, and keywords directly into standard metadata fields (e.g., `XMP-dc`, `IPTC`, `XPKeywords`) and custom `XMP-getty` fields.
+* **RAW & Video Support:** For JPEGs, the metadata is written directly inside the file headers. For RAW formats and videos, it will automatically write to `.xmp` sidecar files (if the raw writing option is enabled in settings) to preserve the original file integrity.
+* **Benefit:** The exported JPEGs are completely self-contained. You can send them directly to clients, distribute them through other channels, or archive them with their final Getty-approved metadata fully embedded.
 
 ---
 
@@ -325,8 +335,10 @@ Once your metadata is verified and the blue/green/purple GETTY badges are active
 #### 6. Build Your Custom Dictionary (Memory)
 * If the Resolver doesn't recognize a custom term (e.g., a specific landmark, person, or brand), you can map it manually.
 * Right-click the original word in the table and select **Save to User Dictionary**. The application will permanently remember this mapping and apply it automatically to all future exports.
-#### 7. Export the ESP-Compliant CSV
-* Once you are satisfied with the resolved terms, click **Export ESP CSV** to generate the upload template.
+#### 7. Export CSV or Fully-Tagged JPEGs
+Choose the export method that suits your workflow:
+* **For CSV upload:** Click **Export CSV...** to generate an ESP-compliant spreadsheet template.
+* **For self-contained files:** Click **Export for Getty...** to export copies of your files with the Getty-optimized metadata embedded directly inside the JPEGs or as XMP sidecars.
 #### 8. Upload to Getty ESP
 * Upload your media files to the Getty Images ESP portal.
 * Apply the exported CSV file to your batch upload according to the integration guide:
