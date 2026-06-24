@@ -211,6 +211,7 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 
 * **Non-Destructive XMP Workflow:** All metadata edits are safely stored in external sidecar files, keeping your original RAW assets completely untouched.
 * **Two-Way Synchronization:** Made changes directly in Lightroom or other software? No problem. To pull external edits (like new ratings, color labels, or descriptions) back into ArtushVision AI, simply select the affected photos in the grid, right-click, and choose **Restore original from disk**. Alternatively, you can click **Refresh from Disk** in the Detail window or just reload the entire folder.
+* **Restore Original Keyword Order:** Adobe Lightroom often reshuffles or alphabetizes your keyword lists when metadata is synced or exported. ArtushVision AI automatically saves your custom optimized tag order inside `XMP-artush:KeywordOrder`. Simply right-click the selected photos in the main grid and choose **Restore keywords and order after LR Export** to automatically sort them back. Any new keywords you manually added in Lightroom in the meantime are safely preserved and appended to the very end of the list.
 * **Instant Catalog Synchronization:** To apply your AI-generated keywords and edits back to your master catalog, simply select the modified photos in your software's grid and reload the metadata:
   * **Adobe Lightroom:** Right-click the selected assets and choose **Metadata > Read Metadata from Files**.
   * **Capture One:** Right-click the selected assets and choose **Load Metadata**.
