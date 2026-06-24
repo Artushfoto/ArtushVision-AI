@@ -265,15 +265,6 @@ A major hurdle in metadata is homonyms—words with multiple meanings. If you us
 
 ---
 
-**Applying Exported CSV to Getty ESP** (https://esp.gettyimages.com)
-
-Go to `Templates` → `Apply from CSV` → `Submit`
-
-<video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP">
-  ArtushVision AI - Applying exported CSV to Getty ESP.
-</video>
-<p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
-
 ## 5. Personal User Getty Dictionary and Memory
 
 Teach ArtushVision AI your specific niche. If you specialize in rare Latin species, local landmarks, or technical subjects missing from the Master Dictionary, you can map them once and save the rule directly to your Personal Dictionary.
@@ -300,6 +291,15 @@ Once your metadata is verified and the blue/green/purple GETTY badges are active
 Generate a flawlessly formatted spreadsheet ready for the Getty Images ESP portal.
 * **How it works:** Click **Export CSV...** and choose your preferred CSV template. It will export a `.csv` file mapping filenames to their optimized Getty tags, titles, and descriptions.
 * **Uploading:** Go to the Getty ESP portal, upload your media files, and then apply the metadata in one go using the `Templates` → `Apply from CSV` option.
+
+**Applying Exported CSV to Getty ESP** (https://esp.gettyimages.com)
+
+Go to `Templates` → `Apply from CSV` → `Submit`
+
+<video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP">
+  ArtushVision AI - Applying exported CSV to Getty ESP.
+</video>
+<p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ### Option B: Export for Getty (Direct Metadata Embedding)
 Export copies of your actual image/video files with Getty-optimized metadata written directly into the files themselves.
