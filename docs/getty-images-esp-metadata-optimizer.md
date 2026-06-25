@@ -324,8 +324,12 @@ Export copies of your actual image/video files with Getty-optimized metadata wri
 * **Drag & Drop Term Assignment:** You can drag any term chip and drop it directly onto another photo thumbnail to instantly assign it.
   * *Tip:* Hold the **Alt** or **Shift** key while dragging a term onto a thumbnail (or clicking it) to remove/deselect the term from that photo instead.
 #### 4. Clean Up and Edit Keywords
-* **Deselect Unfit Terms:** Simply click on any active (colored) bubble to uncheck it. It will be removed from your final keyword list.
+* **Deselect Unfit Terms:** Simply click on any active (colored) bubble to uncheck it and remove it from your final keyword list.
+
+* **Handling Unknown Terms:** If you encounter unfamiliar terms, you can either deselect them or leave them checked to resolve later directly in Getty, QHero, or DeepMeta. If any of these keywords match an official Getty term, you can add it to your custom Getty dictionary. During future keyword optimizations, this word will automatically be recognized as a known term.
+
 * **Split Multi-Word Keywords:** Double-click on any original word in the left column to edit it directly or split it into individual keywords using a comma (`,`).
+
 #### 5. Leverage Cloud AI for Disambiguation (Auto-Resolve)
 * When an original keyword maps to multiple alternative Getty terms (e.g., the word *'crane'* could mean a bird, a construction machine, or a camera rig), **Cloud AI** comes to the rescue.
 * Click **Run AI Resolve**:
