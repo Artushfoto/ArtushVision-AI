@@ -180,9 +180,9 @@ The main window displays two lists:
 ### Main Window Actions:
 * **Interactive Resolver (AI Mapping)...**: Opens the advanced interactive table to manually or AI-resolve unknown words and ambiguities.
 * **Re-Optimize All (Local)**: A 1-click local optimization. It automatically unchecks unknown words, appends technical tags (e.g., *Horizontal*, *Vertical*, *Photography*), and sorts the keywords. It runs locally without consuming API tokens.
-* **Export CSV...** (previously *Export ESP CSV*): Generates a final CSV file formatted specifically for uploading metadata to the Getty Images ESP portal.
+* **Export ESP CSV...**: Generates a final CSV file formatted specifically for uploading metadata to the Getty Images ESP portal.
 * **Export for Getty...**: Creates copies of the actual selected files (JPEGs, RAWs, or videos) in a designated directory and writes the optimized Getty Title, Description, and Keywords directly into standard metadata fields (EXIF/IPTC/XMP) using ExifTool.
-* **Delete Getty Data**: Deletes the generated `.getty` sidecar files if you want to start from scratch.
+* **Delete Getty Data**: Deletes the generated `getty terms` from selected files if you want to start from scratch.
 
 ---
 
