@@ -183,6 +183,7 @@ The main dashboard displays your original keywords side-by-side with the optimiz
 * **Interactive Resolver (AI Mapping)...**: Opens the visual dashboard for rapid validation and mapping.
 * **Export ESP CSV...**: Generates a final, clean CSV spreadsheet specifically formatted for direct import into the Getty Images ESP portal.
 * **Export for Getty...**: Creates copies of the selected files (JPEGs, RAWs, or videos) in your target directory and writes the optimized Title, Description, and approved Keywords directly into their standard metadata fields (EXIF/IPTC/XMP) using ExifTool.
+  * **Direct Upload & Re-generation:** Simply upload these embedded files directly to the Getty portal, **no CSV import is required**. Once the upload is complete, you can safely delete these exported copies from your local drive to save disk space, as they can be fully re-generated from your originals at any time.
 * **Delete Getty Data**: Clears all generated `getty terms` from the selected files' metadata space so you can start the optimization process from scratch.
 * **Custom Content Control:** The Getty Images Export Optimizer also allows you to set a specific title and description tailored exclusively for the Getty ESP portal. These adjustments are applied strictly to your Getty metadata and have no impact on your standard title and description.
 
