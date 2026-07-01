@@ -217,10 +217,6 @@ Available models:
   * **MiniLM-L6-v2 (Super-Fast):** A lightning-fast, lightweight model with very low hardware requirements, making it ideal for modest or older machines.
   * **BGE-small-en-v1.5 (Accurate):** The recommended default choice, delivering solid, well-balanced accuracy and excellent processing speed.
   * **BGE-base-en-v1.5 (Maximum Accuracy):** Provides the absolute maximum accuracy in its class for pinpoint semantic mapping, at the cost of slightly higher memory and CPU utilization.
-
-
-
-
 * **`Add Term` (Button)**: Opens a manual search dialog to look up and append approved Getty terms directly to selected photos.
 * **`User Dictionary` (Button)**: Accesses your personal persistent vocabulary database and the new **Personalization Blacklist**.
 * **`Re-Optimize All (Local)`(Button)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
@@ -294,9 +290,9 @@ The **Offline Suggest** feature uses local vector embedding models running on th
 2. **Automatic Cleaning & Disambiguation:** Red-marked unrecognized rows are checked against the Getty database via vector encoding. If a close match fits the theme, it is corrected; otherwise, it is skipped. Ambiguous words are automatically locked into their correct definition based on nearby tags.
 3. **Controlled Keyword Expansion:** The local model compares context vectors against the pre-compiled Getty Vector Database and appends new relevant terms up to your chosen **Suggest Threshold** limit.
 
-* **MiniLM-L6-v2**: Super-fast and lightweight model for modest hardware.
-* **BGE-small-en-v1.5**: Recommended default balancing speed and precision.
-* **BGE-base-en-v1.5**: Maximum accuracy with the largest embedding space.
+    * **MiniLM-L6-v2**: Super-fast and lightweight model for modest hardware.
+    * **BGE-small-en-v1.5**: Recommended default balancing speed and precision.
+    * **BGE-base-en-v1.5**: Maximum accuracy with the largest embedding space.
 
 ---
 
