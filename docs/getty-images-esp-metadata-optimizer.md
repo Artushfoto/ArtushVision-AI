@@ -270,7 +270,7 @@ The **Offline Suggest** feature in Getty Resolver uses a fast, local AI semantic
 
 * **1. Understanding the Story of Your Photos:** The AI analyzes the existing, approved keywords on your selected images to instantly understand their core theme (e.g., if it sees *snow, mountains, skis*, it automatically targets the context of *winter sports*).
 * **2. Automatic Keyword Cleaning & Correction:** The system reviews your current tags and takes action based on their accuracy:
-  * **Unrecognized Words & Typos:** Red-marked rows are automatically checked against the Getty database. If a close match is found that fits the theme of the photo with high accuracy ($\ge 0.70$), it’s automatically corrected and kept. Typos and completely irrelevant words are discarded.
+  * **Unrecognized Words & Typos:** Red-marked rows are automatically checked against the Getty database. If a close match is found that fits the theme of the photo with high accuracy, it’s automatically corrected and kept. Typos and completely irrelevant words are discarded.
   * **Ambiguous Meanings (Disambiguation):** If a word has multiple meanings (like *"bank"* meaning a riverbank vs. a financial institution), the AI analyzes the photo's context and automatically locks in the correct Getty definition.
 * **3. Controlled Keyword Expansion:** Based on the overall theme, the AI suggests new, highly relevant Getty-approved terms that you haven't used yet (e.g., adding *Winter Sport, Alpine,* or *Slope* to your skiing photo). 
 
