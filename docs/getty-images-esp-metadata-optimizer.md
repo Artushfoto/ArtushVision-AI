@@ -207,7 +207,7 @@ The bottom control panel is organized into two horizontal rows for efficient acc
 * **`Model:` (Dropdown)**: Chooses which **local ONNX embedding model** to use for semantic similarity calculations.
 * **`Add Term` (Button)**: Opens a manual search dialog to look up and append approved Getty terms directly to selected photos.
 * **`User Dictionary` (Button)**: Accesses your personal persistent vocabulary database and the new **Personalization Blacklist**.
-* **Re-Optimize All (Local)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
+* **`Re-Optimize All (Local)`(Button)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
 
 ---
 
@@ -233,18 +233,17 @@ At the top of the window, you'll see thumbnails of your selected batch:
 
 The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. 
 
-1. **Original Word**: The keyword from your metadata. **Double-click** to edit it in place. If you type a comma (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows. Words marked in **red** are not recognized by the Getty dictionary and must be resolved or unchecked before submission.
-2. **Getty Term (Chips)**: The mapped terms from the Getty Master Dictionary.
-  * **Color Coding**:
-    * **Orange Terms (Unmapped / Unrecognized / Ambiguous)**: These are custom terms, unrecognized terms, or ambiguous words with multiple alternatives waiting for choice.
-    * **Blue Terms (Standard)**: Valid Getty terms successfully mapped from the master dictionary.
-    * **Green Terms (AI Suggested)**: Brand new, highly relevant terms suggested by the Cloud AI.
-    * **Purple Chips (Mixed State)**: Indicates that the term is selected for *some* photos but not *all* photos in your current batch view.
-  * **Interaction & Shortcuts**:
-    * **Manual Selection**: Click any active colored bubble to check/uncheck it.
-    * **Hover Context Visualizer**: Hover your mouse over any chip to instantly highlight the photo thumbnails it is currently assigned to (or can be assigned to).
-    * **Drag & Drop (Assign & Remove)**: Grab a chip and drop it directly onto a photo thumbnail to instantly assign it. To **remove** it from that photo, hold **Alt** or **Shift** while dropping the chip.
-    * **Undo/Redo**: Use `Ctrl+Z` and `Ctrl+Y` to safely step backward or forward through your edits.
+   * **Original Word**: The keyword from your metadata. **Double-click** to edit it in place. If you type a **comma** (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows. Words marked in **red** are not recognized by the Getty dictionary and must be resolved or unchecked before submission.
+   * **Orange Terms (Unmapped / Unrecognized / Ambiguous):** These represent unrecognized keywords. Because Getty's official vocabulary is proprietary, the built-in master dictionary cannot cover 100% of it. However, an unrecognized keyword might still be a valid Getty term, if it is, you can easily add it to your personal database by **right-clicking the word** and saving it to your **User Dictionary**. Once added, it will automatically be recognized and reported as a **valid Getty term** in all future optimizations and exports.
+   * **Blue Terms (Standard)**: Valid Getty terms successfully mapped from the master dictionary.
+   * **Green Terms (AI or Local Semantics Suggested)**: Brand new, highly relevant terms suggested by the Cloud AI or local offline Semantics model.
+   * **Purple Chips (Mixed State)**: Indicates that the term is selected for *some* photos but not *all* photos in your current batch view.
+
+**Interaction & Shortcuts**:
+   * **Manual Selection**: Click any active colored bubble to check/uncheck it.
+   * **Hover Context Visualizer**: Hover your mouse over any chip to instantly highlight the photo thumbnails it is currently assigned to (or can be assigned to).
+   * **Drag & Drop (Assign & Remove)**: Grab a chip and drop it directly onto a photo thumbnail to instantly assign it. To **remove** it from that photo, hold **Alt** or **Shift** while dropping the chip.
+   * **Undo/Redo**: Use `Ctrl+Z` and `Ctrl+Y` to safely step backward or forward through your edits.
 
 <video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty Optimizer">
   ArtushVision AI - Getty optimizer manual editing Overview.
@@ -257,7 +256,7 @@ The main table displays your original keywords on the left and the corresponding
 
 ### Cloud AI Resolving & Disambiguation
 
-Cloud AI resolving uses advanced Vision & Language models (such as Gemini 2.5 Flash Lite or GPT-4o) via OpenRouter to read the visual context of your images and handle homonyms—words with multiple meanings.
+Cloud AI resolving uses advanced Vision & Language models (such as Gemini 2.5 Flash Lite or GPT-4o) via OpenRouter to read the visual context of your images and handle homonyms, words with multiple meanings.
 
 **Example**: If your original keyword is **"crane"**, the Cloud AI reviews the photo's visual content, title, description, and GPS data to identify whether the photo features a construction site (mapping it to `crane (construction machine)`) or a wetland (mapping it to `crane (bird)`).
 
@@ -290,7 +289,7 @@ Teach ArtushVision AI your specific niche. Any manual keyword associations you m
 * **User Getty Dictionary**: 
   * *Quick Add:* **Right-click** any Original Word in the table and select *"Save 'word' to User Dictionary"*. Next time this word is loaded, it maps to your preferred Getty term automatically.
   * *Management:* Open the manager to manually add, delete, or wipe custom rules.
-* **Personalization Blacklist (Tab 2 - Blocked Terms)**: Instantly block unwanted or repetitive Getty terms via a right-click context menu directly on any `GettyChipButton` across all 19 supported languages. Blacklisted terms are written to `getty_blacklist.json`, stripped from active image memory, and completely filtered out of future processes.
+* **Personalization Blacklist (Tab 2 - Blocked Terms)**: Instantly block unwanted or repetitive Getty terms via a right-click context menu directly on any `GettyChipButton`. Blacklisted terms are written to `getty_blacklist.json`, stripped from active image memory, and completely filtered out of future processes.
 
 <video src="video/getty-user-dictionary.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Add New Term to User Getty Dictionary">
   ArtushVision AI - Add New Term to User Getty Dictionary.
@@ -321,17 +320,17 @@ Export copies of your actual image/video files with Getty-optimized metadata emb
 ---
 
 ## 7. Recommended Professional Workflow (Summary)
-Load Files ➔ Open Interactive Resolver ➔ Run Cloud AI / Offline Suggest ➔ Interactively Filter & Clean Tags ➔ Export CSV or Getty taged JPG ➔ Upload files to ESP
-
-Note: Build User Dict/Blacklist
+Load Files ➔ Open Interactive Resolver ➔ Run Cloud AI or Offline Suggest ➔ Interactively Filter & Clean Tags ➔ Export CSV or Getty taged JPG ➔ Upload files to ESP ➔ If You use CSV upload and apply CSV on Getty ESP.
 
 1. **Load Your Files:** Open the Getty Optimizer module with your targeted image batch.
-2. **Review Mapping Table:** Check your tags (Blue = OK, Orange = Multiple choices, Red = Unknown).
+2. **Review Mapping Table:** Check your keyword status tags:
+   * **Single Blue** = Successfully matched and OK.
+   * **Multiple Blue / Orange** = Ambiguous terms requiring resolution (can be resolved manually, using AI semantic models, or a combination of both).
+   * **Red** = Unknown or unrecognized keywords that need to be cleared or mapped.
 3. **Navigate Interactively:** Use thumbnail filters, hover visualizers, and drag-and-drop to rapidly refine assignments. Hold **Alt/Shift** to subtract terms.
-4. **Leverage AI Engines:** Run **AI Resolve** for visual context disambiguation or **Offline Suggest** for rapid local vector-based matching.
-5. **Clean and Split:** Double-click original words to edit typos or split phrases using a comma (`,`). Uncheck unfit terms. Check result.
-6. **Save to Memory:** Save recurring custom terms to your User Dictionary or blacklist unwanted keywords.
-7. **Export & Upload:** Generate your final ESP-compliant CSV or self-contained JPEGs, and complete your submission on the ESP portal!
+4. **Clean, Split and Check:** Double-click original words to edit typos or split phrases using a comma (`,`). Uncheck unfit terms. Check result.
+5. **Save to Memory:** If you have new or unique terms not covered by the built-in master dictionary, save recurring custom keywords to your User Dictionary or blacklist unwanted ones, so they are automatically recognized or filtered next time.
+6. **Export & Upload:** Generate your final ESP-compliant CSV or self-contained JPEGs, and complete your submission on the ESP portal!
 
 ---
 
