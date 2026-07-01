@@ -151,7 +151,7 @@ h1 { text-align: center; }
 
 Optimizing metadata for the Getty Images / iStock ESP portal is one of the most demanding tasks for stock contributors. Getty Images enforces a strict Controlled Vocabulary (CV) of over 9,800 approved commercial terms. Standard keywords used for other stock agencies are frequently rejected or mismatched by the ESP portal, leading to tedious manual corrections.
 
-The Getty Optimizer module in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the ESP system. You can map words **manually / Semantic (100% offline)** or let the **Cloud AI** do the heavy lifting for you.
+The Getty Optimizer module in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the ESP system. You can map words **manually, Local Semantics (100% offline)** or let the **Cloud AI** do the heavy lifting for you.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.png" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation" width="100%" class="screenshot-img">
