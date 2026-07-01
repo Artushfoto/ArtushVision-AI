@@ -185,7 +185,7 @@ The main dashboard displays your original keywords side-by-side with the optimiz
 * **Export for Getty...**: Creates copies of the selected files (JPEGs, RAWs, or videos) in your target directory and writes the optimized Title, Description, and approved Keywords directly into their standard metadata fields (EXIF/IPTC/XMP) using ExifTool.
   * **Direct Upload & Re-generation:** Simply upload these embedded files directly to the Getty portal, **no CSV import is required**. Once the upload is complete, you can safely delete these exported copies from your local drive to save disk space, as they can be fully re-generated from your originals at any time.
 * **Delete Getty Data**: Clears all generated `getty terms` from the selected files' metadata space so you can start the optimization process from scratch.
-* **Custom Content Control:** The Getty Images Export Optimizer also allows you to set a specific title and description tailored exclusively for the Getty ESP portal. These adjustments are applied strictly to your Getty metadata and have no impact on your standard title and description.
+* **Custom Content Control:** The Getty Images Export Optimizer also allows you to set a **specific title and description** tailored exclusively for the Getty ESP portal. These adjustments are applied strictly to your Getty metadata and have no impact on your standard title and description.
 
 ---
 
@@ -203,15 +203,24 @@ The bottom control panel is organized into two horizontal rows for efficient acc
 
 #### Row 1: Cloud AI & UI Settings
 * **`Resolve with AI beta` (Green Button)**: Triggers the Cloud AI semantic resolver to process selected images.
-* **Profile Selector (`Getty_Default.json` Dropdown)**: Selects the active AI system prompt profile. Use different profiles for varying photography styles or microstock targets.
+* **Profile Selector (`Getty_Default.json` Dropdown)**: Selects the active AI system prompt profile, or allows you to create your own depending on your needs. Use different profiles for varying photography styles or microstock targets.
 * **Profile Settings (Cog Icon ⚙)**: Opens the Profile Editor where you can modify the model selection, system prompt templates, variables (such as `{loc_hint}` or `{date_info}`), and keyword blacklists.
-* **`New AI terms:` (Spinbox)**: Controls the number of new approved Getty keywords the AI should suggest per photo. Setting this to `0` disables new suggestions, while `5` to `8` is recommended for high-quality, relevant tags.
+* **`New AI terms:` (Spinbox)**: Controls the number of new approved Getty keywords the AI should suggest per photo. Setting this to `0` disables new suggestions, while `5` to `8` is recommended for high-quality, relevant tags. Higher values can lead to less precise or irrelevant suggestions.
+
 * **`Row height:` (Spinbox)**: Adjusts the vertical line spacing of the main resolver table (between `30px` and `150px`) to customize data density.
 
 #### Row 2: Offline Semantic Resolving & Local Actions
-* **`Offline Suggest` (Blue Button)**: Starts the local semantic suggestion engine (100% local, **no API credits required**).
-* **`Suggest Threshold:` (Spinbox)**: Sets the minimum semantic similarity score (from `0.10` to `1.00`) required for local matching. The default is `0.45`. 
+* **`Offline Suggest` (Blue Button)**: Starts the local semantic suggestion engine (**100% local offline, no API credits required**).
+* **`Suggest Threshold:` (Spinbox)**: Sets the minimum semantic similarity score (from `0.10` to `1.00`) required for local matching. The default is `0.45`. Higher values (e.g. 0.70) produce fewer but more relevant suggestions. Lower values (e.g. 0.40) produce more suggestions but they might be less relevant.
 * **`Model:` (Dropdown)**: Chooses which **local ONNX embedding model** to use for semantic similarity calculations.
+Available models:
+  * **MiniLM-L6-v2 (Super-Fast):** A lightning-fast, lightweight model with very low hardware requirements, making it ideal for modest or older machines.
+  * **BGE-small-en-v1.5 (Accurate):** The recommended default choice, delivering solid, well-balanced accuracy and excellent processing speed.
+  * **BGE-base-en-v1.5 (Maximum Accuracy):** Provides the absolute maximum accuracy in its class for pinpoint semantic mapping, at the cost of slightly higher memory and CPU utilization.
+
+
+
+
 * **`Add Term` (Button)**: Opens a manual search dialog to look up and append approved Getty terms directly to selected photos.
 * **`User Dictionary` (Button)**: Accesses your personal persistent vocabulary database and the new **Personalization Blacklist**.
 * **`Re-Optimize All (Local)`(Button)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
@@ -279,12 +288,11 @@ If **New AI terms** is set greater than `0`, the AI will also discover and sugge
 <p><a href="video/getty-optimizer-ai.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ### Offline Resolving (Local Semantics)
+The **Offline Suggest** feature uses local vector embedding models running on the ONNX Runtime directly on your CPU. **Based on our extensive real-world testing, this offline workflow performs exceptionally well**, delivering highly accurate keyword mapping and context evaluation without any cloud API dependency. It automatically transforms your keywording workflow in three automated steps:
 
-The **Offline Suggest** feature uses local vector embedding models running on the ONNX Runtime directly on your CPU. It automatically transforms your keywording workflow in three automated steps:
-
-1. **Context Understanding:** The AI analyzes existing keywords to target the core theme (e.g., *snow, mountains* automatically targets *winter sports*).
+1. **Context Understanding:** The Local Semantics analyzes existing keywords to target the core theme (e.g., *snow, mountains* automatically targets *winter sports*).
 2. **Automatic Cleaning & Disambiguation:** Red-marked unrecognized rows are checked against the Getty database via vector encoding. If a close match fits the theme, it is corrected; otherwise, it is skipped. Ambiguous words are automatically locked into their correct definition based on nearby tags.
-3. **Controlled Keyword Expansion:** The local model (MiniLM or BGE) compares context vectors against the pre-compiled Getty Vector Database and appends new relevant terms up to your chosen **Suggest Threshold** limit.
+3. **Controlled Keyword Expansion:** The local model compares context vectors against the pre-compiled Getty Vector Database and appends new relevant terms up to your chosen **Suggest Threshold** limit.
 
 * **MiniLM-L6-v2**: Super-fast and lightweight model for modest hardware.
 * **BGE-small-en-v1.5**: Recommended default balancing speed and precision.
@@ -324,9 +332,9 @@ Generate a flawlessly formatted spreadsheet ready for the Getty Images ESP web i
 <p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ### Option B: Export JPG for Getty (Direct Metadata Embedding)
-Export copies of your actual image/video files with Getty-optimized metadata embedded directly into the files themselves.
+Export copies of your actual image files with Getty-optimized metadata embedded directly into the files themselves.
 * **How it works:** Click **Export for Getty...** and select a destination folder. ArtushVision AI creates a folder named `YYYYMMDD-getty` (e.g., `20260624-getty`) and copies the files. It writes the Getty data into standard metadata fields (`XMP-dc`, `IPTC`, `XPKeywords`) and custom `XMP-getty` fields.
-* **RAW & Video Support:** For JPEGs, data is written directly inside the file headers. For RAW formats and videos, it automatically writes to `.xmp` sidecar files to preserve original file integrity.
+* **RAW & Video Support:** For JPEGs, data is written directly inside the file headers. For RAW formats and videos, it automatically writes to `.xmp` sidecar files to preserve original file integrity. 
 
 ---
 
@@ -353,7 +361,11 @@ Load Files ➔ Open Interactive Resolver ➔ Run Cloud AI or Offline Suggest ➔
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html) | [❓ Frequently Asked Questions (FAQ)](/docs/faq.html) | [💬 Support & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 

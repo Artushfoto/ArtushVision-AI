@@ -244,4 +244,3 @@ If the photo contains GPS coordinates, a map background is displayed at the bott
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-<!-- --- artushvision-detail-view-doc --- -->
