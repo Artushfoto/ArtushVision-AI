@@ -180,6 +180,7 @@ The main dashboard displays your original keywords side-by-side with the optimiz
 * **Export ESP CSV...**: Generates a final, clean CSV spreadsheet specifically formatted for direct import into the Getty Images ESP portal.
 * **Export for Getty...**: Creates copies of the selected files (JPEGs, RAWs, or videos) in your target directory and writes the optimized Title, Description, and approved Keywords directly into their standard metadata fields (EXIF/IPTC/XMP) using ExifTool.
 * **Delete Getty Data**: Clears all generated `getty terms` from the selected files' metadata space so you can start the optimization process from scratch.
+* **Custom Content Control:** The Getty Images Export Optimizer also allows you to set a specific title and description tailored exclusively for the Getty ESP portal. These adjustments are applied strictly to your Getty metadata and have no impact on your standard title and description.
 
 ---
 
@@ -201,9 +202,9 @@ The bottom control panel is organized into two horizontal rows for efficient acc
 * **`Row height:` (Spinbox)**: Adjusts the vertical line spacing of the main resolver table (between `30px` and `150px`) to customize data density.
 
 #### Row 2: Offline Semantic Resolving & Local Actions
-* **`Offline Suggest` (Blue Button)**: Starts the local semantic suggestion engine (100% local, no API credits required).
-* **`Suggest Threshold:` (Spinbox)**: Sets the minimum semantic similarity score (from `0.10` to `1.00`) required for local matching. The default is `0.45`.
-* **`Model:` (Dropdown)**: Chooses which local ONNX embedding model to use for semantic similarity calculations.
+* **`Offline Suggest` (Blue Button)**: Starts the local semantic suggestion engine (100% local, **no API credits required**).
+* **`Suggest Threshold:` (Spinbox)**: Sets the minimum semantic similarity score (from `0.10` to `1.00`) required for local matching. The default is `0.45`. 
+* **`Model:` (Dropdown)**: Chooses which **local ONNX embedding model** to use for semantic similarity calculations.
 * **`Add Term` (Button)**: Opens a manual search dialog to look up and append approved Getty terms directly to selected photos.
 * **`User Dictionary` (Button)**: Accesses your personal persistent vocabulary database and the new **Personalization Blacklist**.
 * **Re-Optimize All (Local)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
