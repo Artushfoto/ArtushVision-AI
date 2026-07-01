@@ -177,7 +177,6 @@ The main dashboard displays your original keywords side-by-side with the optimiz
 
 ### Main Control Panel Actions:
 * **Interactive Resolver (AI Mapping)...**: Opens the visual dashboard for rapid validation and mapping.
-* **Re-Optimize All (Local)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
 * **Export ESP CSV...**: Generates a final, clean CSV spreadsheet specifically formatted for direct import into the Getty Images ESP portal.
 * **Export for Getty...**: Creates copies of the selected files (JPEGs, RAWs, or videos) in your target directory and writes the optimized Title, Description, and approved Keywords directly into their standard metadata fields (EXIF/IPTC/XMP) using ExifTool.
 * **Delete Getty Data**: Clears all generated `getty terms` from the selected files' metadata space so you can start the optimization process from scratch.
@@ -207,6 +206,7 @@ The bottom control panel is organized into two horizontal rows for efficient acc
 * **`Model:` (Dropdown)**: Chooses which local ONNX embedding model to use for semantic similarity calculations.
 * **`Add Term` (Button)**: Opens a manual search dialog to look up and append approved Getty terms directly to selected photos.
 * **`User Dictionary` (Button)**: Accesses your personal persistent vocabulary database and the new **Personalization Blacklist**.
+* **Re-Optimize All (Local)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
 
 ---
 
