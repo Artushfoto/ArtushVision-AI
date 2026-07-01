@@ -175,6 +175,10 @@ Select one or more photos in the main grid, right-click, and select **"Getty Opt
 
 The main dashboard displays your original keywords side-by-side with the optimized Getty tags. From this view, you can trigger key actions or launch the advanced **Interactive Resolver** interface.
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/accessing-the-optimizer.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/accessing-the-optimizer.png" alt="ArtushVision AI - Accessing the Optimizer & Main Interface" width="100%" class="screenshot-img">
+</a>  
+
 ### Main Control Panel Actions:
 * **Interactive Resolver (AI Mapping)...**: Opens the visual dashboard for rapid validation and mapping.
 * **Export ESP CSV...**: Generates a final, clean CSV spreadsheet specifically formatted for direct import into the Getty Images ESP portal.
@@ -188,7 +192,9 @@ The main dashboard displays your original keywords side-by-side with the optimiz
 
 When you open the **Interactive Resolver**, you are presented with an advanced dual-panel layout designed for rapid inline validation and micro-management of your batch metadata.
 
-[Interactive Resolver Control Panel](docs/images/resolver_control_panel.png)
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.png" alt="ArtushVision AI - The Interactive Resolver Dashboard" width="100%" class="screenshot-img">
+</a>  
 
 ### Control Panel Element Breakdown
 
@@ -208,6 +214,10 @@ The bottom control panel is organized into two horizontal rows for efficient acc
 * **`Add Term` (Button)**: Opens a manual search dialog to look up and append approved Getty terms directly to selected photos.
 * **`User Dictionary` (Button)**: Accesses your personal persistent vocabulary database and the new **Personalization Blacklist**.
 * **`Re-Optimize All (Local)`(Button)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.png" alt="ArtushVision AI - Control Panel Element Breakdown" width="100%" class="screenshot-img">
+</a>  
 
 ---
 
