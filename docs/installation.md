@@ -160,6 +160,7 @@ To ensure smooth operation, especially when running local AI engines and multi-t
 ### Recommended Requirements (Local Offline AI & Ollama Vision)
 * **Processor:** Intel Core i7 / AMD Ryzen 7 or better
 * **Memory:** 16 GB or 32 GB RAM (Crucial for running text models smoothly)
+* **Storage:** At least 2 GB of free disk space for Getty offline models, plus additional space for downloaded Ollama models.
 * **Graphics Card (GPU):** Dedicated NVIDIA GeForce RTX 3060 Ti, RTX 4060, or better with at least **8 GB VRAM**. CUDA support is highly recommended for hardware acceleration.
 * **Local AI System:** Installed and active Ollama environment (see our complete [Ollama Installation Guide](/docs/ollama-installation-guide.html)).
 
