@@ -175,9 +175,12 @@ Select one or more photos in the main grid, right-click, and select **"Getty Opt
 
 The main dashboard displays your original keywords side-by-side with the optimized Getty tags. From this view, you can trigger key actions or launch the advanced **Interactive Resolver** interface.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/accessing-the-optimizer.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/accessing-the-optimizer.png" alt="ArtushVision AI - Accessing the Optimizer & Main Interface" width="100%" class="screenshot-img">
-</a>  
+<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer">
+  ArtushVision AI - Getty Optimizer Overview.
+</video>
+<p><a href="video/getty-optimizer-overview.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+---
 
 ### Main Control Panel Actions:
 * **Interactive Resolver (AI Mapping)...**: Opens the visual dashboard for rapid validation and mapping.
@@ -186,8 +189,6 @@ The main dashboard displays your original keywords side-by-side with the optimiz
   * **Direct Upload & Re-generation:** Simply upload these embedded files directly to the Getty portal, **no CSV import is required**. Once the upload is complete, you can safely delete these exported copies from your local drive to save disk space, as they can be fully re-generated from your originals at any time.
 * **Delete Getty Data**: Clears all generated `getty terms` from the selected files' metadata space so you can start the optimization process from scratch.
 * **Custom Content Control:** The Getty Images Export Optimizer also allows you to set a **specific title and description** tailored exclusively for the Getty ESP portal. These adjustments are applied strictly to your Getty metadata and have no impact on your standard title and description.
-
----
 
 ## 3. The Interactive Resolver Dashboard
 
@@ -237,11 +238,6 @@ At the top of the window, you'll see thumbnails of your selected batch:
 * **Filter by Photo (Left-Click)**: Click any thumbnail to instantly filter the table below. It will show *only* the terms associated with that specific photo. Click again to clear the filter.
 * **Multi-Select & Targeted Edits**: Use `Ctrl + Click` to select multiple thumbnails. When one or more thumbnails are selected, **any changes you make in the table below will apply strictly to those selected photos**, leaving the rest of the batch untouched.
 * **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
-
-<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty Optimizer">
-  ArtushVision AI - Getty Optimizer Overview.
-</video>
-<p><a href="video/getty-optimizer-overview.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
