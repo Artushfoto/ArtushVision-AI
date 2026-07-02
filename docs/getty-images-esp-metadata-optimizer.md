@@ -220,6 +220,10 @@ The main table displays your original keywords on the left and the corresponding
 
 The bottom control panel is organized into two horizontal rows for efficient access:
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.png" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.png" alt="ArtushVision AI - Control Panel Element Breakdown" width="100%" class="screenshot-img">
+</a>  
+
 #### Row 1: Cloud AI & UI Settings
 * **`Resolve with AI beta` (Green Button)**: Triggers the Cloud AI semantic resolver to process selected images.
 * **Profile Selector (`Getty_Default.json` Dropdown)**: Selects the active AI system prompt profile, or allows you to create your own depending on your needs. Use different profiles for varying photography styles or microstock targets.
@@ -239,10 +243,6 @@ Available models:
 * **`Add Term` (Button)**: Opens a manual search dialog to look up and append approved Getty terms directly to selected photos.
 * **`User Dictionary` (Button)**: Accesses your personal persistent vocabulary database and the new **Personalization Blacklist**.
 * **`Re-Optimize All (Local)`(Button)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.png" alt="ArtushVision AI - Control Panel Element Breakdown" width="100%" class="screenshot-img">
-</a>  
 
 ---
 
@@ -281,7 +281,7 @@ If **New AI terms** is set greater than `0`, the AI will also discover and sugge
 </video>
 <p><a href="video/getty-optimizer-ai.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
-### Offline & Manual Resolving (Local Semantics)
+### Offline Resolving (Local Semantics)
 The **Offline Suggest** feature uses local vector embedding models running on the ONNX Runtime directly on your CPU. **Based on our extensive real-world testing, this offline workflow performs exceptionally well**, delivering highly accurate keyword mapping and context evaluation without any cloud API dependency. It automatically transforms your keywording workflow in three automated steps:
 
 1. **Context Understanding:** The Local Semantics analyzes existing keywords to target the core theme (e.g., *snow, mountains* automatically targets *winter sports*).
