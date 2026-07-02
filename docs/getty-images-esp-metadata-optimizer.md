@@ -294,6 +294,11 @@ The **Offline Suggest** feature uses local vector embedding models running on th
     * **BGE-small-en-v1.5**: Recommended default balancing speed and precision.
     * **BGE-base-en-v1.5**: Maximum accuracy with the largest embedding space.
 
+<video src="video/getty-optimizer-semantics.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP">
+  ArtushVision AI - Offline Resolving Getty Terms with Local Semantics).
+</video>
+<p><a href="video/getty-optimizer-semantics.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
 ---
 
 ## 5. Custom Dictionaries, Memory & Blacklists
