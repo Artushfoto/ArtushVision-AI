@@ -186,7 +186,7 @@ The main dashboard displays your original keywords side-by-side with the optimiz
 * **Interactive Resolver (AI Mapping)...**: Opens the visual dashboard for rapid validation and mapping.
 * **Export ESP CSV...**: Generates a final, clean CSV spreadsheet specifically formatted for direct import into the Getty Images ESP portal.
 * **Export for Getty...**: Creates copies of the selected files (JPEGs, RAWs, or videos) in your target directory and writes the optimized Title, Description, and approved Keywords directly into their standard metadata fields (EXIF/IPTC/XMP) using ExifTool.
-  * **Direct Upload & Re-generation:** Simply upload these embedded files directly to the Getty portal, **no CSV import is required**. Once the upload is complete, you can safely delete these exported copies from your local drive to save disk space, as they can be fully re-generated from your originals at any time.
+  * **`Direct Upload:`** Simply upload these embedded files directly to the Getty portal, **no CSV import is required**. Once the upload is complete, you can safely delete these exported copies from your local drive to save disk space, as they can be fully re-generated from your originals at any time.
 * **Delete Getty Data**: Clears all generated `getty terms` from the selected files' metadata space so you can start the optimization process from scratch.
 * **Custom Content Control:** The Getty Images Export Optimizer also allows you to set a **specific title and description** tailored exclusively for the Getty ESP portal. These adjustments are applied strictly to your Getty metadata and have no impact on your standard title and description.
 
@@ -197,6 +197,24 @@ When you open the **Interactive Resolver**, you are presented with an advanced d
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.png" alt="ArtushVision AI - The Interactive Resolver Dashboard" width="100%" class="screenshot-img">
 </a>  
+
+### Interactive Table & Color-Coded Terms
+
+The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. 
+
+   * **Original Word**: The keyword from your metadata. **Double-click** to edit it in place. If you type a **comma** (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows. Words marked in **red** are not recognized by the Getty dictionary and must be resolved or unchecked before submission.
+   * **Orange Terms (Unmapped / Unrecognized / Ambiguous):** These represent unrecognized keywords. Because Getty's official vocabulary is proprietary, the built-in master dictionary cannot cover 100% of it. However, an unrecognized keyword might still be a valid Getty term, if it is, you can easily add it to your personal database by **right-clicking the word** and saving it to your **User Dictionary**. Once added, it will automatically be recognized and reported as a **valid Getty term** in all future optimizations and exports.
+   * **Blue Terms (Standard)**: Valid Getty terms successfully mapped from the master dictionary.
+   * **Green Terms (AI or Local Semantics Suggested)**: Brand new, highly relevant terms suggested by the Cloud AI or local offline Semantics model.
+   * **Purple Chips (Mixed State)**: Indicates that the term is selected for *some* photos but not *all* photos in your current batch view.
+
+**Interaction & Shortcuts**:
+   * **Manual Selection**: Click any active colored bubble to check/uncheck it.
+   * **Hover Context Visualizer**: Hover your mouse over any chip to instantly highlight the photo thumbnails it is currently assigned to (or can be assigned to).
+   * **Drag & Drop (Assign & Remove)**: Grab a chip and drop it directly onto a photo thumbnail to instantly assign it. To **remove** it from that photo, hold **Alt** or **Shift** while dropping the chip.
+   * **Undo/Redo**: Use `Ctrl+Z` and `Ctrl+Y` to safely step backward or forward through your edits.
+
+---
 
 ### Control Panel Element Breakdown
 
@@ -240,22 +258,6 @@ At the top of the window, you'll see thumbnails of your selected batch:
 * **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
 
 ---
-
-### Interactive Table & Color-Coded Terms
-
-The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. 
-
-   * **Original Word**: The keyword from your metadata. **Double-click** to edit it in place. If you type a **comma** (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows. Words marked in **red** are not recognized by the Getty dictionary and must be resolved or unchecked before submission.
-   * **Orange Terms (Unmapped / Unrecognized / Ambiguous):** These represent unrecognized keywords. Because Getty's official vocabulary is proprietary, the built-in master dictionary cannot cover 100% of it. However, an unrecognized keyword might still be a valid Getty term, if it is, you can easily add it to your personal database by **right-clicking the word** and saving it to your **User Dictionary**. Once added, it will automatically be recognized and reported as a **valid Getty term** in all future optimizations and exports.
-   * **Blue Terms (Standard)**: Valid Getty terms successfully mapped from the master dictionary.
-   * **Green Terms (AI or Local Semantics Suggested)**: Brand new, highly relevant terms suggested by the Cloud AI or local offline Semantics model.
-   * **Purple Chips (Mixed State)**: Indicates that the term is selected for *some* photos but not *all* photos in your current batch view.
-
-**Interaction & Shortcuts**:
-   * **Manual Selection**: Click any active colored bubble to check/uncheck it.
-   * **Hover Context Visualizer**: Hover your mouse over any chip to instantly highlight the photo thumbnails it is currently assigned to (or can be assigned to).
-   * **Drag & Drop (Assign & Remove)**: Grab a chip and drop it directly onto a photo thumbnail to instantly assign it. To **remove** it from that photo, hold **Alt** or **Shift** while dropping the chip.
-   * **Undo/Redo**: Use `Ctrl+Z` and `Ctrl+Y` to safely step backward or forward through your edits.
 
 <video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty Optimizer">
   ArtushVision AI - Getty optimizer manual editing Overview.
