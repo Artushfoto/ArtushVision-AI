@@ -257,7 +257,9 @@ At the top of the window, you'll see thumbnails of your selected batch:
 * **Multi-Select & Targeted Edits**: Use `Ctrl + Click` to select multiple thumbnails. When one or more thumbnails are selected, **any changes you make in the table below will apply strictly to those selected photos**, leaving the rest of the batch untouched.
 * **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
 
----
+* **Getty Resolver Hover Highlights**: Hovering your mouse over any Getty term chip in the table dynamically highlights related photo thumbnails in the sidebar:
+  * **Blue Border**: The photo already has this specific Getty term checked (active).
+  * **Orange Border**: The photo contains the original keyword, but this Getty term is currently unchecked (candidate photo).
 
 <video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty Optimizer">
   ArtushVision AI - Getty optimizer manual editing Overview.
