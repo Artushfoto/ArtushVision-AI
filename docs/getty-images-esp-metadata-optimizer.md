@@ -281,7 +281,7 @@ If **New AI terms** is set greater than `0`, the AI will also discover and sugge
 </video>
 <p><a href="video/getty-optimizer-ai.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
-### Offline Resolving (Local Semantics)
+### Offline & Manual Resolving (Local Semantics)
 The **Offline Suggest** feature uses local vector embedding models running on the ONNX Runtime directly on your CPU. **Based on our extensive real-world testing, this offline workflow performs exceptionally well**, delivering highly accurate keyword mapping and context evaluation without any cloud API dependency. It automatically transforms your keywording workflow in three automated steps:
 
 1. **Context Understanding:** The Local Semantics analyzes existing keywords to target the core theme (e.g., *snow, mountains* automatically targets *winter sports*).
