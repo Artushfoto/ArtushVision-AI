@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="dash-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0e14" />
+      <stop offset="100%" stop-color="#161b26" />
+    </linearGradient>
+    <style>
+      .brand-t { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 38px; fill: #ffffff; }
+      .brand-s { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 400; font-size: 15px; fill: #8b949e; }
+      .card-title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 13px; fill: #ffffff; }
+      .card-desc { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 400; font-size: 11px; fill: #8b949e; }
+      .pill-t { font-family: monospace; font-size: 10px; font-weight: bold; fill: #ffffff; }
+    </style>
+  </defs>
+
+  <!-- Pozadí banneru -->
+  <rect width="1200" height="300" fill="url(#dash-bg)" />
+  
+  <!-- LEVÝ BLOK: Silný Branding + Přidané soukromí -->
+  <g transform="translate(60, 85)">
+    <text x="0" y="0" class="brand-t">ArtushVision AI</text>
+    <text x="0" y="28" class="brand-s">Smart Tagging. Total Control.</text>
+    <text x="0" y="48" class="brand-s" fill="#58a6ff">100% Offline Privacy for Personal &amp; Family Archives.</text>
+    
+    <!-- Licenční a bezpečnostní štítky vedle sebe -->
+    <g transform="translate(0, 70)">
+      <!-- Štítek 1: Licence -->
+      <g transform="translate(0, 0)">
+        <rect width="130" height="22" rx="4" fill="#238636" fill-opacity="0.15" stroke="#238636" stroke-width="0.5" />
+        <text x="12" y="15" font-family="sans-serif" font-size="11" font-weight="600" fill="#2da44e">Perpetual License</text>
+      </g>
+      
+      <!-- Štítek 2: 100% Private -->
+      <g transform="translate(140, 0)">
+        <rect width="120" height="22" rx="4" fill="#da3633" fill-opacity="0.1" stroke="#f85149" stroke-width="0.5" />
+        <path d="M 12 7 L 12 9 L 10 9 L 10 16 L 16 16 L 16 9 L 14 9 L 14 7 A 1 1 0 0 0 12 7 Z" fill="#f85149" fill-opacity="0.8"/>
+        <text x="24" y="15" font-family="sans-serif" font-size="11" font-weight="600" fill="#f85149">100% Private</text>
+      </g>
+    </g>
+
+    <!-- Tlačítko -->
+    <g transform="translate(0, 115)">
+      <rect width="210" height="40" rx="20" fill="#1f6feb" fill-opacity="0.2" stroke="#1f6feb" stroke-width="1.5" />
+      <text x="28" y="24" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Try ArtushVision AI Free</text>
+    </g>
+  </g>
+
+  <!-- PRAVÝ BLOK: 2x2 Matice s upravenými texty funkcí -->
+  
+  <!-- Karta 1: Getty ESP (Zelená) -->
+  <g transform="translate(620, 45)">
+    <rect width="240" height="95" rx="6" fill="#101420" stroke="#30363d" stroke-width="1" />
+    <path d="M 0 6 L 0 89 A 6 6 0 0 0 6 95 L 6 0 A 6 6 0 0 0 0 6" fill="#2ea043" />
+    <text x="20" y="28" class="card-title">Getty Images ESP Optimizer</text>
+    <text x="20" y="48" class="card-desc">Validate instantly against 9,867+ terms.</text>
+    <text x="20" y="64" class="card-desc">Batch AI optimization for high acceptance.</text>
+    <rect x="20" y="74" width="75" height="14" rx="3" fill="#238636" /><text x="26" y="84" class="pill-t">ZERO ERRORS</text>
+  </g>
+
+  <!-- Karta 2: Dual AI Engine (Fialová) -->
+  <g transform="translate(890, 45)">
+    <rect width="240" height="95" rx="6" fill="#101420" stroke="#30363d" stroke-width="1" />
+    <path d="M 0 6 L 0 89 A 6 6 0 0 0 6 95 L 6 0 A 6 6 0 0 0 0 6" fill="#8a2be2" />
+    <text x="20" y="28" class="card-title">Dual AI &amp; Privacy Engine</text>
+    <text x="20" y="48" class="card-desc">Ultra-fast Cloud AI or 100% Local AI.</text>
+    <text x="20" y="64" class="card-desc">Offline mode with zero cloud logging.</text>
+    <rect x="20" y="74" width="95" height="14" rx="3" fill="#8a2be2" /><text x="26" y="84" class="pill-t">100% OFFLINE</text>
+  </g>
+
+  <!-- Karta 3: Advanced Keywording & Lightroom Fix (Modrá) -->
+  <g transform="translate(620, 160)">
+    <rect width="240" height="95" rx="6" fill="#101420" stroke="#30363d" stroke-width="1" />
+    <path d="M 0 6 L 0 89 A 6 6 0 0 0 6 95 L 6 0 A 6 6 0 0 0 0 6" fill="#1f6feb" />
+    <text x="20" y="28" class="card-title">Advanced Manual Keywording</text>
+    <text x="20" y="48" class="card-desc">Drag &amp; drop reorder, synonyms lookup.</text>
+    <text x="20" y="64" class="card-desc">Restore custom tag order after LR export.</text>
+    <rect x="20" y="74" width="95" height="14" rx="3" fill="#1f6feb" /><text x="26" y="84" class="pill-t">LIGHTROOM FIX</text>
+  </g>
+
+  <!-- Karta 4: Distribution & Mapping (Oranžová) -->
+  <g transform="translate(890, 160)">
+    <rect width="240" height="95" rx="6" fill="#101420" stroke="#30363d" stroke-width="1" />
+    <path d="M 0 6 L 0 89 A 6 6 0 0 0 6 95 L 6 0 A 6 6 0 0 0 0 6" fill="#d29922" />
+    <text x="20" y="28" class="card-title">Smart FTP &amp; CSV Distribution</text>
+    <text x="20" y="48" class="card-desc">Simultaneous uploads to stock agencies.</text>
+    <text x="20" y="64" class="card-desc">Custom category matrix for Photo &amp; Video.</text>
+    <rect x="20" y="74" width="85" height="14" rx="3" fill="#b07219" /><text x="26" y="84" class="pill-t">MULTI-AGENCY</text>
+  </g>
+</svg>
