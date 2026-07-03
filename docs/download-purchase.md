@@ -229,7 +229,7 @@ The Lite Edition resets its limits every time you launch the application, allowi
 </table>
 
 <p align="center">
-  </strong> &bull; <a href="/manage-licence.html">Manage your licensed devices</a>
+  </strong><a href="/manage-licence.html">Manage your licensed devices</a>
 </p>
 
 ---
