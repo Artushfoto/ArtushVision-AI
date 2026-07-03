@@ -220,7 +220,7 @@ h1 { text-align: center; }
 <br>
 
 <p align="center">
-  <strong>Securely processed by Polar &amp; Stripe.</strong> &bull; <a href="https://polar.sh">Manage your licensed devices</a>
+  <strong>Securely processed by Polar &amp; Stripe.</strong> &bull; <a href="manage-licence.html">Manage your licensed devices</a>
 </p>
 
 ---
