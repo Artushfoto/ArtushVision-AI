@@ -204,7 +204,7 @@ Because the application is a new release and does not contain an expensive digit
 </table>
 
 <p align="center">
-  </strong> &bull; <a href="/manage-licence.html">Manage your licensed devices</a>
+  &bull; <strong><a href="/manage-licence.html">Manage your licensed devices</a></strong>
 </p>
 
 ---
