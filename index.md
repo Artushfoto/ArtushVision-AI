@@ -180,15 +180,9 @@ h1 { text-align: center; }
 </div>
 
 # ArtushVision AI | Professional Metadata Automation
-
 <p align="center">
   <strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong>
 </p>
-artushvision.svg
-<div id="flex-search-container">
-  <input type="text" id="flex-search-input" placeholder="Search documentation (e.g., FTP, Ollama, Getty, Manual)...">
-  <ul id="flex-results-container"></ul>
-</div>
 
 ---
 
