@@ -224,16 +224,18 @@ The entire stock photo and video upload process has been rewritten from the grou
 ---
 
 ### [Get Started Now]
-* Download Free Lite Version
-* Purchase Lifetime License - $39.99
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
-← Back to ArtushVision AI Home
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-❓ Frequently Asked Questions (FAQ)
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
 
-💬 Support, Bugs & Community Forum
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
