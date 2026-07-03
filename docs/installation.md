@@ -203,6 +203,10 @@ Because the application is a new release and does not contain an expensive digit
   </tr>
 </table>
 
+<p align="center">
+  </strong> &bull; <a href="/manage-licence.html">Manage your licensed devices</a>
+</p>
+
 ---
 
 ### [Get Started Now]
