@@ -2,6 +2,7 @@
 title: "Advanced AI Prompting and Profile Editor | ArtushVision AI Documentation"
 description: "Complete technical reference for AI variables and professional prompting in ArtushVision AI. Master dynamic EXIF, GPS, and metadata injection."
 ---
+
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
@@ -179,7 +180,6 @@ An AI model can't guess what camera you used or where a mountain is located just
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="Table of available technical and contextual AI variables in ArtushVision AI" style="width: 800px;" class="screenshot-img" />
 </a>
-<div style="height: 15px;"></div>
 
 <h3 id="basic-and-contextual-variables">Basic and Contextual Variables</h3>
 
@@ -292,12 +292,9 @@ Build a library of specialized workflows to switch between different project typ
 * **One-Click Switching:** Change your active profile in the main grid depending on the batch of photos currently being processed.
 * **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies via the Category Matrix.
 
-<!-- [IMAGE: A graphic showing a raw prompt template with variables on the left and the final processed text received by the AI on the right.] -->
-
 <a href="[https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png](https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png)" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
   <img src="[https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png](https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png)" alt="ArtushVision AI - AI prompt Editor Button" style="width: 800px;" class="screenshot-img" loading="lazy" />
 </a>
-<div style="height: 15px;"></div>
 
 **Prompt Editor for Hybrid AI** (Two steps, Local Vision AI and Cloud AI text)
 <a href="[https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png](https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png)" target="_blank" rel="noopener noreferrer" class="screenshot-link">
@@ -306,10 +303,10 @@ Build a library of specialized workflows to switch between different project typ
 
 ---
 
-> **🔒 IMPORTANT: Dynamic AI Model Deprecations & API Updates**[cite: 2]
-> Cloud AI models are constantly evolving. Third-party providers and API aggregators (such as OpenRouter) frequently update, replace, or deprecate older model endpoints to ensure optimal performance, security, and cost-efficiency.[cite: 2] When an older AI model is officially retired, any saved AI Prompt Profile still pointing to that specific deprecated endpoint will fail and return an API connection error.[cite: 2]
+> **🔒 IMPORTANT: Dynamic AI Model Deprecations & API Updates**
+> Cloud AI models are constantly evolving. Third-party providers and API aggregators (such as OpenRouter) frequently update, replace, or deprecate older model endpoints to ensure optimal performance, security, and cost-efficiency. When an older AI model is officially retired, any saved AI Prompt Profile still pointing to that specific deprecated endpoint will fail and return an API connection error.
 >
-> **Action Required:** If your cloud AI processing suddenly stops working or throws an unexpected API error, the selected model has likely been deprecated.[cite: 2] Open the **AI Profile Editor** (or check your global AI settings), select a current, active model from the dropdown list, and save your updated profile to restore immediate functionality.[cite: 2]
+> **Action Required:** If your cloud AI processing suddenly stops working or throws an unexpected API error, the selected model has likely been deprecated. Open the **AI Profile Editor** (or check your global AI settings), select a current, active model from the dropdown list, and save your updated profile to restore immediate functionality.
 
 ---
 
@@ -326,13 +323,12 @@ Build a library of specialized workflows to switch between different project typ
 
 ---
 
-<!-- VYHLEDÁVAČ ROZBALENÝ POD NADPISEM A ZAROVNANÝ DOLEVA -->
+## Complete Documentation Index
+
 <div id="flex-search-container">
   <input type="text" id="flex-search-input" placeholder="Search documentation..." />
   <ul id="flex-results-container"></ul>
 </div>
-
-## Complete Documentation Index
 
 ### 1. Getting Started
 - [System Requirements &amp; Installation](/docs/installation.html)
