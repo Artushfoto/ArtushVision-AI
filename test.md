@@ -200,6 +200,10 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Interface" width="100%" class="screenshot-img" />
+</a>
+
 ---
 
 <div class="hero-split">
