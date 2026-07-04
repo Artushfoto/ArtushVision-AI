@@ -73,11 +73,13 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   opacity: 0.95;
 }
 
-/* Tlačítka (Call to Action) */
+/* Tlačítka (Call to Action) - UPRAVENO PRO STEJNOU ŠÍŘKU */
 .btn {
   display: inline-block;
+  width: 260px; /* Pevná šířka pro sjednocení všech tlačítek */
+  max-width: 100%; /* Responzivita pro menší obrazovky */
   padding: 10px 20px;
-  margin: 5px 5px 5px 0;
+  margin: 5px 10px 5px 0;
   font-size: 15px;
   font-weight: 600;
   text-align: center;
@@ -234,6 +236,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
+<!-- CELÝ SVG OBRÁZEK JE NYNÍ ODKAZEM NA STAŽENÍ -->
 <a href="/docs/download-purchase.html" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="100%" class="screenshot-img" />
 </a>
@@ -247,6 +250,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
       Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
     </blockquote>
     
+    <!-- TLAČÍTKA HNED POD ÚVODNÍM TEXTEM PRO LEPŠÍ KONVERZI -->
     <div>
       <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
       <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
@@ -276,7 +280,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
 
 1. **Load &amp; Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
-2. **Generate &amp; Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in Getty Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
+2. **Generate &amp; Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
 3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
 
 ---
@@ -297,10 +301,10 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
     <th style="width: 50%; text-align: center; padding: 12px;">
-      <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Lite Version</a>
+      <a href="/docs/download-purchase.html" class="btn btn-primary" style="margin: 0 auto;">Download Free Lite Version</a>
     </th>
     <th style="width: 50%; text-align: center; padding: 12px;">
-      <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Get Lifetime License</a>
+      <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success" style="margin: 0 auto;">Get Lifetime License</a>
     </th>
   </tr>
   <tr>
@@ -344,6 +348,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 ---
 
+<!-- VYHLEDÁVAČ PŘESUNUTÝ LOGICKY K SEKCI S MANUÁLY -->
 <div id="flex-search-container">
   <input type="text" id="flex-search-input" placeholder="Search documentation..." />
   <ul id="flex-results-container"></ul>
