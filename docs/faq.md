@@ -1,236 +1,53 @@
+---
+
+title: "Frequently Asked Questions | ArtushVision AI Documentation"
+description: "Professional answers to common questions about ArtushVision AI pricing, privacy, local AI setup, and technical requirements."
+---
 <div style="display: none;">
 <style>
+/* Skrytí záhlaví pro čistý webový vzhled */
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 
-/* Flexbox kontejner pro rozdělení vršku (Hero sekce) na poloviny */
-.hero-split {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 30px;
-  margin: 10px 0 40px 0;
-}
-.hero-text {
-  flex: 1.1;
-}
-.hero-image {
-  flex: 0.9;
-}
-@media (max-width: 900px) {
-  .hero-split {
-    flex-direction: column;
-  }
-}
+/* Celkové ladění dokumentu */
+h1 { text-align: center; margin-bottom: 20px; color: #222; }
+h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; color: #444; scroll-margin-top: 20px; }
 
-/* Zelený Privacy Callout Box s plnou podporou pro Světlý i Tmavý režim - CELÁ ŠÍŘKA */
-.privacy-callout {
-  background-color: rgba(46, 164, 78, 0.08);
-  border: 1px solid rgba(26, 127, 55, 0.3);
-  border-radius: 6px;
-  padding: 18px;
-  margin: 25px 0;
-  width: 100%;
-  box-sizing: border-box;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+/* Rychlá navigace (Table of Contents) */
+.faq-toc {
+    background: #f8f9fa;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 40px;
 }
-.privacy-callout h2 {
-  color: #1a7f37;
-  margin-top: 0;
-  margin-bottom: 8px;
-  font-size: 15px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-.privacy-callout p {
-  margin: 0;
-  font-size: 13.5px;
-  color: #24292f;
-  line-height: 1.5;
-}
+.faq-toc p { font-weight: bold; margin-top: 0; margin-bottom: 10px; color: #333; }
+.faq-toc ul { margin: 0; padding-left: 20px; }
+.faq-toc li { margin-bottom: 5px; }
+.faq-toc a { color: #0366d6; text-decoration: none; font-weight: 500; }
+.faq-toc a:hover { text-decoration: underline; color: #0056b3; }
 
-/* Profesionální styl pro klikací screenshoty */
-.screenshot-link {
-  display: block;
-  width: 100%;
-  text-decoration: none;
+/* Stylování FAQ harmoniky */
+details {
+margin-bottom: 12px;
+padding: 15px;
+border: 1px solid #e1e4e8;
+border-radius: 6px;
+transition: background 0.3s ease;
 }
-.screenshot-img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border: 1px solid #333;
-  border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  transition: opacity 0.2s;
+details[open] { background: #fcfcfc; border-color: #d1d5da; }
+summary {
+font-weight: 600;
+cursor: pointer;
+font-size: 1.05em;
+outline: none;
+color: #0366d6;
 }
-.screenshot-img:hover {
-  opacity: 0.95;
-}
-
-/* Tlačítka (Call to Action) - UŽŠÍ PRO LEPŠÍ ZOBRAZENÍ VEDLE SEBE */
-.btn {
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  width: 230px; /* Zmenšeno pro jistotu, že se vejdou vedle sebe */
-  max-width: 100%;
-  padding: 10px 15px;
-  font-size: 15px;
-  font-weight: 600;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 6px;
-  transition: background-color 0.2s, color 0.2s, box-shadow 0.2s;
-  cursor: pointer;
-  box-sizing: border-box;
-}
-.btn-primary {
-  background-color: #0969da;
-  color: #ffffff !important;
-  border: 1px solid #0969da;
-}
-.btn-primary:hover {
-  background-color: #0550ae;
-  box-shadow: 0 3px 8px rgba(9, 105, 218, 0.2);
-}
-.btn-success {
-  background-color: #2da44e;
-  color: #ffffff !important;
-  border: 1px solid #2da44e;
-}
-.btn-success:hover {
-  background-color: #2c974b;
-  box-shadow: 0 3px 8px rgba(45, 164, 78, 0.2);
-}
-
-/* GitHub Téma vyhledávacího komponentu - ZAROVNÁNO DOLEVA */
-#flex-search-container {
-  max-width: 500px;
-  margin: 15px 0 25px 0; /* Změněno auto na 0 pro zarovnání vlevo */
-  position: relative;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
-}
-
-#flex-search-input {
-  width: 100%;
-  padding: 12px 16px;
-  font-size: 14px;
-  line-height: 20px;
-  border-radius: 6px;
-  box-sizing: border-box;
-  transition: border-color 0.2s, box-shadow 0.2s, background-color 0.2s, color 0.2s;
-  border: 1px solid #d0d7de;
-  background-color: #f6f8fa;
-  color: #24292f;
-}
-
-#flex-search-input::placeholder {
-  color: #57606a;
-  opacity: 1;
-}
-
-#flex-search-input:focus {
-  outline: none;
-  background-color: #ffffff;
-  border-color: #0969da;
-  box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.3);
-}
-
-#flex-results-container {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  width: 100%;
-  border-radius: 6px;
-  list-style: none;
-  padding: 0;
-  margin: 8px 0 0 0;
-  z-index: 100;
-  max-height: 300px;
-  overflow-y: auto;
-  display: none;
-  background-color: #ffffff;
-  border: 1px solid #d0d7de;
-  box-shadow: 0 8px 24px rgba(140, 149, 159, 0.2);
-}
-
-#flex-results-container li {
-  border-bottom: 1px solid #d0d7de;
-}
-
-#flex-results-container li:last-child {
-  border-bottom: none;
-}
-
-#flex-results-container li a {
-  display: block;
-  padding: 12px 16px;
-  text-decoration: none;
-  font-size: 14px;
-  font-weight: 500;
-  color: #24292f;
-  transition: background-color 0.1s, color 0.1s;
-}
-
-#flex-results-container li a:hover {
-  background-color: #0969da;
-  color: #ffffff;
-}
-
-#flex-results-container .no-results-msg {
-  padding: 12px 16px;
-  color: #57606a;
-  font-style: italic;
-  font-size: 14px;
-}
-
-@media (prefers-color-scheme: dark) {
-  .privacy-callout {
-    background-color: rgba(35, 134, 54, 0.15);
-    border: 1px solid rgba(46, 164, 78, 0.4);
-  }
-  .privacy-callout h2 {
-    color: #2ea44e;
-  }
-  .privacy-callout p {
-    color: #c9d1d9;
-  }
-  #flex-search-input {
-    border: 1px solid #30363d;
-    background-color: #0d1117;
-    color: #c9d1d9;
-  }
-  #flex-search-input::placeholder {
-    color: #8b949e;
-  }
-  #flex-search-input:focus {
-    border-color: #58a6ff;
-    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.3);
-  }
-  #flex-results-container {
-    background-color: #161b22;
-    border: 1px solid #30363d;
-    box-shadow: 0 8px 24px rgba(1, 4, 9, 0.8);
-  }
-  #flex-results-container li {
-    border-bottom: 1px solid #21262d;
-  }
-  #flex-results-container li a {
-    color: #c9d1d9;
-  }
-  #flex-results-container li a:hover {
-    background-color: #1f6feb;
-    color: #ffffff;
-  }
-  #flex-results-container .no-results-msg {
-    color: #8b949e;
-  }
-}
+summary:hover { color: #0056b3; }
+details p { margin-top: 15px; line-height: 1.6; color: #333; }
+details ul { margin-top: 10px; color: #333; }
+details li { margin-bottom: 5px; }
 </style>
 </div>
-
-<h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
 # Frequently Asked Questions (FAQ)
 
