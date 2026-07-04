@@ -217,7 +217,7 @@ If the latest release introduces unexpected behavior you can instantly roll back
 
 ## Licensing Plans
 
-| Feature | [Lite Edition (Free)](/docs/free-trial-limits-and-testing.html) | Pro Edition (Lifetime) |
+  | Feature | [Lite Edition (Free)](/docs/free-trial-limits-and-testing.html) | [Pro Edition (Lifetime)](/docs/download-purchase.html#buy-lifetime-license) |
 | :--- | :--- | :--- |
 | **Price** | **Free to use** | **$39.99** *(One-time payment)* |
 | **Commercial Usage** | Limited by operational constraints | Yes, fully optimized for high-volume business |
