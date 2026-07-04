@@ -213,7 +213,7 @@ The Lite Edition resets its limits every time you launch the application, allowi
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
     <th style="text-align: center; padding: 15px; background-color: rgba(50, 141, 22, 0.2);">
-      <a href="https://buy.polar.sh/polar_cl_TUTPvMmsbZpRDvy0uTbcx5KEIOpW3VA7ckcK52APZOz" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY - Secure Checkout via Polar.sh</a>
+      <a href="https://vision.artushfoto.eu/checkout" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY - Secure Checkout via Polar.sh</a>
     </th>
   </tr>
   <tr>
