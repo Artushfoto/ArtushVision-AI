@@ -136,6 +136,12 @@ To learn more about our commission rates and to request your custom affiliate li
 
 ---
 
+### [Get Started Now]
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
@@ -143,3 +149,5 @@ To learn more about our commission rates and to request your custom affiliate li
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
