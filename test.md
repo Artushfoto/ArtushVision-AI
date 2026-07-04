@@ -27,14 +27,15 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   }
 }
 
-/* Zelený Privacy Callout Box s plnou podporou pro Světlý i Tmavý režim */
+/* Zelený Privacy Callout Box s plnou podporou pro Světlý i Tmavý režim - CELÁ ŠÍŘKA */
 .privacy-callout {
   background-color: rgba(46, 164, 78, 0.08);
   border: 1px solid rgba(26, 127, 55, 0.3);
   border-radius: 6px;
   padding: 18px;
-  margin: 25px auto;
-  max-width: 900px;
+  margin: 25px 0;
+  width: 100%;
+  box-sizing: border-box;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
 .privacy-callout h2 {
@@ -200,9 +201,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Interface" width="100%" class="screenshot-img" />
-</a>
+<img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Interface" width="100%" class="screenshot-img" />
 
 ---
 
