@@ -5,7 +5,26 @@ description: "The ultimate AI photo tagging and metadata workstation for stock, 
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
-h1 { text-align: center; }
+
+/* Flexbox kontejner pro rozdělení vršku (Hero sekce) na poloviny */
+.hero-split {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+  margin: 20px 0 40px 0;
+}
+.hero-text {
+  flex: 1.1;
+}
+.hero-image {
+  flex: 0.9;
+}
+@media (max-width: 900px) {
+  .hero-split {
+    flex-direction: column;
+  }
+}
 
 /* Zelený Privacy Callout Box s plnou podporou pro Světlý i Tmavý režim */
 .privacy-callout {
@@ -36,8 +55,7 @@ h1 { text-align: center; }
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
-  margin: 20px auto;
-  max-width: 100%;
+  width: 100%;
   text-decoration: none;
 }
 .screenshot-img {
@@ -53,7 +71,7 @@ h1 { text-align: center; }
   opacity: 0.95;
 }
 
-/* GitHub Téma vyhledávacího komponentu (Světlý i Tmavý režim) */
+/* GitHub Téma vyhledávacího komponentu */
 #flex-search-container {
   max-width: 500px;
   margin: 25px auto;
@@ -179,14 +197,20 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# ArtushVision AI | Professional Metadata Automation
-<p align="center">
-  <strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong>
-</p>
-
----
-
-> **WHAT IS NEW: (New version will be available soon)** Complete standalone autonomy. Run powerful Vision &amp; Text models **100% locally and privately via Ollama** with zero API costs, map keywords seamlessly against the official **Getty Images Controlled Vocabulary**, and automate distribution with **per-server multi-threaded FTP uploads** and dynamic CSV mapping. Read the full [v1.10 Release Notes](/docs/whats-new.html).
+<div class="hero-split">
+  <div class="hero-text">
+    <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
+    <p style="font-size: 1.1em; line-height: 1.5;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
+    <blockquote style="margin: 20px 0 0 0; font-size: 0.95em; color: #57606a;">
+      <strong>WHAT IS NEW: (New version will be available soon)</strong> Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
+    </blockquote>
+  </div>
+  <div class="hero-image">
+    <a href="artushvision.png" target="_blank" class="screenshot-link" style="margin: 0;">
+      <img src="artushvision.png" alt="ArtushVision AI Interface" class="screenshot-img">
+    </a>
+  </div>
+</div>
 
 ---
 
