@@ -1,20 +1,41 @@
 ---
 title: "ArtushVision AI | Professional Photo Metadata & Auto Keywording"
-description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with local & cloud Vision AI."
+description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with Local & Cloud Vision AI."
 ---
+
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
-h1 { text-align: center; }
 
-/* Zelený Privacy Callout Box s plnou podporou pro Světlý i Tmavý režim */
+/* Flexbox kontejner pro rozdělení vršku (Hero sekce) na poloviny */
+.hero-split {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+  margin: 10px 0 40px 0;
+}
+.hero-text {
+  flex: 1.1;
+}
+.hero-image {
+  flex: 0.9;
+}
+@media (max-width: 900px) {
+  .hero-split {
+    flex-direction: column;
+  }
+}
+
+/* Zelený Privacy Callout Box s plnou podporou pro Světlý i Tmavý režim - CELÁ ŠÍŘKA */
 .privacy-callout {
   background-color: rgba(46, 164, 78, 0.08);
   border: 1px solid rgba(26, 127, 55, 0.3);
   border-radius: 6px;
   padding: 18px;
-  margin: 25px auto;
-  max-width: 900px;
+  margin: 25px 0;
+  width: 100%;
+  box-sizing: border-box;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
 .privacy-callout h2 {
@@ -36,8 +57,7 @@ h1 { text-align: center; }
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
-  margin: 20px auto;
-  max-width: 100%;
+  width: 100%;
   text-decoration: none;
 }
 .screenshot-img {
@@ -53,10 +73,46 @@ h1 { text-align: center; }
   opacity: 0.95;
 }
 
-/* GitHub Téma vyhledávacího komponentu (Světlý i Tmavý režim) */
+/* Tlačítka (Call to Action) - UŽŠÍ PRO LEPŠÍ ZOBRAZENÍ VEDLE SEBE */
+.btn {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 230px; /* Zmenšeno pro jistotu, že se vejdou vedle sebe */
+  max-width: 100%;
+  padding: 10px 15px;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.2s, color 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.btn-primary {
+  background-color: #0969da;
+  color: #ffffff !important;
+  border: 1px solid #0969da;
+}
+.btn-primary:hover {
+  background-color: #0550ae;
+  box-shadow: 0 3px 8px rgba(9, 105, 218, 0.2);
+}
+.btn-success {
+  background-color: #2da44e;
+  color: #ffffff !important;
+  border: 1px solid #2da44e;
+}
+.btn-success:hover {
+  background-color: #2c974b;
+  box-shadow: 0 3px 8px rgba(45, 164, 78, 0.2);
+}
+
+/* GitHub Téma vyhledávacího komponentu - ZAROVNÁNO DOLEVA */
 #flex-search-container {
   max-width: 500px;
-  margin: 25px auto;
+  margin: 15px 0 25px 0; /* Změněno auto na 0 pro zarovnání vlevo */
   position: relative;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
@@ -179,14 +235,35 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# ArtushVision AI | Professional Metadata Automation
-<p align="center">
-  <strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong>
-</p>
+<h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
+
+<!-- CELÝ SVG OBRÁZEK JE NYNÍ ODKAZEM NA STAŽENÍ -->
+<a href="/docs/download-purchase.html" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="100%" class="screenshot-img" />
+</a>
 
 ---
 
-> **WHAT IS NEW: (New version will be available soon)** Complete standalone autonomy. Run powerful Vision &amp; Text models **100% locally and privately via Ollama** with zero API costs, map keywords seamlessly against the official **Getty Images Controlled Vocabulary**, and automate distribution with **per-server multi-threaded FTP uploads** and dynamic CSV mapping. Read the full [v1.10 Release Notes](/docs/whats-new.html).
+<div class="hero-split">
+  <div class="hero-text">
+    <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
+    <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a;">
+      Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
+    </blockquote>
+    
+    <!-- TLAČÍTKA HNED POD ÚVODNÍM TEXTEM (ROZLOŽENÁ VEDLE SEBE) -->
+    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+      <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
+      <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
+    </div>
+
+  </div>
+  <div class="hero-image">
+    <a href="artushvision.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
+      <img src="artushvision.png" alt="Detail of ArtushVision AI split-screen workflow" class="screenshot-img" />
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -196,36 +273,6 @@ h1 { text-align: center; }
     Protect your family memories, private travel logs, and sensitive client shoots. By running advanced Vision models entirely <strong>locally on your own hardware</strong>, your images are analyzed right on your graphics card. <strong>No photos ever leave your computer</strong>, zero data is uploaded to corporate clouds, and absolute data logging privacy is fully guaranteed.
   </p>
 </div>
-
-<div id="flex-search-container">
-  <input type="text" id="flex-search-input" placeholder="Search documentation...">
-  <ul id="flex-results-container"></ul>
-</div>
-
----
-
-<h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h2>
-
-<table style="width: 100%; display: table; border-collapse: collapse;">
-  <tr>
-    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html">Download Free Lite / Commercial Version</a></th>
-    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html#buy-lifetime-license">Get Lifetime License</a></th>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 10px;"><b>Fully Functional Version</b></td>
-    <td style="text-align: center; padding: 10px;"><b>Only $39.99</b> (+ local VAT)</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 8px;">No time limits for testing</td>
-    <td style="text-align: center; padding: 8px;">One-time payment &bull; No monthly fees</td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <strong>Securely processed by Polar &amp; Stripe.</strong> <a href="/docs/manage-licence.html">Manage your licensed devices</a>
-</p>
 
 ---
 
@@ -250,9 +297,38 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 ---
 
+<h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h2>
+
+<table style="width: 100%; display: table; border-collapse: collapse;">
+  <tr>
+    <th style="width: 50%; text-align: center; padding: 12px;">
+      <a href="/docs/download-purchase.html" class="btn btn-primary" style="margin: 0 auto;">Download Free Lite Version</a>
+    </th>
+    <th style="width: 50%; text-align: center; padding: 12px;">
+      <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success" style="margin: 0 auto;">Get Lifetime License</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;"><b>Fully Functional Version</b></td>
+    <td style="text-align: center; padding: 10px;"><b>Only $39.99</b> (+ local VAT)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 8px;">No time limits for testing</td>
+    <td style="text-align: center; padding: 8px;">One-time payment &bull; No monthly fees</td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <strong>Securely processed by Polar &amp; Stripe.</strong> <a href="/docs/manage-licence.html">Manage your licensed devices</a>
+</p>
+
+---
+
 **ArtushVision AI Workspace**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.png" alt="ArtushVision AI Interface" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.png" alt="ArtushVision AI Workspace showing automated metadata generation" width="100%" class="screenshot-img" loading="lazy" />
 </a>
 
 ---
@@ -274,6 +350,12 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 ---
 
 ## Complete Documentation Index
+
+<!-- VYHLEDÁVAČ ROZBALENÝ POD NADPISEM A ZAROVNANÝ DOLEVA -->
+<div id="flex-search-container">
+  <input type="text" id="flex-search-input" placeholder="Search documentation..." />
+  <ul id="flex-results-container"></ul>
+</div>
 
 ### 1. Getting Started
 - [System Requirements &amp; Installation](/docs/installation.html)
