@@ -7,6 +7,41 @@ description: "Download the free version or buy a lifetime commercial license for
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 h1 { text-align: center; }
 
+/* Tlačítka (Call to Action) */
+.btn {
+  display: inline-block;
+  width: 280px;
+  max-width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.2s, color 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.btn-primary {
+  background-color: #0969da;
+  color: #ffffff !important;
+  border: 1px solid #0969da;
+}
+.btn-primary:hover {
+  background-color: #0550ae;
+  box-shadow: 0 3px 8px rgba(9, 105, 218, 0.2);
+}
+.btn-success {
+  background-color: #2da44e;
+  color: #ffffff !important;
+  border: 1px solid #2da44e;
+}
+.btn-success:hover {
+  background-color: #2c974b;
+  box-shadow: 0 3px 8px rgba(45, 164, 78, 0.2);
+}
+
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
@@ -146,7 +181,10 @@ h1 { text-align: center; }
 # Get ArtushVision AI
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
-## [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+<div style="margin-top: 15px; margin-bottom: 20px;">
+  <a href="#buy-lifetime-license" class="btn btn-success">Purchase Lifetime License - $39.99</a>
+</div>
 
 [Frequently Asked Questions (FAQ)](faq.html)
 
@@ -158,8 +196,8 @@ h1 { text-align: center; }
 
 ArtushVision AI uses a single, unified build. The application operates in the Limited Free Version mode by default. Entering a valid license key inside the application settings instantly unlocks the full Pro Edition.
 
-* **[⬇️ Download Standard Installer (.exe)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Recommended for Windows 10/11 64-bit. Guides you through the setup.
-* **[⬇️ Download Portable Version (.zip)](https://www.artushfoto.eu/Software/Download-ArtushVision-AI)** — Run without installation. Simply extract the archive and launch.
+* <a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI" class="btn btn-primary">⬇️ Download Standard Installer (.exe)</a><br>Recommended for Windows 10/11 64-bit. Guides you through the setup.
+* <a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI" class="btn btn-primary" style="margin-top: 15px;">⬇️ Download Portable Version (.zip)</a><br>Run without installation. Simply extract the archive and launch.
 
 **Version Archive & Rollback**
 
@@ -191,7 +229,7 @@ If the latest release introduces unexpected behavior you can instantly roll back
 
 ---
 
-## Buy Lifetime License
+<h2 id="buy-lifetime-license">Buy Lifetime License</h2>
 
 Unlock the absolute maximum potential of your photography and video portfolios. Get full access to 2-pass offline AI engines, automated temporary CSV creation, multi-threaded FTP uploads, and advanced dictionary mapping tools.
 
@@ -210,20 +248,20 @@ The Lite Edition resets its limits every time you launch the application, allowi
 > ArtushVision AI is a robust, actively developed tool. While we strive for the highest stability, you might occasionally encounter minor bugs. If you do, please report them to our support email: <b>support [at] artushfoto [dot] eu</b> or <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a> - we are highly committed to fixing reported issues and releasing updates as quickly as possible.
 
 
-<table style="width: 100%; display: table; border-collapse: collapse;">
+<table style="width: 100%; display: table; border-collapse: collapse; margin-top: 20px;">
   <tr>
-    <th style="text-align: center; padding: 15px; background-color: rgba(50, 141, 22, 0.2);">
-      <a href="https://vision.artushfoto.eu/checkout" style="font-size: 1.2em; font-weight: bold;">👉 CLICK TO BUY - Secure Checkout via Polar.sh</a>
+    <th style="text-align: center; padding: 25px 15px; background-color: rgba(45, 164, 78, 0.1); border: 1px solid rgba(45, 164, 78, 0.3); border-radius: 6px;">
+      <a href="https://vision.artushfoto.eu/checkout" class="btn btn-success" style="width: 100%; max-width: 400px; font-size: 1.1em; padding: 15px; margin: 0 auto;">👉 CLICK TO BUY - Secure Checkout</a>
     </th>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 10px;">
+    <td style="text-align: center; padding: 15px 10px 5px 10px;">
       <b>Commercial Lifetime License - Only $39.99</b> (+ local VAT)
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 8px; font-size: 0.9em; color: #666;">
-      One-time payment &bull; No monthly fees &bull; Payments secured via Polar.sh & Stripe
+    <td style="text-align: center; padding: 5px 8px 15px 8px; font-size: 0.9em; color: #666;">
+      One-time payment &bull; No monthly fees &bull; Payments secured via Polar.sh &amp; Stripe
     </td>
   </tr>
 </table>
@@ -253,8 +291,8 @@ Immediately after a successful checkout, Polar.sh will generate a unique license
 ---
 
 ### [Get Started Now]
-* [Download Free Lite Version](/docs/download-purchase.html)
-* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+* <a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a>
+* <a href="#buy-lifetime-license">Purchase Lifetime License - $39.99</a>
 
 ---
 
