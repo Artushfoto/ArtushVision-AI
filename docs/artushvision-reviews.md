@@ -117,10 +117,18 @@ h1 { text-align: center; }
 
 <h2 align="center">Ready to transform your workflow?</h2>
 
-<table style="width: 100%; display: table; border-collapse: collapse; margin-top: 20px;">
+<table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
-    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html">Download Free Lite Version</a></th>
+    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html">Download Free Lite / Commercial Version</a></th>
     <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html#buy-lifetime-license">Get Lifetime License</a></th>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;"><b>Fully Functional Version</b></td>
+    <td style="text-align: center; padding: 10px;"><b>Only $39.99</b> (+ local VAT)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 8px;">No time limits for testing</td>
+    <td style="text-align: center; padding: 8px;">One-time payment &bull; No monthly fees</td>
   </tr>
 </table>
 
