@@ -276,7 +276,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 ---
 
-**Stop paying rent** for your software. For just $39.99, the price of a casual dinner for two you get a powerful tool that is **yours forever**. No monthly subscriptions, no strings attached. Run it **completely offline** for **maximum privacy**, or connect to **cloud AI** whenever you need it with **total control** over your usage and costs. **It’s a one-time investment that pays for itself in just two hours of saved work**.
+**Stop paying rent** for your software or credits. For just $39.99, the price of a **casual dinner for two**, you get a powerful tool that is yours forever. **No monthly subscriptions**, no strings attached. Run it **completely offline for maximum privacy**, or connect to **cloud AI** whenever you need it with **total control** over your usage and costs. **It’s a one-time investment that pays for itself in just two hours of saved work.**
 
 ---
 
