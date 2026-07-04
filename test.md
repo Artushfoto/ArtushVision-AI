@@ -109,10 +109,10 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   box-shadow: 0 3px 8px rgba(45, 164, 78, 0.2);
 }
 
-/* GitHub Téma vyhledávacího komponentu */
+/* GitHub Téma vyhledávacího komponentu - ZAROVNÁNO DOLEVA */
 #flex-search-container {
   max-width: 500px;
-  margin: 25px auto;
+  margin: 15px 0 25px 0; /* Změněno auto na 0 pro zarovnání vlevo */
   position: relative;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
@@ -237,6 +237,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
+<!-- CELÝ SVG OBRÁZEK JE NYNÍ ODKAZEM NA STAŽENÍ -->
 <a href="/docs/download-purchase.html" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="100%" class="screenshot-img" />
 </a>
@@ -250,6 +251,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
       Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
     </blockquote>
     
+    <!-- TLAČÍTKA HNED POD ÚVODNÍM TEXTEM (ROZLOŽENÁ VEDLE SEBE) -->
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
       <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
       <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
@@ -347,12 +349,13 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 ---
 
+## Complete Documentation Index
+
+<!-- VYHLEDÁVAČ ROZBALENÝ POD NADPISEM A ZAROVNANÝ DOLEVA -->
 <div id="flex-search-container">
   <input type="text" id="flex-search-input" placeholder="Search documentation..." />
   <ul id="flex-results-container"></ul>
 </div>
-
-## Complete Documentation Index
 
 ### 1. Getting Started
 - [System Requirements &amp; Installation](/docs/installation.html)
