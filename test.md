@@ -73,13 +73,14 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   opacity: 0.95;
 }
 
-/* Tlačítka (Call to Action) - UPRAVENO PRO STEJNOU ŠÍŘKU */
+/* Tlačítka (Call to Action) - UŽŠÍ PRO LEPŠÍ ZOBRAZENÍ VEDLE SEBE */
 .btn {
-  display: inline-block;
-  width: 260px; /* Pevná šířka pro sjednocení všech tlačítek */
-  max-width: 100%; /* Responzivita pro menší obrazovky */
-  padding: 10px 20px;
-  margin: 5px 10px 5px 0;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 230px; /* Zmenšeno pro jistotu, že se vejdou vedle sebe */
+  max-width: 100%;
+  padding: 10px 15px;
   font-size: 15px;
   font-weight: 600;
   text-align: center;
@@ -250,8 +251,8 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
       Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
     </blockquote>
     
-    <!-- TLAČÍTKA HNED POD ÚVODNÍM TEXTEM PRO LEPŠÍ KONVERZI -->
-    <div>
+    <!-- TLAČÍTKA HNED POD ÚVODNÍM TEXTEM (ROZLOŽENÁ VEDLE SEBE) -->
+    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
       <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
       <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
     </div>
