@@ -291,8 +291,8 @@ Immediately after a successful checkout, Polar.sh will generate a unique license
 ---
 
 ### [Get Started Now]
-* <a href="https://www.artushfoto.eu/Software/Download-ArtushVision-AI">Download Free Lite Version</a>
-* <a href="#buy-lifetime-license">Purchase Lifetime License - $39.99</a>
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
