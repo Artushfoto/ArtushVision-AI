@@ -172,7 +172,7 @@ Once logged in, navigate to the **"Purchases"** or **"Benefits"** section. You w
 ### Need support?
 If you have questions about your license or need technical help, please contact us.
 
-**Contact Support →** write to **support(at)artushfoto.eu**
+**Contact Support →** write to **support(@)artushfoto.eu**
 
 ---
 
