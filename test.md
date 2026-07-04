@@ -230,6 +230,16 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 ---
 
+## The 3-Step Production Workflow
+
+ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
+
+1. **Load &amp; Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
+2. **Generate &amp; Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
+3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
+
+---
+
 <h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h2>
 
 <table style="width: 100%; display: table; border-collapse: collapse;">
@@ -252,16 +262,6 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 <p align="center">
   <strong>Securely processed by Polar &amp; Stripe.</strong> <a href="/docs/manage-licence.html">Manage your licensed devices</a>
 </p>
-
----
-
-## The 3-Step Production Workflow
-
-ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
-
-1. **Load &amp; Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
-2. **Generate &amp; Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
-3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
 
 ---
 
