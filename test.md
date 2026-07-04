@@ -13,7 +13,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   flex-direction: row;
   align-items: center;
   gap: 30px;
-  margin: 20px 0 40px 0;
+  margin: 10px 0 40px 0;
 }
 .hero-text {
   flex: 1.1;
@@ -198,11 +198,11 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 </style>
 </div>
 
-<!-- ROZDĚLENÍ VRŠKU: TEXT VLEVO, OBRÁZEK VPRAVO -->
+<h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
+
 <div class="hero-split">
   <div class="hero-text">
-    <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
-    <p style="font-size: 1.1em; line-height: 1.5;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
+    <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
     <blockquote style="margin: 20px 0 0 0; font-size: 0.95em; color: #57606a;">
       <strong>WHAT IS NEW: (New version will be available soon)</strong> Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
     </blockquote>
