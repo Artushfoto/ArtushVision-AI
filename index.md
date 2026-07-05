@@ -374,8 +374,8 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 - [Advanced AI Prompting, Profiles &amp; Variables](/docs/advanced-ai-prompting-profiles-variables.html)
 - [Manual Editing, Multi-language Spellcheck &amp; Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
 - [Batch Metadata Actions, Search &amp; Replace](/docs/batch-operations-metadata-library-management.html)
-- [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
 - [Microstock Category Mapping Matrix](/docs/category-matrix.html)
+- [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
 
 
 ### 3. Professional Asset Distribution
