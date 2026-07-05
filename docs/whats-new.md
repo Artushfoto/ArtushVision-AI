@@ -153,8 +153,6 @@ h1 { text-align: center; }
 
 Find out what has changed in the latest build (v1.10) and how these new advanced features can accelerate your daily keywording, culling, and multi-agency microstock distribution workflow.
 
-<!-- [IMAGE: images/whats-new-hero-banner.png] -->
-
 ---
 
 ## Major Microstock Automation Enhancements
@@ -206,18 +204,17 @@ The entire stock photo and video upload process has been rewritten from the grou
 * **One-Click Temporary CSV Generation:** When active, the app automatically takes the uploaded photos, generates a temporary CSV tailored to the specific agency, uploads the CSV file immediately after the media files, and then cleanly purges it from your computer. Read the complete setup in the [Global Stock Distribution & FTP Guide](/docs/global-stock-distribution-ftp.html).
 * **[Advanced Server Settings (Thread Limits)](/docs/global-stock-distribution-ftp.html#per-server-multi-threading-and-auto-retry):** The number of concurrent uploads (threads) is no longer global but set individually for each FTP server. You can safely send to Shutterstock with 10 photos at once, while limiting Zoonar to 1 thread to prevent connection blocks (`421 Too many connections`).
 * **One-Click Server Profile Duplication:** Easily duplicate existing FTP server configurations with a single click to set up multiple accounts or subfolders for the same stock agency.
-* [**FTP Profiles and Status Badges:**](/docs/global-stock-distribution-ftp.html#advanced-tracking-and-visual-status-badges) Group your servers into custom FTP Profiles (e.g., "Video" or "Main Stock"). Uploaded agencies are then permanently visualized as colored micro-badges directly on the grid thumbnails for each photo and can be actively filtered using Smart Grid Filters and Search.
+* **[FTP Profiles and Status Badges:](/docs/global-stock-distribution-ftp.html#advanced-tracking-and-visual-status-badges)** Group your servers into custom FTP Profiles (e.g., "Video" or "Main Stock"). Uploaded agencies are then permanently visualized as colored micro-badges directly on the grid thumbnails for each photo and can be actively filtered using Smart Grid Filters and Search.
 
 ---
 
 ## Desktop UI and Linguistic Performance Updates
 
 * **Advanced Undo/Redo Engine:** Made a mistake during a massive batch edit? The application now features a robust, 200-step local Undo/Redo stack (`Ctrl+Z` / `Ctrl+Y`). It perfectly restores not just text, but also keyword colors, star ratings, and rejection flags.
-* [**Lightroom Keyword Order Restoration:**](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility) Added a new **"Restore keywords and order after LR Export"** context menu action. This recovers the exact original sequence of keywords using `XMP-artush:KeywordOrder` metadata, fixing any keyword shuffling caused by Lightroom export pipelines.
-
+* **[Lightroom Keyword Order Restoration:](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Added a new **"Restore keywords and order after LR Export"** context menu action. This recovers the exact original sequence of keywords using `XMP-artush:KeywordOrder` metadata, fixing any keyword shuffling caused by Lightroom export pipelines.
 
 ### System & Interface Polish
-* [**Non-Destructive Keyword Sets & Predefined Presets:**](/docs/smart-manual-keywording-batch-editing.html#keyword-sets-presets) Create, manage, and batch-apply custom preset combinations of tags (e.g., for specific locations or studio environments) that undergo instant deduplication and live spell checking. The application now comes preloaded with **24 curated predefined keyword sets** (including Landscape, Drone, Travel, Food, Plants, Animals, and more) to immediately boost your workflow.
+* **[Non-Destructive Keyword Sets & Predefined Presets:](/docs/smart-manual-keywording-batch-editing.html#keyword-sets-presets)** Create, manage, and batch-apply custom preset combinations of tags (e.g., for specific locations or studio environments) that undergo instant deduplication and live spell checking. The application now comes preloaded with **24 curated predefined keyword sets** (including Landscape, Drone, Travel, Food, Plants, Animals, and more) to immediately boost your workflow.
 * **Bi-Directional Lightroom & Zoner Integration:** All stars, flags, and custom tags map perfectly to standard XMP namespaces (like `XMP-dc`, `XMP-lr`), allowing seamless catalog synchronization via Adobe's "Read Metadata from Files" command. We have also added complete rating and color label synchronization for Zoner Photo Studio, ensuring seamless metadata exchange across Lightroom, Zoner Photo Studio, and ArtushVision AI.
 * **Settings Backup & Migration:** Added a full, one-click ZIP backup of all custom profiles, AI prompts, and CSV templates, utilizing secure Windows DPAPI encryption to safely package credentials.
 
@@ -226,6 +223,11 @@ The entire stock photo and video upload process has been rewritten from the grou
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 

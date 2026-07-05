@@ -1,5 +1,4 @@
 ---
-
 title: "Frequently Asked Questions | ArtushVision AI Documentation"
 description: "Professional answers to common questions about ArtushVision AI pricing, privacy, local AI setup, and technical requirements."
 ---
@@ -73,7 +72,7 @@ details li { margin-bottom: 5px; }
 
 ## General, Licensing and Pricing
 
-<details>
+<details id="general-licensing-and-pricing">
 <summary>Is ArtushVision AI a subscription service?</summary>
 <p>
 No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.99) and own the software forever. There are no recurring monthly fees. You only pay for the <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai">cloud AI</a> processing you actually use via your own API keys, or use <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai">Local AI</a> for free.
@@ -112,18 +111,18 @@ The Lite version is a fully functional "<a href="/docs/free-trial-limits-and-tes
 <summary>Which file formats can I process?</summary>
 <p>
 ArtushVision AI supports professional standards including:
+</p>
 <ul>
   <li><b>Images:</b> JPG, RAW (CR2, NEF, ARW, etc.), TIFF, PNG, HEIC, WEBP.</li>
   <li><b>Video:</b> MP4, MOV, AVI, MKV.</li>
 </ul>
-</p>
 </details>
 
 ---
 
 ## AI Privacy and Costs
 
-<details>
+<details id="ai-privacy-and-costs">
 <summary>Is my data private during analysis?</summary>
 <p>
 Privacy is our priority. In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai">Local AI mode</a></b>, your photos never leave your machine (processed via <a href="/docs/local-ai-model-manager-ollama.html">Local Model Manager</a>). In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai">Cloud mode</a></b>, only a temporary low-resolution thumbnail is sent to the AI provider - never your high-resolution originals.
@@ -148,7 +147,7 @@ A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/d
 
 ## Workflow and Compatibility
 
-<details>
+<details id="workflow-and-compatibility">
 <summary>Will the AI overwrite my existing keywords?</summary>
 <p>
 No. You have absolute control. Using <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#smart-data-safeguards">Smart Protection</a>, you can tell the AI to only append new tags or use variables like <code>{existing_keywords}</code> to let the AI intelligently expand your work.
@@ -173,7 +172,7 @@ Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars
 
 ## Microstock Export & FTP Upload
 
-<details>
+<details id="microstock-export--ftp-upload">
 <summary>Can ArtushVision AI upload my photos directly to stock agencies?</summary>
 <p>
 Absolutely. The application features a built-in <b>FTP Manager</b>. You can configure multiple FTP servers (Shutterstock, Adobe Stock, etc.) and upload your finished photos and videos with a single click. It even supports multi-threading and auto-retries for unstable connections.
@@ -191,7 +190,7 @@ No. Thanks to the <b>Category Matrix</b>, you map your image to a "Master Catego
 
 ## Data Safety & Languages
 
-<details>
+<details id="data-safety--languages">
 <summary>What happens if the AI makes a mistake? Can I undo changes?</summary>
 <p>
 You are completely safe. First, the grid editor supports full <b>Undo/Redo (Ctrl+Z)</b>. Second, the software features a robust backup system: it can generate full CSV backups, save original JPG files with a <code>.original</code> extension, or write safely into separate <code>.xmp</code> sidecar files for your RAW images.
@@ -216,7 +215,7 @@ The application natively focuses on English, as it is the strict standard for gl
 
 ## Technical Setup
 
-<details>
+<details id="technical-setup">
 <summary>I get an "<a href="/docs/ollama-installation-guide.html">Ollama</a> not found" error. How to fix it?</summary>
 <p>
 Ensure <a href="/docs/ollama-installation-guide.html">Ollama is installed</a> and the service is running in your system tray. You can manage and download models directly through our <a href="/docs/local-ai-model-manager-ollama.html#integrated-hub-browser-and-downloader">Integrated Model Manager</a>.
@@ -234,6 +233,7 @@ Check your <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter</a> cre
 <summary>How do I report a bug or unexpected behavior?</summary>
 <p>
 If you encounter a crash or an error, providing a debug log helps us investigate and fix the issue much faster. Please follow these steps:
+</p>
 <ol>
   <li>In the top application menu, go to <b>File &gt; Logging</b> and select <b>Debug (All)</b>.</li>
   <li>Repeat the exact action that caused the error so the application can record the background technical details.</li>
@@ -241,16 +241,12 @@ If you encounter a crash or an error, providing a debug log helps us investigate
   <li>Take a screenshot of the application (especially if there is a visible error message or a visual glitch).</li>
   <li>Send the <b>saved log file</b> along with the <b>screenshots</b> and a <b>brief description</b> of what you were doing when the error occurred to our support email: <b>support [at] artushfoto [dot] eu</b>. Alternatively, you can create a new post in our <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a>.</li>
 </ol>
-</p>
 </details>
 
 ---
 
 ### Need more help?
-
-* [Full AI Workflow Documentation](/docs/ai-metadata-generation-cloud-local-ollama.html)
-* [Advanced Prompting Guide](/docs/advanced-ai-prompting-profiles-variables.html)
-* [Global FTP Distribution Guide](/docs/global-stock-distribution-ftp.html)
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 

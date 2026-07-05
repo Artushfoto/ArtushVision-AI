@@ -214,9 +214,14 @@ The European Commission provides an online platform for out-of-court dispute res
 
 ---
 
-### [Get Started Now]
+### Get Started Now
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 

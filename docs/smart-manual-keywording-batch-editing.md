@@ -261,14 +261,14 @@ If you accidentally deleted the wrong keywords and **haven't clicked the "Save" 
 
 ---
 
-[**1. Batch assignment in the Grid view**](category-matrix.html)
+### 1. Batch assignment in the Grid view
 If you need to assign the same categories or properties to multiple photos at once, select them in the grid (e.g., by dragging the mouse, or using `Ctrl+Click` / `Shift+Click`). Then, in the top bar under the **Batch Edit** panel, click the **Categories** button, or select **Other info (Country, Editorial...)** from the target dropdown menu and click **+ Add**. In these dialogs, you can batch edit:
 *   Check up to 3 matching Master categories.
 *   Set the country of origin (the application can also automatically load this from the GPS coordinates of individual photos).
 *   Mark photos as Editorial, Illustration, or 18+ (Mature).
 Upon confirmation, these properties are immediately applied to all currently selected images.
 
-[**2. Individually in the Edit window (Photo detail)**](category-matrix.html#how-to-assign-categories--properties)
+### 2. Individually in the Edit window (Photo detail)
 During the detailed editing of a specific photo, you will find the **Categories** and **Properties** sections located right next to the Description field. The currently assigned categories are displayed here as a neat bulleted list (you can easily remove them using the cross button or add new ones). Just below them, you will find a dropdown with a complete list of countries for manual country editing, and checkboxes for quick toggling of flags (Editorial, Illustration, etc.).
 
 ---
@@ -308,7 +308,7 @@ Organizing a massive photoshoot requires speed. ArtushVision AI features a compl
 
 * **Keyboard Shortcuts:** Instantly rate photos using keys 1-5, apply Pick/Reject flags using P and X (or U to unflag), and assign color labels with keys 6-9.
 * **Batch Culling:** Select 100 photos and press 5 to rate them all as 5-star instantly.
-* **[100% Lightroom, digiKam and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Your ratings, flags, and color labels are natively written into <a href="/docs/metadata-compatibility-and-file-handling.html">EXIF/XMP sidecars</a>. If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
+* **[100% Lightroom, digiKam and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility)** Your ratings, flags, and color labels are natively written into [EXIF/XMP sidecars](/docs/metadata-compatibility-and-file-handling.html). If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.png" target="_blank" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.png" alt="ArtushVision AI - Visual Culling" width="100%" class="screenshot-img">
@@ -351,7 +351,7 @@ Stop typing the same words over and over. As you type, the Smart Autocomplete in
 Never get a batch rejected for a typo again. ArtushVision AI features a robust, offline-first spellchecking engine.
 
 * **Dual-Language Support:** Do you shoot local events but tag in English? Set a Primary (e.g., English) and a Secondary language (e.g., Czech or German). The application will validate against both dictionaries simultaneously, so local names are no longer flagged as errors.
-* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">Cloud AI</a> will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
+* **Quick Fixes:** Right-click any red-underlined word to open the context menu. The [Cloud AI](/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path) will instantly suggest the best spelling corrections, complete with your native language translation in brackets.
 * **User Dictionary:** Teach the application your specific client names or locations. Add a custom word to your **Personal Dictionary** with one click, and the app will instantly clear the error across your entire portfolio.
 
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`
@@ -384,13 +384,18 @@ Right Mouse Click on → `Keyword`
 
 1. **Cull and Sort:** Rapidly go through your grid using keyboard shortcuts (1-5, P, X) to rate and flag the best photos for microstock submission.
 2. **Type and Tab:** Use the intelligent autocomplete to rapidly build your base tags, tabbing smoothly between the Title, Description, and Keywords fields.
-3. **Drag and Drop:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the overarching themes everywhere instantly (see the <a href="/docs/global-stock-distribution-ftp.html">Smart FTP Uploader</a>).
+3. **Drag and Drop:** Visually distribute specialized tags between photos by dragging the bubbles, and select the rest of the overarching themes everywhere instantly (see the [Smart FTP Uploader](/docs/global-stock-distribution-ftp.html)).
 
 ---
 
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 

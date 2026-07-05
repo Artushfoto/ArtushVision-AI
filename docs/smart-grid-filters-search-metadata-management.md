@@ -1,6 +1,6 @@
 ---
-title: "Smart Grid Filters and Search: Metadata Portfolio Management | ArtushVision AI"
-description: "Master large-scale photo portfolios with advanced grid filters. Learn about real-time search, metadata validation logic, and 3-state FTP distribution filters."
+title: "Smart Grid Filters & Search: Portfolio Metadata Management"
+description: "Master large-scale photo portfolios with advanced grid filters, real-time search, metadata validation logic, and 3-state FTP distribution filters."
 ---
 <div style="display: none;">
 <style>
@@ -198,15 +198,15 @@ Integrated directly with the [Smart FTP](global-stock-distribution-ftp.html) Upl
 
 ArtushVision AI provides instant feedback through colorful micro-badges stamped directly onto the photo cards in the main grid.
 
-| Badge Type         | Description                                                                                               |
-| :----------------- | :-------------------------------------------------------------------------------------------------------- |
-| **Format & Data**  | Indicates if a file is VIDEO, RAW, contains GPS coordinates, or has XMP/CSV backups.                      |
-| **Category (CAT)** | Hover over the teal CAT badge to see a tooltip listing all assigned Master Categories.                    |
-| **Agency Letters** | Circular letters (S, A, D, etc.) show exactly which FTP servers the file has reached.                      |
-| **Status Markers** | Color-coded dots indicating if a file is Unchanged, Modified, Saved, or contains an Error.                |
+| Badge Type | Description |
+| :--- | :--- |
+| **Format & Data** | Indicates if a file is VIDEO, RAW, contains GPS coordinates, or has XMP/CSV backups. |
+| **Category (CAT)** | Hover over the teal CAT badge to see a tooltip listing all assigned Master Categories. |
+| **Agency Letters** | Circular letters (S, A, D, etc.) show exactly which FTP servers the file has reached. |
+| **Status Markers** | Color-coded dots indicating if a file is Unchanged, Modified, Saved, or contains an Error. |
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI - Visual Grid Badges" style="width: 800px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI Visual Grid Badges for Metadata Tracking" style="width: 800px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -223,6 +223,11 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 
