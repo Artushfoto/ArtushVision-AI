@@ -26,120 +26,6 @@ h1 { text-align: center; }
 .screenshot-img:hover {
   opacity: 0.95;
 }
-
-/* GitHub Téma vyhledávacího komponentu (Zarovnáno doleva) */
-#flex-search-container {
-  max-width: 500px;
-  margin: 15px 0 25px 0;
-  position: relative;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
-}
-
-#flex-search-input {
-  width: 100%;
-  padding: 12px 16px;
-  font-size: 14px;
-  line-height: 20px;
-  border-radius: 6px;
-  box-sizing: border-box;
-  transition: border-color 0.2s, box-shadow 0.2s, background-color 0.2s, color 0.2s;
-  border: 1px solid #d0d7de;
-  background-color: #f6f8fa;
-  color: #24292f;
-}
-
-#flex-search-input::placeholder {
-  color: #57606a;
-  opacity: 1;
-}
-
-#flex-search-input:focus {
-  outline: none;
-  background-color: #ffffff;
-  border-color: #0969da;
-  box-shadow: 0 0 0 3px rgba(9, 105, 218, 0.3);
-}
-
-#flex-results-container {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  width: 100%;
-  border-radius: 6px;
-  list-style: none;
-  padding: 0;
-  margin: 8px 0 0 0;
-  z-index: 100;
-  max-height: 300px;
-  overflow-y: auto;
-  display: none;
-  background-color: #ffffff;
-  border: 1px solid #d0d7de;
-  box-shadow: 0 8px 24px rgba(140, 149, 159, 0.2);
-}
-
-#flex-results-container li {
-  border-bottom: 1px solid #d0d7de;
-}
-
-#flex-results-container li:last-child {
-  border-bottom: none;
-}
-
-#flex-results-container li a {
-  display: block;
-  padding: 12px 16px;
-  text-decoration: none;
-  font-size: 14px;
-  font-weight: 500;
-  color: #24292f;
-  transition: background-color 0.1s, color 0.1s;
-}
-
-#flex-results-container li a:hover {
-  background-color: #0969da;
-  color: #ffffff;
-}
-
-#flex-results-container .no-results-msg {
-  padding: 12px 16px;
-  color: #57606a;
-  font-style: italic;
-  font-size: 14px;
-}
-
-@media (prefers-color-scheme: dark) {
-  #flex-search-input {
-    border: 1px solid #30363d;
-    background-color: #0d1117;
-    color: #c9d1d9;
-  }
-  #flex-search-input::placeholder {
-    color: #8b949e;
-  }
-  #flex-search-input:focus {
-    border-color: #58a6ff;
-    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.3);
-  }
-  #flex-results-container {
-    background-color: #161b22;
-    border: 1px solid #30363d;
-    box-shadow: 0 8px 24px rgba(1, 4, 9, 0.8);
-  }
-  #flex-results-container li {
-    border-bottom: 1px solid #21262d;
-  }
-  #flex-results-container li a {
-    color: #c9d1d9;
-  }
-  #flex-results-container li a:hover {
-    background-color: #1f6feb;
-    color: #ffffff;
-  }
-  #flex-results-container .no-results-msg {
-    color: #8b949e;
-  }
-}
 </style>
 </div>
 
@@ -147,7 +33,7 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](/index.html)
 
-**Most AI keywording tools are black boxes, if you upload an image, and you get whatever generic keywords the developer decided you should get. ArtushVision AI flips this script entirely. Our built-in Profile Editor gives you absolute freedom to dictate exactly how the AI should "think", format, structure, and prioritize your metadata.**
+**Most AI keywording tools are black boxes: you upload an image, and you get whatever generic keywords the developer decided you should get. ArtushVision AI flips this script entirely. Our built-in Profile Editor gives you absolute freedom to dictate exactly how the AI should "think", format, structure, and prioritize your metadata.**
 
 Whether you need standard microstock keywords, poetic Instagram captions, or strict journalistic editorial descriptions, you can program the AI to deliver it perfectly.
 
@@ -177,7 +63,7 @@ Because every AI engine behaves differently, ArtushVision AI allows you to save 
 An AI model can't guess what camera you used or where a mountain is located just by looking at a pixel grid. ArtushVision AI solves this by injecting rich, dynamic metadata directly into your prompt before it reaches the AI.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="Table of available technical and contextual AI variables in ArtushVision AI" style="width: 800px;" class="screenshot-img" />
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="Table of available technical and contextual AI variables in ArtushVision AI" style="width: 100%; max-width: 800px;" class="screenshot-img" loading="lazy" />
 </a>
 <div style="height: 15px;"></div>
 
@@ -268,7 +154,7 @@ This professional-grade prompt template is optimized for high-end microstock aut
     - **FORBIDDEN WORDS**: outdoor, outdoors, looking, day, daytime, sunny, summer, spring, season, unknown, none, gps, coordinate, 4k, hd, resolution, date, time, camera, lens, samsung, iphone, img_, dsc_,GoPro 13,log, video, MP4, City, Country.
     
     5. OUTPUT FORMAT (JSON):
-    Return a valid JSON object:
+    - Return a valid JSON object:
     {
       "title": "[Subject and features]",
       "description": "[Detailed commercial factual description for microstock]",
@@ -292,14 +178,14 @@ Build a library of specialized workflows to switch between different project typ
 * **One-Click Switching:** Change your active profile in the main grid depending on the batch of photos currently being processed.
 * **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies via the Category Matrix.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - AI prompt Editor Button" style="width: 800px;" class="screenshot-img" loading="lazy" />
+<a href="[https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png](https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png)" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="[https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png](https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png)" alt="ArtushVision AI - AI prompt Editor Button" style="width: 800px;" class="screenshot-img" loading="lazy" />
 </a>
 <div style="height: 15px;"></div>
 
 **Prompt Editor for Hybrid AI** (Two steps, Local Vision AI and Cloud AI text)
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" alt="ArtushVision AI - Prompt Editor interface for Hybrid and Two-Step Local AI" width="100%" class="screenshot-img" loading="lazy" />
+<a href="[https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png](https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png)" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="[https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png](https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png)" alt="ArtushVision AI - Prompt Editor interface for Hybrid and Two-Step Local AI" width="100%" class="screenshot-img" loading="lazy" />
 </a>
 
 ---
@@ -322,6 +208,9 @@ Build a library of specialized workflows to switch between different project typ
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
+> **💡 Stop Paying Rent for Your Software — Forever!**
+> For just $39.99—the price of dinner for two—you get a powerful tool that is yours forever. No monthly subscriptions, no mandatory cloud required. It works completely offline to guarantee total data privacy, or interfaces seamlessly with Cloud AI while keeping all operational and API costs under your absolute control.
+
 ---
 
 ## Need Help?
@@ -340,78 +229,3 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-
-<script src="[https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js](https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js)"></script>
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var searchInput = document.getElementById('flex-search-input');
-  var resultsContainer = document.getElementById('flex-results-container');
-  var indexTitle, indexContent;
-  var documentsMap = {};
-
-  if (!searchInput || !resultsContainer) return;
-
-  indexTitle = new FlexSearch.Index({ tokenize: "forward", resolution: 9, depth: 1 });
-  indexContent = new FlexSearch.Index({ tokenize: "forward", resolution: 5, depth: 1 });
-
-  fetch('/search.json')
-    .then(response => response.json())
-    .then(data => {
-      data.forEach((item, index) => {
-        var id = index;
-        documentsMap[id] = { title: item.title, url: item.url };
-        indexTitle.add(id, item.title);
-        indexContent.add(id, item.content || "");
-      });
-    })
-    .catch(err => console.error("Search index compilation failed:", err));
-
-  searchInput.addEventListener('input', function() {
-    var query = this.value.trim();
-    resultsContainer.innerHTML = '';
-    
-    if (query.length < 2) {
-      resultsContainer.style.display = 'none';
-      return;
-    }
-
-    var titleResults = indexTitle.search(query, { limit: 10 });
-    var contentResults = indexContent.search(query, { limit: 10 });
-    var scores = {};
-
-    titleResults.forEach(id => { scores[id] = (scores[id] || 0) + 10; });
-    contentResults.forEach(id => { scores[id] = (scores[id] || 0) + 1; });
-
-    var sortedIds = Object.keys(scores).sort((a, b) => scores[b] - scores[a]);
-    var finalIds = sortedIds.slice(0, 8);
-
-    if (finalIds.length > 0) {
-      finalIds.forEach(id => {
-        var doc = documentsMap[id];
-        if (!doc) return;
-        var li = document.createElement('li');
-        li.innerHTML = '<a href="' + doc.url + '">' + doc.title + '</a>';
-        resultsContainer.appendChild(li);
-      });
-      resultsContainer.style.display = 'block';
-    } else {
-      resultsContainer.innerHTML = '<div class="no-results-msg">No documentation pages found</div>';
-      resultsContainer.style.display = 'block';
-    }
-  });
-
-  document.addEventListener('click', function(e) {
-    if (e.target !== searchInput && e.target !== resultsContainer) {
-      resultsContainer.style.display = 'none';
-    }
-  });
-
-  searchInput.addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      var firstLink = resultsContainer.querySelector('li a');
-      if (firstLink) window.location.href = firstLink.href;
-    }
-  });
-});
-</script>
