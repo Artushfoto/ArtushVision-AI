@@ -1,4 +1,4 @@
-webpwebp---
+---
 title: "ArtushVision AI Interface Overview | Image Grid & Batch Editing Toolbars"
 description: "Comprehensive guide to the ArtushVision AI user interface. Learn how to navigate the main image grid, top toolbars, filters, and batch editing panel for metadata management."
 ---
