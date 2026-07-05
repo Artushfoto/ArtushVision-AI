@@ -209,7 +209,7 @@ Build a library of specialized workflows to switch between different project typ
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 > **💡 Stop Paying Rent for Your Software — Forever!**
-> For just $39.99—the price of dinner for two—you get a powerful tool that is yours forever. No monthly subscriptions, no mandatory cloud required. It works completely offline to guarantee total data privacy, or interfaces seamlessly with Cloud AI while keeping all operational and API costs under your absolute control.
+> No monthly subscriptions, no mandatory cloud required. It works completely offline to guarantee total data privacy, or interfaces seamlessly with Cloud AI while keeping all operational and API costs under your absolute control.
 
 ---
 

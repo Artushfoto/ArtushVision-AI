@@ -143,13 +143,15 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# AI Metadata Generation: Smart, Fast, and 100% Private
+<header>
+  <h1>AI Metadata Generation: Smart, Fast, and 100% Private</h1>
+</header>
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 **Transform your photography workflow by replacing manual tagging with state-of-the-art Vision-Language Models (VLMs). ArtushVision AI "looks" at your media to instantly generate professional Titles, Descriptions, and Keywords.**
 
-Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an unprecedented level of control. Whether you require the speed of massive cloud batches or the absolute privacy of a local offline environment, the 4-Tier AI Engine adapts to your specific professional needs.
+Unlike basic tools that rely on a single cloud API, ArtushVision AI offers an unprecedented level of control. Whether you require the speed of massive cloud batches or the absolute privacy of a local offline environment, the **4-Tier AI Engine** adapts to your specific professional needs.
 
 ---
 
@@ -159,15 +161,15 @@ ArtushVision AI gives you complete freedom over where and how your data is proce
 
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Language and AI Settings" style="width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Versatile AI - Language and AI Settings" style="width: 400px;" class="screenshot-img" loading="lazy">
 </a>
 
 ---
- 
+
 **Select AI Engine (Processing)**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier-ai-engine.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier-ai-engine.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 300px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier-ai-engine.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/4-tier-ai-engine.png" alt="ArtushVision AI - Versatile AI Workflow Selection" style="width: 300px;" class="screenshot-img" loading="lazy">
 </a>
 
 ---
@@ -183,10 +185,10 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 #### Cloud AI Keywording, Automatic Categorization, and Editorial Tagging
 
-<video src="video/cloud-ai-keywording.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Cloud AI Keywording and Metadata Generation">
+<video src="video/cloud-ai-keywording.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Cloud AI Keywording and Metadata Generation" preload="metadata">
   ArtushVision AI - High-speed cloud AI keywording, automated stock agency category mapping, marking assets as Editorial, and live metadata status validation badges in the main photo grid.
 </video>
-<p><a href="video/cloud-ai-keywording.mp4" target="_blank" style="font-size: 0.9em;">Watch the full-size Cloud AI keywording and metadata automation video</a></p>
+<p><a href="video/cloud-ai-keywording.mp4" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em;">Watch the full-size Cloud AI keywording and metadata automation video</a></p>
 
 * **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
 * **Transparent AI Pricing and Live Cost Tracking:** ArtushVision AI connects to OpenRouter on a pay-as-you-go basis. You only pay for the API calls you actually make. The cost per image is microscopic, and a built-in tracker monitors your API spend to 6 decimal places in real-time.
@@ -197,8 +199,8 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 
 **Cloud AI processing:** `gemini-2.5-flash-lite`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI - Cloud AI processing with Gemini 2.0 Flash" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-gemini-20-flash-001.png" alt="ArtushVision AI - Cloud AI processing with Gemini 2.0 Flash" width="100%" class="screenshot-img" loading="lazy">
 </a>
 <div style="height: 15px;"></div>
 
@@ -216,16 +218,16 @@ Best for 100% privacy, non-disclosure agreement (NDA) shoots, and zero API costs
 
 **Local AI Batch Processing** (Ollama Model: `gemma4:e4b`)
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" alt="ArtushVision AI - Local AI Batch Processing" width="100%" class="screenshot-img">
-  </a>
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b.png" alt="ArtushVision AI - Local AI Batch Processing" width="100%" class="screenshot-img" loading="lazy">
+</a>
 <div style="height: 15px;"></div>
 
 **Local AI Detail Window:** Processing a single photo using an **AI hint for accurate Yacare Caiman** identification (Ollama Model: `gemma4:e4b`)
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b-edit-window-processing-hint.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b-edit-window-processing-hint.png" alt="ArtushVision AI - Local AI Detail Window" width="100%" class="screenshot-img">
-  </a>
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b-edit-window-processing-hint.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-gemma4e4b-edit-window-processing-hint.png" alt="ArtushVision AI - Local AI Detail Window" width="100%" class="screenshot-img" loading="lazy">
+</a>
 
 ---
 
@@ -238,9 +240,9 @@ An intelligent agentic pipeline that combines privacy with high-end SEO formatti
 
 **Using Hybrid AI in Detail Window:** Processing a single photo using **Local Vision** and **Cloud Text** for perfect formatting (Ollama Local AI Vision: `qwen3-vl:4b` + Cloud AI: `gemini-2.5-flash-lite`)
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI - Using Hybrid AI in Detail Window" width="100%" class="screenshot-img">
-  </a>
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-qwen3-vl4b-and-gemini-20-flash-001.png" alt="ArtushVision AI - Using Hybrid AI in Detail Window" width="100%" class="screenshot-img" loading="lazy">
+</a>
 
 ---
 
@@ -252,9 +254,9 @@ Designed for high-quality offline results on consumer-grade GPUs (e.g., 8GB VRAM
 
 **Two Step Local AI Detail Window:** Processing a single photo using **Local Vision** and **Local Text** for perfect formatting (Ollama local AI Vision: `qwen3-vl:4b` + Ollama Local AI text: `aispin/qwen2.5-7b-instruct-abliterated-v2.q4_k_s.gguf`)
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img">
-  </a>
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/2pass-ai-qwen3-vl4b-qwen25-7b-instruct.png" alt="ArtushVision AI - Two Step Local AI Detail Window" width="100%" class="screenshot-img" loading="lazy">
+</a>
 
 ---
 
@@ -274,31 +276,34 @@ Here is how to access and change the model via your AI Profile:
 
 *💡 Tip for Getty Images workflow: You can also change your custom Cloud AI model on the fly directly inside the **Interactive Getty Resolver** window. Just use the model dropdown menu located in its top toolbar.*
 
-Go to `Top Toolbar` → `Gear button ` next to the profile selector → `Magnifying Glass icon `
+Go to `Top Toolbar` → `Gear button` next to the profile selector → `Magnifying Glass icon`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/change-ai-model.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/change-ai-model.png" alt="ArtushVision AI - How to Change AI Model" width="100%" class="screenshot-img">
-  </a>
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/change-ai-model.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/change-ai-model.png" alt="ArtushVision AI - How to Change AI Model" width="100%" class="screenshot-img" loading="lazy">
+</a>
 
 ---
 
 ## 5. Local Ollama Model Setup & Recommended Models
+
 When working with local AI models (via Ollama):
+
 * **Profile Editor**: Use the Local Profile Editor to configure the prompt and choose the model.
 * **Model Browser**: Clicking the model lookup search button (`⌕`) and choosing **Recommended...** opens the **Recommended Ollama Models** browser dialog.
 * **Curated Model Registry**: The browser downloads a live list of tested models from an online resource, showcasing details like:
-  - **Model Name**: The model tag identifier for Ollama.
-  - **Type**: Displays whether the model supports **Text** or multimodal **Text, Image** (Vision) inputs.
-  - **Size**: Displays how much disk space the model consumes.
-  - **Description**: Detailed guidelines about the model's capabilities and what photography keywording scenarios it excels at.
+  * **Model Name**: The model tag identifier for Ollama.
+  * **Type**: Displays whether the model supports **Text** or multimodal **Text, Image** (Vision) inputs.
+  * **Size**: Displays how much disk space the model consumes.
+  * **Description**: Detailed guidelines about the model's capabilities and what photography keywording scenarios it excels at.
 * **Tested & Verified Options**: This curated registry contains models that have been thoroughly tested and verified to work reliably with ArtushVision AI's metadata generation tools. For beginners, it is highly recommended to start with these predefined models to ensure optimal compatibility and performance before experimenting with custom settings. They provide a reliable, plug-and-play experience for generating high-quality keywording results out of the box.
 * **Interface Polish**: Search, filter models by capability, and easily double-click to choose your model. The table remembers custom column resizing and utilizes unified row heights (comfortable `8px 5px` item padding) for seamless readability.
 
-<video src="video/download-recomended-model.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI">
+<video src="video/download-recomended-model.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI" preload="metadata">
   ArtushVision AI - Local Ollama Model Setup & Recommended Models.
 </video>
-<p><a href="video/download-recomended-model.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/download-recomended-model.mp4" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em;">Open video in full size</a></p>
 
+---
 
 ## Endless Prompt Customization & Context-Aware Prompting
 
@@ -320,21 +325,21 @@ Generic AI tools produce generic metadata. ArtushVision AI injects technical bac
 
 **Prompt Editor**
 
-Go to `Top Toolbar` → `Gear button ` next to the profile selector
+Go to `Top Toolbar` → `Gear button` next to the profile selector
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - Prompt Editor" style="width: 600px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - Prompt Editor" style="width: 600px;" class="screenshot-img" loading="lazy">
 </a>
 <div style="height: 15px;"></div>
 
 **Cloud AI Prompt Editor**
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" alt="ArtushVision AI - Cloud AI Profile Editor Setup" style="width: 600px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/cloud-ai-profile-editor.png" alt="ArtushVision AI - Cloud AI Profile Editor Setup" style="width: 600px;" class="screenshot-img" loading="lazy">
 </a>
 
 **Hybrid AI Prompt Editor**
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" alt="ArtushVision AI - Hybrid AI Profile Editor Setup" style="width: 600px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/hybrid-ai-profile-editor.png" alt="ArtushVision AI - Hybrid AI Profile Editor Setup" style="width: 600px;" class="screenshot-img" loading="lazy">
 </a>
 
 ---
@@ -348,8 +353,8 @@ ArtushVision AI provides native support for video assets (.mp4, .mov), eliminati
 
 Go to `Top Menu` → `File` → `Settings` → `Video and RAW`
 
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/video-analysis-economy-mode.png" alt="ArtushVision AI - Video Analysis Modes" style="width: 400px;" class="screenshot-img" loading="lazy">
 </a>
 
 ---
@@ -373,9 +378,16 @@ The application is built with a safety-first philosophy to protect your existing
 
 ---
 
-### [Get Started Now]
+## [Get Started Now]
+
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 
