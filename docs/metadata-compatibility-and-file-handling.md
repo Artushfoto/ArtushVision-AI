@@ -1,6 +1,6 @@
 ---
-title: "Metadata Compatibility and File Handling | ArtushVision AI"
-description: "Learn how ArtushVision AI ensures bi-directional metadata synchronization with Adobe Lightroom, Zoner Photo Studio, and digiKam."
+title: "Bi-directional Metadata Synchronization for Adobe Lightroom & More | ArtushVision AI"
+description: "Ensure seamless bi-directional metadata synchronization with Adobe Lightroom, Zoner Photo Studio, and digiKam using ArtushVision AI's XMP sidecar workflow."
 ---
 <div style="display: none;">
 <style>
@@ -143,7 +143,7 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Metadata Compatibility and File Handling
+# Metadata Compatibility and File Handling in ArtushVision AI
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
@@ -162,7 +162,7 @@ When saving text information, the data is synchronously written into both the mo
 
 ---
 
-## Ratings, Flags, and Color Labels
+## Ratings, Flags, and Color Labels Synchronization
 
 Every photo management software historically uses slightly different tags for organization. ArtushVision AI bridges these gaps and ensures your sorting logic is never lost.
 
@@ -172,23 +172,22 @@ Every photo management software historically uses slightly different tags for or
 
 ---
 
-## File Handling and XMP Sidecars
+## File Handling and XMP Sidecar Strategy
 
-* **Non-Destructive RAW and Video:** To guarantee maximum safety of your original data, the application *never* writes directly into RAW files (CR2, NEF, ARW, DNG) or Videos (MP4, MOV). All metadata is safely stored in adjacent `.xmp` sidecar files.
+* **Non-Destructive RAW and Video Metadata:** To guarantee maximum safety of your original data, the application *never* writes directly into RAW files (CR2, NEF, ARW, DNG) or Videos (MP4, MOV). All metadata is safely stored in adjacent `.xmp` sidecar files.
 * **XMP Naming Conventions:** ArtushVision AI fully supports and reads both recognized naming standards: the basic standard (`filename.xmp`) and Adobe Lightroom's extended standard (`filename.CR2.xmp`). When creating a new XMP file, existing EXIF data is automatically copied from the original RAW/Video to prevent technical data loss.
-* **Direct JPG, TIFF, and PNG Writing:** Standard image formats receive metadata directly into the file to prevent data fragmentation. If a legacy XMP sidecar already exists for a JPG, the app automatically merges it, renames it, and archives it to prevent future loading collisions. (You can edit these templates in the [CSV Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor).)
+* **Direct JPG, TIFF, and PNG Writing:** Standard image formats receive metadata directly into the file to prevent data fragmentation. If a legacy XMP sidecar already exists for a JPG, the app automatically merges it, renames it, and archives it to prevent future loading collisions. (You can edit these templates in the [Advanced CSV Template Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor).)
 
 ---
 
-## ArtushVision AI Specific Metadata
+## ArtushVision AI Specific Metadata Fields
 
 The application stores its internal tracking data in standard text fields so it remains readable and persistent even in other editors.
 
 * **FTP Upload History:** The list of stock agencies where a photo was successfully uploaded is safely stored in the `IPTC:TransmissionReference` and `XMP-photoshop:TransmissionReference` fields.
 * **Category Mapping:** Selected agency categories are saved into supplemental fields (`XMP-photoshop:SupplementalCategories` and `IPTC:SuppCategory`).
 * **Internal Flags:** System flags (e.g., AI Generated, Editorial, Mature) are embedded into `IPTC:SpecialInstructions` and `XMP-photoshop:Instructions` using a safe bracket format.
-* **Keywords order:**
-The `XMP-artush:KeywordOrder` tag is a custom metadata field engineered specifically for ArtushVision to prevent Adobe Lightroom from destroying your keyword sequence by auto-sorting them alphabetically. Because keyword order is crucial for stock photography SEO, this tag automatically backs up the active sequence as a comma-separated string upon every single save in ArtushVision, ensuring any newly adjusted order is immediately updated. If your keywords get alphabetized during a Lightroom export, the **Restore original keyword order after LR export** feature reads this tag to restore the exact positions, while safely appending any newly added keywords to the end of the list.
+* **Keyword Order Preservation:** The `XMP-artush:KeywordOrder` tag is a custom metadata field engineered specifically for ArtushVision to prevent Adobe Lightroom from destroying your keyword sequence by auto-sorting them alphabetically. Because keyword order is crucial for stock photography SEO, this tag automatically backs up the active sequence as a comma-separated string upon every single save in ArtushVision, ensuring any newly adjusted order is immediately updated. If your keywords get alphabetized during a Lightroom export, the **Restore original keyword order after LR export** feature reads this tag to restore the exact positions, while safely appending any newly added keywords to the end of the list.
 
 ---
 
@@ -201,13 +200,12 @@ Keep track of your technical data and backup states without ever opening a prope
 * **Distribution and AI Tags:** Track your workflow visually. The **CAT** badge indicates successfully mapped categories, the **GETTY** badge highlights optimized terms, and tiny agency micro-badges (e.g., S, A, F) show your complete FTP upload history.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI - Visual Status Badges on image thumbnails" style="width: 600px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI visual status badges on image thumbnails" loading="lazy" style="width: 600px;" class="screenshot-img">
 </a>
-<div style="height: 15px;"></div>
 
 ---
 
-## Seamless Adobe Lightroom and other photo management software compatibility
+## Seamless Integration with Adobe Lightroom and Other Managers
 
 Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and edits into industry-standard XMP sidecars, ensuring your non-destructive workflow remains intact.
 
@@ -220,9 +218,8 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
   * **digiKam:** Select the assets, go to the top menu **Item**, and choose **Read Metadata from File**.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" target="_blank" class="screenshot-link" style="max-width: 100%; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" alt="ArtushVision AI - Read Metadata from Files in Lightroom" style="width: 100%;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" alt="ArtushVision AI - Syncing and reading metadata from Adobe Lightroom" loading="lazy" style="width: 100%;" class="screenshot-img">
 </a>
-<div style="height: 15px;"></div>
 
 *ArtushVision AI - Universal XMP Support: Fits Seamlessly Into Your Existing Ecosystem.*
 
@@ -231,6 +228,11 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 

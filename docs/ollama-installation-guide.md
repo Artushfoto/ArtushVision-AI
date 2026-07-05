@@ -205,9 +205,12 @@ You do not need to use the command line (Terminal) to download models. ArtushVis
 
 ---
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
-[📖 Step-by-Step Ollama Model Download Guide](/docs/how-to-download-local-ai-models-via-ollama.html)
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
 

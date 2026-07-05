@@ -1,13 +1,12 @@
 ---
-title: "Global Stock Distribution and Smart FTP Uploader | ArtushVision AI"
-description: "Streamline your microstock workflow with the Smart FTP Uploader. Features per-server multi-threading, automated CSV generation, and visual status tracking."
+title: "ArtushVision AI License Management & Activation Guide"
+description: "Manage your ArtushVision AI license easily. Activate your AI photography software on up to 2 devices, handle deactivations via Polar.sh, and access professional metadata tools."
 ---
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 h1 { text-align: center; }
 
-/* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
   margin: 20px auto;
@@ -27,7 +26,6 @@ h1 { text-align: center; }
   opacity: 0.95;
 }
 
-/* GitHub Téma vyhledávacího komponentu (Světlý i Tmavý režim) */
 #flex-search-container {
   max-width: 500px;
   margin: 25px auto;
@@ -143,42 +141,46 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# ArtushVision AI Licence
+# ArtushVision AI License & Activation Help
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers, videographers, and archivists. It leverages state-of-the-art Computer Vision AI (via OpenRouter) to automatically generate keywords, titles, and descriptions for **JPG, RAW, and video** assets, while providing robust tools for manual metadata management.
+**ArtushVision AI** is a professional desktop application designed to streamline the workflow of photographers and videographers. It leverages state-of-the-art Computer Vision AI to automatically generate keywords, titles, and descriptions for **JPG, RAW, and video assets**, while providing robust tools for manual metadata management.
 
-## Managing Your License
+## Managing Your ArtushVision AI License
 
-> Your ArtushVision AI license allows activation on up to **2 devices** simultaneously.  
-> Follow this guide to manage your activations.
+> Your ArtushVision AI license allows activation on up to **2 devices** simultaneously. Use this guide to manage your software activations and account settings.
 
 ### 1. Access Your Customer Portal
-All licenses are securely managed via **Polar.sh**. To log in:
-* Go to **[polar.sh/artushfoto/portal/request](https://polar.sh/artushfoto/portal/request)**
-* Enter the **email address** used during purchase.
-* Check your inbox for a "Magic Link" to log in instantly.
+All software licenses are securely managed via **Polar.sh**. To manage your account:
+* Visit the [ArtushVision Customer Portal](https://polar.sh/artushfoto/portal/request)
+* Enter the **email address** used during your purchase.
+* Check your email for a "Magic Link" to log in instantly.
 
-### 2. Locate Your License
-Once logged in, navigate to the **"Purchases"** or **"Benefits"** section. You will see your ArtushVision AI license listed there.
+### 2. Locate Your Software License
+Once logged in to your dashboard, navigate to the **"Purchases"** or **"Benefits"** section. Here you will find your active ArtushVision AI license details.
 
 ### 3. Deactivating a Device
-* Find the active **"Instances"** (devices) under your license.
-* Click **"Deactivate"** next to the device you no longer use. This frees up a slot for your new activation.
+* Find the **"Instances"** or **"Devices"** section under your active license.
+* Click **"Deactivate"** next to the specific device you no longer wish to use. This instantly frees up a slot for your new device activation.
 
 ---
 
-### Need support?
-If you have questions about your license or need technical help, please contact us.
+### Technical Support
+If you have questions regarding your license, activation issues, or need technical assistance with our AI metadata tools, please reach out to our team.
 
-**Contact Support →** write to **support(@)artushfoto.eu**
+**Email Support:** **support(@)artushfoto.eu**
 
 ---
 
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 
