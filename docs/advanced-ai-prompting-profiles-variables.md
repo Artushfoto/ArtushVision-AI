@@ -1,4 +1,3 @@
-<!-- --- artushvision-doc-fix --- -->
 ---
 title: "Advanced AI Prompting and Profile Editor | ArtushVision AI Documentation"
 description: "Complete technical reference for AI variables and professional prompting in ArtushVision AI. Master dynamic EXIF, GPS, and metadata injection."
@@ -28,10 +27,10 @@ h1 { text-align: center; }
   opacity: 0.95;
 }
 
-/* GitHub Téma vyhledávacího komponentu (Světlý i Tmavý režim) */
+/* GitHub Téma vyhledávacího komponentu (Zarovnáno doleva) */
 #flex-search-container {
   max-width: 500px;
-  margin: 25px auto;
+  margin: 15px 0 25px 0;
   position: relative;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
@@ -177,8 +176,8 @@ Because every AI engine behaves differently, ArtushVision AI allows you to save 
 ## 2. Dynamic Context Injection (Variables)
 An AI model can't guess what camera you used or where a mountain is located just by looking at a pixel grid. ArtushVision AI solves this by injecting rich, dynamic metadata directly into your prompt before it reaches the AI.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="Table of available technical and contextual AI variables in ArtushVision AI" style="width: 800px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="Table of available technical and contextual AI variables in ArtushVision AI" style="width: 800px;" class="screenshot-img" />
 </a>
 <div style="height: 15px;"></div>
 
@@ -293,16 +292,14 @@ Build a library of specialized workflows to switch between different project typ
 * **One-Click Switching:** Change your active profile in the main grid depending on the batch of photos currently being processed.
 * **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies via the Category Matrix.
 
-<!-- [IMAGE: A graphic showing a raw prompt template with variables on the left and the final processed text received by the AI on the right.] -->
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - AI prompt Editor Button" style="width: 800px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - AI prompt Editor Button" style="width: 800px;" class="screenshot-img" loading="lazy" />
 </a>
 <div style="height: 15px;"></div>
 
 **Prompt Editor for Hybrid AI** (Two steps, Local Vision AI and Cloud AI text)
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" alt="ArtushVision AI - Prompt Editor interface for Hybrid and Two-Step Local AI" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" alt="ArtushVision AI - Prompt Editor interface for Hybrid and Two-Step Local AI" width="100%" class="screenshot-img" loading="lazy" />
 </a>
 
 ---
@@ -327,6 +324,16 @@ Build a library of specialized workflows to switch between different project typ
 
 ---
 
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html).
+
+<div id="flex-search-container">
+  <input type="text" id="flex-search-input" placeholder="Search documentation..." />
+  <ul id="flex-results-container"></ul>
+</div>
+
+---
+
 [← Back to ArtushVision AI Home](/index.html)
 
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
@@ -338,3 +345,78 @@ Build a library of specialized workflows to switch between different project typ
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+
+<script src="[https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js](https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js)"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var searchInput = document.getElementById('flex-search-input');
+  var resultsContainer = document.getElementById('flex-results-container');
+  var indexTitle, indexContent;
+  var documentsMap = {};
+
+  if (!searchInput || !resultsContainer) return;
+
+  indexTitle = new FlexSearch.Index({ tokenize: "forward", resolution: 9, depth: 1 });
+  indexContent = new FlexSearch.Index({ tokenize: "forward", resolution: 5, depth: 1 });
+
+  fetch('/search.json')
+    .then(response => response.json())
+    .then(data => {
+      data.forEach((item, index) => {
+        var id = index;
+        documentsMap[id] = { title: item.title, url: item.url };
+        indexTitle.add(id, item.title);
+        indexContent.add(id, item.content || "");
+      });
+    })
+    .catch(err => console.error("Search index compilation failed:", err));
+
+  searchInput.addEventListener('input', function() {
+    var query = this.value.trim();
+    resultsContainer.innerHTML = '';
+    
+    if (query.length < 2) {
+      resultsContainer.style.display = 'none';
+      return;
+    }
+
+    var titleResults = indexTitle.search(query, { limit: 10 });
+    var contentResults = indexContent.search(query, { limit: 10 });
+    var scores = {};
+
+    titleResults.forEach(id => { scores[id] = (scores[id] || 0) + 10; });
+    contentResults.forEach(id => { scores[id] = (scores[id] || 0) + 1; });
+
+    var sortedIds = Object.keys(scores).sort((a, b) => scores[b] - scores[a]);
+    var finalIds = sortedIds.slice(0, 8);
+
+    if (finalIds.length > 0) {
+      finalIds.forEach(id => {
+        var doc = documentsMap[id];
+        if (!doc) return;
+        var li = document.createElement('li');
+        li.innerHTML = '<a href="' + doc.url + '">' + doc.title + '</a>';
+        resultsContainer.appendChild(li);
+      });
+      resultsContainer.style.display = 'block';
+    } else {
+      resultsContainer.innerHTML = '<div class="no-results-msg">No documentation pages found</div>';
+      resultsContainer.style.display = 'block';
+    }
+  });
+
+  document.addEventListener('click', function(e) {
+    if (e.target !== searchInput && e.target !== resultsContainer) {
+      resultsContainer.style.display = 'none';
+    }
+  });
+
+  searchInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      var firstLink = resultsContainer.querySelector('li a');
+      if (firstLink) window.location.href = firstLink.href;
+    }
+  });
+});
+</script>
