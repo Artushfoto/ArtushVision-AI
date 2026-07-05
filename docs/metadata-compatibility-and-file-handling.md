@@ -176,7 +176,7 @@ Every photo management software historically uses slightly different tags for or
 
 * **Non-Destructive RAW and Video Metadata:** To guarantee maximum safety of your original data, the application *never* writes directly into RAW files (CR2, NEF, ARW, DNG) or Videos (MP4, MOV). All metadata is safely stored in adjacent `.xmp` sidecar files.
 * **XMP Naming Conventions:** ArtushVision AI fully supports and reads both recognized naming standards: the basic standard (`filename.xmp`) and Adobe Lightroom's extended standard (`filename.CR2.xmp`). When creating a new XMP file, existing EXIF data is automatically copied from the original RAW/Video to prevent technical data loss.
-* **Direct JPG, TIFF, and PNG Writing:** Standard image formats receive metadata directly into the file to prevent data fragmentation. If a legacy XMP sidecar already exists for a JPG, the app automatically merges it, renames it, and archives it to prevent future loading collisions. (You can edit these templates in the [Advanced CSV Template Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor).)
+* **Direct JPG, TIFF, and webp Writing:** Standard image formats receive metadata directly into the file to prevent data fragmentation. If a legacy XMP sidecar already exists for a JPG, the app automatically merges it, renames it, and archives it to prevent future loading collisions. (You can edit these templates in the [Advanced CSV Template Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor).)
 
 ---
 
@@ -199,8 +199,8 @@ Keep track of your technical data and backup states without ever opening a prope
 * **Backup Trackers:** Know your data is safe at a glance. The application highlights files that have a dedicated **XMP** sidecar, an original backup file (**ORIG**), or are safely backed up in a spreadsheet (**CSV**).
 * **Distribution and AI Tags:** Track your workflow visually. The **CAT** badge indicates successfully mapped categories, the **GETTY** badge highlights optimized terms, and tiny agency micro-badges (e.g., S, A, F) show your complete FTP upload history.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI visual status badges on image thumbnails" loading="lazy" style="width: 600px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.webp" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.webp" alt="ArtushVision AI visual status badges on image thumbnails" loading="lazy" style="width: 600px;" class="screenshot-img">
 </a>
 
 ---
@@ -217,8 +217,8 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
   * **Capture One:** Right-click the selected assets and choose **Load Metadata**.
   * **digiKam:** Select the assets, go to the top menu **Item**, and choose **Read Metadata from File**.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" target="_blank" class="screenshot-link" style="max-width: 100%; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.png" alt="ArtushVision AI - Syncing and reading metadata from Adobe Lightroom" loading="lazy" style="width: 100%;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.webp" target="_blank" class="screenshot-link" style="max-width: 100%; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/lightroom-metadata.webp" alt="ArtushVision AI - Syncing and reading metadata from Adobe Lightroom" loading="lazy" style="width: 100%;" class="screenshot-img">
 </a>
 
 *ArtushVision AI - Universal XMP Support: Fits Seamlessly Into Your Existing Ecosystem.*

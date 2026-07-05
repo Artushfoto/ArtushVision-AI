@@ -182,8 +182,8 @@ ArtushVision's <a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Ag
 
 [**Learn more about the gemma models family**: https://ollama.com/library/gemma4](https://ollama.com/library/gemma4)
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama Gemma Models Dashboard" style="width: 800px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.webp" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.webp" alt="ArtushVision AI - Ollama Gemma Models Dashboard" style="width: 800px;" class="screenshot-img">
 </a>
 
 Optimize your hardware performance by understanding your AI engine:
@@ -200,8 +200,8 @@ Optimize your hardware performance by understanding your AI engine:
 * **Smart Search:** Use the real-time search bar to filter through model names and your saved notes.
 * **Disk Management:** Quickly free up space by deleting unused local models.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Manage Local AI Models" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.webp" alt="ArtushVision AI - Manage Local AI Models" width="100%" class="screenshot-img">
 </a>
 
 ---

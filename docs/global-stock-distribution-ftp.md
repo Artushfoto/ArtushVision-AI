@@ -162,8 +162,8 @@ Not all stock agencies are built the same. While some servers can handle aggress
 
 **Global Distribution & Smart FTP Suite**
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.png" alt="ArtushVision AI - Multi-threaded FTP Uploader for Microstock Distribution" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.webp" alt="ArtushVision AI - Multi-threaded FTP Uploader for Microstock Distribution" width="100%" class="screenshot-img">
 </a>   
 <div style="height: 15px;"></div>
 
@@ -199,8 +199,8 @@ Click to `File` → `Settings` → `Manage FTP Servers` or Select files and Clic
 
 Click to `Add FTP` or `Double click` to FTP Agency → `Add or Update FTP Settings`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" alt="ArtushVision AI - FTP Upload Settings and Server Editor" style="width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.webp" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.webp" alt="ArtushVision AI - FTP Upload Settings and Server Editor" style="width: 400px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -210,8 +210,8 @@ Click to `Add FTP` or `Double click` to FTP Agency → `Add or Update FTP Settin
 
 Select `FTP Agencies` and `Save Profile Group`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - Microstock FTP Custom Server Groups Configuration" style="width: 100%; max-width: 800px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.webp" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.webp" alt="ArtushVision AI - Microstock FTP Custom Server Groups Configuration" style="width: 100%; max-width: 800px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
@@ -227,8 +227,8 @@ Never upload the same file twice by accident. ArtushVision AI remembers the comp
 
 **FTP history badge in Main Grid**
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.png" alt="ArtushVision AI - FTP Upload History Badges in Photo Grid" style="width: 100%; max-width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.webp" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.webp" alt="ArtushVision AI - FTP Upload History Badges in Photo Grid" style="width: 100%; max-width: 400px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
@@ -236,8 +236,8 @@ Never upload the same file twice by accident. ArtushVision AI remembers the comp
 
 Right-Mouse-click to any image in main grid → `Edit FTP History (Selection)`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 100%; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.png" alt="ArtushVision AI - Edit Microstock FTP Upload History" style="width: 100%; max-width: 100%;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.webp" target="_blank" class="screenshot-link" style="margin: 0; max-width: 100%; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.webp" alt="ArtushVision AI - Edit Microstock FTP Upload History" style="width: 100%; max-width: 100%;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
@@ -245,8 +245,8 @@ Right-Mouse-click to any image in main grid → `Edit FTP History (Selection)`
 
 Setup upload history → `Select or add servers, where is file already uploaded`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" alt="ArtushVision AI - Manually Add FTP Status Badge to File Metadata" style="width: 100%; max-width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.webp" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.webp" alt="ArtushVision AI - Manually Add FTP Status Badge to File Metadata" style="width: 100%; max-width: 400px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
@@ -264,8 +264,8 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 
 Go to `Filter Toolbar` → `Advanced FTP Filter`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 500px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.png" alt="ArtushVision AI - Advanced FTP Upload Filter for Microstock Assets" style="width: 100%; max-width: 500px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.webp" target="_blank" class="screenshot-link" style="margin: 0; max-width: 500px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.webp" alt="ArtushVision AI - Advanced FTP Upload Filter for Microstock Assets" style="width: 100%; max-width: 500px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 

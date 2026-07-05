@@ -153,8 +153,8 @@ Optimizing metadata for the **Getty Images / iStock ESP portal** is one of the m
 
 The **Getty Optimizer module** in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the ESP system. You can map words **manually**, use **Local Semantics (100% offline)**, or let the **Cloud AI** do the heavy lifting for you.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.png" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation for Getty ESP" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.webp" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation for Getty ESP" width="100%" class="screenshot-img">
 </a>    
 
 ---
@@ -194,8 +194,8 @@ The main dashboard displays your original keywords side-by-side with the optimiz
 
 When you open the **Interactive Resolver**, you are presented with an advanced dual-panel layout designed for rapid inline validation and micro-management of your **batch metadata**.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.png" alt="ArtushVision AI - The Interactive AI Resolver Dashboard for Getty Metadata" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.webp" alt="ArtushVision AI - The Interactive AI Resolver Dashboard for Getty Metadata" width="100%" class="screenshot-img">
 </a>  
 
 ### Interactive Table & Color-Coded Terms
@@ -220,8 +220,8 @@ The main table displays your original keywords on the left and the corresponding
 
 The bottom control panel is organized into two horizontal rows for efficient access:
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.png" alt="ArtushVision AI - Resolver Control Panel Element Breakdown" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.webp" alt="ArtushVision AI - Resolver Control Panel Element Breakdown" width="100%" class="screenshot-img">
 </a>  
 
 #### Row 1: Cloud AI & UI Settings

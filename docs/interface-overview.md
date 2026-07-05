@@ -162,8 +162,8 @@ This bar provides basic application control and triggers **AI metadata operation
 *   **Flat View:** Displays all photos from all loaded folders in a single continuous list (hides folder separators).
 *   [**Backup (CSV / XMP / JPG):**](/docs/settings-configuration-customization.html#backup-and-data-safety) Quick toggles that determine which metadata backups should be created when saving changes.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top-toolbar.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top-toolbar.png" alt="ArtushVision AI Top Toolbar - Profiles and AI Metadata Controls" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top-toolbar.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top-toolbar.webp" alt="ArtushVision AI Top Toolbar - Profiles and AI Metadata Controls" width="100%" class="screenshot-img">
 </a>
 
 ## Filter & Search Bar
@@ -171,13 +171,13 @@ Tools for quick navigation and file selection within the current session:
 *   **[Smart Search:](/docs/batch-operations-metadata-library-management.html)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 *   **Folder:** Filters the view to show only a specific loaded folder.
 *   [**Status Filter:**](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection) Shows photos based on their current status (All, Selected, Todo, Done, Modified, Corrupted, Exceeded limits, FTP status, etc.).
-*   **Type:** Restricts the view to specific file formats (JPG, RAW, Video, TIFF, HEIC, PNG).
+*   **Type:** Restricts the view to specific file formats (JPG, RAW, Video, TIFF, HEIC, webp).
 *   **[Rating & Labels:](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection)** Organize your workspace using **Star Ratings (1-5)**, **Color Labels**, and **Pick/Reject Flags** to quickly sort and identify your best shots.
 *   **Search:** Full-text search. You can specify the target field (Everywhere, Title, Description, Keywords). Supports case sensitivity (Aa).
 *   **Panel Toggles:** The rightmost buttons show/hide the side panels for *Rating* and *Batch Edit*.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" alt="ArtushVision AI Filter and Smart Search Bar Navigation" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.webp" alt="ArtushVision AI Filter and Smart Search Bar Navigation" width="100%" class="screenshot-img">
 </a>
 
 ## Batch Edit Bar
@@ -189,8 +189,8 @@ The bottom slide-out bar allows for massive **bulk metadata operations** across 
 *   **Categories:** Allows bulk assignment of up to 3 Master Categories (stock photography categories) to the selected photos.
 *   **Clear All (×):** Completely erases the chosen fields for the selection.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar-batch-edit.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar-batch-edit.png" alt="ArtushVision AI Batch Edit Toolbar for Bulk Metadata Operations" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar-batch-edit.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar-batch-edit.webp" alt="ArtushVision AI Batch Edit Toolbar for Bulk Metadata Operations" width="100%" class="screenshot-img">
 </a>
 
 ## Main Image Grid
@@ -224,8 +224,8 @@ Micro-badges may appear below the photo thumbnail, indicating file properties:
 *   **Quick Clear:** The cross (×) in the field header clears the content of that specific field for the current (or all selected) photos.
 *   **Copy & Paste Tools (Clipboard Icon):** Located in the field header for quickly copying the Title, Description, Tags, and Categories. You can dynamically paste these copied elements into **multiple selected files at once** (batch paste) and choose exactly which fields you want to inject (e.g., copy the entire metadata layout but apply only the Title and Description to the target files).
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" alt="ArtushVision AI Main Image Grid Workspace and Editing Features" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.webp" alt="ArtushVision AI Main Image Grid Workspace and Editing Features" width="100%" class="screenshot-img">
 </a>
 
 ### Rating & Flags

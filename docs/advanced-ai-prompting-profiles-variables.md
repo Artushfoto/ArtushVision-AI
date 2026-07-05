@@ -62,8 +62,8 @@ Because every AI engine behaves differently, ArtushVision AI allows you to save 
 ## 2. Dynamic Context Injection (Variables)
 An AI model can't guess what camera you used or where a mountain is located just by looking at a pixel grid. ArtushVision AI solves this by injecting rich, dynamic metadata directly into your prompt before it reaches the AI.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.png" alt="Table of available technical and contextual AI variables in ArtushVision AI" style="width: 100%; max-width: 800px;" class="screenshot-img" loading="lazy" />
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/variables.webp" alt="Table of available technical and contextual AI variables in ArtushVision AI" style="width: 100%; max-width: 800px;" class="screenshot-img" loading="lazy" />
 </a>
 <div style="height: 15px;"></div>
 
@@ -178,14 +178,14 @@ Build a library of specialized workflows to switch between different project typ
 * **One-Click Switching:** Change your active profile in the main grid depending on the batch of photos currently being processed.
 * **Category Matrix Integration:** Use the `{allowed_categories}` variable to force the AI to select exactly the categories required by your target stock agencies via the Category Matrix.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.png" alt="ArtushVision AI - AI prompt Editor Button" style="width: 800px;" class="screenshot-img" loading="lazy" />
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/prompt-editor-gear.webp" alt="ArtushVision AI - AI prompt Editor Button" style="width: 800px;" class="screenshot-img" loading="lazy" />
 </a>
 <div style="height: 15px;"></div>
 
 **Prompt Editor for Hybrid AI** (Two steps, Local Vision AI and Cloud AI text)
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.png" alt="ArtushVision AI - Prompt Editor interface for Hybrid and Two-Step Local AI" width="100%" class="screenshot-img" loading="lazy" />
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/local-vision-cloud-text-prompt-editor.webp" alt="ArtushVision AI - Prompt Editor interface for Hybrid and Two-Step Local AI" width="100%" class="screenshot-img" loading="lazy" />
 </a>
 
 ---

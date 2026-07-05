@@ -156,8 +156,8 @@ The interface is divided into two main vertical panels with flexible splitters, 
 
 `Double-click any image in the main grid`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.png" target="_blank" class="screenshot-link" title="Enlarge ArtushVision AI Detailed Photo View Interface">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.png" alt="ArtushVision AI - Detailed Photo View and manual metadata editing workspace" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.webp" target="_blank" class="screenshot-link" title="Enlarge ArtushVision AI Detailed Photo View Interface">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/detail-window-overview.webp" alt="ArtushVision AI - Detailed Photo View and manual metadata editing workspace" width="100%" class="screenshot-img">
 </a>
 
 ---

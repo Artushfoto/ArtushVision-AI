@@ -166,7 +166,7 @@ The top-bar search engine works in real-time, highlighting your target words dir
 
 * **Scoped Search:** Search across all fields or restrict your query strictly to Titles, Descriptions, or Keywords to prevent false positives.
 * **Validation Filters:** Instantly isolate files marked as "Exceeded Limits" (e.g., descriptions too long for specific stock agencies) or those containing "Misspelled Words". The application automatically colors problematic fields red.
-* **File Type and Folder Isolation:** Quickly filter by format (RAW, HEIC, TIFF, PNG, Video) or focus on a single subfolder without losing your overall progress in the project.
+* **File Type and Folder Isolation:** Quickly filter by format (RAW, HEIC, TIFF, webp, Video) or focus on a single subfolder without losing your overall progress in the project.
 
 <!-- [IMAGE: A close-up screenshot of the Advanced Metadata Filter dialog, showing the Has / Hasn't logic dropdowns.] -->
 
@@ -205,8 +205,8 @@ ArtushVision AI provides instant feedback through colorful micro-badges stamped 
 | **Agency Letters** | Circular letters (S, A, D, etc.) show exactly which FTP servers the file has reached. |
 | **Status Markers** | Color-coded dots indicating if a file is Unchanged, Modified, Saved, or contains an Error. |
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.png" alt="ArtushVision AI Visual Grid Badges for Metadata Tracking" style="width: 800px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.webp" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/badges.webp" alt="ArtushVision AI Visual Grid Badges for Metadata Tracking" style="width: 800px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 

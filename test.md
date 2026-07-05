@@ -259,8 +259,8 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
   </div>
   <div class="hero-image">
-    <a href="artushvision.png" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
-      <img src="artushvision.png" alt="Detail of ArtushVision AI split-screen workflow" class="screenshot-img" />
+    <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
+      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" class="screenshot-img" />
     </a>
   </div>
 </div>
@@ -327,8 +327,8 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 ---
 
 **ArtushVision AI Workspace**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.png" target="_blank" rel="noopener noreferrer" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.png" alt="ArtushVision AI Workspace showing automated metadata generation" width="100%" class="screenshot-img" loading="lazy" />
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="100%" class="screenshot-img" loading="lazy" />
 </a>
 
 ---
@@ -338,7 +338,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 | Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
 | :--- | :--- | :--- |
 | **Media Privacy** | Mandatory Cloud Upload | 🔒 **100% Private (Local AI via Ollama)** or Thumbnail-only modes |
-| **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, PNG, HEIC** |
+| **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, webp, HEIC** |
 | **Pricing Model** | Recurring Subscriptions / Credits | **Perpetual License ($39.99)** |
 | **Cost (10,000 Photos)** | High-tier monthly plans | **~$6** using Gemini Flash or **Free** utilizing Local AI |
 

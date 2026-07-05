@@ -166,13 +166,13 @@ First, you need to select the specific model that matches your hardware and work
 * Once you find the desired model, copy its exact name including the parameter size tag (for example, copy `qwen3-vl:4b`, not just `qwen3-vl`).
 
 **Finding a Model on the Ollama Website**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-models-search.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-models-search.png" alt="Finding local AI vision and text models for ArtushVision AI on the official Ollama website library" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-models-search.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-models-search.webp" alt="Finding local AI vision and text models for ArtushVision AI on the official Ollama website library" class="screenshot-img">
 </a>
 
 **Copying the Exact Model Name**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-model-name-copy.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-model-name-copy.png" alt="Copying the local AI model name and size tags from the Ollama repository for download" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-model-name-copy.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-model-name-copy.webp" alt="Copying the local AI model name and size tags from the Ollama repository for download" class="screenshot-img">
 </a>
 
 ---
@@ -205,8 +205,8 @@ First, you need to select the specific model that matches your hardware and work
 * You will see a live download progress indicator displaying the transferred data in MB or GB alongside the download speed.
 * Wait until the download is fully complete. Once finished, a success message will appear, and the model will automatically populate in your list of available models.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" alt="ArtushVision AI internal Model Manager interface showing local AI model download progress and transfer speed" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.webp" alt="ArtushVision AI internal Model Manager interface showing local AI model download progress and transfer speed" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -226,8 +226,8 @@ To keep your local AI environment organized, you can assign personal performance
 * Press **Enter** or click away to save it. This helps you remember which specific subjects or tasks each model handles well and which it doesn't.
 
 **Model Manager Grid & Custom Notes**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI Local AI Model Manager grid showing custom performance notes and auto-detection features" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.webp" alt="ArtushVision AI Local AI Model Manager grid showing custom performance notes and auto-detection features" width="100%" class="screenshot-img">
 </a>
 
 ---
