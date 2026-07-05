@@ -100,9 +100,9 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   box-shadow: 0 3px 8px rgba(9, 105, 218, 0.2);
 }
 .btn-success {
-  background-color: #257e3e;
+  background-color: #2da44e;
   color: #ffffff !important;
-  border: 1px solid #257e3e;
+  border: 1px solid #2da44e;
 }
 .btn-success:hover {
   background-color: #2c974b;
