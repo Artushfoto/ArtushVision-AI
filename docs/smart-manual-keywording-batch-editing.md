@@ -289,11 +289,11 @@ The feature is fully integrated into your workflow and is available across the e
 * **In the detail window:** During focused editing of a specific photo, you have instant access to presets via a special icon directly in the header of the Keywords section.
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-top: 15px;">
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 150px; flex: 0 0 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.png" alt="ArtushVision AI - Predefined Keyword Sets" style="width: 150px;" class="screenshot-img">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.webp" target="_blank" class="screenshot-link" style="margin: 0; max-width: 150px; flex: 0 0 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set.webp" alt="ArtushVision AI - Predefined Keyword Sets" style="width: 150px;" class="screenshot-img">
   </a>
-  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 600px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.png" alt="ArtushVision AI - Keyword Sets Editor" style="width: 100%; max-width: 600px;" class="screenshot-img">
+  <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.webp" target="_blank" class="screenshot-link" style="margin: 0; max-width: 600px; flex: 1 1 auto;">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/keyword-set-editor.webp" alt="ArtushVision AI - Keyword Sets Editor" style="width: 100%; max-width: 600px;" class="screenshot-img">
   </a>
 </div>
 <div style="height: 15px;"></div>
@@ -310,8 +310,8 @@ Organizing a massive photoshoot requires speed. ArtushVision AI features a compl
 * **Batch Culling:** Select 100 photos and press 5 to rate them all as 5-star instantly.
 * **[100% Lightroom, digiKam and Zoner Compatible:](/docs/metadata-compatibility-and-file-handling.html#seamless-integration-with-adobe-lightroom-and-other-managers)** Your ratings, flags, and color labels are natively written into [EXIF/XMP sidecars](/docs/metadata-compatibility-and-file-handling.html). If you rate a photo in ArtushVision AI, the 5 stars will flawlessly appear in Adobe Lightroom, digiKam, ACDSee, and Zoner Photo Studio.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.png" alt="ArtushVision AI - Visual Culling" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/visual-culling.webp" alt="ArtushVision AI - Visual Culling" width="100%" class="screenshot-img">
 </a>
 
 ---
@@ -329,8 +329,8 @@ When the **Enable Validation** feature is active, the application continuously c
 
 Go to `Top Menu` → `File` → `Settings` → `Field Limits`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.png" alt="ArtushVision AI - Versatile AI - Field limit settings" style="width: 300px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.webp" target="_blank" class="screenshot-link" style="max-width: 300px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/field-limits-settings.webp" alt="ArtushVision AI - Versatile AI - Field limit settings" style="width: 300px;" class="screenshot-img">
 </a>
 
 ---
@@ -356,8 +356,8 @@ Never get a batch rejected for a typo again. ArtushVision AI features a robust, 
 
 Go to `Top Menu` → `File` → `Settings` → `Language and AI`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.png" alt="ArtushVision AI - Multi-Language Spellcheck and Language Settings" style="width: 400px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.webp" target="_blank" class="screenshot-link" style="max-width: 400px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/language-and-ai.webp" alt="ArtushVision AI - Multi-Language Spellcheck and Language Settings" style="width: 400px;" class="screenshot-img">
 </a>
 
 ---
@@ -374,8 +374,8 @@ Struggling to find the right word? Double-click any tag (or right-click and sele
 
 Right Mouse Click on → `Keyword`
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.png" alt="ArtushVision AI - Interactive Synonym Dialog" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/synonyms.webp" alt="ArtushVision AI - Interactive Synonym Dialog" width="100%" class="screenshot-img">
 </a>
 
 ---

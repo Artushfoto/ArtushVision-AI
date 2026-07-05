@@ -209,8 +209,8 @@ To give you a quick overview of your stock categorization progress, ArtushVision
 *   **CAT Badge:** As soon as a photo has at least one category assigned, a highly visible turquoise **`CAT` badge** appears on the image thumbnail in both the Grid and the Detail Window.
 *   **Smart Tooltip:** Hovering your mouse over the `CAT` badge or specific asset flags instantly triggers a pop-up tooltip displaying the exact roster of assigned Master categories for that specific file.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.png" alt="ArtushVision AI metadata category badge on image thumbnail" style="width: 500px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.webp" target="_blank" class="screenshot-link" style="max-width: 500px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/categories-badge.webp" alt="ArtushVision AI metadata category badge on image thumbnail" style="width: 500px;" class="screenshot-img">
 </a>
 
 ---
@@ -224,8 +224,8 @@ In this editor, you can define exactly how your Master categories map to specifi
 *   **Fully Customizable:** You can modify existing mappings, delete rows, or add entirely new columns if you start contributing to a new microstock agency.
 *   **Smart Split:** For agencies like **Motion Elements**, the matrix distinguishes between `ME Photo` and `ME Video` categories, automatically selecting the correct one based on the file type you are processing.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.png" alt="ArtushVision AI Category Mapping Matrix editor configuring stock agency metadata" width="100%" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/category-matrix.webp" alt="ArtushVision AI Category Mapping Matrix editor configuring stock agency metadata" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
