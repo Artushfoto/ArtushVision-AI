@@ -204,7 +204,7 @@ Click to `Add FTP` or `Double click` to FTP Agency → `Add or Update FTP Settin
 </a>
 <div style="height: 15px;"></div>
 
-* **Custom Server Groups:** Create user-defined profiles (e.g., "Video Agencies" or "Editorial Only") to save your current selection of target FTP servers.
+* **Custom Server Groups:** Create user-defined profiles (e.g., "Video Agencies" or "Editorial Only") to save your current selection of target FTP servers..
 * **One-Click Distribution:** Select your pre-saved profile from the dropdown menu to instantly target all servers belonging to that specific group.
 * **Independent Configuration:** Profile settings are safely stored independently of the main application, ensuring stability and allowing for easy backups.
 
