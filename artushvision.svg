@@ -37,17 +37,23 @@
       }
 
       .st10 {
+        fill: #2c3e50;
+        stroke: #30363d;
+        stroke-width: .7px;
+      }
+
+      .st10, .st11, .st12, .st13 {
+        stroke-miterlimit: 2.81;
+      }
+
+      .st11 {
         fill-opacity: .2;
         stroke: #1f6feb;
         stroke-width: 1.05px;
       }
 
-      .st10, .st11 {
+      .st11, .st14 {
         fill: #1f6feb;
-      }
-
-      .st10, .st12, .st13, .st14 {
-        stroke-miterlimit: 2.81;
       }
 
       .st2, .st15 {
@@ -113,12 +119,6 @@
       .st15 {
         fill-opacity: .8;
       }
-
-      .st14 {
-        fill: #101420;
-        stroke: #30363d;
-        stroke-width: .7px;
-      }
     </style>
   </defs>
   <rect class="st19" width="841.89" height="210.47"/>
@@ -138,12 +138,12 @@
       </g>
     </g>
     <g>
-      <path class="st10" d="M56.13,140.31h119.27c7.75,0,14.03,6.28,14.03,14.03h0c0,7.75-6.28,14.03-14.03,14.03H56.13c-7.75,0-14.03-6.28-14.03-14.03h0c0-7.75,6.28-14.03,14.03-14.03Z"/>
+      <path class="st11" d="M56.13,140.31h119.27c7.75,0,14.03,6.28,14.03,14.03h0c0,7.75-6.28,14.03-14.03,14.03H56.13c-7.75,0-14.03-6.28-14.03-14.03h0c0-7.75,6.28-14.03,14.03-14.03Z"/>
       <text class="st5" transform="translate(61.74 157.15)"><tspan x="0" y="0">Try ArtushVision AI Free</tspan></text>
     </g>
   </g>
   <g>
-    <rect class="st14" x="434.98" y="31.57" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+    <rect class="st10" x="434.98" y="31.57" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
     <path class="st8" d="M434.98,35.78v58.23c0,2.32,1.88,4.21,4.21,4.21V31.57c-2.32,0-4.21,1.88-4.21,4.21"/>
     <text class="st4" transform="translate(449.01 51.21)"><tspan x="0" y="0">Getty Images ESP Optimizer</tspan></text>
     <text class="st1" transform="translate(449.01 65.25)"><tspan x="0" y="0">Validate instantly against 9,867+ terms.</tspan></text>
@@ -152,7 +152,7 @@
     <text class="st6" transform="translate(453.22 90.5)"><tspan x="0" y="0">ZERO ERRORS</tspan></text>
   </g>
   <g>
-    <rect class="st14" x="624.4" y="31.57" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+    <rect class="st10" x="624.4" y="31.57" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
     <path class="st16" d="M624.4,35.78v58.23c0,2.32,1.88,4.21,4.21,4.21V31.57c-2.32,0-4.21,1.88-4.21,4.21"/>
     <text class="st4" transform="translate(638.43 51.21)"><tspan x="0" y="0">Dual AI &amp; Privacy Engine</tspan></text>
     <text class="st1" transform="translate(638.43 65.25)"><tspan x="0" y="0">Ultra-fast Cloud AI or 100% Local AI.</tspan></text>
@@ -161,16 +161,16 @@
     <text class="st6" transform="translate(642.64 90.5)"><tspan x="0" y="0">100% OFFLINE</tspan></text>
   </g>
   <g>
-    <rect class="st14" x="434.98" y="112.25" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
-    <path class="st11" d="M434.98,116.46v58.23c0,2.32,1.88,4.21,4.21,4.21v-66.65c-2.32,0-4.21,1.88-4.21,4.21"/>
+    <rect class="st10" x="434.98" y="112.25" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+    <path class="st14" d="M434.98,116.46v58.23c0,2.32,1.88,4.21,4.21,4.21v-66.65c-2.32,0-4.21,1.88-4.21,4.21"/>
     <text class="st4" transform="translate(449.01 131.9)"><tspan x="0" y="0">Advanced Manual Keywording</tspan></text>
     <text class="st1" transform="translate(449.01 145.93)"><tspan x="0" y="0">Drag &amp; drop reorder, synonyms lookup.</tspan></text>
     <text class="st1" transform="translate(449.01 157.15)"><tspan x="0" y="0">Restore custom tag order after LR export.</tspan></text>
-    <rect class="st11" x="449.01" y="164.17" width="66.65" height="9.82" rx="2.1" ry="2.1"/>
+    <rect class="st14" x="449.01" y="164.17" width="66.65" height="9.82" rx="2.1" ry="2.1"/>
     <text class="st6" transform="translate(453.22 171.18)"><tspan x="0" y="0">LIGHTROOM FIX</tspan></text>
   </g>
   <g>
-    <rect class="st14" x="624.4" y="112.25" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+    <rect class="st10" x="624.4" y="112.25" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
     <path class="st17" d="M624.4,116.46v58.23c0,2.32,1.88,4.21,4.21,4.21v-66.65c-2.32,0-4.21,1.88-4.21,4.21"/>
     <text class="st4" transform="translate(638.43 131.9)"><tspan x="0" y="0">Smart FTP &amp; CSV Distribution</tspan></text>
     <text class="st1" transform="translate(638.43 145.93)"><tspan x="0" y="0">Simultaneous uploads to stock agencies.</tspan></text>
