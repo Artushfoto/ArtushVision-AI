@@ -72,7 +72,7 @@ details li { margin-bottom: 5px; }
 
 ## General, Licensing and Pricing
 
-<details id="general-licensing-and-pricing">
+<details>
 <summary>Is ArtushVision AI a subscription service?</summary>
 <p>
 No. ArtushVision AI follows a <b>perpetual license model</b>. You pay once ($39.99) and own the software forever. There are no recurring monthly fees. You only pay for the <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai">cloud AI</a> processing you actually use via your own API keys, or use <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai">Local AI</a> for free.
@@ -122,7 +122,7 @@ ArtushVision AI supports professional standards including:
 
 ## AI Privacy and Costs
 
-<details id="ai-privacy-and-costs">
+<details>
 <summary>Is my data private during analysis?</summary>
 <p>
 Privacy is our priority. In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai">Local AI mode</a></b>, your photos never leave your machine (processed via <a href="/docs/local-ai-model-manager-ollama.html">Local Model Manager</a>). In <b><a href="/docs/ai-metadata-generation-cloud-local-ollama.html#1-cloud-ai">Cloud mode</a></b>, only a temporary low-resolution thumbnail is sent to the AI provider - never your high-resolution originals.
@@ -147,7 +147,7 @@ A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/d
 
 ## Workflow and Compatibility
 
-<details id="workflow-and-compatibility">
+<details>
 <summary>Will the AI overwrite my existing keywords?</summary>
 <p>
 No. You have absolute control. Using <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#smart-data-safeguards">Smart Protection</a>, you can tell the AI to only append new tags or use variables like <code>{existing_keywords}</code> to let the AI intelligently expand your work.
@@ -172,7 +172,7 @@ Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars
 
 ## Microstock Export & FTP Upload
 
-<details id="microstock-export--ftp-upload">
+<details>
 <summary>Can ArtushVision AI upload my photos directly to stock agencies?</summary>
 <p>
 Absolutely. The application features a built-in <b>FTP Manager</b>. You can configure multiple FTP servers (Shutterstock, Adobe Stock, etc.) and upload your finished photos and videos with a single click. It even supports multi-threading and auto-retries for unstable connections.
@@ -190,7 +190,7 @@ No. Thanks to the <b>Category Matrix</b>, you map your image to a "Master Catego
 
 ## Data Safety & Languages
 
-<details id="data-safety--languages">
+<details>
 <summary>What happens if the AI makes a mistake? Can I undo changes?</summary>
 <p>
 You are completely safe. First, the grid editor supports full <b>Undo/Redo (Ctrl+Z)</b>. Second, the software features a robust backup system: it can generate full CSV backups, save original JPG files with a <code>.original</code> extension, or write safely into separate <code>.xmp</code> sidecar files for your RAW images.
@@ -215,7 +215,7 @@ The application natively focuses on English, as it is the strict standard for gl
 
 ## Technical Setup
 
-<details id="technical-setup">
+<details>
 <summary>I get an "<a href="/docs/ollama-installation-guide.html">Ollama</a> not found" error. How to fix it?</summary>
 <p>
 Ensure <a href="/docs/ollama-installation-guide.html">Ollama is installed</a> and the service is running in your system tray. You can manage and download models directly through our <a href="/docs/local-ai-model-manager-ollama.html">Integrated Model Manager</a>.
