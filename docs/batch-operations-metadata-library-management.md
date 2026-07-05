@@ -1,6 +1,6 @@
 ---
-title: "AI Metadata Generation: Cloud and Local Vision Models | ArtushVision AI"
-description: "Professional AI photo and video tagging workstation. Automate stock photo & video metadata tagging. Local batch operations, XMP sidecar support & AI global search. Save time on manual keywording."
+title: "Batch Metadata Operations & Bulk Editing | ArtushVision AI"
+description: "Efficiently manage thousands of photos with ArtushVision AI batch processing tools. Bulk edit metadata, batch rename files, and use global search & replace for professional photography workflows."
 ---
 <div style="display: none;">
 <style>
@@ -143,54 +143,50 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Batch Operations (Batch Panel) in ArtushVision AI
+# Batch Operations & Bulk Metadata Editing in ArtushVision AI
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**Managing thousands of assets requires more than just AI - it requires powerful batch processing tools. ArtushVision AI provides a suite of operations designed to modify, rename, and organize your entire library with a few clicks.**
+**Managing thousands of assets requires more than just AI—it requires powerful batch processing tools. ArtushVision AI provides a suite of bulk operations designed to modify, rename, and organize your entire photography library with a few clicks.**
 
-Efficiency in professional photography workflows is built on the ability to apply changes across large datasets simultaneously. Whether you need to fix a recurring typo or rename a day's worth of shooting, these tools ensure consistency across your project.
+Efficiency in professional photography workflows is built on the ability to apply changes across large datasets simultaneously. Whether you need to fix a recurring typo in your EXIF data or rename a day's worth of shooting, these batch editing tools ensure consistency across your project.
 
-The Batch Panel allows for lightning-fast modification of metadata across multiple selected photos at once. For any batch action to take place, the photos must be **selected** (e.g., using `Ctrl+A`, `Shift+Click`, or `Ctrl+Click`) and must be **visible** (i.e., not hidden by any currently active filter).o.eu)
+The Batch Panel allows for lightning-fast modification of metadata across multiple selected photos at once. For any batch action to take place, the photos must be **selected** (e.g., using `Ctrl+A`, `Shift+Click`, or `Ctrl+Click`) and must be **visible** (i.e., not hidden by any currently active filter).
 
-**Managing thousands of assets requires more than just AI—it requires powerful batch processing tools. ArtushVision AI provides a suite of operations designed to modify, rename, and organize your entire library with a few clicks.**
-
-Efficiency in professional photography workflows is built on the ability to apply changes across large datasets simultaneously. Whether you need to fix a recurring typo or rename a day's worth of shooting, these tools ensure consistency across your project.
-
-[IMAGE: A  screenshot of the [Batch Operations](batch-operations-metadata-library-management.md) window or the Search and Replace dialog showing a complex string manipulation.]
+[IMAGE: A screenshot of the [Batch Operations](batch-operations-metadata-library-management.md) metadata editor window showing bulk string manipulation and search and replace features.]
 
 ---
 
-## Global Search and Replace (Ctrl+H)
-The Global Search and Replace tool is a powerful engine for fixing metadata errors or updating information across your entire loaded project.
+## Global Metadata Search and Replace (Ctrl+H)
+The Global Search and Replace tool is a powerful engine for fixing metadata errors or updating EXIF information across your entire loaded project.
 
 * **Targeted Manipulation:** Choose exactly which fields to affect—Title, Description, Keywords, or all of them at once.
 * **Case Sensitivity:** Toggle between case-sensitive or insensitive matching to ensure precise string replacement.
-* **Bulk Correction:** Ideal for updating brand names, fixing recurring spelling mistakes, or changing specific terminology across thousands of assets instantly.
+* **Bulk Correction:** Ideal for updating brand names, fixing recurring spelling mistakes, or changing specific terminology across thousands of stock photography assets instantly.
 
 ---
 
-## Smart Metadata Actions
+## Smart Bulk Metadata Actions
 Beyond simple text replacement, ArtushVision AI offers dedicated batch actions for structured metadata manipulation.
 
 * **Bulk Add/Append:** Add specific keywords or phrases to the beginning or end of your existing metadata without disturbing the current content.
 * **Bulk Remove:** Strip specific words or unwanted tags from hundreds of files in one operation.
-* **Replace All:** Completely overwrite specific fields for a selected batch, useful when correcting whole sessions with new AI-generated or manual data.
+* **Replace All:** Completely overwrite specific fields for a selected batch, useful when correcting whole sessions with new AI-generated or manual stock photo data.
 
 ---
 
-## Dynamic Batch Rename
+## Dynamic Batch File Rename
 Organization starts with consistent file naming. The Batch Rename tool uses a dynamic placeholder system to create meaningful filenames based on the asset's own metadata.
 
 * **Placeholder Logic:** Build filenames using variables such as `{TITLE}` (derived from metadata), `{DATE}` (from EXIF), and `{CC}` (automatic counter).
 * **Sequential Numbering:** Ensure your files follow a perfect numerical sequence, regardless of their original filenames.
 * **Live Preview:** View exactly how your files will be renamed before committing the changes to your hard drive.
 
-[IMAGE: A close-up of the Rename dialog showing the pattern {DATE}_{TITLE}_{CC} and the resulting file preview.]
+[IMAGE: A close-up of the dynamic Batch Rename dialog showing the pattern {DATE}_{TITLE}_{CC} and the resulting file preview for image organization.]
 
 ---
 
-## Synchronized File Operations
+## Synchronized File & Sidecar Operations
 Moving or deleting professional assets is risky if sidecar files are left behind. ArtushVision AI handles file management with "linked" logic.
 
 * **Sidecar Synchronization:** When you Move or Copy a file within the application, it automatically brings along all associated `.xmp` and `.getty` sidecar files.
@@ -208,8 +204,8 @@ To perform operations effectively, you must first isolate the right files. The F
 
 **Using Smart Filters in ArtushVision AI**
 
-<video src="video/smart-filters.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Smart Filters and Workflow Filtering">
-  ArtushVision AI - Smart Filter Function.
+<video src="video/smart-filters.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Smart Filters for Workflow and Metadata Quality Control">
+  ArtushVision AI - Smart Filter Function for batch editing.
 </video>
 <p><a href="video/smart-filters.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -217,39 +213,39 @@ To perform operations effectively, you must first isolate the right files. The F
 
 ## Target Selection (Where the change should happen)
 Before running an operation, use the **"Batch Edit: / Target:"** dropdown to choose which field the action applies to:
-*   **Everywhere** – The action is applied to Title, Description, and Keywords simultaneously.
-*   **Title** – Changes only the Title.
-*   **Description** – Changes only the Description.
-*   **Keywords** – Changes only the Keywords. *For keywords, smart formatting, deduplication, and whole-word matching (tags) are applied automatically.*
+* **Everywhere** – The action is applied to Title, Description, and Keywords simultaneously.
+* **Title** – Changes only the Title.
+* **Description** – Changes only the Description.
+* **Keywords** – Changes only the Keywords. *For keywords, smart formatting, deduplication, and whole-word matching (tags) are applied automatically.*
 
 ---
 
-## Available Actions
+## Available Batch Actions
 
 ### Add Text (+ Add)
 Used to bulk insert new text into the selected photos.
-*   **How it works:** You type the text into the input field and click the `+ Add` button.
-*   The app will ask you where you want to insert the text: **At the beginning** or **At the end**.
-*   *For Keywords:* The app automatically checks if the word is already present in the photo. It prevents duplicates and smartly inserts the text separated by a comma.
+* **How it works:** You type the text into the input field and click the `+ Add` button.
+* The app will ask you where you want to insert the text: **At the beginning** or **At the end**.
+* *For Keywords:* The app automatically checks if the word is already present in the photo. It prevents duplicates and smartly inserts the text separated by a comma.
 
 ### Remove Text (- Remove)
 Removes the specified text from all selected photos.
-*   *For text fields (Title/Description):* Removes the specific text string (e.g., "and son").
-*   *For Keywords:* If you enter words to remove (multiple words separated by commas are supported), the app reliably deletes the entire matching tags regardless of case sensitivity, and cleans up the formatting (commas) afterwards.
+* *For text fields (Title/Description):* Removes the specific text string (e.g., "and son").
+* *For Keywords:* If you enter words to remove (multiple words separated by commas are supported), the app reliably deletes the entire matching tags regardless of case sensitivity, and cleans up the formatting (commas) afterwards.
 
 ### ⇄ Replace (Ctrl+H)
 Opens a dialog for advanced bulk text replacement.
-*   In the **Find:** field, type what you want to change.
-*   In the **Replace with:** field, type the new value.
-*   You can check **Case Sensitive**.
-*   **Replace All:** Applies the change immediately across all selected photos.
-*   **Replace Next / Find Next:** Allows you to go through the selected photos sequentially and replace words one by one with immediate visual feedback.
-*   *Alternative Quick Syntax:* You can also type `old word -> new word` directly into the main input field in the panel and click `⇄ Replace`.
+* In the **Find:** field, type what you want to change.
+* In the **Replace with:** field, type the new value.
+* You can check **Case Sensitive**.
+* **Replace All:** Applies the change immediately across all selected photos.
+* **Replace Next / Find Next:** Allows you to go through the selected photos sequentially and replace words one by one with immediate visual feedback.
+* *Alternative Quick Syntax:* You can also type `old word -> new word` directly into the main input field in the panel and click `⇄ Replace`.
 
 **Using Batch Operations in ArtushVision AI**
 
-<video src="video/batch-operations.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Batch Operations and Bulk Text Replacement">
-  ArtushVision AI - Batch Operation overview.
+<video src="video/batch-operations.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Batch Operations and Bulk Text Replacement Tutorial">
+  ArtushVision AI - Batch Operation and Metadata Replacement overview.
 </video>
 <p><a href="video/batch-operations.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
@@ -261,25 +257,25 @@ An extremely powerful function that absolutely wipes all descriptive metadata �
 
 ### Categories
 Used to batch assign microstock categories to selected photos.
-*   You can assign a maximum of **3 categories**.
-*   Also allows you to batch change **Country** info or content properties (Editorial, Illustration).
-*   *Tip:* If you leave `<Keep existing>` selected, that specific property (e.g., Country) will remain unchanged for the individual photos during the batch edit.
+* You can assign a maximum of **3 categories**.
+* Also allows you to batch change **Country** info or content properties (Editorial, Illustration).
+* *Tip:* If you leave `<Keep existing>` selected, that specific property (e.g., Country) will remain unchanged for the individual photos during the batch edit.
 
 ---
 
-## Dynamic Variables
-In the input field for `Add` and `Replace`, you can use smart text variables that the app replaces with real data for each photo on the fly. This is excellent for automation!
+## Dynamic Variables for Automation
+In the input field for `Add` and `Replace`, you can use smart text variables that the app replaces with real data for each photo on the fly. This is excellent for workflow automation!
 
 Available variables:
-*   `{DATE}` – Inserts today's date (e.g., 14.02.2026).
-*   `{ORIG_DATE}` – Inserts the original capture date of the photo.
-*   `{FOLDER_NAME}` – Inserts the name of the folder where the photo is currently located.
-*   `{ORIG_FILENAME}` – Inserts the original filename (without extension).
+* `{DATE}` – Inserts today's date (e.g., 14.02.2026).
+* `{ORIG_DATE}` – Inserts the original capture date of the photo.
+* `{FOLDER_NAME}` – Inserts the name of the folder where the photo is currently located.
+* `{ORIG_FILENAME}` – Inserts the original filename (without extension).
 
 **Counter Variables (Numbering):**
-*   `{C}` – Inserts a number starting from 1 that increases with each subsequent photo (1, 2, 3...).
-*   `{CC}`, `{CCC}`, etc. – The number of `C`s determines the number of zero-padded digits (e.g., `{CCC}` generates `001`, `002`).
-*   `{C-5}` – Adding `-X` sets the starting number for the counter. For example, `{CC-10}` will generate `10`, `11`, `12`.
+* `{C}` – Inserts a number starting from 1 that increases with each subsequent photo (1, 2, 3...).
+* `{CC}`, `{CCC}`, etc. – The number of `C`s determines the number of zero-padded digits (e.g., `{CCC}` generates `001`, `002`).
+* `{C-5}` – Adding `-X` sets the starting number for the counter. For example, `{CC-10}` will generate `10`, `11`, `12`.
 
 ### Example in Practice:
 If you choose the Title field and enter the following text to bulk add:
@@ -291,17 +287,8 @@ The result on individual photos will be e.g.:
 
 ---
 
-## Global Search and Replace (Ctrl+H)
-The Global Search and Replace tool is a powerful engine for fixing metadata errors or updating information across your entire loaded project.
-
-* **Targeted Manipulation:** Choose exactly which fields to affect—Title, Description, Keywords, or all of them at once.
-* **Case Sensitivity:** Toggle between case-sensitive or insensitive matching to ensure precise string replacement.
-* **Bulk Correction:** Ideal for updating brand names, fixing recurring spelling mistakes, or changing specific terminology across thousands of assets instantly.
-
----
-
-## Useful Tips
-1. **Safe Undo:** Every batch action (including Clear All) creates a restore point. If you make a mistake, simply press the `↶ Undo` button (or `Ctrl+Z`), and all data will revert to its original state.
+## Useful Tips for Bulk Editing
+1. **Safe Undo:** Every batch action (including Clear All) creates a restore point. If you make a mistake, simply press the `↶ Undo` button (or `Ctrl+Z`), and all EXIF data will revert to its original state.
 2. **Combining with Filters:** Batch operations respect filters! If you filter photos `With Rating 5 ★` at the top, then press `Ctrl+A` and `+ Add`, the text will be added ONLY to those 5-star photos. The others in the folder remain untouched.
 3. **Colors (Word Sources):** If you batch add text via this panel, the system correctly recognizes it as *Manually added* and colors it accordingly (green), while the original text keeps its original color.
 
@@ -320,6 +307,12 @@ The Global Search and Replace tool is a powerful engine for fixing metadata erro
 
 ---
 
+## Need Help?
+
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
+
+---
+
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
@@ -329,13 +322,4 @@ The Global Search and Replace tool is a powerful engine for fixing metadata erro
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
-
-*ArtushVision AI - Stabilithttps://www.artushfoto.eu/Software/Download-ArtushVision-AI)
-* [Purchase Lifetime License - $39.99](https://www.artushfoto.eu/Software/Purchase-ArtushVision-AI)
-
----
-
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
-
----
-*ArtushVision AI - High-performance library mand precisionagement for professional photography workflows.*
+*ArtushVision AI - High-performance library management and precision for professional photography workflows.*
