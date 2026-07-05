@@ -1,4 +1,4 @@
----
+webp---
 title: "Frequently Asked Questions | ArtushVision AI Documentation"
 description: "Professional answers to common questions about ArtushVision AI pricing, privacy, local AI setup, and technical requirements."
 ---

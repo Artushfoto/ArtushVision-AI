@@ -1,4 +1,4 @@
-webpwebp---
+webpwebpwebpwebp---
 title: "Smart Grid Filters & Search: Portfolio Metadata Management"
 description: "Master large-scale photo portfolios with advanced grid filters, real-time search, metadata validation logic, and 3-state FTP distribution filters."
 ---
