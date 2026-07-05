@@ -1,6 +1,6 @@
 ---
-title: "Create and Optimize Custom AI Prompts | ArtushVision AI Documentation"
-description: "Learn how to use the Meta-Prompt strategy with ChatGPT, Claude, or Gemini to build optimized custom prompt profiles for ArtushVision AI."
+title: "Create & Optimize Custom AI Prompts for Stock Photography | ArtushVision AI"
+description: "Learn how to use the Meta-Prompt strategy with ChatGPT, Claude, or Gemini to build SEO-optimized custom AI prompt profiles for stock photography metadata in ArtushVision AI."
 ---
 <div style="display: none;">
 <style>
@@ -147,17 +147,17 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](/index.html)
 
-Creating the perfect AI prompt for generating stock photography metadata can be challenging. Fortunately, you don't have to write it from scratch! You can use advanced chatbots like **ChatGPT, Claude, or Gemini** to act as your personal "Prompt Engineer."
+Creating the perfect **AI prompt** for generating **stock photography metadata** can be challenging. Fortunately, you don't have to write it from scratch! You can use advanced chatbots like **ChatGPT, Claude, or Gemini** to act as your personal "Prompt Engineer."
 
-By providing the chatbot with our default baseline template, a list of available variables, and your specific photography niche, the AI will generate a highly optimized prompt tailored specifically for your workflow.
+By providing the chatbot with our default baseline template, a list of available variables, and your specific photography niche, the AI will generate a highly **optimized prompt** tailored specifically for your workflow.
 
 ---
 
-## The "Meta-Prompt" Strategy (Copy & Paste)
+## The "Meta-Prompt" Strategy for AI Image Analysis (Copy & Paste)
 
-Copy the entire block blockquote below, fill in your specific requirements at the bottom, and paste it into your favorite chatbot. 
+Copy the entire blockquote below, fill in your specific requirements at the bottom, and paste it into your favorite chatbot. 
 
-> **Role:** Act as an expert AI Prompt Engineer specializing in microstock photography metadata and SEO optimization.
+> **Role:** Act as an expert **AI Prompt Engineer** specializing in **microstock photography metadata** and **SEO optimization**.
 > 
 > **Context:** I am using a desktop application called ArtushVision to automatically analyze my photos and generate titles, descriptions, and 50 keywords. The application uses a System Prompt to instruct the AI (like Gemini, Claude, or local Ollama models) on how to analyze the image and return a strict JSON object.
 > 
@@ -167,7 +167,7 @@ Copy the entire block blockquote below, fill in your specific requirements at th
 > - `{filename}`, `{folder_context}`: File and folder names for context.
 > - `{date_info}`: The capture date.
 > - `{city}`, `{country}`, `{loc_hint}`: Geographic data extracted automatically from GPS.
-> - `{camera_model}`, `{lens_hint}`, `{exposure_info}`, `{aspect_ratio}`, `{flash_used}`: Technical EXIF data (useful for generating photography-specific tags like "long exposure", "bokeh", "drone photography").
+> - `{camera_model}`, `{lens_hint}`, `{exposure_info}`, `{aspect_ratio}`, `{flash_used}`: Technical **EXIF data** (useful for generating photography-specific tags like "long exposure", "bokeh", "drone photography").
 > - `{allowed_categories}`: A list of strict categories the AI must choose from.
 > - `{local_vision_text}`: *(Only for two-step Local/Hybrid models)* A raw text description of the image generated in Phase 1.
 > 
@@ -201,11 +201,11 @@ Copy the entire block blockquote below, fill in your specific requirements at th
 
 ---
 
-## Understanding the Engines (Cloud vs. Local)
+## Understanding AI Models: Cloud AI vs. Local AI (Ollama)
 
 When generating your prompt, it's crucial to tell the chatbot which AI engine you are using, as their architecture differs:
 
-### 1. Cloud AI (OpenRouter)
+### 1. Cloud AI (OpenRouter / Native APIs)
 Cloud models (like Gemini 2.5, Claude 3.5 Sonnet) are massive and incredibly smart. They can "look" at the image and format it into a perfect JSON structure all in a single step. 
 * **You need:** 1 unified prompt.
 
@@ -216,7 +216,7 @@ Small local models (running on your GPU) often struggle to both accurately descr
 
 ---
 
-## Implementing Your New Prompt
+## Implementing Your Custom AI Prompt in ArtushVision AI
 
 Once ChatGPT/Claude/Gemini generates your optimized prompt:
 
@@ -230,6 +230,12 @@ Once ChatGPT/Claude/Gemini generates your optimized prompt:
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 
