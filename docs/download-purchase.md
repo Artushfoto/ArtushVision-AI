@@ -1,6 +1,6 @@
 ---
-title: "Download & Purchase ArtushVision AI | Lifetime License"
-description: "Download the free version or buy a lifetime commercial license for ArtushVision AI. One-time payment, no monthly subscriptions."
+title: "Download ArtushVision AI | Lifetime License for Stock Photography Workflow"
+description: "Download the free version or buy a lifetime commercial license of ArtushVision AI. Automate your stock photography keywording, offline AI batch processing, and FTP distribution with a one-time payment."
 ---
 <div style="display: none;">
 <style>
@@ -178,80 +178,80 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Get ArtushVision AI
+# Download & Purchase ArtushVision AI - Offline Keywording Software
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 <div style="margin-top: 15px; margin-bottom: 20px;">
-  <a href="#buy-lifetime-license" class="btn btn-success">Purchase Lifetime License - $39.99</a>
+  <a href="#buy-lifetime-license" title="Buy Lifetime License for ArtushVision AI" class="btn btn-success">Purchase Lifetime License - $39.99</a>
 </div>
 
-[Frequently Asked Questions (FAQ)](faq.html)
+[Frequently Asked Questions (FAQ) about ArtushVision AI](faq.html)
 
-**Invest in your stock photography workflow. Download the free edition to test your hardware or buy a lifetime commercial license today to eliminate recurring monthly software fees forever.**
-
----
-
-## Downloads
-
-ArtushVision AI uses a single, unified build. The application operates in the Limited Free Version mode by default. Entering a valid license key inside the application settings instantly unlocks the full Pro Edition.
-
-* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.10/ArtushVisionAI_Setup_v2026.1.10.exe" class="btn btn-primary">⬇️ Download Standard Installer (.exe)</a><br>Recommended for Windows 10/11 64-bit. Guides you through the setup.
-* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.10/ArtushVision.AI_v2026.1.10.zip" class="btn btn-primary" style="margin-top: 15px;">⬇️ Download Portable Version (.zip)</a><br>Run without installation. Simply extract the archive and launch.
-
-**Version Archive & Rollback**
-
-If the latest release introduces unexpected behavior you can instantly roll back to any [**previous stable version.**](https://github.com/Artushfoto/ArtushVision-AI/releases) 
+**Invest in your microstock photography and video workflow. Download the free edition of our offline AI keywording software to test your hardware, or buy a lifetime commercial license today to eliminate recurring monthly software fees forever.**
 
 ---
 
-> ⚠️ **Windows Installation & Security Notes**
+## Download ArtushVision AI (Windows Setup & Portable)
+
+ArtushVision AI uses a single, unified software build. The application operates in the Limited Free Version mode by default. Entering a valid commercial license key inside the application settings instantly unlocks the full Pro Edition.
+
+* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.10/ArtushVisionAI_Setup_v2026.1.10.exe" title="Download ArtushVision AI Windows Installer" class="btn btn-primary">⬇️ Download Standard Installer (.exe)</a><br>Recommended for Windows 10/11 64-bit. Guides you through the setup process.
+* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.10/ArtushVision.AI_v2026.1.10.zip" title="Download ArtushVision AI Portable Version" class="btn btn-primary" style="margin-top: 15px;">⬇️ Download Portable Version (.zip)</a><br>Run without installation. Simply extract the archive and launch the application.
+
+**Version Archive & Software Rollback**
+
+If the latest AI release introduces unexpected behavior in your workflow, you can instantly roll back to any [**previous stable version of ArtushVision AI.**](https://github.com/Artushfoto/ArtushVision-AI/releases) 
+
+---
+
+> ⚠️ **Windows Installation & Software Security Notes**
 > 
 > **Windows SmartScreen Warning**
-> If a "Windows protected your PC" warning appears during launch, click **More info** and then **Run anyway**. This is completely normal for newly released independent software.
+> If a "Windows protected your PC" warning appears during launch, click **More info** and then **Run anyway**. This is completely normal for newly released independent developer software.
 > 
 > **Security & False Positives**
-> Because the application is a new release and does not contain an expensive digital signature yet, some antivirus programs might flag it as a warning (False Positive). The file is 100% clean. To verify this yourself, you can upload the downloaded file directly to [**VirusTotal**](https://www.virustotal.com).
+> Because the application is a new release and does not contain an expensive digital signature yet, some antivirus programs might flag it as a warning (False Positive). The file is 100% clean. To verify this yourself, you can upload the downloaded .exe file directly to [**VirusTotal**](https://www.virustotal.com).
 
 ---
 
-## Licensing Plans
+## ArtushVision AI Licensing Plans & Features
 
-  | Feature | [Lite Edition (Free)](/docs/free-trial-limits-and-testing.html) | [Pro Edition (Lifetime)](/docs/download-purchase.html#buy-lifetime-license) |
+  | Feature | [Lite Edition (Free Download)](/docs/free-trial-limits-and-testing.html) | [Pro Edition (Lifetime License)](/docs/download-purchase.html#buy-lifetime-license) |
 | :--- | :--- | :--- |
-| **Price** | **Free to use** | **$39.99** *(One-time payment)* |
-| **Commercial Usage** | Limited by operational constraints | Yes, fully optimized for high-volume business |
-| **AI Batch Processing** | **3 AI analyses** per app run | **Unlimited** image & video batches |
-| **File Saving** | **10 file saves** per app run | **Unlimited** local XMP/IPTC updates |
-| **Getty Images Resolver** | **3 Getty optimizations** per app run | **Unlimited** editing & mapping |
+| **Pricing** | **Free to use** | **$39.99** *(One-time payment)* |
+| **Commercial Usage** | Limited by operational constraints | Yes, fully optimized for high-volume microstock business |
+| **Offline AI Batch Processing** | **3 AI analyses** per app run | **Unlimited** image & video batching |
+| **Metadata File Saving** | **10 file saves** per app run | **Unlimited** local XMP/IPTC updates |
+| **Getty Images AI Resolver** | **3 Getty optimizations** per app run | **Unlimited** editing & mapping |
 | **FTP Automated Distribution**| **5 FTP uploads** per app run | **Unlimited** FTP server groups |
-| **Local Offline AI (Ollama)** | Supported | Supported (Unlimited) |
+| **Local Offline AI Engine (Ollama)** | Supported | Supported (Unlimited) |
 
 ---
 
-<h2 id="buy-lifetime-license">Buy Lifetime License</h2>
+<h2 id="buy-lifetime-license">Buy a Lifetime Commercial License</h2>
 
-Unlock the absolute maximum potential of your photography and video portfolios. Get full access to 2-pass offline AI engines, automated temporary CSV creation, multi-threaded FTP uploads, and advanced dictionary mapping tools.
+Unlock the absolute maximum potential of your stock photography and video portfolios. Get full access to 2-pass offline AI engines, automated temporary CSV creation, multi-threaded FTP uploads, and advanced dictionary mapping tools for microstock agencies.
 
-The Lite Edition resets its limits every time you launch the application, allowing you to test hardware compatibility and real-world workflows with zero time pressure. However, for seamless everyday professional workflows without interruptions, continuous restarts, or batch size constraints, the Pro Edition is required.
+The Lite Edition resets its limits every time you launch the application, allowing you to test hardware compatibility and real-world keywording workflows with zero time pressure. However, for seamless everyday professional workflows without interruptions, continuous restarts, or AI batch size constraints, the Pro Edition is required.
 
-* **Price:** $39.99 (One-time fee, no subscription)
+* **Software Price:** $39.99 (One-time fee, no monthly subscription)
 * **Payment Methods:** Credit/Debit Cards, Google Pay, Apple Pay
-* **Provider:** Secured via Polar.sh and Stripe ecosystem
+* **Payment Provider:** Secured via Polar.sh and Stripe ecosystem
 
 ---
 
 > ⚠️ **Important Note: Try Before You Buy!**
-> Before completing your purchase, we highly recommend downloading and running the **Free Lite Edition** above to thoroughly test performance and AI compatibility with your local hardware setup (especially your NVIDIA GPU and Ollama environment). Because all sales are final once the digital license key is issued, please make sure the software fully meets your expectations before buying.
+> Before completing your purchase, we highly recommend downloading and running the **Free Lite Edition** above to thoroughly test performance and offline AI compatibility with your local hardware setup (especially your NVIDIA GPU and Ollama environment). Because all sales are final once the digital license key is issued, please make sure the software fully meets your expectations before buying.
 > 
 > 🐛 **Transparency & Bug Fixes:**
-> ArtushVision AI is a robust, actively developed tool. While we strive for the highest stability, you might occasionally encounter minor bugs. If you do, please report them to our support email: <b>support [at] artushfoto [dot] eu</b> or <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">Community Forum</a> - we are highly committed to fixing reported issues and releasing updates as quickly as possible.
+> ArtushVision AI is a robust, actively developed stock photography tool. While we strive for the highest stability, you might occasionally encounter minor bugs. If you do, please report them to our support email: <b>support [at] artushfoto [dot] eu</b> or <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions" title="ArtushVision AI Community Forum">Community Forum</a> - we are highly committed to fixing reported issues and releasing updates as quickly as possible.
 
 
 <table style="width: 100%; display: table; border-collapse: collapse; margin-top: 20px;">
   <tr>
     <th style="text-align: center; padding: 25px 15px; background-color: rgba(45, 164, 78, 0.1); border: 1px solid rgba(45, 164, 78, 0.3); border-radius: 6px;">
-      <a href="https://vision.artushfoto.eu/checkout" class="btn btn-success" style="width: 100%; max-width: 400px; font-size: 1.1em; padding: 15px; margin: 0 auto;">👉 CLICK TO BUY - Secure Checkout</a>
+      <a href="https://vision.artushfoto.eu/checkout" title="Proceed to secure checkout for ArtushVision AI" class="btn btn-success" style="width: 100%; max-width: 400px; font-size: 1.1em; padding: 15px; margin: 0 auto;">👉 CLICK TO BUY - Secure Checkout</a>
     </th>
   </tr>
   <tr>
@@ -261,49 +261,55 @@ The Lite Edition resets its limits every time you launch the application, allowi
   </tr>
   <tr>
     <td style="text-align: center; padding: 5px 8px 15px 8px; font-size: 0.9em; color: #666;">
-      One-time payment &bull; No monthly fees &bull; Payments secured via Polar.sh &amp; Stripe
+      One-time payment &bull; No monthly subscription fees &bull; Payments secured via Polar.sh &amp; Stripe
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <strong><a href="/docs/manage-licence.html">Manage your licensed devices</a></strong>
+  <strong><a href="/docs/manage-licence.html" title="Manage your ArtushVision AI licensed devices">Manage your licensed devices</a></strong>
 </p>
 
 ---
 
 ### Legal Agreements & Vendor Info
-By clicking the checkout link above and purchasing a license, you expressly acknowledge and agree to our official **[Legal Terms, EULA, and Terms of Service](legal-terms.html)**. 
+By clicking the checkout link above and purchasing a software license, you expressly acknowledge and agree to our official **[Legal Terms, EULA, and Terms of Service](legal-terms.html)**. 
 
 Please note that due to the instant delivery of digital license keys, you expressly waive your right to a 14-day statutory refund period under EU law once the key is delivered. Complete business registration details and out-of-court dispute links can be found on our **[Legal Terms page](legal-terms.html)**.
 
 ---
 
 ### Is this really a one-time payment?
-Yes. Once you buy a license for $39.99, you own that version forever. There are no monthly subscriptions, hidden costs, or maintenance fees. All minor and major updates within the current version cycle are included for free.
+Yes. Once you buy an ArtushVision AI license for $39.99, you own that version forever. There are no monthly subscriptions, hidden costs, or recurring maintenance fees. All minor and major software updates within the current version cycle are included for free.
 
-### How do I activate my software after purchase?
-Immediately after a successful checkout, Polar.sh will generate a unique license key and send it to your email address. Open ArtushVision AI on your desktop, go to the top menu, select **License > Activate License**, paste your key into the activation field, and click *Activate*.
+### How do I activate my AI software after purchase?
+Immediately after a successful checkout, Polar.sh will generate a unique commercial license key and send it to your email address. Open ArtushVision AI on your desktop, go to the top menu, select **License > Activate License**, paste your key into the activation field, and click *Activate*.
 
-### Can I use the license on multiple computers?
- A single commercial license key is valid for activation on up to **two personal devices** (e.g., your main studio workstation and your editing laptop on location), provided that you are the sole user of the software.
+### Can I use the commercial license on multiple computers?
+A single commercial license key is valid for activation on up to **two personal devices** (e.g., your main studio workstation and your field editing laptop), provided that you are the sole user of the software.
 
 ---
 
-### [Get Started Now]
-* [Download Free Lite Version](/docs/download-purchase.html)
-* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+### Get Started Now
+* [Download Free Lite Version of ArtushVision AI](/docs/download-purchase.html)
+* [Purchase Lifetime Commercial License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+[⭐ Read User Reviews & Testimonials](/docs/artushvision-reviews.html)
 
-[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+[❓ Frequently Asked Questions (FAQ) about the software](/docs/faq.html)
 
-[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+[💬 Support, Bug Reports & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
-*ArtushVision AI - Stability and precision for professional photography workflows.*
+*ArtushVision AI - Stability, offline AI keywording, and precision for professional microstock photography workflows.*
