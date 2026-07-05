@@ -1,4 +1,3 @@
-<!-- --- artushvision-openrouter-doc --- -->
 ---
 title: OpenRouter API Setup | ArtushVision AI
 description: Step-by-step guide on how to configure your OpenRouter API key for Cloud AI metadata automation in ArtushVision AI.
@@ -148,7 +147,7 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-Step-by-step guide to register, generate, and secure your API key for ArtushVision AI.
+Step-by-step guide to register, generate, and secure your **API key** for **ArtushVision AI**.
 
 ---
 
@@ -157,7 +156,7 @@ Step-by-step guide to register, generate, and secure your API key for ArtushVisi
 1. **Visit:** [OpenRouter.ai](https://openrouter.ai/)
 2. **Register:** Create an account via email.
 3. **Verify:** Confirm your email address.
-4. **Generate:** Create a new API key, name it, and **save it safely**.
+4. **Generate:** Create a new **API key**, name it, and **save it safely**.
 
 ---
 
@@ -165,11 +164,11 @@ Step-by-step guide to register, generate, and secure your API key for ArtushVisi
 
 ### Step 1: Visit the Platform
 
-Navigate to the [OpenRouter platform](https://openrouter.ai/). This is the unified interface for state-of-the-art AI models.
+Navigate to the [OpenRouter platform](https://openrouter.ai/). This is the unified interface for state-of-the-art **AI models**.
 
 **OpenRouter Homepage**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-001.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-001.png" alt="OpenRouter platform homepage" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-001.png" target="_blank" class="screenshot-link" title="OpenRouter platform homepage - ArtushVision AI Setup">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-001.png" alt="OpenRouter platform homepage for ArtushVision AI API setup" class="screenshot-img" loading="lazy">
 </a>
 
 ### Step 2: Registration
@@ -177,8 +176,8 @@ Navigate to the [OpenRouter platform](https://openrouter.ai/). This is the unifi
 Click on **Sign Up**. Use your professional email and choose a secure password. Don't forget to check your inbox and click the **confirmation link**.
 
 **Click to Sign Up**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-002.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-002.png" alt="OpenRouter sign up and registration form" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-002.png" target="_blank" class="screenshot-link" title="OpenRouter sign up and registration form">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-002.png" alt="OpenRouter sign up and registration form for API key generation" class="screenshot-img" loading="lazy">
 </a>
 
 ### Step 3: Accessing the Keys Dashboard
@@ -186,8 +185,8 @@ Click on **Sign Up**. Use your professional email and choose a secure password. 
 Once logged in, navigate to the **Keys** section in the menu and click the **Create API Key** button.
 
 **Click to Create API Key**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-003.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-003.png" alt="OpenRouter dashboard showing Create API Key button" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-003.png" target="_blank" class="screenshot-link" title="OpenRouter dashboard - Create API Key">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-003.png" alt="OpenRouter dashboard showing Create API Key button for AI metadata" class="screenshot-img" loading="lazy">
 </a>
 
 ### Step 4: Name and Create Your Key
@@ -195,15 +194,15 @@ Once logged in, navigate to the **Keys** section in the menu and click the **Cre
 A dialog will appear. Click **Create** to proceed with generating your **access token**.
 
 **Initial Create Dialog**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-004.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-004.png" alt="OpenRouter initial create dialog for generating a new API key" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-004.png" target="_blank" class="screenshot-link" title="OpenRouter initial create dialog">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-004.png" alt="OpenRouter initial create dialog for generating a new API key" class="screenshot-img" loading="lazy">
 </a>
 
 Give your key a recognizable name, for example: `ArtushVision AI`.
 
 **Naming Your API Key**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-005.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-005.png" alt="Naming the API key ArtushVision AI" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-005.png" target="_blank" class="screenshot-link" title="Naming the API key ArtushVision AI">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-005.png" alt="Naming the OpenRouter API key ArtushVision AI" class="screenshot-img" loading="lazy">
 </a>
 
 ### Step 5: Secure Your Key (Critical)
@@ -212,38 +211,38 @@ Give your key a recognizable name, for example: `ArtushVision AI`.
 > **Copy the generated key immediately!** For security reasons, OpenRouter will only show you this code **once**. Store it in a password manager or a secure offline file.
 
 **IMPORTANT - Your Secret API Key**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-006.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-006.png" alt="OpenRouter secret generated API key visibility window" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-006.png" target="_blank" class="screenshot-link" title="OpenRouter secret generated API key">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-006.png" alt="OpenRouter secret generated API key visibility window" class="screenshot-img" loading="lazy">
 </a>
 
 After saving, you will see your active key in the dashboard list.
 
 **Final Dashboard View**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-007.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-007.png" alt="Active API keys list in OpenRouter dashboard" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-007.png" target="_blank" class="screenshot-link" title="Active API keys list in OpenRouter">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-007.png" alt="Active API keys list in OpenRouter dashboard" class="screenshot-img" loading="lazy">
 </a>
 
 ---
 
 ## Usage & Credits (Free vs. Paid)
 
-To use ArtushVision AI effectively for large batches of photos, it is highly recommended to add a small amount of credit to your account.
+To use **ArtushVision AI** effectively for large batches of photos, it is highly recommended to add a small amount of credit to your account.
 
 * **Free Models:** Good for testing, but limited to 50 requests per day and may work intermittently.
 * **Paid Credits:** A deposit of **$5 USD** allows you to process up to **150,000 photos** using elite models.
 * **Recommended Model:** `google/gemini-2.0-flash` (Fast, cheap, and extremely intelligent).
 
 > [!TIP]
-> Gemini 2.0 Flash is an extremely efficient model for bulk captioning, providing deep descriptive details for near-zero cost.
+> **Gemini 2.0 Flash** is an extremely efficient model for **bulk captioning**, providing deep descriptive details for near-zero cost.
 
 **Adding Credits via Credit Card or Crypto**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-008.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-008.png" alt="Adding credits interface in OpenRouter" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-008.png" target="_blank" class="screenshot-link" title="Adding credits interface in OpenRouter">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-008.png" alt="Adding credits interface in OpenRouter for AI metadata generation" class="screenshot-img" loading="lazy">
 </a>
 
 **Minimum Deposit Information**
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-009.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-009.png" alt="Minimum deposit options for OpenRouter credits" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-009.png" target="_blank" class="screenshot-link" title="Minimum deposit options for OpenRouter credits">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/openrouter/openrouter-009.png" alt="Minimum deposit options for OpenRouter API credits" class="screenshot-img" loading="lazy">
 </a>
 
 ---
@@ -261,6 +260,12 @@ To use ArtushVision AI effectively for large batches of photos, it is highly rec
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 
