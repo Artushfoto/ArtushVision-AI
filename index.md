@@ -372,6 +372,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 ### 2. Core Workflows
 - [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
 - [How to Download Local AI Models via Ollama)](/docs/how-to-download-local-ai-models-via-ollama.html)
+- [Local AI Model Manager: Complete Offline Control)](/docs/local-ai-model-manager-ollama.html)
 - [Advanced AI Prompting, Profiles &amp; Variables](/docs/advanced-ai-prompting-profiles-variables.html)
 - [Create and Optimize Custom AI Prompts](/docs/create-and-optimize-custom-ai-prompts.html)
 - [Manual Editing, Multi-language Spellcheck &amp; Interactive Map](/docs/smart-manual-keywording-batch-editing.html)

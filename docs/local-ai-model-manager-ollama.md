@@ -1,6 +1,6 @@
 ---
 title: "Local AI Model Manager: Complete Offline Control | ArtushVision AI"
-description: "Manage your local Ollama AI models with a visual dashboard. Browse, download, and monitor Vision and Text models for professional offline metadata tagging."
+description: "Manage local Ollama AI models with our visual dashboard. Browse, download, and monitor Vision/Text models for secure, offline AI metadata tagging."
 ---
 <div style="display: none;">
 <style>
@@ -143,82 +143,74 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Local AI Model Manager: Complete Offline Control
+# Local AI Model Manager: Visual Dashboard for Ollama
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**Running AI locally using <a href="/docs/ollama-installation-guide.html">Ollama</a> is the ultimate solution for professional stock contributors. It offers 100% privacy for sensitive shoots (like boudoir or unreleased commercial products) and zero API costs.**
+**Running AI locally using <a href="/docs/ollama-installation-guide.html">Ollama</a> is the ultimate solution for professional stock photography contributors.** It offers 100% privacy for sensitive shoots and zero API costs.
 
-However, managing models via a command-line terminal can be intimidating. ArtushVision AI solves this with a fully integrated, desktop-class **Local Model Manager**. It gives you a visual dashboard to browse, download, organize, and monitor your <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">local AI</a> models without ever touching the command line.
+However, managing AI models via a command-line terminal can be difficult. ArtushVision AI simplifies this with an integrated, desktop-class **Local AI Model Manager**. It provides a visual dashboard to browse, download, organize, and monitor your <a href="/docs/ai-metadata-generation-cloud-local-ollama.html#4-tier-ai-engine-choose-your-processing-path">local AI models</a> without terminal commands.
 
 ---
 
-## Integrated Hub Browser and Downloader
+## Integrated Model Browser and Downloader
 
-Skip the terminal. ArtushVision AI connects directly to your local <a href="/docs/ollama-installation-guide.html">Ollama</a> installation and the global Ollama Hub. For a complete walkthrough of this process, you can follow our detailed <a href="/docs/how-to-download-local-ai-models-via-ollama.html">Model Download Guide</a>.
+Skip the terminal. ArtushVision AI connects directly to your local <a href="/docs/ollama-installation-guide.html">Ollama</a> installation. For a complete guide, view our <a href="/docs/how-to-download-local-ai-models-via-ollama.html">Model Download Tutorial</a>.
 
-* **Curated Recommendations:** Not sure where to start? Open the **Recommended** browser to see a curated list of the best Vision and Text models currently available for stock photography (like **gemma4:e4b** or **llama3.2:3b**), complete with descriptions of their specific strengths.
-* **Direct Downloads:** Type any Model ID (e.g., `moondream:18b` or `gemma4:e4b`) and hit Download. Watch the real-time progress bar with human-readable data (MB/GB) directly in the UI.
+* **Curated AI Models:** Browse our recommended list of high-performance Vision and Text models optimized for stock photography (e.g., **gemma4:e4b**, **llama3.2:3b**).
+* **One-Click Downloads:** Enter any Ollama Model ID to trigger a download with a real-time progress monitor for data usage (MB/GB).
 
-**Downloading Local AI Models via Model Manager**
+**Video: How to Download Local AI Models**
 
-<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Downloading Local AI Models via Model Manager">
+<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Local AI Model Management">
   ArtushVision AI - Visual model downloading demonstration.
 </video>
 <p><a href="video/ai-model-downloading.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
-## Smart Vision and Text Detection
+## Smart AI Vision and Text Detection
 
-ArtushVision's advanced <a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Agentic Workflows</a> require knowing exactly what a model is capable of.
+ArtushVision's <a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Agentic Workflows</a> optimize your metadata generation based on model capabilities.
 
-* **Auto-Detection:** The manager automatically scans your downloaded models and categorizes them as **Vision** (models that can "see" images) or **Text** (language-only models), color-coding them in the grid for easy identification.
-* **Manual Override:** If you are testing a brand-new or experimental model that the application doesn't recognize yet, simply right-click the model and use the context menu to manually toggle its type.
+* **Auto-Categorization:** The manager scans and labels models as **Vision** (image analysis) or **Text** (language processing) for better workflow integration.
+* **Manual Control:** Easily toggle model types via the context menu for experimental or custom AI models.
 
 ---
 
-## Deep Technical Insights
+## Technical Insights: Parameters, Quantization, and VRAM
 
-[**gemma models family**: https://ollama.com/library/gemma4](https://ollama.com/library/gemma4)
+[**Learn more about the gemma models family**: https://ollama.com/library/gemma4](https://ollama.com/library/gemma4)
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama Gemma Models" style="width: 800px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/gemma-models.png" alt="ArtushVision AI - Ollama Gemma Models Dashboard" style="width: 800px;" class="screenshot-img">
 </a>
-<div style="height: 15px;"></div>
 
-Understand exactly what is running on your machine and how it impacts your hardware performance.
+Optimize your hardware performance by understanding your AI engine:
 
-* **Hardware Specs at a Glance:** The grid displays crucial technical data for every model, including its physical **Size (GB)**, total **Parameters** (e.g., 3B, 8B, 72B), and **Quantization** level (e.g., Q4_0, Q8_0).
-
-> **What do Parameters and Quantization mean in local AI?**
-> These two settings directly determine how "smart" your local AI model is and how much graphics card memory (VRAM) it requires. 
-* **Parameters (e.g., 3B, 8B)** represent the size of the AI’s "brain" in billions - a higher number means better recognition of complex details but demands stronger hardware. 
-* **Quantization (e.g., Q4_0, Q8_0)** is the compression level of that brain. Choosing a **Q4_0** or **Q4_K_M** version is the ultimate sweet spot: it shrinks the model size by roughly 70% for blazing-fast performance while retaining about 95% of its original accuracy, allowing it to run smoothly even on standard 8GB graphics cards (like an RTX 3060 Ti). If you have a powerful card with 12GB+ of VRAM and want absolute maximum precision, you can opt for the uncompressed **Q8_0** version.
-
-* **Live VRAM Monitor:** Located in the main application status bar, a live hardware monitor tracks your GPU VRAM usage. If a model exceeds your graphics card's memory, the application intelligently falls back to CPU RAM and provides a warning.
+* **Hardware Metrics:** Track model size, parameter count (e.g., 3B, 8B), and quantization levels directly in the grid.
+* **Quantization Guide:** Understand how **Q4_0** (optimized) vs. **Q8_0** (high precision) affects your VRAM usage. Our dashboard helps you choose the best model for your GPU capacity.
+* **Live VRAM Monitoring:** Monitor your GPU memory usage in real-time. The application prevents crashes by offering intelligent fallbacks if a model exceeds available VRAM.
 
 ---
 
-## Personal Notes and Organization
+## Efficient Model Organization
 
-When testing multiple models, it is essential to track which one performed best for specific tasks.
-
-* **Custom Notes:** Double-click the **Note** column next to any model to open a pop-up text editor. Record your findings (e.g., "Excellent for OCR" or "Fast but generic descriptions").
-* **Smart Search:** The real-time search bar at the top of the manager searches through both model names and your custom notes, helping you find the perfect model for the job instantly.
-* **Clean Uninstallation:** Free up disk space by deleting outdated models with a single click using the trash can icon.
+* **Custom Notes:** Keep track of model performance by adding custom notes for specific tagging tasks.
+* **Smart Search:** Use the real-time search bar to filter through model names and your saved notes.
+* **Disk Management:** Quickly free up space by deleting unused local models.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Local AI model manager grid with personal performance notes" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Manage Local AI Models" width="100%" class="screenshot-img">
 </a>
 
 ---
 
-## How to use Local Models in 3 Steps:
+## How to Get Started with Local AI Models
 
-1. **Browse and Download:** Open the Model Manager, click **Recommended**, and download a small Vision model like `gemma4:e2b`. For step-by-step assistance, see our [Model Download Guide](/docs/how-to-download-local-ai-models-via-ollama.html).
-2. **Assign to Profile:** Open the <a href="/docs/advanced-ai-prompting-profiles-variables.html">AI Profile Editor</a> and assign your newly downloaded model to a Local or Hybrid workflow.
-3. **Run Offline:** Disconnect from the internet and watch the AI seamlessly tag your photos in total privacy.
+1. **Browse:** Open the Model Manager and check our **Recommended** list of lightweight Vision models like `gemma4:e2b`.
+2. **Configure:** Assign your downloaded model to an AI Profile in the <a href="/docs/advanced-ai-prompting-profiles-variables.html">Profile Editor</a>.
+3. **Execute:** Run your AI workflows entirely offline with complete data privacy.
 
 ---
 
@@ -228,9 +220,12 @@ When testing multiple models, it is essential to track which one performed best 
 
 ---
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
-[📖 Step-by-Step Ollama Model Download Guide](/docs/how-to-download-local-ai-models-via-ollama.html)
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
 

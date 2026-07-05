@@ -1,6 +1,6 @@
 ---
-title: "ArtushVision AI Interface Overview | Image Grid & Toolbars"
-description: "Comprehensive guide to the ArtushVision AI user interface. Learn how to navigate the main image grid, top toolbars, filters, and batch editing panel."
+title: "ArtushVision AI Interface Overview | Image Grid & Batch Editing Toolbars"
+description: "Comprehensive guide to the ArtushVision AI user interface. Learn how to navigate the main image grid, top toolbars, filters, and batch editing panel for metadata management."
 ---
 <div style="display: none;">
 <style>
@@ -143,16 +143,16 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Interface Overview
+# ArtushVision AI Interface Overview
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 **The Image Grid is the central workspace of ArtushVision AI. Designed to handle thousands of high-resolution assets without stuttering, it provides immediate visual feedback, advanced batch editing, and an intuitive drag-and-drop interface for your metadata.**
 
-Instead of hiding data in complex side panels, ArtushVision AI displays the Title, Description, and Keywords directly below every image. This allows you to review and edit entire batches of photos at a single glance.
+Instead of hiding data in complex side panels, **ArtushVision AI** displays the **Title**, **Description**, and **Keywords** directly below every image. This allows you to review and edit entire batches of photos at a single glance.
 
 ## Top Toolbar
-This bar provides basic application control and triggers AI operations:
+This bar provides basic application control and triggers **AI metadata operations**:
 *   **Profile:** Select an AI profile (e.g., *Standard Stock Photography*). This defines the instructions given to the AI. Click the Gear icon ⚙️ button to open the Profile Editor.
 *   **[Absolute Priority AI Hint:](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)** Treats manual user hints (e.g., Latin names, specific animal species, obscure landmarks, or lesser-known objects) as unquestionable facts. When this hint is provided, the AI completely eliminates hallucinations, bypassing generic assumptions and strictly anchoring its analysis to your verified input. This is exceptionally useful for images lacking GPS data, where pinpointing the exact location or context from the visual alone would otherwise be nearly impossible.
 *   [**Run Cloud AI / Local AI:**](/docs/ai-metadata-generation-cloud-local-ollama.html) The main green (or blue/orange) button to start the AI analysis for the selected photos.
@@ -160,10 +160,10 @@ This bar provides basic application control and triggers AI operations:
 *   **Speed:** Number of concurrent threads for Cloud AI (recommended 5-15). Determines how many photos are analyzed simultaneously.
 *   **Sorting:** Allows you to sort photos by name (A-Z, Z-A) or by date taken (oldest / newest).
 *   **Flat View:** Displays all photos from all loaded folders in a single continuous list (hides folder separators).
-*   [**Backup (CSV / XMP / JPG):**](/docs/settings-configuration-customization.html#backup-and-data-safety) Quick toggles that determine which backups should be created when saving changes.
+*   [**Backup (CSV / XMP / JPG):**](/docs/settings-configuration-customization.html#backup-and-data-safety) Quick toggles that determine which metadata backups should be created when saving changes.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top-toolbar.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top-toolbar.png" alt="ArtushVision AI - Top Toolbar" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/top-toolbar.png" alt="ArtushVision AI Top Toolbar - Profiles and AI Metadata Controls" width="100%" class="screenshot-img">
 </a>
 
 ## Filter & Search Bar
@@ -177,11 +177,11 @@ Tools for quick navigation and file selection within the current session:
 *   **Panel Toggles:** The rightmost buttons show/hide the side panels for *Rating* and *Batch Edit*.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" alt="ArtushVision AI - Filter Bar" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/filter-bar.png" alt="ArtushVision AI Filter and Smart Search Bar Navigation" width="100%" class="screenshot-img">
 </a>
 
 ## Batch Edit Bar
-The bottom slide-out bar allows for massive metadata operations across the entire selection at once.
+The bottom slide-out bar allows for massive **bulk metadata operations** across the entire selection at once.
 *   **Target (Dropdown):** Determines whether the edit affects the Title, Description, Keywords, or All fields.
 *   **Add (+):** Appends the specified text to the beginning, end, or as a new tag to all selected items. *Supports dynamic variables* (e.g., `{DATE}`, `{FOLDER_NAME}`, `{C}` as a counter).
 *   **Remove (-):** Deletes a specific word or phrase from all selected items.
@@ -190,20 +190,20 @@ The bottom slide-out bar allows for massive metadata operations across the entir
 *   **Clear All (×):** Completely erases the chosen fields for the selection.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar-batch-edit.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar-batch-edit.png" alt="ArtushVision AI - Batch Edit Toolbar" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/toolbar-batch-edit.png" alt="ArtushVision AI Batch Edit Toolbar for Bulk Metadata Operations" width="100%" class="screenshot-img">
 </a>
 
-## Main Grid (The Image Grid)
-The core of the application. Each card in the grid represents a single file and allows direct metadata editing.
+## Main Image Grid
+The core of the application. Each card in the grid represents a single file and allows direct **metadata editing**.
 
 ### Visual States and Indicators (Cards)
 Photo cards change their background color based on their current state:
 *   **Gray / White:** Default state, no unsaved changes.
 *   **Yellow:** *Modified* - The photo contains unsaved edits.
-*   **Green:** *Saved* - Metadata has been successfully saved to disk
+*   **Green:** *Saved* - Metadata has been successfully saved to disk.
 *   **Red:** *Error* - Validation error. The photo does not meet the minimum/maximum limits for characters or words (e.g., the title is too long).
 
-### Information Badges
+### File Information Badges
 Micro-badges may appear below the photo thumbnail, indicating file properties:
 *   **GPS:** The file contains GPS coordinates.
 *   **XMP:** An XMP sidecar file with metadata exists for this file.
@@ -225,7 +225,7 @@ Micro-badges may appear below the photo thumbnail, indicating file properties:
 *   **Copy & Paste Tools (Clipboard Icon):** Located in the field header for quickly copying the Title, Description, Tags, and Categories. You can dynamically paste these copied elements into **multiple selected files at once** (batch paste) and choose exactly which fields you want to inject (e.g., copy the entire metadata layout but apply only the Title and Description to the target files).
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" alt="ArtushVision AI - Main Grid Overview" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid--function-overview.png" alt="ArtushVision AI Main Image Grid Workspace and Editing Features" width="100%" class="screenshot-img">
 </a>
 
 ### Rating & Flags
@@ -250,6 +250,11 @@ Right-clicking on a card in the grid opens a context menu:
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 
