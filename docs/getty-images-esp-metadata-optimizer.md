@@ -169,7 +169,7 @@ ArtushVision AI includes a massive, local **Master Dictionary** specifically bui
 
 ---
 
-## 2. Accessing the Getty ESP Optimizer & Main Interface
+## 2. Accessing the Getty ESP Optimizer & Main Interface*
 
 Select one or more photos in the main grid, right-click, and select **"Getty Optimizer..."** from the context menu. 
 
