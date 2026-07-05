@@ -296,12 +296,6 @@ A single commercial license key is valid for activation on up to **two personal 
 
 ---
 
-## Need Help?
-
-Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
-
----
-
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [⭐ Read User Reviews & Testimonials](/docs/artushvision-reviews.html)
