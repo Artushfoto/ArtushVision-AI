@@ -139,7 +139,7 @@ By using an <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter API Ke
 <details>
 <summary>Do I need a high-end GPU for Local AI?</summary>
 <p>
-A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/docs/local-ai-model-manager-ollama.html#deep-technical-insights">Local AI engine</a> can also run on your CPU thanks to <a href="/docs/ollama-installation-guide.html">Ollama's</a> optimized architecture.
+A dedicated NVIDIA GPU (RTX series) provides the best speed, but our <a href="/docs/local-ai-model-manager-ollama.html">Local AI engine</a> can also run on your CPU thanks to <a href="/docs/ollama-installation-guide.html">Ollama's</a> optimized architecture.
 </p>
 </details>
 
@@ -157,14 +157,14 @@ No. You have absolute control. Using <a href="/docs/ai-metadata-generation-cloud
 <details>
 <summary>How do I optimize for Getty Images / <a href="/docs/getty-images-esp-metadata-optimizer.html">ESP</a>?</summary>
 <p>
-Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Resolver</a>. It validates your keywords against a <a href="/docs/getty-images-esp-metadata-optimizer.html#1-built-in-master-dictionary--non-destructive-workflow">master dictionary</a> of 9,867+ commercial terms and uses Cloud AI for intelligent disambiguation to ensure a Near-Perfect Acceptance Rate without manual guesswork.
+Use the integrated <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Resolver</a>. It validates your keywords against a <a href="/docs/getty-images-esp-metadata-optimizer.html##1-built-in-getty-master-dictionary--non-destructive-workflow">master dictionary</a> of 9,867+ commercial terms and uses Cloud AI for intelligent disambiguation to ensure a Near-Perfect Acceptance Rate without manual guesswork.
 </p>
 </details>
 
 <details>
 <summary>Does it work with Lightroom, Zoner, or Bridge?</summary>
 <p>
-Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="/docs/metadata-compatibility-and-file-handling.html#seamless-adobe-lightroom-and-other-photo-management-software-compatibility">Software Compatibility</a> guide for more.
+Yes. ArtushVision AI writes metadata directly into JPGs or standard XMP sidecars. Simply use the "Read Metadata from File" command in your favorite organizer to see the changes. Check our <a href="/docs/metadata-compatibility-and-file-handling.html#seamless-integration-with-adobe-lightroom-and-other-managers">Software Compatibility</a> guide for more.
 </p>
 </details>
 
@@ -218,7 +218,7 @@ The application natively focuses on English, as it is the strict standard for gl
 <details id="technical-setup">
 <summary>I get an "<a href="/docs/ollama-installation-guide.html">Ollama</a> not found" error. How to fix it?</summary>
 <p>
-Ensure <a href="/docs/ollama-installation-guide.html">Ollama is installed</a> and the service is running in your system tray. You can manage and download models directly through our <a href="/docs/local-ai-model-manager-ollama.html#integrated-hub-browser-and-downloader">Integrated Model Manager</a>.
+Ensure <a href="/docs/ollama-installation-guide.html">Ollama is installed</a> and the service is running in your system tray. You can manage and download models directly through our <a href="/docs/local-ai-model-manager-ollama.html">Integrated Model Manager</a>.
 </p>
 </details>
 

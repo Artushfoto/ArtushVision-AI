@@ -171,7 +171,7 @@ To ensure smooth operation, especially when running local AI engines and multi-t
 ## First Launch & Setup Guide
 1. **Run the Application:** Locate the downloaded installer and run `ArtushVisionAI.exe`.
 2. **License Activation:** Enter your purchased license key or continue with the **[Free Trial Version](/docs/free-trial-limits-and-testing.html)**.
-3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/cloud-ai-openrouter-api-setup.html) for Cloud metadata automation, or ensure [Ollama](/docs/ollama-installation-guide.html) is running for the [Local AI Model Manager](/docs/local-ai-model-manager-ollama.html#integrated-hub-browser-and-downloader).
+3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/cloud-ai-openrouter-api-setup.html) for Cloud metadata automation, or ensure [Ollama](/docs/ollama-installation-guide.html) is running for the [Local AI Model Manager](/docs/local-ai-model-manager-ollama.html).
 
 ---
 

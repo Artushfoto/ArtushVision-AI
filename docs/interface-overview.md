@@ -168,7 +168,7 @@ This bar provides basic application control and triggers **AI metadata operation
 
 ## Filter & Search Bar
 Tools for quick navigation and file selection within the current session:
-*   **[Smart Search:](/docs/batch-operations-metadata-library-management.html#global-search-and-replace-ctrlh)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
+*   **[Smart Search:](/docs/batch-operations-metadata-library-management.html)** Filter by text with **Aa (Case Sensitivity)** and **Target Selector**.
 *   **Folder:** Filters the view to show only a specific loaded folder.
 *   [**Status Filter:**](/docs/batch-operations-metadata-library-management.html#status-filtering-and-batch-selection) Shows photos based on their current status (All, Selected, Todo, Done, Modified, Corrupted, Exceeded limits, FTP status, etc.).
 *   **Type:** Restricts the view to specific file formats (JPG, RAW, Video, TIFF, HEIC, PNG).
