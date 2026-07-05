@@ -192,8 +192,8 @@ Speed up your distribution workflow by grouping multiple stock agencies together
 Click to `File` → `Settings` → `Manage FTP Servers` or Select files and Click On Bottom Bar → `Upload via FTP` → `Manage FTP Servers`
 
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.jpg" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.jpg" alt="ArtushVision AI - Manage Microstock FTP Agencies and Servers" style="width: 800px;" class="screenshot-img">
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-server-index.webp" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-server-index.webp" alt="ArtushVision AI - Manage Microstock FTP Agencies and Servers" style="width: 800px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
