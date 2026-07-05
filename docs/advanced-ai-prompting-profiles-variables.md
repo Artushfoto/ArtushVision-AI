@@ -325,12 +325,7 @@ Build a library of specialized workflows to switch between different project typ
 ---
 
 ## Need Help?
-Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html).
-
-<div id="flex-search-container">
-  <input type="text" id="flex-search-input" placeholder="Search documentation..." />
-  <ul id="flex-results-container"></ul>
-</div>
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 
