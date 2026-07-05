@@ -295,6 +295,12 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 
 ---
 
+## Need Help?
+
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
+
+---
+
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
