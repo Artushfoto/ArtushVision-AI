@@ -3,6 +3,22 @@ title: "User Reviews & Testimonials | ArtushVision AI"
 description: "See what professional photographers, stock contributors, and creators are saying about their workflow with ArtushVision AI."
 ---
 <div style="display: none;">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "ArtushVision AI",
+  "description": "AI keywording system and metadata tool for stock photography.",
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "BackyardSilver"
+    },
+    "reviewBody": "Let me say, right from the start, every AI keywording system I have looked at before didn't fit my process. This one is so flexible that it probably fits everyone's process, including mine. I think that this is a highly impressive tool for stock photography metadata and much more than a simple AI keywording generator."
+  }
+}
+</script>
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 h1 { text-align: center; }
@@ -100,16 +116,17 @@ h1 { text-align: center; }
 <div class="review-container">
 
   <!-- Review Card - Steven Heap -->
-  <div class="review-card">
+  <article class="review-card" itemscope itemtype="https://schema.org/Review">
+    <meta itemprop="itemReviewed" content="ArtushVision AI">
     <div class="review-header">
-      <div class="reviewer-info">
-        <h3>BackyardSilver</h3>
+      <div class="reviewer-info" itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <h3 itemprop="name">BackyardSilver</h3>
         <p class="reviewer-role">Professional Stock Photographer</p>
       </div>
     </div>
-    <p class="review-quote">"Let me say, right from the start, every AI keywording system I have looked at before didn't fit my process. This one is so flexible that it probably fits everyone's process, including mine. I think that this is a highly impressive tool for stock photography metadata and much more than a simple AI keywording generator."</p>
-    <a href="https://backyardsilver.com/testing-another-ai-keywording-solution-artushvision-ai/" target="_blank" class="review-link">Read Full Review &rarr;</a>
-  </div>
+    <blockquote class="review-quote" itemprop="reviewBody">"Let me say, right from the start, every AI keywording system I have looked at before didn't fit my process. This one is so flexible that it probably fits everyone's process, including mine. I think that this is a highly impressive tool for stock photography metadata and much more than a simple AI keywording generator."</blockquote>
+    <a href="https://backyardsilver.com/testing-another-ai-keywording-solution-artushvision-ai/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read the full ArtushVision AI review by BackyardSilver">Read Full Review &rarr;</a>
+  </article>
 
 </div>
 
@@ -119,8 +136,8 @@ h1 { text-align: center; }
 
 <table style="width: 100%; display: table; border-collapse: collapse;">
   <tr>
-    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html">Download Free Lite / Commercial Version</a></th>
-    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html#buy-lifetime-license">Get Lifetime License</a></th>
+    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html" title="Download ArtushVision AI Free Lite Version">Download Free Lite / Commercial Version</a></th>
+    <th style="width: 50%; text-align: center; padding: 12px;"><a href="/docs/download-purchase.html#buy-lifetime-license" title="Buy ArtushVision AI Lifetime License">Get Lifetime License</a></th>
   </tr>
   <tr>
     <td style="text-align: center; padding: 10px;"><b>Fully Functional Version</b></td>
@@ -150,6 +167,11 @@ To learn more about our commission rates and to request your custom affiliate li
 
 ---
 
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
+
+---
+
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
@@ -159,3 +181,5 @@ To learn more about our commission rates and to request your custom affiliate li
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
+
+*ArtushVision AI - Stability and precision for professional photography workflows.*
