@@ -1,5 +1,5 @@
 ---
-title: "Global Stock Distribution and Smart FTP Uploader | ArtushVision AI"
+title: "Global Microstock Distribution and Smart FTP Uploader | ArtushVision AI"
 description: "Streamline your microstock workflow with the Smart FTP Uploader. Features per-server multi-threading, automated CSV generation, and visual status tracking."
 ---
 <div style="display: none;">
@@ -143,11 +143,11 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Global Distribution and Smart FTP Uploader
+# Global Microstock Distribution and Smart FTP Uploader
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**Distribute your portfolio to dozens of stock agencies in just a few clicks. ArtushVision AI eliminates the manual work  with intelligent tracking, auto-reconnects, and dynamic CSV generation.**
+**Distribute your portfolio to dozens of stock agencies in just a few clicks. ArtushVision AI eliminates manual work with intelligent tracking, auto-reconnects, and dynamic CSV generation.**
 
 Uploading photos and videos to multiple stock agencies can be a full-time job. Dropped connections, strict rate limits, and the difficulty of tracking what was uploaded where can ruin a professional workflow. The ArtushVision AI FTP Uploader handles the heavy lifting in the background, allowing you to focus on your creative work.
 
@@ -163,7 +163,7 @@ Not all stock agencies are built the same. While some servers can handle aggress
 **Global Distribution & Smart FTP Suite**
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.png" alt="ArtushVision AI - Global Distribution & Smart FTP Suite" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-multiple-upload.png" alt="ArtushVision AI - Multi-threaded FTP Uploader for Microstock Distribution" width="100%" class="screenshot-img">
 </a>   
 <div style="height: 15px;"></div>
 
@@ -181,7 +181,7 @@ Not all stock agencies are built the same. While some servers can handle aggress
 Skip the manual spreadsheet work. The FTP module is deeply integrated with a powerful [Category Matrix](/docs/category-matrix.html) that translates your internal organization into agency-specific requirements.
 
 * **Automated CSV Upload:** Assign a specific CSV template to an FTP server. When you start an upload, the application automatically generates the required CSV file with correct agency category IDs and uploads it alongside your media.
-* **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor).
+* **Temporary File Cleanup:** Generated CSV files are automatically removed from your local drive once the upload is complete to maintain a clean workspace. (You can edit these templates in the [CSV Editor](/docs/settings-configuration-customization.html#advanced-csv-template-editor)).
 * **Agency Profiles:** Group your servers into Profiles (e.g., Exclusive Video Agencies or Main Stock Photo) to select multiple targets with a single click.
 
 ---
@@ -193,14 +193,14 @@ Click to `File` → `Settings` → `Manage FTP Servers` or Select files and Clic
 
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.jpg" target="_blank" class="screenshot-link" style="max-width: 800px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.jpg" alt="ArtushVision AI - FTP Agencies Manager" style="width: 800px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-agencies.jpg" alt="ArtushVision AI - Manage Microstock FTP Agencies and Servers" style="width: 800px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
 Click to `Add FTP` or `Double click` to FTP Agency → `Add or Update FTP Settings`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" target="_blank" class="screenshot-link" style="max-width: 600px; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" alt="ArtushVision AI - FTP Editor" style="width: 400px;" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-editor.png" alt="ArtushVision AI - FTP Upload Settings and Server Editor" style="width: 400px;" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -211,7 +211,7 @@ Click to `Add FTP` or `Double click` to FTP Agency → `Add or Update FTP Settin
 Select `FTP Agencies` and `Save Profile Group`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 800px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - FTP Custom Server Groups" style="width: 100%; max-width: 800px;" class="screenshot-img">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-group-profiles.png" alt="ArtushVision AI - Microstock FTP Custom Server Groups Configuration" style="width: 100%; max-width: 800px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
@@ -222,22 +222,22 @@ Select `FTP Agencies` and `Save Profile Group`
 Never upload the same file twice by accident. ArtushVision AI remembers the complete upload history of every asset directly within the file metadata.
 
 * **Micro-Badges in Grid:** Instantly see tiny agency badges (e.g., S for Shutterstock, A for Adobe, F for Freepik) directly on your photo thumbnails in the main grid. These badges appear automatically after a successful FTP upload, but you can also add them manually. You can simply type the name of any agency to track it, even if you don't have an FTP connection configured for it.
-* **Persistent MetadataXMP Stamping:** Whether generated automatically or entered manually, the upload history is permanentlyStatus information is written into the file's XMP/IPTC metadata. This, ensuresing your trackingupload history is preserved forever, even if you move your files to another drive or open them in another software.
+* **Persistent Metadata XMP Stamping:** Whether generated automatically or entered manually, the upload history is permanently written into the file's XMP/IPTC metadata. This ensures your tracking upload history is preserved forever, even if you move your files to another drive or open them in another software.
 * **Safeguard Logic:** A built-in protection system automatically skips files that have already been successfully uploaded to the target agency in the past.
 
 **FTP history badge in Main Grid**
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.png" alt="ArtushVision AI - FTP History Badge" style="width: 100%; max-width: 400px;" class="screenshot-img">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge.png" alt="ArtushVision AI - FTP Upload History Badges in Photo Grid" style="width: 100%; max-width: 400px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
 **FTP upload history editor**
 
-Right-Mouse-click to any image in[IMAGE: A screenshot of the main photo grid, highlighting the smain grid → `Edit FTP History (Selection)`
+Right-Mouse-click to any image in main grid → `Edit FTP History (Selection)`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 100%; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.png" alt="ArtushVision AI - FTP History Editor" style="width: 100%; max-width: 100%;" class="screenshot-img">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-badge-editor.png" alt="ArtushVision AI - Edit Microstock FTP Upload History" style="width: 100%; max-width: 100%;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
@@ -246,7 +246,7 @@ Right-Mouse-click to any image in[IMAGE: A screenshot of the main photo grid, hi
 Setup upload history → `Select or add servers, where is file already uploaded`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 400px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" alt="ArtushVision AI - Manually add FTP Badge" style="width: 100%; max-width: 400px;" class="screenshot-img">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-add-badge.png" alt="ArtushVision AI - Manually Add FTP Status Badge to File Metadata" style="width: 100%; max-width: 400px;" class="screenshot-img">
   </a>
 <div style="height: 15px;"></div>
 
@@ -265,19 +265,9 @@ Manage thousands of assets with surgical precision using the dedicated FTP filte
 Go to `Filter Toolbar` → `Advanced FTP Filter`
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.png" target="_blank" class="screenshot-link" style="margin: 0; max-width: 500px; flex: 1 1 auto;">
-    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.png" alt="ArtushVision AI - Advanced FTP filter" style="width: 100%; max-width: 500px;" class="screenshot-img">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ftp-filter.png" alt="ArtushVision AI - Advanced FTP Upload Filter for Microstock Assets" style="width: 100%; max-width: 500px;" class="screenshot-img">
   </a>
-<div style="height: 15px;"></div>ll agency micro-badges on the thumbnails and the Advanced FTP Filter dropdown.]
-
----
-
-## Three-State Workflow Filtering
-
-Manage thousands of assets with surgical precision using the dedicated FTP filters in the top bar.
-
-* **Uploaded State:** View only assets that have successfully reached a specific agency.
-* **Not Uploaded State:** Isolate files that still need to be distributed.
-* **Ignore State:** Mark specific files to be skipped for certain agencies without removing them from your project.
+<div style="height: 15px;"></div>
 
 ---
 

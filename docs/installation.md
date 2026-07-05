@@ -1,6 +1,6 @@
 ---
-title: "Download ArtushVision AI | Installer & System Requirements"
-description: "Download the latest version of ArtushVision AI for Windows. Check hardware requirements for local Ollama AI photo tagging and metadata automation."
+title: "Download ArtushVision AI v2026.001 | Windows Installer & System Requirements"
+description: "Download the latest ArtushVision AI v2026.001 for Windows. Discover hardware requirements for local Ollama AI photo tagging, offline metadata automation, and fast image processing."
 ---
 <div style="display: none;">
 <style>
@@ -143,45 +143,45 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Installation & Setup
+# Download & Install ArtushVision AI v2026.001 for Windows
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-## System Requirements
+## System Requirements for AI Image Processing
 
-To ensure smooth operation, especially when running local AI engines and multi-threaded image processing, please verify that your computer meets the following technical specifications:
+To ensure smooth operation, especially when running local AI engines and multi-threaded image processing in ArtushVision AI v2026.001, please verify that your computer meets the following technical specifications:
 
-### Minimum Requirements (Standard Tagging & Cloud AI)
+### Minimum Requirements (Standard Photo Tagging & Cloud AI)
 * **Operating System:** Windows 10 or Windows 11 (64-bit)
 * **Processor:** Intel Core i5 or AMD Ryzen 5 (4 cores minimum)
 * **Memory:** 8 GB RAM
-* **Internet:** Active connection required for Cloud AI engines and FTP uploads.
+* **Internet:** Active connection required for Cloud AI engines and automated FTP uploads.
 
 ### Recommended Requirements (Local Offline AI & Ollama Vision)
 * **Processor:** Intel Core i7 / AMD Ryzen 7 or better
-* **Memory:** 16 GB or 32 GB RAM (Crucial for running text models smoothly)
+* **Memory:** 16 GB or 32 GB RAM (Crucial for running offline text and vision models smoothly)
 * **Storage:** At least 2 GB of free disk space for Getty offline models, plus additional space for downloaded Ollama models.
-* **Graphics Card (GPU):** Dedicated NVIDIA GeForce RTX 3060 Ti, RTX 4060, or better with at least **8 GB VRAM**. CUDA support is highly recommended for hardware acceleration.
+* **Graphics Card (GPU):** Dedicated NVIDIA GeForce RTX 3060 Ti, RTX 4060, or better with at least **8 GB VRAM**. CUDA support is highly recommended for hardware acceleration in AI photo tagging.
 * **Local AI System:** Installed and active Ollama environment (see our complete [Ollama Installation Guide](/docs/ollama-installation-guide.html)).
 
 <div style="margin: 20px 0; font-size: 1.25em; font-weight: bold;">
-  <a href="/docs/download-purchase.html" style="color: #0366d6; text-decoration: none;">⬇️ Download installation files</a>
+  <a href="/docs/download-purchase.html" style="color: #0366d6; text-decoration: none;">⬇️ Download ArtushVision AI Installation Files</a>
 </div>
 
-### First Launch
-1. **Run the Application:** Locate and run `ArtushVisionAI.exe`.
-2. **License Activation:** Enter your key or continue with the **[Trial Version](/docs/free-trial-limits-and-testing.html)**.
-3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/cloud-ai-openrouter-api-setup.html) for Cloud or ensure [Ollama](/docs/ollama-installation-guide.html) is running for the [Local Model Manager](/docs/local-ai-model-manager-ollama.html#integrated-hub-browser-and-downloader).
+## First Launch & Setup Guide
+1. **Run the Application:** Locate the downloaded installer and run `ArtushVisionAI.exe`.
+2. **License Activation:** Enter your purchased license key or continue with the **[Free Trial Version](/docs/free-trial-limits-and-testing.html)**.
+3. **AI Configuration:** Enter your [OpenRouter API Key](/docs/cloud-ai-openrouter-api-setup.html) for Cloud metadata automation, or ensure [Ollama](/docs/ollama-installation-guide.html) is running for the [Local AI Model Manager](/docs/local-ai-model-manager-ollama.html#integrated-hub-browser-and-downloader).
 
 ---
 
-### Important Installation Notes
+## Important Installation & Security Notes
 
 **Windows SmartScreen Warning**
-If a "Windows protected your PC" warning appears during launch, click **More info** and then **Run anyway**. This is completely normal for newly released independent software.
+If a "Windows protected your PC" warning appears during launch, click **More info** and then **Run anyway**. This is completely normal for newly released independent Windows software.
 
-**Security & False Positives**
-Because the application is a new release and does not contain an expensive digital signature yet, some antivirus programs might flag it as a warning (False Positive). The file is 100% clean. To verify this yourself, you can upload the downloaded file directly to [VirusTotal](https://www.virustotal.com).
+**Security & Antivirus False Positives**
+Because ArtushVision AI v2026.001 is a newly released build and does not contain an expensive corporate digital signature yet, some antivirus programs might flag it as a warning (False Positive). The executable is 100% clean. To verify this yourself, upload the downloaded file directly to [VirusTotal](https://www.virustotal.com) before installation.
 
 ---
 
@@ -198,7 +198,7 @@ Because the application is a new release and does not contain an expensive digit
   </tr>
   <tr>
     <td style="text-align: center; padding: 8px; font-size: 0.9em; color: #666;">
-      One-time payment &bull; No monthly fees &bull; Payments secured via Polar.sh & Stripe
+      One-time payment &bull; No monthly subscription fees &bull; Payments secured via Polar.sh & Stripe
     </td>
   </tr>
 </table>
@@ -209,7 +209,7 @@ Because the application is a new release and does not contain an expensive digit
 
 ---
 
-### [Get Started Now]
+### Get Started with AI Metadata Automation
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 

@@ -1,6 +1,6 @@
 ---
-title: "How to Download Local AI Models via Ollama | ArtushVision AI"
-description: "Step-by-step guide to downloading, managing, and organizing local AI Vision and Text models using Ollama in ArtushVision AI."
+title: "How to Download Local AI Models via Ollama | ArtushVision AI Guide"
+description: "Step-by-step guide to downloading, managing, and organizing local AI Vision and Text models using Ollama in the ArtushVision AI Model Manager."
 ---
 <div style="display: none;">
 <style>
@@ -145,46 +145,46 @@ h1 { text-align: center; }
 
 # How to Download Local AI Models via Ollama
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu "Return to ArtushVision AI Homepage")
 
 To unlock the full potential of ArtushVision AI's **Enhanced Local AI** or **Hybrid AI** modes, you need to download the appropriate models to your computer. This guide will walk you through choosing, downloading, and organizing your local models directly through the internal Model Manager.
 
-> ⚠️ **Important Prerequisite:** Before downloading any models, you must have Ollama installed and running in the background on your computer. If you haven't set it up yet, please follow our step-by-step [Ollama Installation & Setup Guide](/docs/ollama-installation-guide.html) first.
+> ⚠️ **Important Prerequisite:** Before downloading any models, you must have Ollama installed and running in the background on your computer. If you haven't set it up yet, please follow our step-by-step [Ollama Installation & Setup Guide](/docs/ollama-installation-guide.html "Complete guide to installing Ollama for ArtushVision AI") first.
 > 
-> 💡 **Tip for Lite Version Users:** Running local models is a fantastic way to bypass cloud API constraints. To see how local models fit into your license tier, check out our [Free Trial Limits and Testing Guide](/docs/free-trial-limits-and-testing.html).
+> 💡 **Tip for Lite Version Users:** Running local models is a fantastic way to bypass cloud API constraints. To see how local models fit into your license tier, check out our [Free Trial Limits and Testing Guide](/docs/free-trial-limits-and-testing.html "Learn about ArtushVision AI Free Trial features and limits").
 
 ---
 
-## 1. Find a Model on the Ollama Website
+## 1. Find a Local AI Model on the Ollama Website
 
 First, you need to select the specific model that matches your hardware and workflow needs.
 
-* Open your web browser and navigate to the official [Ollama Library](https://ollama.com/search).
+* Open your web browser and navigate to the official [Ollama Library](https://ollama.com/search "Browse the official Ollama AI Models Library").
 * Browse or search for models. Pay close attention to the model capabilities:
-  * **Vision Models:** Required to analyze, describe, and tag images (e.g., `gemma4:e2b`, `qwen3-vl:4b`). These are critical for processing visual data and utilizing features like the [Absolute Priority AI Hint](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables).
+  * **Vision Models:** Required to analyze, describe, and tag images (e.g., `gemma4:e2b`, `qwen3-vl:4b`). These are critical for processing visual data and utilizing features like the [Absolute Priority AI Hint](/docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables "How to use Absolute Priority AI Hints").
   * **Text Models:** Used for advanced metadata formatting, translations, and structuring tag taxonomies (e.g., `qwen2.5:7b`, `deepseek-r1:7b`).
 * Once you find the desired model, copy its exact name including the parameter size tag (for example, copy `qwen3-vl:4b`, not just `qwen3-vl`).
 
 **Finding a Model on the Ollama Website**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-models-search.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-models-search.png" alt="Finding and copying the exact model name on the Ollama website library" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-models-search.png" alt="Finding local AI vision and text models for ArtushVision AI on the official Ollama website library" class="screenshot-img">
 </a>
 
 **Copying the Exact Model Name**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-model-name-copy.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-model-name-copy.png" alt="Copying the exact model name with size tags from the Ollama repository" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ollama-model-name-copy.png" alt="Copying the local AI model name and size tags from the Ollama repository for download" class="screenshot-img">
 </a>
 
 ---
 
-## 2. Open the Internal Model Manager
+## 2. Open the ArtushVision AI Model Manager
 
 * In ArtushVision AI, open the **Profile Editor**.
 * Locate the **AI Model** input field and click the **Search Icon** next to it. This will open the internal AI Model Selection window.
 
 ---
 
-## 3. Download the Model
+## 3. Download the Local AI Model
 
 * Look for the **Download New Model** section, located at the bottom of the Model Selection window.
 * Paste the exact model name you copied from the Ollama website into the text field.
@@ -192,10 +192,10 @@ First, you need to select the specific model that matches your hardware and work
 
 **Downloading Local AI Models**
 
-<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Downloading Local AI Models">
-  ArtushVision AI - Demonstration of downloading a local AI model.
+<video src="video/ai-model-downloading.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Downloading Local AI Models via Ollama">
+  ArtushVision AI - Demonstration of downloading a local AI model using the internal Model Manager.
 </video>
-<p><a href="video/ai-model-downloading.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/ai-model-downloading.mp4" target="_blank" style="font-size: 0.9em;" title="Watch full size video of ArtushVision AI model download">Open video in full size</a></p>
 
 ---
 
@@ -206,17 +206,17 @@ First, you need to select the specific model that matches your hardware and work
 * Wait until the download is fully complete. Once finished, a success message will appear, and the model will automatically populate in your list of available models.
 
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" alt="ArtushVision AI - Local model download interface showing live speed and progress" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-model-model-downloading.png" alt="ArtushVision AI internal Model Manager interface showing local AI model download progress and transfer speed" width="100%" class="screenshot-img">
 </a>
 
 ---
 
-## 5. Auto-Detection, Manual Override & Custom Notes
+## 5. Model Auto-Detection, Manual Override & Custom Notes
 
 Once a model is successfully downloaded, the Model Manager automatically categorizes and organizes it for you:
 
 ### Auto-Detection & Manual Override
-The manager automatically scans your downloaded models and categorizes them as **Text, Image** (models that can "see" images) or **Text** (language-only models), color-coding them in the grid for easy identification. If the system fails to recognize the model type automatically, you can verify the correct type on the official [Ollama website](https://ollama.com/search) and easily right-click the model in the list to configure its type **manually**.
+The manager automatically scans your downloaded models and categorizes them as **Text, Image** (models that can "see" images) or **Text** (language-only models), color-coding them in the grid for easy identification. If the system fails to recognize the model type automatically, you can verify the correct type on the official [Ollama website](https://ollama.com/search "Search Ollama AI models") and easily right-click the model in the list to configure its type **manually**.
 
 ### Adding Custom Notes
 To keep your local AI environment organized, you can assign personal performance notes to any model:
@@ -227,30 +227,36 @@ To keep your local AI environment organized, you can assign personal performance
 
 **Model Manager Grid & Custom Notes**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI - Local AI model manager grid with custom performance notes column" width="100%" class="screenshot-img">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/ai-engines/local-ai-model-management.png" alt="ArtushVision AI Local AI Model Manager grid showing custom performance notes and auto-detection features" width="100%" class="screenshot-img">
 </a>
 
 ---
 
 ## Next Steps & Related Documentation
-* **Advanced Prompting:** Now that your models are ready, learn how to maximize their accuracy using [Advanced AI Prompting & Profiles](/docs/advanced-ai-prompting-profiles-variables.html).
-* **Getty Integration:** Learn how to combine local AI text models with our [Automated Getty Mapping](/docs/advanced-ai-prompting-profiles-variables.html) to instantly match official agency taxonomies.
+* **Advanced Prompting:** Now that your models are ready, learn how to maximize their accuracy using [Advanced AI Prompting & Profiles](/docs/advanced-ai-prompting-profiles-variables.html "Guide to Advanced AI Prompting & Profiles in ArtushVision AI").
+* **Getty Integration:** Learn how to combine local AI text models with our [Automated Getty Mapping](/docs/advanced-ai-prompting-profiles-variables.html "Learn about Automated Getty Mapping integration") to instantly match official agency taxonomies.
 
 ---
 
 ### [Get Started Now]
-* [Download Free Lite Version](/docs/download-purchase.html)
-* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+* [Download Free Lite Version](/docs/download-purchase.html "Download ArtushVision AI Free Lite Version")
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license "Purchase ArtushVision AI Lifetime License")
 
 ---
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+## Need Help?
 
-[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index "Go to the Complete ArtushVision AI Documentation Index").
 
-[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+---
 
-[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu "Return to ArtushVision AI Homepage")
+
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html "Read ArtushVision AI User Reviews")
+
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html "ArtushVision AI FAQ")
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions "Join the ArtushVision AI GitHub Community Forum")
 
 ---
 

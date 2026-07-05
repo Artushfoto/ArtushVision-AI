@@ -1,6 +1,7 @@
 ---
-title: "Free Trial Limits and Testing | ArtushVision AI"
-description: "Everything you need to know about the ArtushVision AI free Lite version. Test hardware compatibility and API connections before purchasing."
+title: "ArtushVision AI Free Trial: Limits, Testing & Microstock Workflow"
+description: "Discover the ArtushVision AI Free Trial (Lite version). Test hardware compatibility, API connections, and our AI microstock metadata workflow before buying."
+keywords: "ArtushVision AI, free trial, AI microstock software, auto-tagging, image metadata generator, stock photography workflow, local AI, OpenRouter"
 ---
 <div style="display: none;">
 <style>
@@ -143,50 +144,49 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Free Trial Version (Lite)
+# ArtushVision AI Free Trial Version (Lite)
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-**We believe in complete transparency. ArtushVision AI offers a free, non-expiring Lite version so you can thoroughly test the software on your own hardware and verify your API connections before committing to a purchase.**
+**We believe in complete transparency. ArtushVision AI offers a free, non-expiring Lite version so you can thoroughly test the AI microstock keywording software on your own hardware and verify your API connections before committing to a purchase.**
 
-Because ArtushVision AI is a robust desktop application that utilizes both cloud APIs and local processing power, we strongly encourage every user to download the Trial version first. Test the workflow, ensure it fits your needs, and experience the AI generation firsthand.
+Because ArtushVision AI is a robust desktop application that utilizes both cloud APIs and local processing power, we strongly encourage every user to download the Trial version first. Test the workflow, ensure it fits your needs, and experience the automated AI image generation firsthand.
 
 ---
 
-## Why Test Before You Buy?
+## Why Test Our AI Auto-Tagging Software Before You Buy?
 
 Ensure a seamless experience by verifying your environment setup using the free Trial version.
 
 * **Hardware Compatibility:** Verify that the application runs smoothly on your operating system and that local tools (like ExifTool and FFmpeg) execute correctly on your machine.
-* **API Configuration:** Test your connection to <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter (Cloud AI)</a> or your local <a href="/docs/ollama-installation-guide.html">Ollama installation (Local AI)</a> to ensure prompts and models respond as expected.
+* **API Configuration:** Test your connection to <a href="/docs/cloud-ai-openrouter-api-setup.html">OpenRouter (Cloud AI)</a> or your local <a href="/docs/ollama-installation-guide.html">Ollama installation (Local AI)</a> to ensure prompts and models respond as expected for image metadata generation.
 * **Workflow Integration:** Experiment with the <a href="/docs/settings-configuration-customization.html#the-category-matrix">Category Matrix</a>, <a href="/docs/global-stock-distribution-ftp.html#agency-profiles-and-server-groups">FTP Profiles</a>, and CSV generation to confirm the software perfectly aligns with your specific microstock distribution needs.
 * **Test It First:** While thoroughly tested internally, some bugs might still slip through. **Any discovered issues will be patched as a top priority.**
 
 ---
 
-## Trial Version Limitations
+## Free Trial Version Limitations & Features
 
 The Trial version contains **no time limits** and grants access to all premium features, meaning you can use it forever. However, it enforces strict per-session usage limits to prevent commercial abuse. 
 
 To reset the limits, you must restart the application.
 
-* **AI Generation Limit:** You can process a maximum of **3 photos or videos** using the AI (Cloud, Local, or Hybrid) per application run.
-* **Metadata Saving Limit:** You can save metadata changes to a maximum of **10 unique files** per application run.
-* **FTP Upload Limit:** Limited to **5 unique assets** via the <a href="/docs/global-stock-distribution-ftp.html">FTP Uploader</a> per application run. You can distribute these 5 files to as many agencies and in as many batches as you like.
-
-* **Getty Optimizer Limit:** You can optimize and translate keywords for a maximum of **3 unique assets** via the <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Optimizer</a> per application run.
+* **AI Generation Limit:** You can process a maximum of **3 photos or videos** using our AI metadata generator (Cloud, Local, or Hybrid) per application run.
+* **Metadata Saving Limit:** You can save EXIF/IPTC metadata changes to a maximum of **10 unique files** per application run.
+* **FTP Upload Limit:** Limited to **5 unique assets** via the <a href="/docs/global-stock-distribution-ftp.html">FTP Uploader</a> per application run. You can distribute these 5 files to as many stock photography agencies and in as many batches as you like.
+* **Getty Optimizer Limit:** You can optimize and translate keywords for a maximum of **3 unique assets** via the <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images ESP Optimizer</a> per application run.
 
 If you select a larger batch of photos than the limit allows, the application will intelligently offer to process only the permitted amount so you do not lose your work.
 
-***NOTE***: *Run Without Limits: You can run the application indefinitely with absolutely no usage caps. If ArtushVision AI ends up saving you valuable time and money, consider purchasing a full license to unlock its peak potential and support further development.*
+***NOTE***: *Run Without Limits: You can run the application indefinitely with absolutely no usage caps. If ArtushVision AI ends up saving you valuable time and money in your microstock workflow, consider purchasing a full license to unlock its peak potential and support further development.*
 
 ---
 
-## Upgrading to the PRO Version
+## Upgrading to ArtushVision AI PRO
 
 Once you have verified that ArtushVision AI meets your professional standards, you can unlock unlimited processing instantly.
 
-* **Lifetime License:** The PRO version is sold as a one-time purchase lifetime license. No hidden subscriptions.
+* **Lifetime License:** The PRO version is sold as a one-time purchase lifetime license for microstock contributors. No hidden subscriptions.
 * **Instant Activation:** Purchase your license key on our website and enter it via **License > Activate License** in the top menu. The application will instantly remove all session limits without requiring a reinstallation.
 
 ---
@@ -194,6 +194,12 @@ Once you have verified that ArtushVision AI meets your professional standards, y
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
 
