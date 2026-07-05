@@ -1,89 +1,181 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 841.89 210.47">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
   <defs>
-    <linearGradient id="dash-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0e14" />
-      <stop offset="100%" stop-color="#161b26" />
-    </linearGradient>
     <style>
-      .brand-t { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 800; font-size: 38px; fill: #ffffff; }
-      .brand-s { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 400; font-size: 15px; fill: #8b949e; }
-      .card-title { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 13px; fill: #ffffff; }
-      .card-desc { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 400; font-size: 11px; fill: #8b949e; }
-      .pill-t { font-family: monospace; font-size: 10px; font-weight: bold; fill: #ffffff; }
+      .st0 {
+        fill: #2da44e;
+      }
+
+      .st0, .st1, .st2 {
+        font-size: 7.72px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        isolation: isolate;
+      }
+
+      .st0, .st2, .st3, .st4, .st5 {
+        font-family: Arial-BoldMT, Arial;
+      }
+
+      .st0, .st2, .st3, .st4, .st5, .st6 {
+        font-weight: 700;
+      }
+
+      .st8 {
+        fill: #2ea043;
+      }
+
+      .st1, .st7 {
+        fill: #8b949e;
+        font-family: ArialMT, Arial;
+      }
+
+      .st9 {
+        fill: #b07219;
+      }
+
+      .st10 {
+        fill-opacity: .2;
+        stroke: #1f6feb;
+        stroke-width: 1.05px;
+      }
+
+      .st10, .st11 {
+        fill: #1f6feb;
+      }
+
+      .st10, .st12, .st13, .st14 {
+        stroke-miterlimit: 2.81;
+      }
+
+      .st2, .st15 {
+        fill: #f85149;
+      }
+
+      .st16 {
+        fill: #8a2be2;
+      }
+
+      .st17 {
+        fill: #d29922;
+      }
+
+      .st3 {
+        font-size: 26.66px;
+      }
+
+      .st3, .st4, .st5, .st6 {
+        fill: #fff;
+      }
+
+      .st12 {
+        fill: #da3633;
+        fill-opacity: .1;
+        stroke: #f85149;
+      }
+
+      .st12, .st13 {
+        stroke-width: .35px;
+      }
+
+      .st4 {
+        font-size: 9.12px;
+      }
+
+      .st5 {
+        font-size: 9.82px;
+      }
+
+      .st6 {
+        font-family: CourierNewPS-BoldMT, 'Courier New';
+        font-size: 7.02px;
+      }
+
+      .st13 {
+        fill-opacity: .15;
+        stroke: #238636;
+      }
+
+      .st13, .st18 {
+        fill: #238636;
+      }
+
+      .st7 {
+        font-size: 10.52px;
+      }
+
+      .st19 {
+        fill: #253544;
+      }
+
+      .st15 {
+        fill-opacity: .8;
+      }
+
+      .st14 {
+        fill: #101420;
+        stroke: #30363d;
+        stroke-width: .7px;
+      }
     </style>
   </defs>
-
-  <!-- Pozadí banneru -->
-  <rect width="1200" height="300" fill="url(#dash-bg)" />
-  
-  <!-- LEVÝ BLOK: Silný Branding + Přidané soukromí -->
-  <g transform="translate(60, 85)">
-    <text x="0" y="0" class="brand-t">ArtushVision AI</text>
-    <text x="0" y="28" class="brand-s">Smart Tagging. Total Control.</text>
-    <text x="0" y="48" class="brand-s" fill="#58a6ff">100% Offline Privacy for Personal &amp; Family Archives.</text>
-    
-    <!-- Licenční a bezpečnostní štítky vedle sebe -->
-    <g transform="translate(0, 70)">
-      <!-- Štítek 1: Licence -->
-      <g transform="translate(0, 0)">
-        <rect width="130" height="22" rx="4" fill="#238636" fill-opacity="0.15" stroke="#238636" stroke-width="0.5" />
-        <text x="12" y="15" font-family="sans-serif" font-size="11" font-weight="600" fill="#2da44e">Perpetual License</text>
+  <rect class="st19" width="841.89" height="210.47"/>
+  <g>
+    <text class="st3" transform="translate(42.09 59.63)"><tspan x="0" y="0">ArtushVision AI</tspan></text>
+    <text class="st7" transform="translate(42.09 79.28)"><tspan x="0" y="0">Smart Tagging. Total Control.</tspan></text>
+    <text class="st7" transform="translate(42.09 93.31)"><tspan x="0" y="0">100% Offline Privacy for Personal &amp; Family Archives.</tspan></text>
+    <g>
+      <g>
+        <rect class="st13" x="42.09" y="108.74" width="91.2" height="15.43" rx="2.81" ry="2.81"/>
+        <text class="st0" transform="translate(50.51 119.27)"><tspan x="0" y="0">Perpetual License</tspan></text>
       </g>
-      
-      <!-- Štítek 2: 100% Private -->
-      <g transform="translate(140, 0)">
-        <rect width="120" height="22" rx="4" fill="#da3633" fill-opacity="0.1" stroke="#f85149" stroke-width="0.5" />
-        <path d="M 12 7 L 12 9 L 10 9 L 10 16 L 16 16 L 16 9 L 14 9 L 14 7 A 1 1 0 0 0 12 7 Z" fill="#f85149" fill-opacity="0.8"/>
-        <text x="24" y="15" font-family="sans-serif" font-size="11" font-weight="600" fill="#f85149">100% Private</text>
+      <g>
+        <rect class="st12" x="140.31" y="108.74" width="84.19" height="15.43" rx="2.81" ry="2.81"/>
+        <path class="st15" d="M148.73,113.66v1.4h-1.4v4.91h4.21v-4.91h-1.4v-1.4c0-.39-.31-.7-.7-.7s-.7.31-.7.7Z"/>
+        <text class="st2" transform="translate(157.15 119.27)"><tspan x="0" y="0">100% Private</tspan></text>
       </g>
     </g>
-
-    <!-- Tlačítko -->
-    <g transform="translate(0, 115)">
-      <rect width="210" height="40" rx="20" fill="#1f6feb" fill-opacity="0.2" stroke="#1f6feb" stroke-width="1.5" />
-      <text x="28" y="24" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Try ArtushVision AI Free</text>
+    <g>
+      <path class="st10" d="M56.13,140.31h119.27c7.75,0,14.03,6.28,14.03,14.03h0c0,7.75-6.28,14.03-14.03,14.03H56.13c-7.75,0-14.03-6.28-14.03-14.03h0c0-7.75,6.28-14.03,14.03-14.03Z"/>
+      <text class="st5" transform="translate(61.74 157.15)"><tspan x="0" y="0">Try ArtushVision AI Free</tspan></text>
     </g>
   </g>
-
-  <!-- PRAVÝ BLOK: 2x2 Matice s upravenými texty funkcí -->
-  
-  <!-- Karta 1: Getty ESP (Zelená) -->
-  <g transform="translate(620, 45)">
-    <rect width="240" height="95" rx="6" fill="#101420" stroke="#30363d" stroke-width="1" />
-    <path d="M 0 6 L 0 89 A 6 6 0 0 0 6 95 L 6 0 A 6 6 0 0 0 0 6" fill="#2ea043" />
-    <text x="20" y="28" class="card-title">Getty Images ESP Optimizer</text>
-    <text x="20" y="48" class="card-desc">Validate instantly against 9,867+ terms.</text>
-    <text x="20" y="64" class="card-desc">Batch AI optimization for high acceptance.</text>
-    <rect x="20" y="74" width="75" height="14" rx="3" fill="#238636" /><text x="26" y="84" class="pill-t">ZERO ERRORS</text>
+  <g>
+    <rect class="st14" x="434.98" y="31.57" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+    <path class="st8" d="M434.98,35.78v58.23c0,2.32,1.88,4.21,4.21,4.21V31.57c-2.32,0-4.21,1.88-4.21,4.21"/>
+    <text class="st4" transform="translate(449.01 51.21)"><tspan x="0" y="0">Getty Images ESP Optimizer</tspan></text>
+    <text class="st1" transform="translate(449.01 65.25)"><tspan x="0" y="0">Validate instantly against 9,867+ terms.</tspan></text>
+    <text class="st1" transform="translate(449.01 76.47)"><tspan x="0" y="0">Batch AI optimization for high acceptance.</tspan></text>
+    <rect class="st18" x="449.01" y="83.49" width="52.62" height="9.82" rx="2.1" ry="2.1"/>
+    <text class="st6" transform="translate(453.22 90.5)"><tspan x="0" y="0">ZERO ERRORS</tspan></text>
   </g>
-
-  <!-- Karta 2: Dual AI Engine (Fialová) -->
-  <g transform="translate(890, 45)">
-    <rect width="240" height="95" rx="6" fill="#101420" stroke="#30363d" stroke-width="1" />
-    <path d="M 0 6 L 0 89 A 6 6 0 0 0 6 95 L 6 0 A 6 6 0 0 0 0 6" fill="#8a2be2" />
-    <text x="20" y="28" class="card-title">Dual AI &amp; Privacy Engine</text>
-    <text x="20" y="48" class="card-desc">Ultra-fast Cloud AI or 100% Local AI.</text>
-    <text x="20" y="64" class="card-desc">Offline mode with zero cloud logging.</text>
-    <rect x="20" y="74" width="95" height="14" rx="3" fill="#8a2be2" /><text x="26" y="84" class="pill-t">100% OFFLINE</text>
+  <g>
+    <rect class="st14" x="624.4" y="31.57" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+    <path class="st16" d="M624.4,35.78v58.23c0,2.32,1.88,4.21,4.21,4.21V31.57c-2.32,0-4.21,1.88-4.21,4.21"/>
+    <text class="st4" transform="translate(638.43 51.21)"><tspan x="0" y="0">Dual AI &amp; Privacy Engine</tspan></text>
+    <text class="st1" transform="translate(638.43 65.25)"><tspan x="0" y="0">Ultra-fast Cloud AI or 100% Local AI.</tspan></text>
+    <text class="st1" transform="translate(638.43 76.47)"><tspan x="0" y="0">Offline mode with zero cloud logging.</tspan></text>
+    <rect class="st16" x="638.43" y="83.49" width="66.65" height="9.82" rx="2.1" ry="2.1"/>
+    <text class="st6" transform="translate(642.64 90.5)"><tspan x="0" y="0">100% OFFLINE</tspan></text>
   </g>
-
-  <!-- Karta 3: Advanced Keywording & Lightroom Fix (Modrá) -->
-  <g transform="translate(620, 160)">
-    <rect width="240" height="95" rx="6" fill="#101420" stroke="#30363d" stroke-width="1" />
-    <path d="M 0 6 L 0 89 A 6 6 0 0 0 6 95 L 6 0 A 6 6 0 0 0 0 6" fill="#1f6feb" />
-    <text x="20" y="28" class="card-title">Advanced Manual Keywording</text>
-    <text x="20" y="48" class="card-desc">Drag &amp; drop reorder, synonyms lookup.</text>
-    <text x="20" y="64" class="card-desc">Restore custom tag order after LR export.</text>
-    <rect x="20" y="74" width="95" height="14" rx="3" fill="#1f6feb" /><text x="26" y="84" class="pill-t">LIGHTROOM FIX</text>
+  <g>
+    <rect class="st14" x="434.98" y="112.25" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+    <path class="st11" d="M434.98,116.46v58.23c0,2.32,1.88,4.21,4.21,4.21v-66.65c-2.32,0-4.21,1.88-4.21,4.21"/>
+    <text class="st4" transform="translate(449.01 131.9)"><tspan x="0" y="0">Advanced Manual Keywording</tspan></text>
+    <text class="st1" transform="translate(449.01 145.93)"><tspan x="0" y="0">Drag &amp; drop reorder, synonyms lookup.</tspan></text>
+    <text class="st1" transform="translate(449.01 157.15)"><tspan x="0" y="0">Restore custom tag order after LR export.</tspan></text>
+    <rect class="st11" x="449.01" y="164.17" width="66.65" height="9.82" rx="2.1" ry="2.1"/>
+    <text class="st6" transform="translate(453.22 171.18)"><tspan x="0" y="0">LIGHTROOM FIX</tspan></text>
   </g>
-
-  <!-- Karta 4: Distribution & Mapping (Oranžová) -->
-  <g transform="translate(890, 160)">
-    <rect width="240" height="95" rx="6" fill="#101420" stroke="#30363d" stroke-width="1" />
-    <path d="M 0 6 L 0 89 A 6 6 0 0 0 6 95 L 6 0 A 6 6 0 0 0 0 6" fill="#d29922" />
-    <text x="20" y="28" class="card-title">Smart FTP &amp; CSV Distribution</text>
-    <text x="20" y="48" class="card-desc">Simultaneous uploads to stock agencies.</text>
-    <text x="20" y="64" class="card-desc">Custom category matrix for Photo &amp; Video.</text>
-    <rect x="20" y="74" width="85" height="14" rx="3" fill="#b07219" /><text x="26" y="84" class="pill-t">MULTI-AGENCY</text>
+  <g>
+    <rect class="st14" x="624.4" y="112.25" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+    <path class="st17" d="M624.4,116.46v58.23c0,2.32,1.88,4.21,4.21,4.21v-66.65c-2.32,0-4.21,1.88-4.21,4.21"/>
+    <text class="st4" transform="translate(638.43 131.9)"><tspan x="0" y="0">Smart FTP &amp; CSV Distribution</tspan></text>
+    <text class="st1" transform="translate(638.43 145.93)"><tspan x="0" y="0">Simultaneous uploads to stock agencies.</tspan></text>
+    <text class="st1" transform="translate(638.43 157.15)"><tspan x="0" y="0">Custom category matrix for Photo &amp; Video.</tspan></text>
+    <rect class="st9" x="638.43" y="164.17" width="59.63" height="9.82" rx="2.1" ry="2.1"/>
+    <text class="st6" transform="translate(642.64 171.18)"><tspan x="0" y="0">MULTI-AGENCY</tspan></text>
   </g>
 </svg>
