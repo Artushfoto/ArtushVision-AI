@@ -239,9 +239,8 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
-<!-- CELÝ SVG OBRÁZEK JE NYNÍ ODKAZEM NA STAŽENÍ -->
 <a href="/docs/download-purchase.html" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="100%" class="screenshot-img" />
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="1200" height="600" class="screenshot-img" />
 </a>
 
 ---
@@ -253,7 +252,6 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
       Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
     </blockquote>
     
-    <!-- TLAČÍTKA HNED POD ÚVODNÍM TEXTEM (ROZLOŽENÁ VEDLE SEBE) -->
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
       <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
       <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
@@ -262,7 +260,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   </div>
   <div class="hero-image">
     <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
-      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" class="screenshot-img" />
+      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" loading="lazy" class="screenshot-img" />
     </a>
   </div>
 </div>
@@ -334,7 +332,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 **ArtushVision AI Main Grid Workspace**
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="100%" class="screenshot-img" loading="lazy" />
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="3066" height="1885" class="screenshot-img" loading="lazy" />
 </a>
 
 ---
@@ -350,18 +348,13 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 ---
 
-| Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
-| :--- | :--- | :--- |
-| **Media Privacy** | Mandatory Cloud Upload | 🔒 **100% Private (Local AI via Ollama)** or Thumbnail-only modes |
-| **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, webp, HEIC** |
-| **Pricing Model** | Recurring Subscriptions / Credits | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | High-tier monthly plans | **~$6** using Gemini Flash or **Free** utilizing Local AI |
+> **Exceptional Value:** Describe up to **10,000 photos for only $6** with perfect, high-quality results.
+> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
 ---
 
 ## Complete Documentation Index
 
-<!-- VYHLEDÁVAČ ROZBALENÝ POD NADPISEM A ZAROVNANÝ DOLEVA -->
 <div id="flex-search-container">
   <input type="text" id="flex-search-input" placeholder="Search documentation..." />
   <ul id="flex-results-container"></ul>
@@ -398,7 +391,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 ---
 
-### [Get Started Now]
+### Get Started Now
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
