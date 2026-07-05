@@ -235,6 +235,8 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 </style>
 </div>
 
+<main>
+
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
 <!-- CELÝ SVG OBRÁZEK JE NYNÍ ODKAZEM NA STAŽENÍ -->
@@ -348,8 +350,12 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 ---
 
-> **Exceptional Value:** Describe up to **10,000 photos for only $6** with perfect, high-quality results.
-> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
+| Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
+| :--- | :--- | :--- |
+| **Media Privacy** | Mandatory Cloud Upload | 🔒 **100% Private (Local AI via Ollama)** or Thumbnail-only modes |
+| **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, webp, HEIC** |
+| **Pricing Model** | Recurring Subscriptions / Credits | **Perpetual License ($39.99)** |
+| **Cost (10,000 Photos)** | High-tier monthly plans | **~$6** using Gemini Flash or **Free** utilizing Local AI |
 
 ---
 
@@ -409,6 +415,8 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+
+</main>
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 <script>
