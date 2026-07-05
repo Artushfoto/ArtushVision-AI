@@ -1,4 +1,4 @@
----
+webp---
 title: "Settings and Configuration Guide | ArtushVision AI Documentation"
 description: "Customize ArtushVision AI to your specific professional needs. Learn about workspace customization, CSV template editing, category matrix mapping, and geocoding settings."
 ---

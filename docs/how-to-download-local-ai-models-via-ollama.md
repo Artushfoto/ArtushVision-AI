@@ -1,4 +1,4 @@
----
+webp---
 title: "How to Download Local AI Models via Ollama | ArtushVision AI Guide"
 description: "Step-by-step guide to downloading, managing, and organizing local AI Vision and Text models using Ollama in the ArtushVision AI Model Manager."
 ---

@@ -113,7 +113,7 @@ The Lite version is a fully functional "<a href="/docs/free-trial-limits-and-tes
 ArtushVision AI supports professional standards including:
 </p>
 <ul>
-  <li><b>Images:</b> JPG, RAW (CR2, NEF, ARW, etc.), TIFF, PNG, HEIC, WEBP.</li>
+  <li><b>Images:</b> JPG, RAW (CR2, NEF, ARW, etc.), TIFF, webp, HEIC, WEBP.</li>
   <li><b>Video:</b> MP4, MOV, AVI, MKV.</li>
 </ul>
 </details>

@@ -1,4 +1,4 @@
----
+webp---
 title: "Global Microstock Distribution and Smart FTP Uploader | ArtushVision AI"
 description: "Streamline your microstock workflow with the Smart FTP Uploader. Features per-server multi-threading, automated CSV generation, and visual status tracking."
 ---

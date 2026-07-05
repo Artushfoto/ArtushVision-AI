@@ -1,4 +1,4 @@
----
+webp---
 title: "Advanced AI Prompting and Profile Editor | ArtushVision AI Documentation"
 description: "Complete technical reference for AI variables and professional prompting in ArtushVision AI. Master dynamic EXIF, GPS, and metadata injection."
 ---
