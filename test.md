@@ -237,11 +237,120 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <main>
 
-<div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto;">
-  <object type="image/svg+xml" data="/artushvision.svg" width="1200" height="600" style="width: 100%; height: auto; display: block; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); pointer-events: auto !important;">
-    <img src="artushvision.svg" alt="ArtushVision AI Software Features - Smart Microstock Tagging" />
-  </object>
+<h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
+
+<div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); overflow: hidden;">
+  <svg id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 841.89 210.47" style="width: 100%; height: auto; display: block;">
+    <defs>
+      <style>
+        .st0 { fill: #2da44e; }
+        .st0, .st1, .st2 { font-size: 7.72px; }
+        .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 { isolation: isolate; }
+        .st0, .st2, .st3, .st4, .st5 { font-family: Arial-BoldMT, Arial; }
+        .st0, .st2, .st3, .st4, .st5, .st6 { font-weight: 700; }
+        .st8 { fill: #2ea043; }
+        .st1, .st7 { fill: #8b949e; font-family: ArialMT, Arial; }
+        .st9 { fill: #b07219; }
+        .st10 { fill: #2c3e50; stroke: #30363d; stroke-width: .7px; }
+        .st10, .st11, .st12, .st13 { stroke-miterlimit: 2.81; }
+        .st11 { fill-opacity: .2; stroke: #1f6feb; stroke-width: 1.05px; }
+        .st11, .st14 { fill: #1f6feb; }
+        .st2, .st15 { fill: #f85149; }
+        .st16 { fill: #8a2be2; }
+        .st17 { fill: #d29922; }
+        .st3 { font-size: 26.66px; }
+        .st3, .st4, .st5, .st6 { fill: #fff; }
+        .st12 { fill: #da3633; fill-opacity: .1; stroke: #f85149; }
+        .st12, .st13 { stroke-width: .35px; }
+        .st4 { font-size: 9.12px; }
+        .st5 { font-size: 9.82px; }
+        .st6 { font-family: CourierNewPS-BoldMT, 'Courier New'; font-size: 7.02px; }
+        .st13 { fill-opacity: .15; stroke: #238636; }
+        .st13, .st18 { fill: #238636; }
+        .st7 { font-size: 10.52px; }
+        .st19 { fill: #253544; }
+        .st15 { fill-opacity: .8; }
+        
+        .clickable-card { cursor: pointer; transition: opacity 0.2s; }
+        .clickable-card:hover { opacity: 0.95; }
+      </style>
+    </defs>
+    <rect class="st19" width="841.89" height="210.47"/>
+    <g>
+      <text class="st3" transform="translate(42.09 59.63)"><tspan x="0" y="0">ArtushVision AI</tspan></text>
+      <text class="st7" transform="translate(42.09 79.28)"><tspan x="0" y="0">Smart Microstock Tagging. Total Control.</tspan></text>
+      <text class="st7" transform="translate(42.09 93.31)"><tspan x="0" y="0">100% Offline Privacy for Personal &amp; Family Archives.</tspan></text>
+      <g>
+        <g>
+          <rect class="st13" x="42.09" y="108.74" width="91.2" height="15.43" rx="2.81" ry="2.81"/>
+          <text class="st0" transform="translate(50.51 119.27)"><tspan x="0" y="0">Perpetual License</tspan></text>
+        </g>
+        <g>
+          <rect class="st12" x="140.31" y="108.74" width="84.19" height="15.43" rx="2.81" ry="2.81"/>
+          <path class="st15" d="M148.73,113.66v1.4h-1.4v4.91h4.21v-4.91h-1.4v-1.4c0-.39-.31-.7-.7-.7s-.7.31-.7.7ZM148.73,113.66v1.4h-1.4v4.91h4.21v-4.91h-1.4v-1.4c0-.39-.31-.7-.7-.7s-.7.31-.7.7Z"/>
+          <text class="st2" transform="translate(157.15 119.27)"><tspan x="0" y="0">100% Private</tspan></text>
+        </g>
+      </g>
+      
+      <a xlink:href="/docs/download-purchase.html" class="clickable-card">
+        <g>
+          <path class="st11" d="M56.13,140.31h119.27c7.75,0,14.03,6.28,14.03,14.03h0c0,7.75-6.28,14.03-14.03,14.03H56.13c-7.75,0-14.03-6.28-14.03-14.03h0c0-7.75,6.28-14.03,14.03-14.03Z"/>
+          <text class="st5" transform="translate(61.74 157.15)"><tspan x="0" y="0">Try ArtushVision AI Free</tspan></text>
+        </g>
+      </a>
+    </g>
+    
+    <a xlink:href="/docs/getty-images-esp-metadata-optimizer.html" class="clickable-card">
+      <g>
+        <rect class="st10" x="434.98" y="31.57" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+        <path class="st8" d="M434.98,35.78v58.23c0,2.32,1.88,4.21,4.21,4.21V31.57c-2.32,0-4.21,1.88-4.21,4.21"/>
+        <text class="st4" transform="translate(449.01 51.21)"><tspan x="0" y="0">Getty Images ESP Optimizer</tspan></text>
+        <text class="st1" transform="translate(449.01 65.25)"><tspan x="0" y="0">Validate instantly against 9,867+ terms.</tspan></text>
+        <text class="st1" transform="translate(449.01 76.47)"><tspan x="0" y="0">Batch AI optimization for high acceptance.</tspan></text>
+        <rect class="st18" x="449.01" y="83.49" width="52.62" height="9.82" rx="2.1" ry="2.1"/>
+        <text class="st6" transform="translate(453.22 90.5)"><tspan x="0" y="0">ZERO ERRORS</tspan></text>
+      </g>
+    </a>
+
+    <a xlink:href="/docs/ai-metadata-generation-cloud-local-ollama.html" class="clickable-card">
+      <g>
+        <rect class="st10" x="624.4" y="31.57" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+        <path class="st16" d="M624.4,35.78v58.23c0,2.32,1.88,4.21,4.21,4.21V31.57c-2.32,0-4.21,1.88-4.21,4.21"/>
+        <text class="st4" transform="translate(638.43 51.21)"><tspan x="0" y="0">Dual AI &amp; Privacy Engine</tspan></text>
+        <text class="st1" transform="translate(638.43 65.25)"><tspan x="0" y="0">Ultra-fast Cloud AI or 100% Local AI.</tspan></text>
+        <text class="st1" transform="translate(638.43 76.47)"><tspan x="0" y="0">Offline mode with zero cloud logging.</tspan></text>
+        <rect class="st16" x="638.43" y="83.49" width="66.65" height="9.82" rx="2.1" ry="2.1"/>
+        <text class="st6" transform="translate(642.64 90.5)"><tspan x="0" y="0">100% OFFLINE</tspan></text>
+      </g>
+    </a>
+
+    <a xlink:href="/docs/smart-manual-keywording-batch-editing.html" class="clickable-card">
+      <g>
+        <rect class="st10" x="434.98" y="112.25" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+        <path class="st14" d="M434.98,116.46v58.23c0,2.32,1.88,4.21,4.21,4.21v-66.65c-2.32,0-4.21,1.88-4.21,4.21"/>
+        <text class="st4" transform="translate(449.01 131.9)"><tspan x="0" y="0">Advanced Manual Keywording</tspan></text>
+        <text class="st1" transform="translate(449.01 145.93)"><tspan x="0" y="0">Drag &amp; drop reorder, synonyms lookup.</tspan></text>
+        <text class="st1" transform="translate(449.01 157.15)"><tspan x="0" y="0">Restore custom tag order after LR export.</tspan></text>
+        <rect class="st14" x="449.01" y="164.17" width="66.65" height="9.82" rx="2.1" ry="2.1"/>
+        <text class="st6" transform="translate(453.22 171.18)"><tspan x="0" y="0">LIGHTROOM FIX</tspan></text>
+      </g>
+    </a>
+
+    <a xlink:href="/docs/global-stock-distribution-ftp.html" class="clickable-card">
+      <g>
+        <rect class="st10" x="624.4" y="112.25" width="168.38" height="66.65" rx="4.21" ry="4.21"/>
+        <path class="st17" d="M624.4,116.46v58.23c0,2.32,1.88,4.21,4.21,4.21v-66.65c-2.32,0-4.21,1.88-4.21,4.21"/>
+        <text class="st4" transform="translate(638.43 131.9)"><tspan x="0" y="0">Smart FTP &amp; CSV Distribution</tspan></text>
+        <text class="st1" transform="translate(638.43 145.93)"><tspan x="0" y="0">Simultaneous uploads to stock agencies.</tspan></text>
+        <text class="st1" transform="translate(638.43 157.15)"><tspan x="0" y="0">Custom category matrix for Photo &amp; Video.</tspan></text>
+        <rect class="st9" x="638.43" y="164.17" width="59.63" height="9.82" rx="2.1" ry="2.1"/>
+        <text class="st6" transform="translate(642.64 171.18)"><tspan x="0" y="0">MULTI-AGENCY</tspan></text>
+      </g>
+    </a>
+  </svg>
 </div>
+
+<hr>
 
 <hr>
 
