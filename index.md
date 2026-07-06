@@ -457,38 +457,58 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 </main>
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   var searchInput = document.getElementById('flex-search-input');
   var resultsContainer = document.getElementById('flex-results-container');
   var indexTitle, indexContent;
   var documentsMap = {};
+  var isIndexLoaded = false; // Pojistka, aby se index nestahoval po každém kliknutí znovu
 
   if (!searchInput || !resultsContainer) return;
 
-  indexTitle = new FlexSearch.Index({ tokenize: "forward", resolution: 9, depth: 1 });
-  indexContent = new FlexSearch.Index({ tokenize: "forward", resolution: 5, depth: 1 });
+  // Funkce, která asynchronně stáhne a sestaví index až při interakci
+  function loadSearchIndex() {
+    if (isIndexLoaded) return;
+    isIndexLoaded = true; // Označíme, že stahování již začalo
 
-  fetch('/search.json')
-    .then(response => response.json())
-    .then(data => {
-      data.forEach((item, index) => {
-        var id = index;
-        documentsMap[id] = { title: item.title, url: item.url };
-        indexTitle.add(id, item.title);
-        indexContent.add(id, item.content || "");
-      });
-    })
-    .catch(err => console.error("Search index compilation failed:", err));
+    indexTitle = new FlexSearch.Index({ tokenize: "forward", resolution: 9, depth: 1 });
+    indexContent = new FlexSearch.Index({ tokenize: "forward", resolution: 5, depth: 1 });
 
+    fetch('/search.json')
+      .then(response => response.json())
+      .then(data => {
+        data.forEach((item, index) => {
+          var id = index;
+          documentsMap[id] = { title: item.title, url: item.url };
+          indexTitle.add(id, item.title);
+          indexContent.add(id, item.content || "");
+        });
+        // Pokud uživatel už stihl něco napsat během stahování, rovnou vyhledáme výsledky
+        executeSearch();
+      })
+      .catch(err => console.error("Search index compilation failed:", err));
+  }
+
+  // Spustíme stahování indexu až ve chvíli, kdy uživatel klikne do políčka nebo do něj najede
+  searchInput.addEventListener('focus', loadSearchIndex);
   searchInput.addEventListener('input', function() {
-    var query = this.value.trim();
+    loadSearchIndex(); // Pojistka, pokud by začal rovnou psát bez předchozího kliku
+    executeSearch();
+  });
+
+  function executeSearch() {
+    var query = searchInput.value.trim();
     resultsContainer.innerHTML = '';
     
     if (query.length < 2) {
       resultsContainer.style.display = 'none';
       return;
     }
+
+    // Pokud se index ještě stahuje, počkáme a nevyhledáváme
+    if (!indexTitle || !indexContent) return;
 
     var titleResults = indexTitle.search(query, { limit: 10 });
     var contentResults = indexContent.search(query, { limit: 10 });
@@ -513,7 +533,7 @@ document.addEventListener("DOMContentLoaded", function() {
       resultsContainer.innerHTML = '<div class="no-results-msg">No documentation pages found</div>';
       resultsContainer.style.display = 'block';
     }
-  });
+  }
 
   document.addEventListener('click', function(e) {
     if (e.target !== searchInput && e.target !== resultsContainer) {
