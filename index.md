@@ -239,7 +239,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
-<!-- Interaktivní vložení zdrojového SVG pomocí elementu <object> pro zachování funkčnosti vnitřních odkazů -->
+<!-- Správný kontejner bez obalujícího tagu <a>, který zachovává funkčnost vnitřních odkazů v SVG souboru -->
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto;">
   <object type="image/svg+xml" data="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" width="1200" height="600" style="width: 100%; height: auto; display: block; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
     <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features - Smart Microstock Tagging" />
