@@ -147,7 +147,7 @@ h1 { text-align: center; }
     <div class="review-header">
       <div class="reviewer-info" itemprop="author" itemscope itemtype="https://schema.org/Person">
         <h3 itemprop="name">Steven Heap (BackyardSilver)</h3>
-        <p class="reviewer-role">Professional Stock Photographer</p>
+        <p class="reviewer-role">Professional Stock Photographer & Blogger</p>
       </div>
     </div>
     <blockquote class="review-quote" itemprop="reviewBody">"Let me say, right from the start, every AI keywording system I have looked at before didn't fit my process. This one is so flexible that it probably fits everyone's process, including mine. I think that this is a highly impressive tool for stock photography metadata and much more than a simple AI keywording generator."</blockquote>
