@@ -281,15 +281,20 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
       <text class="st7" transform="translate(42.09 79.28)"><tspan x="0" y="0">Smart Microstock Tagging. Total Control.</tspan></text>
       <text class="st7" transform="translate(42.09 93.31)"><tspan x="0" y="0">100% Offline Privacy for Personal &amp; Family Archives.</tspan></text>
       <g>
-        <g>
-          <rect class="st13" x="42.09" y="108.74" width="91.2" height="15.43" rx="2.81" ry="2.81"/>
-          <text class="st0" transform="translate(50.51 119.27)"><tspan x="0" y="0">Perpetual License</tspan></text>
-        </g>
-        <g>
-          <rect class="st12" x="140.31" y="108.74" width="84.19" height="15.43" rx="2.81" ry="2.81"/>
-          <path class="st15" d="M148.73,113.66v1.4h-1.4v4.91h4.21v-4.91h-1.4v-1.4c0-.39-.31-.7-.7-.7s-.7.31-.7.7ZM148.73,113.66v1.4h-1.4v4.91h4.21v-4.91h-1.4v-1.4c0-.39-.31-.7-.7-.7s-.7.31-.7.7Z"/>
-          <text class="st2" transform="translate(157.15 119.27)"><tspan x="0" y="0">100% Private</tspan></text>
-        </g>
+        <a xlink:href="/docs/download-purchase.html#buy-lifetime-license" class="clickable-card">
+          <g>
+            <rect class="st13" x="42.09" y="108.74" width="91.2" height="15.43" rx="2.81" ry="2.81"/>
+            <text class="st0" transform="translate(50.51 119.27)"><tspan x="0" y="0">Perpetual License</tspan></text>
+          </g>
+        </a>
+        
+        <a xlink:href="/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai" class="clickable-card">
+          <g>
+            <rect class="st12" x="140.31" y="108.74" width="84.19" height="15.43" rx="2.81" ry="2.81"/>
+            <path class="st15" d="M148.73,113.66v1.4h-1.4v4.91h4.21v-4.91h-1.4v-1.4c0-.39-.31-.7-.7-.7s-.7.31-.7.7Z"/>
+            <text class="st2" transform="translate(157.15 119.27)"><tspan x="0" y="0">100% Private</tspan></text>
+          </g>
+        </a>
       </g>
       
       <a xlink:href="/docs/download-purchase.html" class="clickable-card">
