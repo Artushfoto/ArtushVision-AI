@@ -181,7 +181,7 @@ Are you a content creator, blogger, YouTuber, or photography educator? We'd love
 
 To learn more about our commission rates and to request your custom affiliate link, please reach out to us:
 
-**📧 Contact us to join:** Send an email to **support [at] artushfoto [dot] eu** (Subject: Affiliate Program)
+**Contact us to join:** ** Send an email to **support [at] artushfoto [dot] eu** (Subject: Affiliate Program)
 
 ---
 
