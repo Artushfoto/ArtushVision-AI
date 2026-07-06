@@ -238,7 +238,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 <main>
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
-
+</a>
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="1200" height="600" class="screenshot-img" />
 </a>
 
