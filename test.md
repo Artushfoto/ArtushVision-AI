@@ -235,37 +235,42 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 </style>
 </div>
 
+<main>
+
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
-<!-- CELÝ SVG OBRÁZEK JE NYNÍ ODKAZEM NA STAŽENÍ -->
 <a href="/docs/download-purchase.html" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="100%" class="screenshot-img" />
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="1200" height="600" class="screenshot-img" />
 </a>
 
----
+<hr>
 
 <div class="hero-split">
   <div class="hero-text">
     <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
-    <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a;">
-      Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
+    
+    <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a; padding-left: 15px; border-left: 4px solid #0969da; font-style: italic;">
+      "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
+      <br>
+      <span style="display: block; margin-top: 8px; font-style: normal; font-size: 0.85em; font-weight: 600; color: #24292f;">
+        &mdash; Steven Heap, BackyardSilver (<a href="/docs/artushvision-reviews.html" title="Read full user reviews">Read Full Review &rarr;</a>)
+      </span>
     </blockquote>
     
-    <!-- TLAČÍTKA HNED POD ÚVODNÍM TEXTEM (ROZLOŽENÁ VEDLE SEBE) -->
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
       <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
       <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
     </div>
-
   </div>
+  
   <div class="hero-image">
     <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
-      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" class="screenshot-img" />
+      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" loading="lazy" class="screenshot-img" />
     </a>
   </div>
 </div>
 
----
+<hr>
 
 <div class="privacy-callout">
   <h2>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h2>
@@ -274,28 +279,36 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   </p>
 </div>
 
----
+<hr>
 
-## The 3-Step Production Workflow
+<p><strong>STOP paying rent</strong> for your software or credits. For just $39.99, the price of a <strong>casual dinner for two</strong>, you get a powerful tool that is yours forever. <strong>No expensive monthly subscriptions</strong>, no strings attached. Run it <strong>completely offline for maximum privacy</strong>, or connect to <strong>cloud AI</strong> whenever you need it with <strong>total control</strong> over your usage and costs. <strong>It’s a one-time investment that pays for itself in just two hours of saved work.</strong></p>
 
-ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
+<hr>
 
-1. **Load &amp; Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
-2. **Generate &amp; Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
-3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
+<h2>The 3-Step Production Workflow</h2>
 
----
+<p>ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:</p>
 
-## Why ArtushVision AI?
+<ol>
+  <li><strong>Load &amp; Cull:</strong> Open thousands of RAW or JPG files across multiple subfolders instantly using the <strong>Flat View</strong>, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.</li>
+  <li><strong>Generate &amp; Resolve:</strong> Trigger the <strong>Cloud or 100% Private Local AI</strong> to build high-converting titles and tags. Run the <strong>built-in AI/Offline Getty Resolver</strong> to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.</li>
+  <li><strong>Automated FTP Upload:</strong> Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.</li>
+</ol>
 
-* **[Versatile AI Engine](/docs/ai-metadata-generation-cloud-local-ollama.html):** Choose between ultra-fast and accurate Cloud AI via OpenRouter or **100% Private Local AI** running fully offline. Keep personal archives, home family photos, travel journals, or sensitive unreleased commercial shoots completely safe on your local drive with zero cloud logging and zero API costs.
-* **[Advanced Manual Keywording](/docs/smart-manual-keywording-batch-editing.html):** Take total control. Manually add, drag-and-drop reorder, or delete keyword bubbles, and easily assign relevant categories. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.
-* **[Smart Category Mapping](/docs/category-matrix.html):** A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.
-* **[Getty Images Keyword Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html):** Validate keywords instantly against a built-in Master Dictionary of **9,867+** controlled Getty commercial terms. Choose between **fast and intuitive manual validation** or **AI-powered optimization** - available both for individual items and in **batches** - to ensure consistent, near-perfect acceptance rates.
-* **[Smart FTP Distribution](/docs/global-stock-distribution-ftp.html):** Simultaneously upload files to multiple stock agencies with automated, agency-specific CSV metadata generation on-the-fly.
-* **[Universal Compatibility](/docs/metadata-compatibility-and-file-handling.html):** Background integration using industry-standard formats compatible with Adobe Lightroom, Bridge, Zoner Photo Studio, and digiKam. ArtushVision AI lets you easily restore your original **custom keyword order** after Lightroom reshuffles it during export, safely appending any newly added tags to the end of the list.
+<hr>
 
----
+<h2>Why ArtushVision AI?</h2>
+
+<ul>
+  <li><strong><a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Versatile AI Engine</a>:</strong> Choose between ultra-fast and accurate Cloud AI via OpenRouter or <strong>100% Private Local AI</strong> running fully offline. Keep personal archives, home family photos, travel journals, or sensitive unreleased commercial shoots completely safe on your local drive with zero cloud logging and zero API costs.</li>
+  <li><strong><a href="/docs/smart-manual-keywording-batch-editing.html">Advanced Manual Keywording</a>:</strong> Take total control. Manually add, drag-and-drop reorder, or delete keyword bubbles, and easily assign relevant categories. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.</li>
+  <li><strong><a href="/docs/category-matrix.html">Smart Category Mapping</a>:</strong> A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.</li>
+  <li><strong><a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images Keyword Optimizer &amp; Resolver</a>:</strong> Validate keywords instantly against a built-in Master Dictionary of <strong>9,867+</strong> controlled Getty commercial terms. Choose between <strong>fast and intuitive manual validation</strong> or <strong>AI-powered optimization</strong> - available both for individual items and in <strong>batches</strong> - to ensure consistent, near-perfect acceptance rates.</li>
+  <li><strong><a href="/docs/global-stock-distribution-ftp.html">Smart FTP Distribution</a>:</strong> Simultaneously upload files to multiple stock agencies with automated, agency-specific CSV metadata generation on-the-fly.</li>
+  <li><strong><a href="/docs/metadata-compatibility-and-file-handling.html">Universal Compatibility</a>:</strong> Background integration using industry-standard formats compatible with Adobe Lightroom, Bridge, Zoner Photo Studio, and digiKam. ArtushVision AI lets you easily restore your original <strong>custom keyword order</strong> after Lightroom reshuffles it during export, safely appending any newly added tags to the end of the list.</li>
+</ul>
+
+<hr>
 
 <h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h2>
 
@@ -324,83 +337,122 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
   <strong>Securely processed by Polar &amp; Stripe.</strong> <a href="/docs/manage-licence.html">Manage your licensed devices</a>
 </p>
 
----
+<hr>
 
-**ArtushVision AI Workspace**
+<p><strong>ArtushVision AI Main Grid Workspace</strong></p>
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="100%" class="screenshot-img" loading="lazy" />
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="3066" height="1885" class="screenshot-img" loading="lazy" />
 </a>
 
----
+<hr>
 
-## Cost Comparison: Own Your Tools
+<h2>Cost Comparison: Own Your Tools</h2>
 
-| Feature | Typical Online AI Tools | ArtushVision AI (Desktop App) |
-| :--- | :--- | :--- |
-| **Media Privacy** | Mandatory Cloud Upload | 🔒 **100% Private (Local AI via Ollama)** or Thumbnail-only modes |
-| **Format Support** | JPG Only | **JPG, RAW, Video, TIFF, webp, HEIC** |
-| **Pricing Model** | Recurring Subscriptions / Credits | **Perpetual License ($39.99)** |
-| **Cost (10,000 Photos)** | High-tier monthly plans | **~$6** using Gemini Flash or **Free** utilizing Local AI |
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #d0d7de; padding: 8px; text-align: left;">Feature</th>
+      <th style="border: 1px solid #d0d7de; padding: 8px; text-align: left;">Typical Online AI Tools</th>
+      <th style="border: 1px solid #d0d7de; padding: 8px; text-align: left;">ArtushVision AI (Desktop App)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Media Privacy</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">Mandatory Cloud Upload</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">🔒 <b>100% Private (Local AI via Ollama)</b> or Thumbnail-only modes</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Format Support</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">JPG Only</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>JPG, RAW, Video, TIFF, webp, HEIC</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Pricing Model</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">Recurring Subscriptions / Credits</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Perpetual License ($39.99)</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Cost (10,000 Photos)</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">High-tier monthly plans</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>~$6</b> using Gemini Flash or <b>Free</b> utilizing Local AI</td>
+    </tr>
+  </tbody>
+</table>
 
----
+<hr>
 
-> **Exceptional Value:** Describe up to **10,000 photos for only $6** with perfect, high-quality results.
-> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
+<blockquote style="margin: 20px 0; padding-left: 15px; border-left: 4px solid #d0d7de; color: #57606a;">
+  <p><strong>Exceptional Value:</strong> Describe up to <strong>10,000 photos for only $6</strong> with perfect, high-quality results.<br>
+  <strong>Full Cost Control:</strong> Monitor your budget with built-in <strong>spending statistics</strong> (6-decimal precision).</p>
+</blockquote>
 
----
+<hr>
 
-## Complete Documentation Index
+<h2>Complete Documentation Index</h2>
 
-<!-- VYHLEDÁVAČ ROZBALENÝ POD NADPISEM A ZAROVNANÝ DOLEVA -->
 <div id="flex-search-container">
   <input type="text" id="flex-search-input" placeholder="Search documentation..." />
   <ul id="flex-results-container"></ul>
 </div>
 
-### 1. Getting Started
-- [System Requirements &amp; Installation](/docs/installation.html)
-- [First Launch &amp; Activation](/docs/download-purchase.html)
-- [Interface Overview](/docs/interface-overview.html)
-- [Detail Window Overview](/docs/detail-window-interface-overview.html)
-- [Cloud AI &amp; OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
-- [Local AI Setup &amp; Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
+<h3>1. Getting Started</h3>
+<ul>
+  <li><a href="/docs/installation.html">System Requirements &amp; Installation</a></li>
+  <li><a href="/docs/download-purchase.html">First Launch &amp; Activation</a></li>
+  <li><a href="/docs/interface-overview.html">Interface Overview</a></li>
+  <li><a href="/docs/detail-window-interface-overview.html">Detail Window Overview</a></li>
+  <li><a href="/docs/cloud-ai-openrouter-api-setup.html">Cloud AI &amp; OpenRouter API Setup</a></li>
+  <li><a href="/docs/local-ai-model-manager-ollama.html">Local AI Setup &amp; Integrated Model Manager</a></li>
+</ul>
 
-### 2. Core Workflows
-- [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
-- [Advanced AI Prompting, Profiles &amp; Variables](/docs/advanced-ai-prompting-profiles-variables.html)
-- [Manual Editing, Multi-language Spellcheck &amp; Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
-- [Batch Metadata Actions, Search &amp; Replace](/docs/batch-operations-metadata-library-management.html)
-- [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
+<h3>2. Core Workflows</h3>
+<ul>
+  <li><a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Understanding AI Processing Modes (Cloud, Local, Hybrid)</a></li>
+  <li><a href="/docs/how-to-download-local-ai-models-via-ollama.html">How to Download Local AI Models via Ollama</a></li>
+  <li><a href="/docs/local-ai-model-manager-ollama.html">Local AI Model Manager: Complete Offline Control</a></li>
+  <li><a href="/docs/advanced-ai-prompting-profiles-variables.html">Advanced AI Prompting, Profiles &amp; Variables</a></li>
+  <li><a href="/docs/create-and-optimize-custom-ai-prompts.html">Create and Optimize Custom AI Prompts</a></li>
+  <li><a href="/docs/smart-manual-keywording-batch-editing.html">Manual Editing, Multi-language Spellcheck &amp; Interactive Map</a></li>
+  <li><a href="/docs/batch-operations-metadata-library-management.html">Batch Metadata Actions, Search &amp; Replace</a></li>
+  <li><a href="/docs/category-matrix.html">Microstock Category Mapping Matrix</a></li>
+  <li><a href="/docs/smart-grid-filters-search-metadata-management.html">Smart Grid Filters and Search</a></li>
+</ul>
 
+<h3>3. Professional Asset Distribution</h3>
+<ul>
+  <li><a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images ESP Metadata Optimizer &amp; Resolver</a></li>
+  <li><a href="/docs/global-stock-distribution-ftp.html">Global Stock Distribution &amp; Multi-threaded FTP Suite</a></li>
+  <li><a href="/docs/settings-configuration-customization.html#advanced-csv-template-editor">Dynamic CSV Template Mapping</a></li>
+</ul>
 
-### 3. Professional Asset Distribution
-- [Getty Images ESP Metadata Optimizer &amp; Resolver](/docs/getty-images-esp-metadata-optimizer.html)
-- [Global Stock Distribution &amp; Multi-threaded FTP Suite](/docs/global-stock-distribution-ftp.html)
-- [Dynamic CSV Template Mapping](/docs/settings-configuration-customization.html#advanced-csv-template-editor)
+<h3>4. Advanced Management</h3>
+<ul>
+  <li><a href="/docs/settings-configuration-customization.html">Workspace Theming, VRAM context tuning &amp; Data Safety</a></li>
+</ul>
 
-### 4. Advanced Management
+<hr>
 
-- [Workspace Theming, VRAM context tuning &amp; Data Safety](/docs/settings-configuration-customization.html)
+<h3>Get Started Now</h3>
+<ul>
+  <li><a href="/docs/download-purchase.html">Download Free Lite Version</a></li>
+  <li><a href="/docs/download-purchase.html#buy-lifetime-license">Purchase Lifetime License - $39.99</a></li>
+</ul>
 
----
+<hr>
 
-### [Get Started Now]
-* [Download Free Lite Version](/docs/download-purchase.html)
-* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+<p>
+  <a href="https://vision.artushfoto.eu">← Back to ArtushVision AI Home</a><br><br>
+  <a href="/docs/faq.html">❓ Frequently Asked Questions (FAQ)</a><br><br>
+  <a href="/docs/artushvision-reviews.html">⭐ User Reviews &amp; Testimonials</a><br><br>
+  <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">💬 Support, Bugs &amp; Community Forum</a>
+</p>
 
----
+<hr>
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+<p><i>ArtushVision AI - Stability and precision for professional photography workflows.</i></p>
 
-[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
-
-[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
-
-[💬 Support, Bugs &amp; Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
-
----
-
-*ArtushVision AI - Stability and precision for professional photography workflows.*
+</main>
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 <script>
