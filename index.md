@@ -239,9 +239,12 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
-<a href="/docs/download-purchase.html" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="1200" height="600" class="screenshot-img" />
-</a>
+<!-- Interaktivní vložení zdrojového SVG pomocí elementu <object> pro zachování funkčnosti vnitřních odkazů -->
+<div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto;">
+  <object type="image/svg+xml" data="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" width="1200" height="600" style="width: 100%; height: auto; display: block; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features - Smart Microstock Tagging" />
+  </object>
+</div>
 
 <hr>
 
@@ -253,7 +256,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
       "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
       <br>
       <span style="display: block; margin-top: 8px; font-style: normal; font-size: 0.85em; font-weight: 600; color: #24292f;">
-        &mdash; Steven Heap, BackyardSilver (<a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" title="Read full user reviews">Read Full Review &rarr;</a>)
+        &mdash; Steven Heap, BackyardSilver (<a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" target="_blank" rel="noopener noreferrer" title="Read the full workflow review on BackyardSilver">Read Full Review on BackyardSilver &rarr;</a>)
       </span>
     </blockquote>
     
