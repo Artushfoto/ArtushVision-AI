@@ -255,7 +255,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
       "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
       <br>
       <span style="display: block; margin-top: 8px; font-style: normal; font-size: 0.85em; font-weight: 600; color: #24292f;">
-        &mdash; Steven Heap, BackyardSilver (<a href="/docs/artushvision-reviews.html" title="Read full user reviews">Read Full Review &rarr;</a>)
+        &mdash; Steven Heap, BackyardSilver (<a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" title="Read full user reviews">Read Full Review &rarr;</a>)
       </span>
     </blockquote>
     
