@@ -128,6 +128,19 @@ h1 { text-align: center; }
 
 <div class="review-container">
 
+    <!-- Review Card 2 - Steven Heap (Workflow & Getty Mapping) -->
+  <article class="review-card" itemscope itemtype="https://schema.org/Review">
+    <meta itemprop="itemReviewed" content="ArtushVision AI">
+    <div class="review-header">
+      <div class="reviewer-info" itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <h3 itemprop="name">Steven Heap (BackyardSilver)</h3>
+        <p class="reviewer-role">Professional Stock Photographer & Blogger</p>
+      </div>
+    </div>
+    <blockquote class="review-quote" itemprop="reviewBody">"It has rapidly evolved into the Swiss Army Knife of metadata management, granting complete architectural control over which AI model you deploy for specific commercial objectives. From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically with one click, providing a smooth and intelligent solution for the Getty/iStock controlled vocabulary... this is very hard to beat."</blockquote>
+    <a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read Steven Heap's review on Lightroom Keyword Priority & Getty Mapping">Read Full Workflow Review &rarr;</a>
+  </article>
+
   <!-- Review Card 1 - BackyardSilver Intro -->
   <article class="review-card" itemscope itemtype="https://schema.org/Review">
     <meta itemprop="itemReviewed" content="ArtushVision AI">
@@ -139,19 +152,6 @@ h1 { text-align: center; }
     </div>
     <blockquote class="review-quote" itemprop="reviewBody">"Let me say, right from the start, every AI keywording system I have looked at before didn't fit my process. This one is so flexible that it probably fits everyone's process, including mine. I think that this is a highly impressive tool for stock photography metadata and much more than a simple AI keywording generator."</blockquote>
     <a href="https://backyardsilver.com/testing-another-ai-keywording-solution-artushvision-ai/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read the full ArtushVision AI review by BackyardSilver">Read Full Review &rarr;</a>
-  </article>
-
-  <!-- Review Card 2 - Steven Heap (Workflow & Getty Mapping) -->
-  <article class="review-card" itemscope itemtype="https://schema.org/Review">
-    <meta itemprop="itemReviewed" content="ArtushVision AI">
-    <div class="review-header">
-      <div class="reviewer-info" itemprop="author" itemscope itemtype="https://schema.org/Person">
-        <h3 itemprop="name">Steven Heap (BackyardSilver)</h3>
-        <p class="reviewer-role">Professional Stock Photographer & Blogger</p>
-      </div>
-    </div>
-    <blockquote class="review-quote" itemprop="reviewBody">"It has rapidly evolved into the Swiss Army Knife of metadata management, granting complete architectural control over which AI model you deploy for specific commercial objectives. From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically with one click, providing a smooth and intelligent solution for the Getty/iStock controlled vocabulary... this is very hard to beat."</blockquote>
-    <a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read Steven Heap's review on Lightroom Keyword Priority & Getty Mapping">Read Full Workflow Review &rarr;</a>
   </article>
 
 </div>
