@@ -249,8 +249,12 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   <div class="hero-text">
     <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
     
-    <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a;">
-      Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
+    <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a; padding-left: 15px; border-left: 4px solid #0969da; font-style: italic;">
+      "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
+      <br>
+      <span style="display: block; margin-top: 8px; font-style: normal; font-size: 0.85em; font-weight: 600; color: #24292f;">
+        &mdash; Steven Heap, BackyardSilver (<a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" title="Read full user reviews">Read Full Review &rarr;</a>)
+      </span>
     </blockquote>
     
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
