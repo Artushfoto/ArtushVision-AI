@@ -265,11 +265,11 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
     </div>
   </div>
   
-  <div class="hero-image">
-    <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
-      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" loading="lazy" class="screenshot-img" />
-    </a>
-  </div>
+<div class="hero-image">
+  <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
+    <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" fetchpriority="high" class="screenshot-img" />
+  </a>
+</div>
 </div>
 
 <hr>
