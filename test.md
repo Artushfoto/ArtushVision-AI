@@ -352,8 +352,6 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <hr>
 
-<hr>
-
 <div class="hero-split">
   <div class="hero-text">
     <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>xxx The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
