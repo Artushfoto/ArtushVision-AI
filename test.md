@@ -237,12 +237,6 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <main>
 
-<h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
-
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="1200" height="600" class="screenshot-img" />
-
----
-
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto;">
   <object type="image/svg+xml" data="/artushvision.svg" width="1200" height="600" style="width: 100%; height: auto; display: block; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); pointer-events: auto !important;">
     <img src="artushvision.svg" alt="ArtushVision AI Software Features - Smart Microstock Tagging" />
@@ -253,7 +247,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <div class="hero-split">
   <div class="hero-text">
-    <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
+    <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>xxx The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
     
     <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a; padding-left: 15px; border-left: 4px solid #0969da; font-style: italic;">
       "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
