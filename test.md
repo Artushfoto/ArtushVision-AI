@@ -272,7 +272,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 </div>
 </div>
 
-<hr>
+---
 
 <div class="privacy-callout">
   <h2>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h2>
@@ -281,11 +281,11 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   </p>
 </div>
 
-<hr>
+---
 
 <p><strong>STOP paying rent</strong> for your software or credits. For just $39.99, the price of a <strong>casual dinner for two</strong>, you get a powerful tool that is yours forever. <strong>No expensive monthly subscriptions</strong>, no strings attached. Run it <strong>completely offline for maximum privacy</strong>, or connect to <strong>cloud AI</strong> whenever you need it with <strong>total control</strong> over your usage and costs. <strong>It’s a one-time investment that pays for itself in just two hours of saved work.</strong></p>
 
-<hr>
+---
 
 <h2>The 3-Step Production Workflow</h2>
 
@@ -301,51 +301,51 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 ## Key Features & Functionality
 
-*   **[Versatile AI Engine Modes & Customization](/docs/ai-metadata-generation-cloud-local-ollama.html)**
-    *   **Cloud AI:** High-speed cloud processing via OpenRouter. You maintain full control over your API usage through a **Built-in OpenRouter Dashboard**, paying only raw API prices with total transparency.
-    *   **Local AI (100% Free & Private):** Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots with zero API costs.
-    *   **Hybrid AI (Local Vision + Cloud Text):** Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.
-    *   **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
-    *   **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.
+* **[Versatile AI Engine Modes & Customization](/docs/ai-metadata-generation-cloud-local-ollama.html)**
+    * **Cloud AI:** High-speed cloud processing via OpenRouter. You maintain full control over your API usage through a **Built-in OpenRouter Dashboard**, paying only raw API prices with total transparency.
+    * **Local AI (100% Free & Private):** Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots with zero API costs.
+    * **Hybrid AI (Local Vision + Cloud Text):** Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.
+    * **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
+    * **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.
 
-*   **[Getty Images Optimizer (Master ESP Tool)](/docs/getty-images-esp-metadata-optimizer.html)**
-    *   **Near-Perfect Acceptance:** Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.
-    *   **Interactive Getty Resolver:** Available for both Single and Batch modes with visual context highlighting and term splitting.
-    *   **Semantic AI Disambiguation:** The AI analyzes image context to solve homonyms (e.g., automatically distinguishing a "crane" bird from a "crane" construction machine).
-    *   **Non-Destructive Workflow:** Original metadata remains untouched; optimized terms are safely stored in separate XMP metadata.
+* **[Getty Images Optimizer (Master ESP Tool)](/docs/getty-images-esp-metadata-optimizer.html)**
+    * **Near-Perfect Acceptance:** Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.
+    * **Interactive Getty Resolver:** Available for both Single and Batch modes with visual context highlighting and term splitting.
+    * **Semantic AI Disambiguation:** The AI analyzes image context to solve homonyms (e.g., automatically distinguishing a "crane" bird from a "crane" construction machine).
+    * **Non-Destructive Workflow:** Original metadata remains untouched; optimized terms are safely stored in separate XMP metadata.
 
-*   **[Manual Workflow & Ergonomics (Hands-On Control)](/docs/smart-manual-keywording-batch-editing.html)**
-    *   **Intuitive Drag & Drop Keywords:** Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between photos.
-    *   **Advanced Batch Metadata Application:** Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously.
-    *   **Smart Append Sync:** Type a keyword into a selection of hundreds of photos—the app injects it in real-time without overwriting their unique existing tags.
-    *   **Interactive Integrated Map:** Visually verify extracted GPS coordinates running reverse geocoding.
-    *   **Lightning-Fast Copy & Paste:** Use dedicated shortcuts to copy entire metadata blocks from one master image and paste them across an entire batch.
-    *   **Metadata Templates:** Save and load custom metadata presets for recurring shoots or specific studio setups.
+* **[Manual Workflow & Ergonomics (Hands-On Control)](/docs/smart-manual-keywording-batch-editing.html)**
+    * **Intuitive Drag & Drop Keywords:** Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between photos.
+    * **Advanced Batch Metadata Application:** Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously.
+    * **Smart Append Sync:** Type a keyword into a selection of hundreds of photos—the app injects it in real-time without overwriting their unique existing tags.
+    * **Interactive Integrated Map:** Visually verify extracted GPS coordinates running reverse geocoding.
+    * **Lightning-Fast Copy & Paste:** Use dedicated shortcuts to copy entire metadata blocks from one master image and paste them across an entire batch.
+    * **Metadata Templates:** Save and load custom metadata presets for recurring shoots or specific studio setups.
 
-*   **[Global Distribution & Smart FTP Suite](/docs/global-stock-distribution-ftp.html)**
-    *   **Multi-Server Batch Uploads:** Configure individual thread limits per agency to prevent connection blocks (`421 Too many connections`).
-    *   **1-Click Automated CSV Upload:** Generates a temporary, agency-specific CSV with matching category IDs, uploads it alongside your media, and automatically purges it.
-    *   **Universal Category Mapping:** Pre-configured mapping for Adobe Stock, Shutterstock, and other major agencies.
-    *   **FTP Status Badges:** Successful uploads write micro-badges directly into XMP metadata for persistent tracking.
+* **[Global Distribution & Smart FTP Suite](/docs/global-stock-distribution-ftp.html)**
+    * **Multi-Server Batch Uploads:** Configure individual thread limits per agency to prevent connection blocks (`421 Too many connections`).
+    * **1-Click Automated CSV Upload:** Generates a temporary, agency-specific CSV with matching category IDs, uploads it alongside your media, and automatically purges it.
+    * **Universal Category Mapping:** Pre-configured mapping for Adobe Stock, Shutterstock, and other major agencies.
+    * **FTP Status Badges:** Successful uploads write micro-badges directly into XMP metadata for persistent tracking.
 
-*   **[Advanced Interface & Portfolio Organization](/docs/smart-grid-filters-search-metadata-management.html)**
-    *   **Blazing-Fast Image Grid:** Displays Titles, Descriptions, and Keywords directly below every card. Includes comprehensive Thumbnail Badges.
-    *   **Visual Status Indicators:** Color-coded states warn you in real-time about validation errors.
-    *   **Absolute Priority AI Hints:** Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.
-    *   **Flat View:** Toggle a unified, continuous list view for all loaded subfolders simultaneously.
+* **[Advanced Interface & Portfolio Organization](/docs/smart-grid-filters-search-metadata-management.html)**
+    * **Blazing-Fast Image Grid:** Displays Titles, Descriptions, and Keywords directly below every card. Includes comprehensive Thumbnail Badges.
+    * **Visual Status Indicators:** Color-coded states warn you in real-time about validation errors.
+    * **Absolute Priority AI Hints:** Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.
+    * **Flat View:** Toggle a unified, continuous list view for all loaded subfolders simultaneously.
 
-*   **[Universal Metadata Compatibility & Linguistics](/docs/metadata-compatibility-and-file-handling.html)**
-    *   **100% EXIF/IPTC/XMP Compliant:** Data is written safely to sidecars or directly embedded, ensuring seamless interoperability with Adobe Lightroom, Bridge, and Capture One.
-    *   **Keyword Order Restoration:** Easily revert to your original keyword sequencing with a single click to protect manually sorted priority tags.
-    *   **Category Management:** Easily assign standard microstock categories to single images or entire batches to ensure full compliance with agency submission requirements.
-    *   **Auto-GPS Country Lookup:** Auto-translates GPS coordinates into readable city/country names via OpenStreetMap or ArcGIS.
-    *   **Dual-Language Spellcheck:** Validate against two dictionaries simultaneously without switching settings.
+* **[Universal Metadata Compatibility & Linguistics](/docs/metadata-compatibility-and-file-handling.html)**
+    * **100% EXIF/IPTC/XMP Compliant:** Data is written safely to sidecars or directly embedded, ensuring seamless interoperability with Adobe Lightroom, Bridge, and Capture One.
+    * **Keyword Order Restoration:** Easily revert to your original keyword sequencing with a single click to protect manually sorted priority tags.
+    * **Category Management:** Easily assign standard microstock categories to single images or entire batches to ensure full compliance with agency submission requirements.
+    * **Auto-GPS Country Lookup:** Auto-translates GPS coordinates into readable city/country names via OpenStreetMap or ArcGIS.
+    * **Dual-Language Spellcheck:** Validate against two dictionaries simultaneously without switching settings.
 
-*   **[Powerful Batch Operations & Configuration](/docs/batch-operations-metadata-library-management.html)**
-    *   **Smarter Batch Rename:** Rename thousands of files using dynamic variables like `{TITLE}`, `{CC}`, `{DATE}`, or `{FOLDER_NAME}`.
-    *   **Bulk Metadata Editing:** Smart Add/Remove/Replace with `Old -> New` syntax and `Ctrl+H` support.
-    *   **Ollama VRAM Context Tuning:** Optimize memory allocation based on your GPU hardware.
-    *   **Video Economy Mode:** Collage-based analysis to minimize API consumption and process video files efficiently.
+* **[Powerful Batch Operations & Configuration](/docs/batch-operations-metadata-library-management.html)**
+    * **Smarter Batch Rename:** Rename thousands of files using dynamic variables like `{TITLE}`, `{CC}`, `{DATE}`, or `{FOLDER_NAME}`.
+    * **Bulk Metadata Editing:** Smart Add/Remove/Replace with `Old -> New` syntax and `Ctrl+H` support.
+    * **Ollama VRAM Context Tuning:** Optimize memory allocation based on your GPU hardware.
+    * **Video Economy Mode:** Collage-based analysis to minimize API consumption and process video files efficiently.
 
 ---
 
@@ -494,6 +494,8 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+
+</main>
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 <script>
