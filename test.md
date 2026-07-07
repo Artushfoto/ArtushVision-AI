@@ -235,8 +235,6 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 </style>
 </div>
 
-<main>
-
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); overflow: hidden; background-color: #253544; line-height: 0;">
@@ -483,8 +481,6 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-
-</main>
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 <script>
