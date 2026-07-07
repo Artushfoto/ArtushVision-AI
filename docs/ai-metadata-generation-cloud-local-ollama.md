@@ -181,7 +181,7 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 > **⚠️ IMPORTANT: Dynamic AI Model Deprecations & API Updates**
 > Cloud AI models are constantly evolving. Third-party providers and API aggregators (such as OpenRouter) frequently update, replace, or deprecate older model endpoints to ensure optimal performance, security, and cost-efficiency. When an older AI model is officially retired, any saved AI Prompt Profile still pointing to that specific deprecated endpoint will fail and return an API connection error.
 >
-> **Action Required:** If your cloud AI processing suddenly stops working or throws an unexpected API error, the selected model has likely been deprecated. Open the **AI Profile Editor** (or check your global AI settings), select a current, active model from the dropdown list, and save your updated profile to restore immediate functionality.
+> **Action Required:** If your cloud AI processing suddenly stops working or throws an unexpected API error, the selected model has likely been deprecated. Open the **[AI Profile Editor](/docs/ai-metadata-generation-cloud-local-ollama.html#how-to-change-the-ai-model-cloud--local)**, select a current, active model from the dropdown list, and save your updated profile to restore immediate functionality.
 
 #### Cloud AI Keywording, Automatic Categorization, and Editorial Tagging
 
