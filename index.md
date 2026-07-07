@@ -299,15 +299,74 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <hr>
 
-<h2>Why ArtushVision AI?</h2>
+<h2>Key Features &amp; Functionality</h2>
 
 <ul>
-  <li><strong><a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Versatile AI Engine</a>:</strong> Choose between ultra-fast and accurate Cloud AI via OpenRouter or <strong>100% Private Local AI</strong> running fully offline. Keep personal archives, home family photos, travel journals, or sensitive unreleased commercial shoots completely safe on your local drive with zero cloud logging and zero API costs.</li>
-  <li><strong><a href="/docs/smart-manual-keywording-batch-editing.html">Advanced Manual Keywording</a>:</strong> Take total control. Manually add, drag-and-drop reorder, or delete keyword bubbles, and easily assign relevant categories. Features real-time word counters, synonyms lookup, and multilingual spellcheck suggestions.</li>
-  <li><strong><a href="/docs/category-matrix.html">Smart Category Mapping</a>:</strong> A customizable translation matrix that maps your internal metadata categories directly into agency-specific requirements (Adobe Stock, Dreamstime, etc.) with separate internal logic for Photo vs. Video assets.</li>
-  <li><strong><a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images Keyword Optimizer &amp; Resolver</a>:</strong> Validate keywords instantly against a built-in Master Dictionary of <strong>9,867+</strong> controlled Getty commercial terms. Choose between <strong>fast and intuitive manual validation</strong> or <strong>AI-powered optimization</strong> - available both for individual items and in <strong>batches</strong> - to ensure consistent, near-perfect acceptance rates.</li>
-  <li><strong><a href="/docs/global-stock-distribution-ftp.html">Smart FTP Distribution</a>:</strong> Simultaneously upload files to multiple stock agencies with automated, agency-specific CSV metadata generation on-the-fly.</li>
-  <li><strong><a href="/docs/metadata-compatibility-and-file-handling.html">Universal Compatibility</a>:</strong> Background integration using industry-standard formats compatible with Adobe Lightroom, Bridge, Zoner Photo Studio, and digiKam. ArtushVision AI lets you easily restore your original <strong>custom keyword order</strong> after Lightroom reshuffles it during export, safely appending any newly added tags to the end of the list.</li>
+  <li><strong><a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Versatile AI Engine Modes &amp; Customization</a></strong>
+    <ul>
+      <li><strong>Cloud AI:</strong> High-speed cloud processing via OpenRouter. You maintain full control over your API usage through a <strong>Built-in OpenRouter Dashboard</strong>, paying only raw API prices with total transparency.</li>
+      <li><strong>Local AI (100% Free &amp; Private):</strong> Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots with zero API costs.</li>
+      <li><strong>Hybrid AI (Local Vision + Cloud Text):</strong> Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.</li>
+      <li><strong>2-Pass Local AI:</strong> Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.</li>
+      <li><strong>Customizable AI Prompts:</strong> Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.</li>
+    </ul>
+  </li>
+  <br>
+  <li><strong><a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images Optimizer (Master ESP Tool)</a></strong>
+    <ul>
+      <li><strong>Near-Perfect Acceptance:</strong> Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.</li>
+      <li><strong>Interactive Getty Resolver:</strong> Available for both Single and Batch modes with visual context highlighting and term splitting.</li>
+      <li><strong>Semantic AI Disambiguation:</strong> The AI analyzes image context to solve homonyms (e.g., automatically distinguishing a "crane" bird from a "crane" construction machine).</li>
+      <li><strong>Non-Destructive Workflow:</strong> Original metadata remains untouched; optimized terms are safely stored in separate XMP metadata.</li>
+    </ul>
+  </li>
+  <br>
+  <li><strong><a href="/docs/smart-manual-keywording-batch-editing.html">Manual Workflow &amp; Ergonomics (Hands-On Control)</a></strong>
+    <ul>
+      <li><strong>Intuitive Drag &amp; Drop Keywords:</strong> Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between photos.</li>
+      <li><strong>Advanced Batch Metadata Application:</strong> Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously.</li>
+      <li><strong>Smart Append Sync:</strong> Type a keyword into a selection of hundreds of photos—the app injects it in real-time without overwriting their unique existing tags.</li>
+      <li><strong>Interactive Integrated Map:</strong> Visually verify extracted GPS coordinates, and manually adjust location data on the fly before running reverse geocoding.</li>
+      <li><strong>Lightning-Fast Copy &amp; Paste:</strong> Use dedicated shortcuts to copy entire metadata blocks from one master image and paste them across an entire batch.</li>
+      <li><strong>Metadata Templates:</strong> Save and load custom metadata presets for recurring shoots or specific studio setups.</li>
+    </ul>
+  </li>
+  <br>
+  <li><strong><a href="/docs/global-stock-distribution-ftp.html">Global Distribution &amp; Smart FTP Suite</a></strong>
+    <ul>
+      <li><strong>Multi-Server Batch Uploads:</strong> Configure individual thread limits per agency to prevent connection blocks (<code>421 Too many connections</code>).</li>
+      <li><strong>1-Click Automated CSV Upload:</strong> Generates a temporary, agency-specific CSV with matching category IDs, uploads it alongside your media, and automatically purges it.</li>
+      <li><strong>Universal Category Mapping:</strong> Pre-configured mapping for Adobe Stock, Shutterstock, and other major agencies.</li>
+      <li><strong>FTP Status Badges:</strong> Successful uploads write micro-badges directly into XMP metadata for persistent tracking.</li>
+    </ul>
+  </li>
+  <br>
+  <li><strong><a href="/docs/smart-grid-filters-search-metadata-management.html">Advanced Interface &amp; Portfolio Organization</a></strong>
+    <ul>
+      <li><strong>Blazing-Fast Image Grid:</strong> Displays Titles, Descriptions, and Keywords directly below every card. Includes comprehensive Thumbnail Badges.</li>
+      <li><strong>Visual Status Indicators:</strong> Color-coded states warn you in real-time about validation errors.</li>
+      <li><strong>Absolute Priority AI Hints:</strong> Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.</li>
+      <li><strong>Flat View:</strong> Toggle a unified, continuous list view for all loaded subfolders simultaneously.</li>
+    </ul>
+  </li>
+  <br>
+  <li><strong><a href="/docs/metadata-compatibility-and-file-handling.html">Universal Metadata Compatibility &amp; Linguistics</a></strong>
+    <ul>
+      <li><strong>100% EXIF/IPTC/XMP Compliant:</strong> Data is written safely to sidecars or directly embedded, ensuring seamless interoperability with Adobe Lightroom, Bridge, and Capture One.</li>
+      <li><strong>Keyword Order Restoration:</strong> Easily revert to your original keyword sequencing with a single click to protect manually sorted priority tags.</li>
+      <li><strong>Auto-GPS Country Lookup:</strong> Auto-translates GPS coordinates into readable city/country names via OpenStreetMap or ArcGIS.</li>
+      <li><strong>Dual-Language Spellcheck:</strong> Validate against two dictionaries simultaneously without switching settings.</li>
+    </ul>
+  </li>
+  <br>
+  <li><strong><a href="/docs/batch-operations-metadata-library-management.html">Powerful Batch Operations &amp; Configuration</a></strong>
+    <ul>
+      <li><strong>Smarter Batch Rename:</strong> Rename thousands of files using dynamic variables like <code>{TITLE}</code>, <code>{CC}</code>, <code>{DATE}</code>, or <code>{FOLDER_NAME}</code>.</li>
+      <li><strong>Bulk Metadata Editing:</strong> Smart Add/Remove/Replace with <code>Old -&gt; New</code> syntax and <code>Ctrl+H</code> support.</li>
+      <li><strong>Ollama VRAM Context Tuning:</strong> Optimize memory allocation based on your GPU hardware.</li>
+      <li><strong>Video Economy Mode:</strong> Collage-based analysis to minimize API consumption and process video files efficiently.</li>
+    </ul>
+  </li>
 </ul>
 
 <hr>
