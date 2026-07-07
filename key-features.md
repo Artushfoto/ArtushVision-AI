@@ -153,7 +153,7 @@ With the release of **v1.10**, we are introducing full offline autonomy via Olla
 
 *   **Versatile AI Engine Modes & Customization**
     *   **Cloud AI:** High-speed cloud processing via OpenRouter (gemini-2.5-flash-lite, GPT-4o, Claude 3.5 Sonnet ...). You maintain full control over your API usage through a **Built-in OpenRouter Dashboard**, allowing you to monitor token costs directly within the app and pay only raw API prices with total transparency.
-    *   **Local AI (100% Free & Private):** Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots (boudoir, unreleased commercial products) with zero API costs.
+    *   **Local AI (100% Free & Private):** Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots (personal archives, home family photos, travel journals, or sensitive unreleased commercial shoots) with zero API costs.
     *   **Hybrid AI (Local Vision + Cloud Text):** Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.
     *   **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
     *   **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style, enforce specific keyword structures, or adapt to your specific photography niche.
@@ -168,7 +168,7 @@ With the release of **v1.10**, we are introducing full offline autonomy via Olla
     *   **Intuitive Drag & Drop Keywords:** Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between different photos in the grid.
     *   **Advanced Batch Metadata Application:** Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously. 
     *   **Smart Append Sync:** Type a keyword into a selection of hundreds of photos—the app injects it in real-time without wiping or overwriting their unique existing tags.
-    *   **Interactive Integrated Map:** A built-in map module allows you to visually drop pins, verify extracted GPS coordinates, and manually adjust location data on the fly before running the reverse geocoding.
+    *   **Interactive Integrated Map:** A built-in map module allows you to visually verify extracted GPS coordinates running the reverse geocoding.
     *   **Lightning-Fast Copy & Paste:** Use dedicated shortcuts to copy entire metadata blocks (or specific fields) from one master image and paste them across an entire batch.
     *   **Metadata Templates:** Save and load custom metadata presets for recurring shoots or specific studio setups.
 
@@ -186,6 +186,9 @@ With the release of **v1.10**, we are introducing full offline autonomy via Olla
     *   **Filter Bar:** Smart Search (with Case sensitivity), Folder Filtering with live photo counts, and File Type Filters.
     *   **Absolute Priority AI Hints:** Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.
     *   **Flat View:** Toggle a unified, continuous list view for all loaded subfolders simultaneously.
+
+    **Universal Metadata Compatibility:** 100% compliant with standard EXIF, IPTC, and XMP schemas. Your data is written safely to sidecars or directly embedded, ensuring seamless round-trip interoperability with industry-standard software like Adobe Lightroom, Bridge, and Capture One.
+    *   **Keyword Order Restoration:** Easily revert to your original keyword sequencing with a single click. This safety net guarantees that your manually sorted priority tags (crucial for Adobe Stock's Top 10 algorithm) are instantly restored if you need to roll back changes after an AI pass or batch edit.
 
 *   **Professional Metadata Management & Linguistics**
     *   **Detail Photo View:** Inline editing with real-time word and character counters.
