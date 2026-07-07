@@ -1,4 +1,3 @@
-# --- updated reviews page ---
 ---
 title: "User Reviews & Testimonials | ArtushVision AI"
 description: "See what professional photographers, stock contributors, and creators are saying about their workflow with ArtushVision AI."
@@ -251,4 +250,3 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-# --- updated reviews page ---
