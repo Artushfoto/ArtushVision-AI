@@ -466,26 +466,28 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <hr>
 
-<h3>Get Started Now</h3>
-<ul>
-  <li><a href="/docs/download-purchase.html">Download Free Lite Version</a></li>
-  <li><a href="/docs/download-purchase.html#buy-lifetime-license">Purchase Lifetime License - $39.99</a></li>
-</ul>
+### [Get Started Now]
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
-<hr>
+---
 
-<p>
-  <a href="https://vision.artushfoto.eu">← Back to ArtushVision AI Home</a><br><br>
-  <a href="/docs/faq.html">❓ Frequently Asked Questions (FAQ)</a><br><br>
-  <a href="/docs/artushvision-reviews.html">⭐ User Reviews &amp; Testimonials</a><br><br>
-  <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">💬 Support, Bugs &amp; Community Forum</a>
-</p>
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
-<hr>
+---
 
-<p><i>ArtushVision AI - Stability and precision for professional photography workflows.</i></p>
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-</main>
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
+
+*ArtushVision AI - Stability and precision for professional photography workflows.*
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 <script>
