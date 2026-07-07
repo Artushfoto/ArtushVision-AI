@@ -78,7 +78,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  width: 230px; /* Zmenšeno pro jistotu, že se vejdou vedle sebe */
+  width: 230px;
   max-width: 100%;
   padding: 10px 15px;
   font-size: 15px;
@@ -112,7 +112,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 /* GitHub Téma vyhledávacího komponentu - ZAROVNÁNO DOLEVA */
 #flex-search-container {
   max-width: 500px;
-  margin: 15px 0 25px 0; /* Změněno auto na 0 pro zarovnání vlevo */
+  margin: 15px 0 25px 0;
   position: relative;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
@@ -245,7 +245,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   </object>
 </div>
 
-<hr>
+---
 
 <div class="hero-split">
   <div class="hero-text">
@@ -265,11 +265,11 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
     </div>
   </div>
   
-<div class="hero-image">
-  <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
-    <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" fetchpriority="high" class="screenshot-img" />
-  </a>
-</div>
+  <div class="hero-image">
+    <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
+      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" fetchpriority="high" class="screenshot-img" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -283,19 +283,17 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 ---
 
-<p><strong>STOP paying rent</strong> for your software or credits. For just $39.99, the price of a <strong>casual dinner for two</strong>, you get a powerful tool that is yours forever. <strong>No expensive monthly subscriptions</strong>, no strings attached. Run it <strong>completely offline for maximum privacy</strong>, or connect to <strong>cloud AI</strong> whenever you need it with <strong>total control</strong> over your usage and costs. <strong>It’s a one-time investment that pays for itself in just two hours of saved work.</strong></p>
+**STOP paying rent** for your software or credits. For just $39.99, the price of a **casual dinner for two**, you get a powerful tool that is yours forever. **No expensive monthly subscriptions**, no strings attached. Run it **completely offline for maximum privacy**, or connect to **cloud AI** whenever you need it with **total control** over your usage and costs. **It’s a one-time investment that pays for itself in just two hours of saved work.**
 
 ---
 
-<h2>The 3-Step Production Workflow</h2>
+## The 3-Step Production Workflow
 
-<p>ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:</p>
+ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
 
-<ol>
-  <li><strong>Load &amp; Cull:</strong> Open thousands of RAW or JPG files across multiple subfolders instantly using the <strong>Flat View</strong>, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.</li>
-  <li><strong>Generate &amp; Resolve:</strong> Trigger the <strong>Cloud or 100% Private Local AI</strong> to build high-converting titles and tags. Run the <strong>built-in AI/Offline Getty Resolver</strong> to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.</li>
-  <li><strong>Automated FTP Upload:</strong> Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.</li>
-</ol>
+1. **Load & Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
+2. **Generate & Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in AI/Offline Getty Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
+3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
 
 ---
 
@@ -378,14 +376,15 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <hr>
 
-<p><strong>ArtushVision AI Main Grid Workspace</strong></p>
+**ArtushVision AI Main Grid Workspace**
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="3066" height="1885" class="screenshot-img" loading="lazy" />
 </a>
 
 <hr>
 
-<h2>Cost Comparison: Own Your Tools</h2>
+## Cost Comparison: Own Your Tools
 
 <table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
   <thead>
@@ -421,54 +420,44 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <hr>
 
-<blockquote style="margin: 20px 0; padding-left: 15px; border-left: 4px solid #d0d7de; color: #57606a;">
-  <p><strong>Exceptional Value:</strong> Describe up to <strong>10,000 photos for only $6</strong> with perfect, high-quality results.<br>
-  <strong>Full Cost Control:</strong> Monitor your budget with built-in <strong>spending statistics</strong> (6-decimal precision).</p>
-</blockquote>
+> **Exceptional Value:** Describe up to **10,000 photos for only $6** with perfect, high-quality results.  
+> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
 <hr>
 
-<h2>Complete Documentation Index</h2>
+## Complete Documentation Index
 
 <div id="flex-search-container">
   <input type="text" id="flex-search-input" placeholder="Search documentation..." />
   <ul id="flex-results-container"></ul>
 </div>
 
-<h3>1. Getting Started</h3>
-<ul>
-  <li><a href="/docs/installation.html">System Requirements &amp; Installation</a></li>
-  <li><a href="/docs/download-purchase.html">First Launch &amp; Activation</a></li>
-  <li><a href="/docs/interface-overview.html">Interface Overview</a></li>
-  <li><a href="/docs/detail-window-interface-overview.html">Detail Window Overview</a></li>
-  <li><a href="/docs/cloud-ai-openrouter-api-setup.html">Cloud AI &amp; OpenRouter API Setup</a></li>
-  <li><a href="/docs/local-ai-model-manager-ollama.html">Local AI Setup &amp; Integrated Model Manager</a></li>
-</ul>
+### 1. Getting Started
+* [System Requirements & Installation](/docs/installation.html)
+* [First Launch & Activation](/docs/download-purchase.html)
+* [Interface Overview](/docs/interface-overview.html)
+* [Detail Window Overview](/docs/detail-window-interface-overview.html)
+* [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
+* [Local AI Setup & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
 
-<h3>2. Core Workflows</h3>
-<ul>
-  <li><a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Understanding AI Processing Modes (Cloud, Local, Hybrid)</a></li>
-  <li><a href="/docs/how-to-download-local-ai-models-via-ollama.html">How to Download Local AI Models via Ollama</a></li>
-  <li><a href="/docs/local-ai-model-manager-ollama.html">Local AI Model Manager: Complete Offline Control</a></li>
-  <li><a href="/docs/advanced-ai-prompting-profiles-variables.html">Advanced AI Prompting, Profiles &amp; Variables</a></li>
-  <li><a href="/docs/create-and-optimize-custom-ai-prompts.html">Create and Optimize Custom AI Prompts</a></li>
-  <li><a href="/docs/smart-manual-keywording-batch-editing.html">Manual Editing, Multi-language Spellcheck &amp; Interactive Map</a></li>
-  <li><a href="/docs/batch-operations-metadata-library-management.html">Batch Metadata Actions, Search &amp; Replace</a></li>
-  <li><a href="/docs/category-matrix.html">Microstock Category Mapping Matrix</a></li>
-  <li><a href="/docs/smart-grid-filters-search-metadata-management.html">Smart Grid Filters and Search</a></li>
-</ul>
+### 2. Core Workflows
+* [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
+* [How to Download Local AI Models via Ollama](/docs/how-to-download-local-ai-models-via-ollama.html)
+* [Local AI Model Manager: Complete Offline Control](/docs/local-ai-model-manager-ollama.html)
+* [Advanced AI Prompting, Profiles & Variables](/docs/advanced-ai-prompting-profiles-variables.html)
+* [Create and Optimize Custom AI Prompts](/docs/create-and-optimize-custom-ai-prompts.html)
+* [Manual Editing, Multi-language Spellcheck & Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
+* [Batch Metadata Actions, Search & Replace](/docs/batch-operations-metadata-library-management.html)
+* [Microstock Category Mapping Matrix](/docs/category-matrix.html)
+* [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
 
-<h3>3. Professional Asset Distribution</h3>
-<ul>
-  <li><a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images ESP Metadata Optimizer &amp; Resolver</a></li>
-  <li><a href="/docs/global-stock-distribution-ftp.html">Global Stock Distribution &amp; Multi-threaded FTP Suite</a></li>
-  <li><a href="/docs/settings-configuration-customization.html#advanced-csv-template-editor">Dynamic CSV Template Mapping</a></li>
-</ul>
+### 3. Professional Asset Distribution
+* [Getty Images ESP Metadata Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html)
+* [Global Stock Distribution & Multi-threaded FTP Suite](/docs/global-stock-distribution-ftp.html)
+* [Dynamic CSV Template Mapping](/docs/settings-configuration-customization.html#advanced-csv-template-editor)
 
-<h3>4. Advanced Management</h3>
-<ul>
-  <li><a href="/docs/settings-configuration-customization.html">Workspace Theming, VRAM context tuning &amp; Data Safety</a></li>
-</ul>
+### 4. Advanced Management
+* [Workspace Theming, VRAM context tuning & Data Safety](/docs/settings-configuration-customization.html)
 
 ---
 
