@@ -326,7 +326,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
       <li><strong>Intuitive Drag &amp; Drop Keywords:</strong> Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between photos.</li>
       <li><strong>Advanced Batch Metadata Application:</strong> Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously.</li>
       <li><strong>Smart Append Sync:</strong> Type a keyword into a selection of hundreds of photos—the app injects it in real-time without overwriting their unique existing tags.</li>
-      <li><strong>Interactive Integrated Map:</strong> Visually verify extracted GPS coordinates, and manually adjust location data on the fly before running reverse geocoding.</li>
+      <li><strong>Interactive Integrated Map:</strong> Visually verify extracted GPS coordinates running reverse geocoding.</li>
       <li><strong>Lightning-Fast Copy &amp; Paste:</strong> Use dedicated shortcuts to copy entire metadata blocks from one master image and paste them across an entire batch.</li>
       <li><strong>Metadata Templates:</strong> Save and load custom metadata presets for recurring shoots or specific studio setups.</li>
     </ul>
