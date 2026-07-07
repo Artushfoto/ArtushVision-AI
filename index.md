@@ -478,6 +478,8 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
+[📷 Developer's Photography Portfolio: artushfoto.eu](https://artushfoto.eu)
+
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
