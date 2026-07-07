@@ -346,7 +346,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
     * **Bulk Metadata Editing:** Smart Add/Remove/Replace with `Old -> New` syntax and `Ctrl+H` support.
     * **Ollama VRAM Context Tuning:** Optimize memory allocation based on your GPU hardware.
     * **Video Economy Mode:** Collage-based analysis to minimize API consumption and process video files efficiently.
-
+    
 ---
 
 <h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h2>
@@ -495,6 +495,7 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
 
+</main>
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 <script>
