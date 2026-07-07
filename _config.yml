@@ -22,4 +22,7 @@ exclude:
   - node_modules/
   - vendor/
   - .github/
+
+# Nastavení Google Analytics
+google_analytics: "G-9CH7W6CRCH"
 # --- _config.yml ---
