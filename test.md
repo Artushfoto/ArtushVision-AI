@@ -470,7 +470,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   <li><a href="/docs/settings-configuration-customization.html">Workspace Theming, VRAM context tuning &amp; Data Safety</a></li>
 </ul>
 
-<hr>
+---
 
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
@@ -495,7 +495,6 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
 
-</main>
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 <script>
