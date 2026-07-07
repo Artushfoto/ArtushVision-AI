@@ -313,3 +313,12 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 ---
 
 *ArtushVision AI - Stability, offline AI keywording, and precision for professional microstock photography workflows.*
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9CH7W6CRCH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-9CH7W6CRCH');
+</script>
