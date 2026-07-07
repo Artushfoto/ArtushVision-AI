@@ -241,3 +241,12 @@ Want to see how ArtushVision AI performs in a real professional microstock workf
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9CH7W6CRCH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-9CH7W6CRCH');
+</script>
