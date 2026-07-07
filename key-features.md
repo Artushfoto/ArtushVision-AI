@@ -149,7 +149,12 @@ h1 { text-align: center; }
 
 With the release of **v1.10**, we are introducing full offline autonomy via Ollama and a dedicated Getty Images Controlled Vocabulary engine.
 
-**Try the fully functional trial version. It has no time limits and provides access to all premium features, limited only by the number of processed photos per application launch.**
+Try the [**fully functional trial version**](https://vision.artushfoto.eu/docs/download-purchase.html#download-artushvision-ai-windows-setup--portable). It has no time limits and provides access to all premium features, limited only by the number of processed photos per application launch.
+
+**Independent Review by Steve Heap, BackyardSilver**
+Want to see how ArtushVision AI performs in a real professional microstock workflow? Read the independent review by industry expert Steve Heap to discover how our AI tagging and metadata tools can save you hours of manual work. 
+
+👉 [Read the full review on BackyardSilver](https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/)
 
 ---
 
