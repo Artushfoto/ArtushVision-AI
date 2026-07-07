@@ -78,7 +78,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  width: 230px; /* Zmenšeno pro jistotu, že se vejdou vedle sebe */
+  width: 230px;
   max-width: 100%;
   padding: 10px 15px;
   font-size: 15px;
@@ -112,7 +112,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 /* GitHub Téma vyhledávacího komponentu - ZAROVNÁNO DOLEVA */
 #flex-search-container {
   max-width: 500px;
-  margin: 15px 0 25px 0; /* Změněno auto na 0 pro zarovnání vlevo */
+  margin: 15px 0 25px 0;
   position: relative;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
@@ -235,8 +235,6 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 </style>
 </div>
 
-<main>
-
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); overflow: hidden; background-color: #253544; line-height: 0;">
@@ -245,7 +243,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   </object>
 </div>
 
-<hr>
+---
 
 <div class="hero-split">
   <div class="hero-text">
@@ -265,14 +263,14 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
     </div>
   </div>
   
-<div class="hero-image">
-  <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
-    <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" fetchpriority="high" class="screenshot-img" />
-  </a>
-</div>
+  <div class="hero-image">
+    <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
+      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" fetchpriority="high" class="screenshot-img" />
+    </a>
+  </div>
 </div>
 
-<hr>
+---
 
 <div class="privacy-callout">
   <h2>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h2>
@@ -281,95 +279,71 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   </p>
 </div>
 
-<hr>
+---
 
-<p><strong>STOP paying rent</strong> for your software or credits. For just $39.99, the price of a <strong>casual dinner for two</strong>, you get a powerful tool that is yours forever. <strong>No expensive monthly subscriptions</strong>, no strings attached. Run it <strong>completely offline for maximum privacy</strong>, or connect to <strong>cloud AI</strong> whenever you need it with <strong>total control</strong> over your usage and costs. <strong>It’s a one-time investment that pays for itself in just two hours of saved work.</strong></p>
+**STOP paying rent** for your software or credits. For just $39.99, the price of a **casual dinner for two**, you get a powerful tool that is yours forever. **No expensive monthly subscriptions**, no strings attached. Run it **completely offline for maximum privacy**, or connect to **cloud AI** whenever you need it with **total control** over your usage and costs. **It’s a one-time investment that pays for itself in just two hours of saved work.**
 
-<hr>
+---
 
-<h2>The 3-Step Production Workflow</h2>
+## The 3-Step Production Workflow
 
-<p>ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:</p>
+ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
 
-<ol>
-  <li><strong>Load &amp; Cull:</strong> Open thousands of RAW or JPG files across multiple subfolders instantly using the <strong>Flat View</strong>, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.</li>
-  <li><strong>Generate &amp; Resolve:</strong> Trigger the <strong>Cloud or 100% Private Local AI</strong> to build high-converting titles and tags. Run the <strong>built-in AI/Offline Getty Resolver</strong> to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.</li>
-  <li><strong>Automated FTP Upload:</strong> Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.</li>
-</ol>
+1. **Load & Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
+2. **Generate & Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in AI/Offline Getty Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
+3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
 
-<hr>
+---
 
-<h2>Key Features &amp; Functionality</h2>
+## Key Features & Functionality
 
-<ul>
-  <li><strong><a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Versatile AI Engine Modes &amp; Customization</a></strong>
-    <ul>
-      <li><strong>Cloud AI:</strong> High-speed cloud processing via OpenRouter. You maintain full control over your API usage through a <strong>Built-in OpenRouter Dashboard</strong>, paying only raw API prices with total transparency.</li>
-      <li><strong>Local AI (100% Free &amp; Private):</strong> Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots with zero API costs.</li>
-      <li><strong>Hybrid AI (Local Vision + Cloud Text):</strong> Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.</li>
-      <li><strong>2-Pass Local AI:</strong> Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.</li>
-      <li><strong>Customizable AI Prompts:</strong> Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.</li>
-    </ul>
-  </li>
-  <br>
-  <li><strong><a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images Optimizer (Master ESP Tool)</a></strong>
-    <ul>
-      <li><strong>Near-Perfect Acceptance:</strong> Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.</li>
-      <li><strong>Interactive Getty Resolver:</strong> Available for both Single and Batch modes with visual context highlighting and term splitting.</li>
-      <li><strong>Semantic AI Disambiguation:</strong> The AI analyzes image context to solve homonyms (e.g., automatically distinguishing a "crane" bird from a "crane" construction machine).</li>
-      <li><strong>Non-Destructive Workflow:</strong> Original metadata remains untouched; optimized terms are safely stored in separate XMP metadata.</li>
-    </ul>
-  </li>
-  <br>
-  <li><strong><a href="/docs/smart-manual-keywording-batch-editing.html">Manual Workflow &amp; Ergonomics (Hands-On Control)</a></strong>
-    <ul>
-      <li><strong>Intuitive Drag &amp; Drop Keywords:</strong> Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between photos.</li>
-      <li><strong>Advanced Batch Metadata Application:</strong> Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously.</li>
-      <li><strong>Smart Append Sync:</strong> Type a keyword into a selection of hundreds of photos—the app injects it in real-time without overwriting their unique existing tags.</li>
-      <li><strong>Interactive Integrated Map:</strong> Visually verify extracted GPS coordinates running reverse geocoding.</li>
-      <li><strong>Lightning-Fast Copy &amp; Paste:</strong> Use dedicated shortcuts to copy entire metadata blocks from one master image and paste them across an entire batch.</li>
-      <li><strong>Metadata Templates:</strong> Save and load custom metadata presets for recurring shoots or specific studio setups.</li>
-    </ul>
-  </li>
-  <br>
-  <li><strong><a href="/docs/global-stock-distribution-ftp.html">Global Distribution &amp; Smart FTP Suite</a></strong>
-    <ul>
-      <li><strong>Multi-Server Batch Uploads:</strong> Configure individual thread limits per agency to prevent connection blocks (<code>421 Too many connections</code>).</li>
-      <li><strong>1-Click Automated CSV Upload:</strong> Generates a temporary, agency-specific CSV with matching category IDs, uploads it alongside your media, and automatically purges it.</li>
-      <li><strong>Universal Category Mapping:</strong> Pre-configured mapping for Adobe Stock, Shutterstock, and other major agencies.</li>
-      <li><strong>FTP Status Badges:</strong> Successful uploads write micro-badges directly into XMP metadata for persistent tracking.</li>
-    </ul>
-  </li>
-  <br>
-  <li><strong><a href="/docs/smart-grid-filters-search-metadata-management.html">Advanced Interface &amp; Portfolio Organization</a></strong>
-    <ul>
-      <li><strong>Blazing-Fast Image Grid:</strong> Displays Titles, Descriptions, and Keywords directly below every card. Includes comprehensive Thumbnail Badges.</li>
-      <li><strong>Visual Status Indicators:</strong> Color-coded states warn you in real-time about validation errors.</li>
-      <li><strong>Absolute Priority AI Hints:</strong> Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.</li>
-      <li><strong>Flat View:</strong> Toggle a unified, continuous list view for all loaded subfolders simultaneously.</li>
-    </ul>
-  </li>
-  <br>
-  <li><strong><a href="/docs/metadata-compatibility-and-file-handling.html">Universal Metadata Compatibility &amp; Linguistics</a></strong>
-    <ul>
-      <li><strong>100% EXIF/IPTC/XMP Compliant:</strong> Data is written safely to sidecars or directly embedded, ensuring seamless interoperability with Adobe Lightroom, Bridge, and Capture One.</li>
-      <li><strong>Keyword Order Restoration:</strong> Easily revert to your original keyword sequencing with a single click to protect manually sorted priority tags.</li>
-      <li><strong>Auto-GPS Country Lookup:</strong> Auto-translates GPS coordinates into readable city/country names via OpenStreetMap or ArcGIS.</li>
-      <li><strong>Dual-Language Spellcheck:</strong> Validate against two dictionaries simultaneously without switching settings.</li>
-    </ul>
-  </li>
-  <br>
-  <li><strong><a href="/docs/batch-operations-metadata-library-management.html">Powerful Batch Operations &amp; Configuration</a></strong>
-    <ul>
-      <li><strong>Smarter Batch Rename:</strong> Rename thousands of files using dynamic variables like <code>{TITLE}</code>, <code>{CC}</code>, <code>{DATE}</code>, or <code>{FOLDER_NAME}</code>.</li>
-      <li><strong>Bulk Metadata Editing:</strong> Smart Add/Remove/Replace with <code>Old -&gt; New</code> syntax and <code>Ctrl+H</code> support.</li>
-      <li><strong>Ollama VRAM Context Tuning:</strong> Optimize memory allocation based on your GPU hardware.</li>
-      <li><strong>Video Economy Mode:</strong> Collage-based analysis to minimize API consumption and process video files efficiently.</li>
-    </ul>
-  </li>
-</ul>
+* **[Versatile AI Engine Modes & Customization](/docs/ai-metadata-generation-cloud-local-ollama.html)**
+    * **Cloud AI:** High-speed cloud processing via OpenRouter. You maintain full control over your API usage through a **Built-in OpenRouter Dashboard**, paying only raw API prices with total transparency.
+    * **Local AI (100% Free & Private):** Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots with zero API costs.
+    * **Hybrid AI (Local Vision + Cloud Text):** Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.
+    * **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
+    * **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.
 
-<hr>
+* **[Getty Images Optimizer (Master ESP Tool)](/docs/getty-images-esp-metadata-optimizer.html)**
+    * **Near-Perfect Acceptance:** Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.
+    * **Interactive Getty Resolver:** Available for both Single and Batch modes with visual context highlighting and term splitting.
+    * **Semantic AI Disambiguation:** The AI analyzes image context to solve homonyms (e.g., automatically distinguishing a "crane" bird from a "crane" construction machine).
+    * **Non-Destructive Workflow:** Original metadata remains untouched; optimized terms are safely stored in separate XMP metadata.
+
+* **[Manual Workflow & Ergonomics (Hands-On Control)](/docs/smart-manual-keywording-batch-editing.html)**
+    * **Intuitive Drag & Drop Keywords:** Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between photos.
+    * **Advanced Batch Metadata Application:** Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously.
+    * **Smart Append Sync:** Type a keyword into a selection of hundreds of photos—the app injects it in real-time without overwriting their unique existing tags.
+    * **Interactive Integrated Map:** Visually verify extracted GPS coordinates running reverse geocoding.
+    * **Lightning-Fast Copy & Paste:** Use dedicated shortcuts to copy entire metadata blocks from one master image and paste them across an entire batch.
+    * **Metadata Templates:** Save and load custom metadata presets for recurring shoots or specific studio setups.
+
+* **[Global Distribution & Smart FTP Suite](/docs/global-stock-distribution-ftp.html)**
+    * **Multi-Server Batch Uploads:** Configure individual thread limits per agency to prevent connection blocks (`421 Too many connections`).
+    * **1-Click Automated CSV Upload:** Generates a temporary, agency-specific CSV with matching category IDs, uploads it alongside your media, and automatically purges it.
+    * **Universal Category Mapping:** Pre-configured mapping for Adobe Stock, Shutterstock, and other major agencies.
+    * **FTP Status Badges:** Successful uploads write micro-badges directly into XMP metadata for persistent tracking.
+
+* **[Advanced Interface & Portfolio Organization](/docs/smart-grid-filters-search-metadata-management.html)**
+    * **Blazing-Fast Image Grid:** Displays Titles, Descriptions, and Keywords directly below every card. Includes comprehensive Thumbnail Badges.
+    * **Visual Status Indicators:** Color-coded states warn you in real-time about validation errors.
+    * **Absolute Priority AI Hints:** Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.
+    * **Flat View:** Toggle a unified, continuous list view for all loaded subfolders simultaneously.
+
+* **[Universal Metadata Compatibility & Linguistics](/docs/metadata-compatibility-and-file-handling.html)**
+    * **100% EXIF/IPTC/XMP Compliant:** Data is written safely to sidecars or directly embedded, ensuring seamless interoperability with Adobe Lightroom, Bridge, and Capture One.
+    * **Keyword Order Restoration:** Easily revert to your original keyword sequencing with a single click to protect manually sorted priority tags.
+    * **Category Management:** Easily assign standard microstock categories to single images or entire batches to ensure full compliance with agency submission requirements.
+    * **Auto-GPS Country Lookup:** Auto-translates GPS coordinates into readable city/country names via OpenStreetMap or ArcGIS.
+    * **Dual-Language Spellcheck:** Validate against two dictionaries simultaneously without switching settings.
+
+* **[Powerful Batch Operations & Configuration](/docs/batch-operations-metadata-library-management.html)**
+    * **Smarter Batch Rename:** Rename thousands of files using dynamic variables like `{TITLE}`, `{CC}`, `{DATE}`, or `{FOLDER_NAME}`.
+    * **Bulk Metadata Editing:** Smart Add/Remove/Replace with `Old -> New` syntax and `Ctrl+H` support.
+    * **Ollama VRAM Context Tuning:** Optimize memory allocation based on your GPU hardware.
+    * **Video Economy Mode:** Collage-based analysis to minimize API consumption and process video files efficiently.
+    
+---
 
 <h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h2>
 
@@ -400,14 +374,15 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <hr>
 
-<p><strong>ArtushVision AI Main Grid Workspace</strong></p>
+**ArtushVision AI Main Grid Workspace**
+
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="3066" height="1885" class="screenshot-img" loading="lazy" />
 </a>
 
 <hr>
 
-<h2>Cost Comparison: Own Your Tools</h2>
+## Cost Comparison: Own Your Tools
 
 <table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
   <thead>
@@ -443,131 +418,103 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <hr>
 
-<blockquote style="margin: 20px 0; padding-left: 15px; border-left: 4px solid #d0d7de; color: #57606a;">
-  <p><strong>Exceptional Value:</strong> Describe up to <strong>10,000 photos for only $6</strong> with perfect, high-quality results.<br>
-  <strong>Full Cost Control:</strong> Monitor your budget with built-in <strong>spending statistics</strong> (6-decimal precision).</p>
-</blockquote>
+> **Exceptional Value:** Describe up to **10,000 photos for only $6** with perfect, high-quality results.  
+> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
 <hr>
 
-<h2>Complete Documentation Index</h2>
+## Complete Documentation Index
 
 <div id="flex-search-container">
   <input type="text" id="flex-search-input" placeholder="Search documentation..." />
   <ul id="flex-results-container"></ul>
 </div>
 
-<h3>1. Getting Started</h3>
-<ul>
-  <li><a href="/docs/installation.html">System Requirements &amp; Installation</a></li>
-  <li><a href="/docs/download-purchase.html">First Launch &amp; Activation</a></li>
-  <li><a href="/docs/interface-overview.html">Interface Overview</a></li>
-  <li><a href="/docs/detail-window-interface-overview.html">Detail Window Overview</a></li>
-  <li><a href="/docs/cloud-ai-openrouter-api-setup.html">Cloud AI &amp; OpenRouter API Setup</a></li>
-  <li><a href="/docs/local-ai-model-manager-ollama.html">Local AI Setup &amp; Integrated Model Manager</a></li>
-</ul>
+### 1. Getting Started
+* [System Requirements & Installation](/docs/installation.html)
+* [First Launch & Activation](/docs/download-purchase.html)
+* [Interface Overview](/docs/interface-overview.html)
+* [Detail Window Overview](/docs/detail-window-interface-overview.html)
+* [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
+* [Local AI Setup & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
 
-<h3>2. Core Workflows</h3>
-<ul>
-  <li><a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Understanding AI Processing Modes (Cloud, Local, Hybrid)</a></li>
-  <li><a href="/docs/how-to-download-local-ai-models-via-ollama.html">How to Download Local AI Models via Ollama</a></li>
-  <li><a href="/docs/local-ai-model-manager-ollama.html">Local AI Model Manager: Complete Offline Control</a></li>
-  <li><a href="/docs/advanced-ai-prompting-profiles-variables.html">Advanced AI Prompting, Profiles &amp; Variables</a></li>
-  <li><a href="/docs/create-and-optimize-custom-ai-prompts.html">Create and Optimize Custom AI Prompts</a></li>
-  <li><a href="/docs/smart-manual-keywording-batch-editing.html">Manual Editing, Multi-language Spellcheck &amp; Interactive Map</a></li>
-  <li><a href="/docs/batch-operations-metadata-library-management.html">Batch Metadata Actions, Search &amp; Replace</a></li>
-  <li><a href="/docs/category-matrix.html">Microstock Category Mapping Matrix</a></li>
-  <li><a href="/docs/smart-grid-filters-search-metadata-management.html">Smart Grid Filters and Search</a></li>
-</ul>
+### 2. Core Workflows
+* [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
+* [How to Download Local AI Models via Ollama](/docs/how-to-download-local-ai-models-via-ollama.html)
+* [Local AI Model Manager: Complete Offline Control](/docs/local-ai-model-manager-ollama.html)
+* [Advanced AI Prompting, Profiles & Variables](/docs/advanced-ai-prompting-profiles-variables.html)
+* [Create and Optimize Custom AI Prompts](/docs/create-and-optimize-custom-ai-prompts.html)
+* [Manual Editing, Multi-language Spellcheck & Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
+* [Batch Metadata Actions, Search & Replace](/docs/batch-operations-metadata-library-management.html)
+* [Microstock Category Mapping Matrix](/docs/category-matrix.html)
+* [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
 
-<h3>3. Professional Asset Distribution</h3>
-<ul>
-  <li><a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images ESP Metadata Optimizer &amp; Resolver</a></li>
-  <li><a href="/docs/global-stock-distribution-ftp.html">Global Stock Distribution &amp; Multi-threaded FTP Suite</a></li>
-  <li><a href="/docs/settings-configuration-customization.html#advanced-csv-template-editor">Dynamic CSV Template Mapping</a></li>
-</ul>
+### 3. Professional Asset Distribution
+* [Getty Images ESP Metadata Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html)
+* [Global Stock Distribution & Multi-threaded FTP Suite](/docs/global-stock-distribution-ftp.html)
+* [Dynamic CSV Template Mapping](/docs/settings-configuration-customization.html#advanced-csv-template-editor)
 
-<h3>4. Advanced Management</h3>
-<ul>
-  <li><a href="/docs/settings-configuration-customization.html">Workspace Theming, VRAM context tuning &amp; Data Safety</a></li>
-</ul>
+### 4. Advanced Management
+* [Workspace Theming, VRAM context tuning & Data Safety](/docs/settings-configuration-customization.html)
 
-<hr>
+---
 
-<h3>Get Started Now</h3>
-<ul>
-  <li><a href="/docs/download-purchase.html">Download Free Lite Version</a></li>
-  <li><a href="/docs/download-purchase.html#buy-lifetime-license">Purchase Lifetime License - $39.99</a></li>
-</ul>
+### [Get Started Now]
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
-<hr>
+---
 
-<p>
-  <a href="https://vision.artushfoto.eu">← Back to ArtushVision AI Home</a><br><br>
-  <a href="/docs/faq.html">❓ Frequently Asked Questions (FAQ)</a><br><br>
-  <a href="/docs/artushvision-reviews.html">⭐ User Reviews &amp; Testimonials</a><br><br>
-  <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions">💬 Support, Bugs &amp; Community Forum</a>
-</p>
+## Need Help?
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
-<hr>
+---
 
-<p><i>ArtushVision AI - Stability and precision for professional photography workflows.</i></p>
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-</main>
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
+
+*ArtushVision AI - Stability and precision for professional photography workflows.*
 
 <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
-
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   var searchInput = document.getElementById('flex-search-input');
   var resultsContainer = document.getElementById('flex-results-container');
   var indexTitle, indexContent;
   var documentsMap = {};
-  var isIndexLoaded = false; // Pojistka, aby se index nestahoval po každém kliknutí znovu
 
   if (!searchInput || !resultsContainer) return;
 
-  // Funkce, která asynchronně stáhne a sestaví index až při interakci
-  function loadSearchIndex() {
-    if (isIndexLoaded) return;
-    isIndexLoaded = true; // Označíme, že stahování již začalo
+  indexTitle = new FlexSearch.Index({ tokenize: "forward", resolution: 9, depth: 1 });
+  indexContent = new FlexSearch.Index({ tokenize: "forward", resolution: 5, depth: 1 });
 
-    indexTitle = new FlexSearch.Index({ tokenize: "forward", resolution: 9, depth: 1 });
-    indexContent = new FlexSearch.Index({ tokenize: "forward", resolution: 5, depth: 1 });
+  fetch('/search.json')
+    .then(response => response.json())
+    .then(data => {
+      data.forEach((item, index) => {
+        var id = index;
+        documentsMap[id] = { title: item.title, url: item.url };
+        indexTitle.add(id, item.title);
+        indexContent.add(id, item.content || "");
+      });
+    })
+    .catch(err => console.error("Search index compilation failed:", err));
 
-    fetch('/search.json')
-      .then(response => response.json())
-      .then(data => {
-        data.forEach((item, index) => {
-          var id = index;
-          documentsMap[id] = { title: item.title, url: item.url };
-          indexTitle.add(id, item.title);
-          indexContent.add(id, item.content || "");
-        });
-        // Pokud uživatel už stihl něco napsat během stahování, rovnou vyhledáme výsledky
-        executeSearch();
-      })
-      .catch(err => console.error("Search index compilation failed:", err));
-  }
-
-  // Spustíme stahování indexu až ve chvíli, kdy uživatel klikne do políčka nebo do něj najede
-  searchInput.addEventListener('focus', loadSearchIndex);
   searchInput.addEventListener('input', function() {
-    loadSearchIndex(); // Pojistka, pokud by začal rovnou psát bez předchozího kliku
-    executeSearch();
-  });
-
-  function executeSearch() {
-    var query = searchInput.value.trim();
+    var query = this.value.trim();
     resultsContainer.innerHTML = '';
     
     if (query.length < 2) {
       resultsContainer.style.display = 'none';
       return;
     }
-
-    // Pokud se index ještě stahuje, počkáme a nevyhledáváme
-    if (!indexTitle || !indexContent) return;
 
     var titleResults = indexTitle.search(query, { limit: 10 });
     var contentResults = indexContent.search(query, { limit: 10 });
@@ -592,7 +539,7 @@ document.addEventListener("DOMContentLoaded", function() {
       resultsContainer.innerHTML = '<div class="no-results-msg">No documentation pages found</div>';
       resultsContainer.style.display = 'block';
     }
-  }
+  });
 
   document.addEventListener('click', function(e) {
     if (e.target !== searchInput && e.target !== resultsContainer) {
