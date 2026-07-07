@@ -239,9 +239,11 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
-<a href="/docs/download-purchase.html" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/artushvision.svg" alt="ArtushVision AI Software Features Overview" width="1200" height="600" class="screenshot-img" />
-</a>
+<div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); overflow: hidden; background-color: #253544; line-height: 0;">
+  <object type="image/svg+xml" data="artushvision.svg" title="ArtushVision AI Software Features - Smart Microstock Tagging" aria-label="ArtushVision AI Software Features - Smart Microstock Tagging" style="width: 100%; height: auto; aspect-ratio: 841.89 / 210.47; display: block; pointer-events: auto !important; outline: none; border: none; margin: 0; padding: 0;">
+    <img src="artushvision.svg" alt="ArtushVision AI Software Features - Smart Microstock Tagging" />
+  </object>
+</div>
 
 <hr>
 
@@ -249,8 +251,12 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   <div class="hero-text">
     <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
     
-    <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a;">
-      Complete standalone autonomy. Run powerful Vision &amp; Text models <strong>100% locally and privately via Ollama</strong> with zero API costs, map keywords seamlessly against the official <strong>Getty Images Controlled Vocabulary</strong>, and automate distribution with <strong>per-server multi-threaded FTP uploads</strong> and dynamic CSV mapping. Read the full <a href="/docs/whats-new.html">v1.10 Release Notes</a>.
+    <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a; padding-left: 15px; border-left: 4px solid #0969da; font-style: italic;">
+      "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
+      <br>
+      <span style="display: block; margin-top: 8px; font-style: normal; font-size: 0.85em; font-weight: 600; color: #24292f;">
+        &mdash; Steven Heap, BackyardSilver (<a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" title="Read full user reviews">Read Full Review &rarr;</a>)
+      </span>
     </blockquote>
     
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
@@ -259,11 +265,11 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
     </div>
   </div>
   
-  <div class="hero-image">
-    <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
-      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" loading="lazy" class="screenshot-img" />
-    </a>
-  </div>
+<div class="hero-image">
+  <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
+    <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" fetchpriority="high" class="screenshot-img" />
+  </a>
+</div>
 </div>
 
 <hr>
