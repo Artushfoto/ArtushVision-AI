@@ -145,9 +145,11 @@ h1 { text-align: center; }
 
 ## ArtushVision AI v1.10 Released – Desktop AI Microstock Tagger with 100% Private Local AI & Getty ESP Optimizer
 
-**ArtushVision AI** is a native desktop application designed to handle thousands of high-resolution photos and videos without stuttering. It gives you total control over your metadata, writes directly to XMP/IPTC sidecars, and automates multi-agency distribution.
+**ArtushVision AI** is a native desktop application designed to handle thousands of high-resolution photos and videos. It gives you total control over your metadata, writes directly to XMP/IPTC sidecars, and automates multi-agency FTP distribution.
 
 With the release of **v1.10**, we are introducing full offline autonomy via Ollama and a dedicated Getty Images Controlled Vocabulary engine.
+
+**Try the fully functional trial version. It has no time limits and provides access to all premium features, limited only by the number of processed photos per application launch.**
 
 ---
 
@@ -189,7 +191,7 @@ With the release of **v1.10**, we are introducing full offline autonomy via Olla
     *   **Absolute Priority AI Hints:** Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.
     *   **Flat View:** Toggle a unified, continuous list view for all loaded subfolders simultaneously.
 ---
-*   **Universal Metadata Compatibility:** 100% compliant with  standard EXIF, IPTC, and XMP schemas. Your data is written safely to sidecars or directly embedded, ensuring seamless round-trip interoperability with industry-standard software like Adobe Lightroom, Bridge, and Capture One
+*   **Universal Metadata Compatibility:** 100% compliant with standard EXIF, IPTC, and XMP schemas. Your data is written safely to sidecars or directly embedded, ensuring seamless round-trip interoperability with industry-standard software like Adobe Lightroom, Bridge, Zoner Pand Capture One
     *   **Keyword Order Restoration:** Easily revert to your original keyword sequencing with a single click. This safety net guarantees that your manually sorted priority tags (crucial for Adobe Stock's Top 10 algorithm) are instantly restored if you need to roll back changes after an AI pass or batch edit.
 ---
 *   **Professional Metadata Management & Linguistics**
