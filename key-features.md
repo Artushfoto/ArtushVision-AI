@@ -149,6 +149,8 @@ h1 { text-align: center; }
 
 With the release of **v1.10**, we are introducing full offline autonomy via Ollama and a dedicated Getty Images Controlled Vocabulary engine.
 
+---
+
 ### Key Features & Functionality
 
 *   **Versatile AI Engine Modes & Customization**
@@ -157,13 +159,13 @@ With the release of **v1.10**, we are introducing full offline autonomy via Olla
     *   **Hybrid AI (Local Vision + Cloud Text):** Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.
     *   **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
     *   **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style, enforce specific keyword structures, or adapt to your specific photography niche.
-
+---
 *   **Getty Images Optimizer (Master ESP Tool)**
     *   **Near-Perfect Acceptance:** Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.
     *   **Interactive Getty Resolver:** Available for both Single and Batch modes with visual context highlighting and term splitting.
     *   **Semantic AI Disambiguation:** The AI analyzes image context to solve homonyms (e.g., automatically distinguishing a "crane" bird from a "crane" construction machine).
     *   **Non-Destructive Workflow:** Original metadata remains untouched; optimized terms are safely stored in separate XMP metadata.
-
+---
 *   **Manual Workflow & Ergonomics (Hands-On Control)**
     *   **Intuitive Drag & Drop Keywords:** Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between different photos in the grid.
     *   **Advanced Batch Metadata Application:** Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously. 
@@ -171,14 +173,14 @@ With the release of **v1.10**, we are introducing full offline autonomy via Olla
     *   **Interactive Integrated Map:** A built-in map module allows you to visually verify extracted GPS coordinates running the reverse geocoding.
     *   **Lightning-Fast Copy & Paste:** Use dedicated shortcuts to copy entire metadata blocks (or specific fields) from one master image and paste them across an entire batch.
     *   **Metadata Templates:** Save and load custom metadata presets for recurring shoots or specific studio setups.
-
+---
 *   **Global Distribution & Smart FTP Suite**
     *   **Multi-Server Batch Uploads with Multi-Threading:** Configure individual thread limits per agency to prevent connection blocks (`421 Too many connections`).
     *   **1-Click Automated CSV Upload:** The app generates a temporary, agency-specific CSV with matching category IDs, uploads it alongside your media, and automatically purges it from your drive.
     *   **Universal Category Mapping:** Pre-configured and easily adjustable category mapping for Adobe Stock, Shutterstock, and other major microstock agencies.
     *   **FTP Status Badges:** Successful uploads write micro-badges directly into XMP metadata for persistent tracking.
     *   **Custom FTP Profiles:** Create specialized configurations (e.g., "Stock Photo", "Editorial").
-
+---
 *   **Advanced Interface & Portfolio Organization**
     *   **Blazing-Fast Image Grid:** Displays Titles, Descriptions, and Keywords directly below every card. Includes comprehensive Thumbnail Badges (GPS, XMP, ORIG, RAW, VIDEO, GETTY, FTP, CAT).
     *   **Visual Status Indicators:** Color-coded states (Gray/Yellow/Green/Red) warn you in real-time about validation errors.
@@ -186,23 +188,23 @@ With the release of **v1.10**, we are introducing full offline autonomy via Olla
     *   **Filter Bar:** Smart Search (with Case sensitivity), Folder Filtering with live photo counts, and File Type Filters.
     *   **Absolute Priority AI Hints:** Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.
     *   **Flat View:** Toggle a unified, continuous list view for all loaded subfolders simultaneously.
-
-    **Universal Metadata Compatibility:** 100% compliant with standard EXIF, IPTC, and XMP schemas. Your data is written safely to sidecars or directly embedded, ensuring seamless round-trip interoperability with industry-standard software like Adobe Lightroom, Bridge, and Capture One.
+---
+*   **Universal Metadata Compatibility:** 100% compliant with  standard EXIF, IPTC, and XMP schemas. Your data is written safely to sidecars or directly embedded, ensuring seamless round-trip interoperability with industry-standard software like Adobe Lightroom, Bridge, and Capture One
     *   **Keyword Order Restoration:** Easily revert to your original keyword sequencing with a single click. This safety net guarantees that your manually sorted priority tags (crucial for Adobe Stock's Top 10 algorithm) are instantly restored if you need to roll back changes after an AI pass or batch edit.
-
+---
 *   **Professional Metadata Management & Linguistics**
     *   **Detail Photo View:** Inline editing with real-time word and character counters.
     *   **Category Management:** Easily assign standard microstock categories to single images or entire batches to ensure full compliance with agency submission requirements.
     *   **Metadata Protection:** Strict preservation of existing keywords and Face Recognition (People tags).
     *   **Auto-GPS Country Lookup (Reverse Geocoding):** Auto-translates GPS coordinates into readable city/country names via OpenStreetMap or ArcGIS to give the AI geographical context.
     *   **Dual-Language Spellcheck:** Real-time underlining and suggestions. Validate against two dictionaries simultaneously (e.g., English + your native language) without switching settings.
-
+---
 *   **Powerful Batch Operations**
     *   **Smarter Batch Rename:** Rename thousands of files using dynamic variables like `{TITLE}`, `{CC}`, `{DATE}`, or `{FOLDER_NAME}`.
     *   **Type-Ahead Autocomplete:** Predictive text powered by a pre-warmed database of 300,000+ highly commercial stock terms.
     *   **Bulk Metadata Editing:** Smart Add/Remove/Replace with `Old -> New` syntax and `Ctrl+H` support.
     *   **File Operations:** Integrated Copy, Move, and Delete with complete sidecar file synchronization.
-
+---
 *   **Comprehensive Settings & Configuration**
     *   **Ollama VRAM Context Tuning:** Optimize memory allocation based on your GPU hardware.
     *   **Video Economy Mode:** Collage-based analysis to minimize API consumption and process video files efficiently.
