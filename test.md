@@ -249,7 +249,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   <div class="hero-text">
     <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
     
-    <p style="font-size: 0.95em; margin: 10px 0;">Join hundreds of professional and hobby photographers who have already abandoned expensive cloud subscriptions. <strong><a href="#reviews">Read our user reviews and success stories below &rarr;</a></strong></p>
+    <p style="font-size: 0.95em; margin: 10px 0;">Join hundreds of professional and hobby photographers who have already abandoned expensive cloud subscriptions. <strong><a href="/docs/artushvision-reviews.html">Read our user reviews and success stories below &rarr;</a></strong></p>
     
     <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a; padding-left: 15px; border-left: 4px solid #0969da; font-style: italic;">
       "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
@@ -381,18 +381,6 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 <a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="3066" height="1885" class="screenshot-img" loading="lazy" />
 </a>
-
-<hr>
-
-<div id="reviews"></div>
-
-## What Other Photographers Are Saying
-
-> "Switched my entire workflow to ArtushVision AI. Keywording 20,000 travel images used to be a financial nightmare on cloud platforms. Now I run it locally over the weekend for free."  
-> — **Steve H.**, Stock & Travel Photographer
-
-> "The customizable prompts changed everything. I can finally force the AI to tag atmosphere and location context instead of generic stock terms."  
-> — **Jan M.**, Landscape Photographer
 
 ---
 
