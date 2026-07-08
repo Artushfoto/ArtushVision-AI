@@ -13,7 +13,7 @@ description: "See what professional photographers, stock contributors, and creat
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "reviewCount": "3",
+    "reviewCount": "4",
     "bestRating": "5",
     "worstRating": "1"
   },
@@ -24,7 +24,8 @@ description: "See what professional photographers, stock contributors, and creat
         "@type": "Person",
         "name": "Steven Heap (BackyardSilver)"
       },
-      "reviewBody": "Let me say, right from the start, every AI keywording system I have looked at before didn't fit my process. This one is so flexible that it probably fits everyone's process, including mine. I think that this is a highly impressive tool for stock photography metadata and much more than a simple AI keywording generator.",
+      "datePublished": "2026-07-05",
+      "reviewBody": "It has rapidly evolved into the Swiss Army Knife of metadata management... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically with one click, providing a smooth and intelligent solution for the Getty/iStock controlled vocabulary... this is very hard to beat.",
       "reviewRating": {
         "@type": "Rating",
         "ratingValue": "5",
@@ -37,6 +38,7 @@ description: "See what professional photographers, stock contributors, and creat
         "@type": "Organization",
         "name": "Kruwt.nl"
       },
+      "datePublished": "2026-05-26",
       "reviewBody": "I tested a number of systems extensively, and for me, a clear winner emerged: ArtushVision AI!! It perfectly meets my requirements for metadata quality, configurability, AI ease of use, and working significantly faster.",
       "reviewRating": {
         "@type": "Rating",
@@ -50,7 +52,22 @@ description: "See what professional photographers, stock contributors, and creat
         "@type": "Person",
         "name": "Steven Heap (BackyardSilver)"
       },
-      "reviewBody": "It has rapidly evolved into the Swiss Army Knife of metadata management... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically with one click, providing a smooth and intelligent solution for the Getty/iStock controlled vocabulary... this is very hard to beat.",
+      "datePublished": "2026-04-27",
+      "reviewBody": "Instead of going back into Lightroom and making a mess of my main catalog, I simply took my exported JPEGs and ran them through an AI profile... It acted as a translation layer, reading the 'DNA' of my existing stock keywords and evolving it to exactly what I needed for the B2B market.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Steven Heap (BackyardSilver)"
+      },
+      "datePublished": "2026-04-14",
+      "reviewBody": "Let me say, right from the start, every AI keywording system I have looked at before didn't fit my process. This one is so flexible that it probably fits everyone's process, including mine. I think that this is a highly impressive tool for stock photography metadata and much more than a simple AI keywording generator.",
       "reviewRating": {
         "@type": "Rating",
         "ratingValue": "5",
@@ -159,40 +176,52 @@ h1 { text-align: center; }
 
 <div class="review-container">
 
-  <!-- Review Card 2 - Steven Heap (Workflow & Getty Mapping) -->
+  <!-- Review Card 1 - July 5, 2026 -->
   <article class="review-card">
     <div class="review-header">
       <div class="reviewer-info">
         <h3>Steven Heap (BackyardSilver)</h3>
-        <p class="reviewer-role">Professional Stock Photographer & Blogger</p>
+        <p class="reviewer-role">Professional Stock Photographer & Blogger • July 5, 2026</p>
       </div>
     </div>
     <blockquote class="review-quote">"It has rapidly evolved into the Swiss Army Knife of metadata management, granting complete architectural control over which AI model you deploy for specific commercial objectives. From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically with one click, providing a smooth and intelligent solution for the Getty/iStock controlled vocabulary... this is very hard to beat."</blockquote>
     <a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read Steven Heap's review on Lightroom Keyword Priority & Getty Mapping">Read Full Workflow Review &rarr;</a>
   </article>
 
-  <!-- Review Card Kruwt.nl -->
+  <!-- Review Card 2 - Kruwt.nl - May 26, 2026 -->
   <article class="review-card">
     <div class="review-header">
       <div class="reviewer-info">
         <h3>Kruwt.nl</h3>
-        <p class="reviewer-role">Stock Photographer & Blogger (Netherlands)</p>
+        <p class="reviewer-role">Stock Photographer & Blogger (Netherlands) • May 26, 2026</p>
       </div>
     </div>
     <blockquote class="review-quote">"I was looking for a suitable AI tool to generate metadata—titles, descriptions, and keywords—for my stock photos. I tested a number of systems extensively, and for me, a clear winner emerged: ArtushVision AI!! It perfectly meets my requirements for configurability, metadata quality, AI ease of use, and working significantly faster."</blockquote>
     <a href="https://www.kruwt.nl/mijn-favoriete-ai-tool-voor-metadata-en-trefwoorden-bij-stockfotos" target="_blank" rel="noopener noreferrer" class="review-link" title="Read the review on Kruwt.nl">Read Full Dutch Review &rarr;</a>
   </article>
 
-  <!-- Review Card 1 - BackyardSilver Intro -->
+  <!-- Review Card 3 - April 27, 2026 -->
   <article class="review-card">
     <div class="review-header">
       <div class="reviewer-info">
         <h3>Steven Heap (BackyardSilver)</h3>
-        <p class="reviewer-role">Professional Stock Photographer & Blogger</p>
+        <p class="reviewer-role">Professional Stock Photographer & Blogger • April 27, 2026</p>
+      </div>
+    </div>
+    <blockquote class="review-quote">"Instead of going back into Lightroom and making a mess of my main catalog, I simply took my exported JPEGs and ran them through an AI profile... It acted as a translation layer, reading the 'DNA' of my existing stock keywords and evolving it to exactly what I needed for the B2B market."</blockquote>
+    <a href="https://backyardsilver.com/artushvision-ai-b2b-metadata-guide/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read Steven Heap's guide on B2B metadata">Read B2B Metadata Guide &rarr;</a>
+  </article>
+
+  <!-- Review Card 4 - April 14, 2026 -->
+  <article class="review-card">
+    <div class="review-header">
+      <div class="reviewer-info">
+        <h3>Steven Heap (BackyardSilver)</h3>
+        <p class="reviewer-role">Professional Stock Photographer & Blogger • April 14, 2026</p>
       </div>
     </div>
     <blockquote class="review-quote">"Let me say, right from the start, every AI keywording system I have looked at before didn't fit my process. This one is so flexible that it probably fits everyone's process, including mine. I think that this is a highly impressive tool for stock photography metadata and much more than a simple AI keywording generator."</blockquote>
-    <a href="https://backyardsilver.com/testing-another-ai-keywording-solution-artushvision-ai/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read the full ArtushVision AI review by BackyardSilver">Read Full Review &rarr;</a>
+    <a href="https://backyardsilver.com/testing-another-ai-keywording-solution-artushvision-ai/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read the full ArtushVision AI review by BackyardSilver">Read Field Test Review &rarr;</a>
   </article>
 
 </div>
