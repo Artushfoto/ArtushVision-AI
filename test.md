@@ -249,7 +249,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   <div class="hero-text">
     <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
     
-    <p style="font-size: 0.95em; margin: 10px 0;">Join hundreds of professional and hobby photographers who have already abandoned expensive cloud subscriptions. <strong><a href="/docs/artushvision-reviews.html">Read our user reviews and success stories below &rarr;</a></strong></p>
+    <p style="font-size: 0.95em; margin: 10px 0;">Designed for smart photographers who are ready to abandon expensive cloud subscriptions and take back control. <strong><a href="/docs/artushvision-reviews.html">Read our user reviews and success stories below &rarr;</a></strong></p>
     
     <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a; padding-left: 15px; border-left: 4px solid #0969da; font-style: italic;">
       "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
@@ -283,7 +283,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 ---
 
-**STOP paying rent** for your software or credits. For just $39.99, the price of a **casual dinner for two**, you get a powerful tool that is yours forever. **No expensive monthly subscriptions**, no strings attached. Run it **completely offline for maximum privacy**, or connect to **cloud AI** whenever you need it with **total control** over your usage and costs. **It’s a one-time investment that pays for itself in just two hours of saved work.**
+**Stop paying rent** for your software or credits. For just $39.99, the price of a **casual dinner for two**, you get a powerful tool that is yours forever. **No expensive monthly subscriptions**, no strings attached. Run it **completely offline for maximum privacy**, or connect to **cloud AI** whenever you need it with **total control** over your usage and costs. **It’s a one-time investment that pays for itself in just two hours of saved work.**
 
 ---
 
