@@ -231,17 +231,17 @@ Search the documentation pages directly or jump back to the main [Complete Docum
       if (analyticsLoaded) return;
       analyticsLoaded = true;
 
-      // 1. Dynamické vložení externího skriptu gtag.js
+      // 1. Dynamické vložení externího skriptu gtag.js s NOVÝM ID
       var gtagScript = document.createElement('script');
       gtagScript.async = true;
-      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-9CH7W6CRCH';
+      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ5';
       document.head.appendChild(gtagScript);
 
-      // 2. Inicializace nastavení Google Analytics
+      // 2. Inicializace nastavení Google Analytics s NOVÝM ID
       window.dataLayer = window.dataLayer || [];
       window.gtag = function(){ dataLayer.push(arguments); }
       gtag('js', new Date());
-      gtag('config', 'G-9CH7W6CRCH');
+      gtag('config', 'G-KCZWMGZFJ5');
 
       // 3. Odstranění posluchačů událostí po úspěšném načtení
       document.removeEventListener('scroll', loadAnalytics);

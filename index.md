@@ -559,6 +559,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
+<!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     let analyticsLoaded = false;
