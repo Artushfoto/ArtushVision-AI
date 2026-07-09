@@ -233,6 +233,16 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   }
 }
 </style>
+
+<!-- Nastavení Site Name pro vyhledávač Google -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "ArtushVision AI",
+  "url": "https://vision.artushfoto.eu"
+}
+</script>
 </div>
 
 <h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
@@ -249,7 +259,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   <div class="hero-text">
     <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
     
-    <p style="font-size: 0.95em; margin: 10px 0;">Designed for photographers who want to abandon expensive cloud subscriptions, take back control, and bring privacy back to their local workflow. <strong><a href="/docs/artushvision-reviews.html">Read our user reviews and success stories &rarr;</a></strong></p>
+    <p style="font-size: 0.95em; margin: 10px 0;">Designed for smart photographers who are ready to abandon expensive cloud subscriptions and take back control. <strong><a href="/docs/artushvision-reviews.html">Read our user reviews and success stories &rarr;</a></strong></p>
     
     <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a; padding-left: 15px; border-left: 4px solid #0969da; font-style: italic;">
       "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
