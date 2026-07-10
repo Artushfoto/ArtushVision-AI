@@ -31,7 +31,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 #### Pixify Studio (pixify.io)
 * **Pricing:** Ranges from $5/month (100 credits) to $59/month (3,000 credits), up to $115/month. Additional top-up credits cost $30 per 1,000.
-* **Getty/iStock Optimization:** None. It lacks any built-in controlled vocabulary optimization, outputting only standard flat text tags that require manual disambiguation elsewhere.
+* **Getty/iStock Optimization:** Internal AI model currently in development; costs 2 credits per generation.
 * **EXIF & GPS Handling:** Completely ignores EXIF/GPS data during the AI keywording phase. The AI analyzes the image purely as a blind visual container, meaning location-specific context or technical camera data cannot be utilized to improve keyword precision.
 * **Strengths:** Includes a decent Lightroom Classic plugin.
 * **Weaknesses:** High credit anxiety. Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy.
@@ -45,7 +45,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 #### CyberStock (cyberstock.lol)
 * **Pricing:** Annual plans start at $7/month (only 200 credits), Pro plan is $15/month (800 credits), and Unlimited costs $63/month ($756/year billed annually). Monthly pricing without a commitment spikes up to $159/month.
-* **Getty/iStock Optimization:** None. It completely lacks specialized vocabulary resolution tools; it outputs generic text tags that will cause mass disambiguation failures upon ingestion to Getty/iStock.
+* **Getty/iStock Optimization:** ??? or None. It completely lacks specialized vocabulary resolution tools; it outputs generic text tags that will cause mass disambiguation failures upon ingestion to Getty/iStock.
 * **EXIF & GPS Handling:** Metadata-blind AI processing. CyberStock focuses entirely on pipeline processing speed. The cloud-based AI bypasses any internal EXIF/GPS analysis, making it impossible to auto-inject geographical or hardware variables into the metadata generation process.
 * **Strengths:** Very fast parallel cloud processing (~1.3s per asset), built-in marketing insights (SEMrush and Google Trends integration), and a Selling Score algorithm.
 * **Weaknesses:** High security risk on the market. Demands that you store your raw stock agency passwords and FTP connections directly on their remote cloud infrastructure. 
