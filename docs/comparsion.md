@@ -1,4 +1,4 @@
-# ArtushVision AI vs. Market Leaders: The Ultimate Microstock & Archive Management Comparison July (2026)
+# ArtushVision AI vs. Market Leaders: The Ultimate Microstock & Archive Management Comparison (2026)
 
 The modern microstock business demands extreme speed, metadata precision, and parallel distribution across multiple agencies (Adobe Stock, Shutterstock, Getty Images, Pond5, etc.). While the market has split into fast cloud-based web utilities and established desktop asset managers, a critical factor is often overlooked: **Data Privacy and Security.**
 
@@ -9,14 +9,14 @@ The modern microstock business demands extreme speed, metadata precision, and pa
 Most modern microstock tools function by forcing you to upload your high-resolution assets to their remote cloud servers for analysis. 
 
 > ### Critical Security Warning
-> To use cloud-based automated distribution features (such as CyberStock's *CyberPusher*), you are required to save your **FTP/SFTP usernames and passwords** on their remote cloud servers. If these third-party platforms suffer a data breach or server hack, your entire portfolio livelihood and financial stock accounts are exposed.
+> To use cloud-based automated distribution features (such as CyberStock's *CyberPusher*), you are required to save your **cleartext FTP/SFTP usernames and passwords** on their remote cloud servers. If these third-party platforms suffer a data breach, server exploit, or cloud database leak, your entire portfolio livelihood, financial stock accounts, and agency payout profiles are exposed to malicious actors.
 
 Furthermore, constantly uploading gigabytes of high-res files to the web is completely unviable for:
-1. **Client Work Under NDA:** Commercial assignments, corporate portraits, and private events where non-disclosure agreements strictly forbid uploading files to unverified third-party cloud servers.
+1. **Client Work Under NDA:** Commercial assignments, corporate portraits, and private events where non-disclosure agreements strictly forbid uploading proprietary files to unverified third-party cloud servers.
 2. **Family & Personal Travel Archives:** Private photography assets that you do not want scraped, analyzed, or stored by corporate cloud entities.
 
 ### The ArtushVision AI Paradigm
-Everything runs **100% locally on your machine**. Your FTP credentials never leave your local drive, and thanks to an integrated **local offline AI model manager**, not a single pixel of your private or klients' archives ever needs to touch the internet. 
+Everything runs **100% locally on your machine**. Your FTP credentials never leave your local drive, and thanks to an integrated **local offline AI model manager**, not a single pixel of your private, family, or client archives ever needs to touch the internet. 
 
 ---
 
@@ -30,19 +30,19 @@ Everything runs **100% locally on your machine**. Your FTP credentials never lea
 * **Weaknesses:** High "credit anxiety." Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy.
 
 #### PhotoTag.ai (`phototag.ai`)
-* **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (10 000Upload Credits - **1,000 file batch upload €56**).
+* **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (e.g., 10,000 Upload Credits / **1,000 file batch upload for €56**).
 * **Strengths:** Clean web interface supporting photos, videos, and vectors.
 * **Weaknesses:** Uses generic, rigid AI that describes scenes literally (*"green pot, white background"*) rather than capturing commercial, high-ranking metadata concepts (*"slow living, morning routine, authentic lifestyle"*). Zero local file culling or FTP modules.
 
 #### CyberStock (`cyberstock.lol`)
 * **Pricing:** Annual plans start at $7/month (only 200 credits), Pro plan is **$15/month** (800 credits), and Unlimited costs **$63/month** ($756/year billed annually). Monthly pricing without a commitment spikes up to $159/month.
 * **Strengths:** Very fast parallel cloud processing (~1.3s per asset), built-in marketing insights (SEMrush & Google Trends integration), and a "Selling Score" algorithm.
-* **Weaknesses:** **The highest security risk on the market.** Demands that you store your stock agency passwords on their cloud infrastructure. 
+* **Weaknesses:** **The highest security risk on the market.** Demands that you store your raw stock agency passwords and FTP connections directly on their remote cloud infrastructure. If you stop paying their steep monthly subscription, you lose access to the system and your history entirely.
 
 #### PhotoKeyworder.ai (`photokeyworder.ai`)
-* **Pricing:** Pay-as-you-go credit packs (20 free credits upon registration). **400 Images/month or (or 133 Videos/month) €8.99.**
+* **Pricing:** Pay-as-you-go credit packs (20 free credits upon registration) or fixed tier at **€8.99/month for 400 Images (or 133 Videos).**
 * **Strengths:** Features a built-in AI image upscaler for small assets, extracts geolocation data from EXIF to generate contextual keywords, and directly embeds metadata into vector EPS files.
-* **Weaknesses:** Trapped in a continuous web loop—manually dragging batches into a browser, configuring, and downloading ZIP/CSV files back to your drive. No native local workspace.
+* **Weaknesses:** Trapped in a continuous web loop—manually dragging batches into a browser, configuring, and downloading ZIP/CSV files back to your drive. No native local workspace, zero asset organizational tools, and lacks an FTP module.
 
 ---
 
@@ -66,9 +66,9 @@ ArtushVision AI acts as a **completely autonomous, private desktop bridge**, com
 
 ### Built-In Offline Model Manager (Ollama)
 ArtushVision AI features a clean graphical interface to manage local offline models via Ollama. For 100% free, private, and offline metadata generation, it natively recommends and utilizes advanced community Vision-Language models:
-* **`offline models from the Google Gemma family`:** A highly optimized community vision model with exceptional accuracy for fine photographic details and conceptual stock storytelling.
+* **`Offline models from the Google Gemma family`** (alongside other customized VLM models): Highly optimized community vision models providing exceptional accuracy for fine photographic details, wildlife recognition, and conceptual stock storytelling.
 
-*Need maximum commercial speed?* Switch to the hybrid cloud mode using OpenRouter (Gemini Flash, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups. 
+*Need maximum commercial speed?* Switch to the hybrid cloud mode using OpenRouter (Gemini Flash, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups.
 
 ### Customizable Prompts & Profile Presets
 Instead of being a prisoner to a rigid, hardcoded prompt designed by a web developer, ArtushVision AI lets you **edit the underlying system prompts** and assign them to specific profile presets:
@@ -92,17 +92,17 @@ While competitors lock your history into an application database, **ArtushVision
 
 ## Comprehensive Functional Matrix
 
-| Feature / Parameter | ArtushVision AI | ImStocker Studio | Xpiks Pro | CyberStock | PhotoTag.ai |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Application Type** | **Native Desktop Bridge** | Native Desktop | Native Desktop | Cloud-Based Web App | Cloud-Based Web App |
-| **Pricing Model** | **One-time $39.99** (Lifetime) | $49.50/yr or $250 lifetime + separate AI costs | €49 one-time or €99/yr for AI tier | **Subscription $14 to $159/mo** | Subscription / Pay-as-you-go |
-| **100% Privacy / Offline Mode** | **Yes** (Native Ollama Integration) | No (AI requires cloud credits) | No (AI uploads to remote cloud) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) |
-| **Security Profile (FTP Credentials)** | **Zero Risk** (Stored strictly locally) | Zero Risk (Stored strictly locally) | Zero Risk (Stored strictly locally) | **High Risk** (Saved on remote cloud servers) | N/A (No FTP module) |
-| **Upload Status Tracking** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A (No FTP module) |
-| **Recommended Local Models** | **Yes** (`gemma family and others`) | No | No | No | No |
-| **Custom System Prompt Editing** | **Yes** (Fully customizable profiles) | Limited | No | No | No |
-| **Category Management** | **Yes** (AI Auto + Manual Sets) | Yes (Manual Only) | Yes (Manual Only) | Partial (AI Only) | No |
-| **Culling Suite (Stars, Colors, Flags)** | **Yes** (Complete sorting toolkit) | Yes | Partial (Color tags only) | No | No |
-| **Lightroom Alphabetical Sort Fix** | **Yes** (Critical for Adobe Stock SEO) | No | No | No | No |
-| **Batch Operations & Token Renaming**| **Yes** | Yes | Yes | Limited (Browser latencies) | No |
-| **Getty/iStock Vocabulary Cache** | **Yes** (Stored permanently in XMP) | Yes (Tied to app database) | No (Requires external plugins) | No | No |
+| Feature / Parameter | ArtushVision AI | ImStocker Studio | Xpiks Pro | CyberStock | PhotoTag.ai | PhotoKeyworder.ai |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Application Type** | **Native Desktop Bridge** | Native Desktop | Native Desktop | Cloud Web App | Cloud Web App | Cloud Web App |
+| **Pricing Model** | **One-time $39.99** (Lifetime) | $49.50/yr or $250 lifetime + extra AI costs | €49 one-time or €99/yr for AI tier | **Subscription $14 to $159/mo** | Subscription / Pay-as-you-go | €8.99/mo (400 images) or Pay-as-you-go |
+| **100% Privacy / Offline Mode** | **Yes** (Native Ollama Integration) | No (AI requires cloud credits) | No (AI uploads to remote cloud) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) |
+| **Security Profile (FTP Credentials)** | **Zero Risk** (Stored strictly locally) | Zero Risk (Stored strictly locally) | Zero Risk (Stored strictly locally) | **High Risk** (Saved on remote cloud servers) | N/A (No FTP module) | N/A (No FTP module) |
+| **Upload Status Tracking** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A (No FTP module) | N/A (No FTP module) |
+| **Recommended Local Models** | **Yes** (`Gemma family & others`) | No | No | No | No | No |
+| **Custom System Prompt Editing** | **Yes** (Fully customizable profiles) | Limited | No | No | No | No |
+| **Category Management** | **Yes** (AI Auto + Manual Sets) | Yes (Manual Only) | Yes (Manual Only) | Partial (AI Only) | No | No |
+| **Culling Suite (Stars, Colors, Flags)** | **Yes** (Complete sorting toolkit) | Yes | Partial (Color tags only) | No | No | No |
+| **Lightroom Alphabetical Sort Fix** | **Yes** (Critical for Adobe Stock SEO) | No | No | No | No | No |
+| **Batch Operations & Token Renaming**| **Yes** (Advanced counters & tokens) | Yes | Yes | Limited (Browser latencies) | No | No |
+| **Getty/iStock Vocabulary Cache** | **Yes** (Stored permanently in XMP) | Yes (Tied to app database) | No (Requires external plugins) | No | No | No (Generates compatible CSV only) |
