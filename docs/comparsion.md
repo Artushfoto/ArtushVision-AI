@@ -95,8 +95,8 @@ While competitors lock your history into an application database, **ArtushVision
 | Feature / Parameter | ArtushVision AI | ImStocker Studio | Xpiks Pro | CyberStock | PhotoTag.ai | PhotoKeyworder.ai |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Application Type** | **Native Desktop Bridge** | Native Desktop | Native Desktop | Cloud Web App | Cloud Web App | Cloud Web App |
-| **Pricing Model** | **One-time $39.99** (Lifetime) | $49.50/yr or $250 lifetime + extra AI costs | €49 one-time or €99/yr for AI tier | **Subscription $14 to $159/mo** | Subscription / Pay-as-you-go | €8.99/mo (400 images) or Pay-as-you-go |
-| **100% Privacy / Offline Mode** | **Yes** (Native Ollama Integration) | No (AI requires cloud credits) | No (AI uploads to remote cloud) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) |
+| **Pricing Model** | **One-time $39.99** (Lifetime) | $49.50/yr or $250 lifetime + extra AI costs | €49 one-time or €99/yr for AI tier | Subscription $14 to $159/mo | Subscription / Pay-as-you-go | €8.99/mo (400 images) or Pay-as-you-go |
+| **100% Privacy / Offline Mode** | **Yes** (Native Ollama Integration) | Limited | No (AI uploads to remote cloud) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) |
 | **Security Profile (FTP Credentials)** | **Zero Risk** (Stored strictly locally) | Zero Risk (Stored strictly locally) | Zero Risk (Stored strictly locally) | **High Risk** (Saved on remote cloud servers) | N/A (No FTP module) | N/A (No FTP module) |
 | **Upload Status Tracking** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A (No FTP module) | N/A (No FTP module) |
 | **Recommended Local Models** | **Yes** (`Gemma family & others`) | No | No | No | No | No |
