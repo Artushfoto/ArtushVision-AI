@@ -99,10 +99,10 @@ While competitors lock your history into an application database, **ArtushVision
 | **100% Privacy / Offline Mode** | **Yes** (Native Ollama Integration) | No (AI requires cloud credits) | No (AI uploads to remote cloud) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) |
 | **Security Profile (FTP Credentials)** | **Zero Risk** (Stored strictly locally) | Zero Risk (Stored strictly locally) | Zero Risk (Stored strictly locally) | 🚨 **High Risk** (Saved on remote cloud servers) | N/A (No FTP module) |
 | **Upload Status Tracking** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A (No FTP module) |
-| **Recommended Local Models** | **Yes** (`gemma4:e4b`, `llava`) | No | No | No | No |
-| **Custom System Prompt Editing** | **Yes** (Fully customizable profiles) | No | No | No | No |
+| **Recommended Local Models** | **Yes** (`gemma family and others`) | No | No | No | No |
+| **Custom System Prompt Editing** | **Yes** (Fully customizable profiles) | Limited | No | No | No |
 | **Category Management** | **Yes** (AI Auto + Manual Sets) | Yes (Manual Only) | Yes (Manual Only) | Partial (AI Only) | No |
 | **Culling Suite (Stars, Colors, Flags)** | **Yes** (Complete sorting toolkit) | Yes | Partial (Color tags only) | No | No |
 | **Lightroom Alphabetical Sort Fix** | **Yes** (Critical for Adobe Stock SEO) | No | No | No | No |
-| **Batch Operations & Token Renaming**| **Yes** (Advanced counters & tokens) | Yes | Yes | Limited (Browser latencies) | No |
+| **Batch Operations & Token Renaming**| **Yes** | Yes | Yes | Limited (Browser latencies) | No |
 | **Getty/iStock Vocabulary Cache** | **Yes** (Stored permanently in XMP) | Yes (Tied to app database) | No (Requires external plugins) | No | No |
