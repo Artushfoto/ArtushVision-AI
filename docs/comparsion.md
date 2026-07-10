@@ -65,7 +65,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 #### ImStocker Studio (studio.imstocker.com)
 * **Pricing:** Basic version is free. Pro License is $49.50/year or $250 for a lifetime license. Crucial Catch: AI keywording features (IMS Vision) are billed completely separately via recurring credit packs (approx. $42 to $170/year based on volume). 
-* **Getty/iStock Optimization:** Yes. Features an excellent interactive keyword refinement panel for manual Getty/iStock controlled vocabulary matching (though the cache is tied to the app database).
+* **Getty/iStock Optimization:** Yes. Features an excellent interactive manual for me complicated keyword refinement panel for manual Getty/iStock controlled vocabulary matching (though the cache is tied to the app database).
 * **Strengths:** An absolute powerhouse for granular metadata micro-management. Supports different metadata sets for different agencies.
 * **Weaknesses:** Overwhelming, highly complex interface with a steep learning curve. Its AI module is a closed cloud ecosystem (requires credits and remote data uploading). Getty and FTP tracking maps are tied strictly to the app database; if you move to a new PC, your metadata history and connection states are lost unless you manually migrate the database files.
 
