@@ -9,14 +9,14 @@ The modern microstock business demands extreme speed, metadata precision, and pa
 Most modern microstock tools function by forcing you to upload your high-resolution assets to their remote cloud servers for analysis. 
 
 > ### Critical Security Warning
-> To use cloud-based automated distribution features (such as CyberStock's CyberPusher), you are required to save your cleartext FTP/SFTP usernames and passwords on their remote cloud servers. If these third-party platforms suffer a data breach, server exploit, or cloud database leak, your entire portfolio livelihood, financial stock accounts, and agency payout profiles are exposed to malicious actors.
+> To use cloud-based automated distribution features (such as CyberStock's CyberPusher), you are required to save your FTP/SFTP usernames and passwords on their remote cloud servers. If these third-party platforms suffer a data breach, server exploit, or cloud database leak, your entire portfolio livelihood, financial stock accounts, and agency payout profiles are exposed to malicious actors.
 
 Furthermore, constantly uploading gigabytes of high-res files to the web is completely unviable for:
 1. **Client Work Under NDA:** Commercial assignments, corporate portraits, and private events where non-disclosure agreements strictly forbid uploading proprietary files to unverified third-party cloud servers.
 2. **Family and Personal Travel Archives:** Private photography assets that you do not want scraped, analyzed, or stored by corporate cloud entities.
 
-### The ArtushVision AI Paradigm
-Everything runs 100% locally on your machine. Your FTP credentials never leave your local drive, and thanks to an integrated local offline AI model manager, not a single pixel of your private, family, or client archives ever needs to touch the internet. 
+### The ArtushVision AI Ecosystem
+Everything runs 100% locally on your machine. Your FTP credentials are securely encrypted and never leave your local drive, and thanks to an integrated local offline AI model manager, not a single pixel of your private, family, or client archives ever needs to touch the internet
 
 ---
 
