@@ -31,22 +31,26 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 #### Pixify Studio (pixify.io)
 * **Pricing:** Ranges from $5/month (100 credits) to $59/month (3,000 credits), up to $115/month. Additional top-up credits cost $30 per 1,000.
+* **Getty/iStock Optimization:** None. It lacks any built-in controlled vocabulary optimization, outputting only standard flat text tags that require manual disambiguation elsewhere.
 * **Strengths:** Includes a decent Lightroom Classic plugin.
-* **Weaknesses:** High credit anxiety. Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy. Zero Getty/iStock vocabulary optimization.
+* **Weaknesses:** High credit anxiety. Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy.
 
 #### PhotoTag.ai (phototag.ai)
 * **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (e.g., 10,000 Upload Credits / 1,000 file batch upload for €56).
+* **Getty/iStock Optimization:** None. Generates generic keywords that do not map to the ESP controlled dictionary, offering no specialized support for Getty contributors.
 * **Strengths:** Clean web interface supporting photos, videos, and vectors.
-* **Weaknesses:** Uses generic, rigid AI that describes scenes literally ("green pot, white background") rather than capturing commercial, high-ranking metadata concepts ("slow living, morning routine, authentic lifestyle"). Zero local file culling, no FTP modules, and no Getty controlled dictionary mapping.
+* **Weaknesses:** Uses generic, rigid AI that describes scenes literally ("green pot, white background") rather than capturing commercial, high-ranking metadata concepts ("slow living, morning routine, authentic lifestyle"). Zero local file culling and no FTP modules.
 
 #### CyberStock (cyberstock.lol)
 * **Pricing:** Annual plans start at $7/month (only 200 credits), Pro plan is $15/month (800 credits), and Unlimited costs $63/month ($756/year billed annually). Monthly pricing without a commitment spikes up to $159/month.
+* **Getty/iStock Optimization:** None. It completely lacks specialized vocabulary resolution tools; it outputs generic text tags that will cause mass disambiguation failures upon ingestion to Getty/iStock.
 * **Strengths:** Very fast parallel cloud processing (~1.3s per asset), built-in marketing insights (SEMrush and Google Trends integration), and a Selling Score algorithm.
-* **Weaknesses:** High security risk on the market. Demands that you store your raw stock agency passwords and FTP connections directly on their remote cloud infrastructure. Completely lacks specialized Getty vocabulary resolution tools; it outputs generic text tags that cause disambiguation failures upon ingestion.
+* **Weaknesses:** High security risk on the market. Demands that you store your raw stock agency passwords and FTP connections directly on their remote cloud infrastructure. 
 
 #### PhotoKeyworder.ai (photokeyworder.ai)
 * **Pricing:** Pay-as-you-go credit packs (20 free credits upon registration) or fixed tier at €8.99/month for 400 Images (or 133 Videos).
-* **Strengths:** Features a built-in AI image upscaler, extracts geolocation data from EXIF, and includes a specialized iStock/Getty Images optimization tool that outputs metadata tailored to their controlled vocabulary, generating DeepMeta and QHero-ready CSVs.
+* **Getty/iStock Optimization:** Yes. Includes a specialized iStock/Getty Images optimization tool that outputs metadata tailored to their controlled vocabulary, generating DeepMeta and QHero-ready CSVs via cloud processing.
+* **Strengths:** Features a built-in AI image upscaler and extracts geolocation data from EXIF.
 * **Weaknesses:** Trapped in a continuous web loop—manually dragging batches into a browser, configuring, and downloading ZIP/CSV files back to your drive. No native local workspace, zero asset organizational tools, and lacks an FTP module.
 
 ---
@@ -55,12 +59,14 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 #### Xpiks Pro (xpiksapp.com)
 * **Pricing:** Basic version is free. Pro License is a one-time €49 purchase. The advanced Pro+ tier costs €99/year (subscription) and is required to unlock AI keywording plugins (includes 4,000 credits/month).
+* **Getty/iStock Optimization:** No native support. Lacks an integrated controlled vocabulary engine for Getty/iStock; users must map terms entirely manually or rely on basic external metadata structures.
 * **Strengths:** Highly mature, lightning-fast native local file system navigator. Excellent background multi-threaded FTP uploads, automated vector ZIP creation, local search filtering, and color tag tagging.
-* **Weaknesses:** AI keywording is treated as an external cloud add-on—Xpiks uploads a downscaled copy of your images to its remote servers to generate tags. Lacks an integrated native controlled vocabulary engine for Getty/iStock; users must map terms manually or rely on basic external metadata structures.
+* **Weaknesses:** AI keywording is treated as an external cloud add-on—Xpiks uploads a downscaled copy of your images to its remote servers to generate tags.
 
 #### ImStocker Studio (studio.imstocker.com)
 * **Pricing:** Basic version is free. Pro License is $49.50/year or $250 for a lifetime license. Crucial Catch: AI keywording features (IMS Vision) are billed completely separately via recurring credit packs (approx. $42 to $170/year based on volume). 
-* **Strengths:** An absolute powerhouse for granular metadata micro-management. Supports different metadata sets for different agencies and features an excellent interactive keyword refinement panel for Getty/iStock controlled vocabulary matching.
+* **Getty/iStock Optimization:** Yes. Features an excellent interactive keyword refinement panel for manual Getty/iStock controlled vocabulary matching (though the cache is tied to the app database).
+* **Strengths:** An absolute powerhouse for granular metadata micro-management. Supports different metadata sets for different agencies.
 * **Weaknesses:** Overwhelming, highly complex interface with a steep learning curve. Its AI module is a closed cloud ecosystem (requires credits and remote data uploading). Getty and FTP tracking maps are tied strictly to the app database; if you move to a new PC, your metadata history and connection states are lost unless you manually migrate the database files.
 
 ---
