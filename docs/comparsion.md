@@ -84,7 +84,7 @@ While competitors lock your history into an isolated application database, Artus
 ### Customizable Prompts and Profile Presets
 Instead of being a prisoner to a rigid, hardcoded prompt designed by a web developer, ArtushVision AI lets you edit the underlying system prompts and assign them to specific profile presets:
 * **Wildlife Profile:** Automatically instructs the AI to locate and append the exact scientific Latin names of fauna.
-* **Architecture Profile:** Directs the model to analyze historical eras, design styles, and geometric patterns.
+* **Studio Shots Profile:** Directs the model to analyze product placement, artificial lighting techniques, and studio aesthetics.
 * **Editorial Profile:** Forces the AI to capture strict documentary reality while banning commercial buzzwords.
 
 ### Smart Category Management (AI and Manual)
@@ -103,10 +103,10 @@ ArtushVision AI functions as a high-speed culling workspace for massive local ca
 | Feature / Parameter | ArtushVision AI | ImStocker Studio | Xpiks Pro | CyberStock | Pixify Studio | PhotoTag.ai | PhotoKeyworder.ai |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Application Type** | **Native Desktop Bridge** | Native Desktop | Native Desktop | Cloud Web App | Cloud Web App | Cloud Web App | Cloud Web App |
-| **Pricing Model** | **One-time $39.99** (Lifetime) | $49.50/yr or $250 lifetime + extra AI costs | €49 one-time or €99/yr for AI tier | Subscription $14 to $159/mo | Subscription $5 to $115/mo | Subscription / Pay-as-you-go | €8.99/mo (400 images) or Pay-as-you-go |
+| **Pricing Model** | **One-time $39.99** (Lifetime) | $49.50/yr or $250 lifetime + extra AI costs | €49 one-time or €99/yr for AI tier | Subscription $14 to $159/mo | Subscription $5 to $115/mo |  1,000 file batch upload, 10 000Upload Credits, €56  | €8.99/mo (400 images) or Pay-as-you-go |
 | **100% Privacy / Offline Mode** | **Yes** (Native Ollama Integration) | Limited | No (AI uploads to remote cloud) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) |
 | **Security Profile (FTP Credentials)** | **Zero Risk** (Stored strictly locally) | Zero Risk (Stored strictly locally) | Zero Risk (Stored strictly locally) | **High Risk** (Saved on remote cloud servers) | N/A (No FTP module) | N/A (No FTP module) | N/A (No FTP module) |
-| **Getty / iStock Optimization** | **Yes** (Interactive Local Resolver manual /AI/ semantics+ XMP Cache) | **Yes** (Interactive Selection Panel + App DB Cache) | No (Basic manual entry/plugins only) | No (Standard flat text tags only) | No (Standard flat text tags only) | No (Standard flat text tags only) | **Yes** (Cloud-generated ESP/DeepMeta CSV export) |
+| **Getty / iStock Optimization** | **Yes** (Interactive Local Resolver /semantics or AI) | **Yes** (Interactive Selection Panel + App DB Cache) | No (Basic manual entry/plugins only) | No (Standard flat text tags only) | No (Standard flat text tags only) | No (Standard flat text tags only) | **Yes** (Cloud-generated ESP/DeepMeta CSV export) |
 | **Upload Status Tracking** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A (No FTP module) | N/A (No FTP module) | N/A (No FTP module) |
 | **Recommended Local Models** | **Yes** (Gemma family and others) | No | No | No | No | No | No |
 | **Custom System Prompt Editing** | **Yes** (Fully customizable profiles) | Limited | No | No | No | No | No |
