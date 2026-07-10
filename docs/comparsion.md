@@ -66,9 +66,9 @@ ArtushVision AI acts as a **completely autonomous, private desktop bridge**, com
 
 ### 🧠 Built-In Offline Model Manager (Ollama)
 ArtushVision AI features a clean graphical interface to manage local offline models via Ollama. For 100% free, private, and offline metadata generation, it natively recommends and utilizes advanced community Vision-Language models:
-* **`gemma4:e4b and others`:** A highly optimized community vision model with exceptional accuracy for fine photographic details and conceptual stock storytelling.
+* **`offline models from the Google Gemma family`:** A highly optimized community vision model with exceptional accuracy for fine photographic details and conceptual stock storytelling.
 
-*Need maximum commercial speed?* Switch to the hybrid cloud mode using OpenRouter (Gemini, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups. 
+*Need maximum commercial speed?* Switch to the hybrid cloud mode using OpenRouter (Gemini Flash, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups. 
 
 ### 📝 Customizable Prompts & Profile Presets
 Instead of being a prisoner to a rigid, hardcoded prompt designed by a web developer, ArtushVision AI lets you **edit the underlying system prompts** and assign them to specific profile presets:
