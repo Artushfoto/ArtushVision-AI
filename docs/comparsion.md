@@ -9,7 +9,7 @@ The modern microstock business demands extreme speed, metadata precision, and pa
 Most modern microstock tools function by forcing you to upload your high-resolution assets to their remote cloud servers for analysis. 
 
 > ### ⚠️ Critical Security Warning
-> To use cloud-based automated distribution features (such as CyberStock's *CyberPusher*), you are required to save your **cleartext FTP/SFTP usernames and passwords** on their remote cloud servers. If these third-party platforms suffer a data breach or server hack, your entire portfolio livelihood and financial stock accounts are exposed.
+> To use cloud-based automated distribution features (such as CyberStock's *CyberPusher*), you are required to save your **FTP/SFTP usernames and passwords** on their remote cloud servers. If these third-party platforms suffer a data breach or server hack, your entire portfolio livelihood and financial stock accounts are exposed.
 
 Furthermore, constantly uploading gigabytes of high-res files to the web is completely unviable for:
 1. **Client Work Under NDA:** Commercial assignments, corporate portraits, and private events where non-disclosure agreements strictly forbid uploading files to unverified third-party cloud servers.
@@ -30,17 +30,17 @@ Everything runs **100% locally on your machine**. Your FTP credentials never lea
 * **Weaknesses:** High "credit anxiety." Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy.
 
 #### PhotoTag.ai (`phototag.ai`)
-* **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (typically $15–$30/month depending on volume).
+* **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (10 000Upload Credits - **1,000 file batch upload €56**).
 * **Strengths:** Clean web interface supporting photos, videos, and vectors.
 * **Weaknesses:** Uses generic, rigid AI that describes scenes literally (*"green pot, white background"*) rather than capturing commercial, high-ranking metadata concepts (*"slow living, morning routine, authentic lifestyle"*). Zero local file culling or FTP modules.
 
 #### CyberStock (`cyberstock.lol`)
 * **Pricing:** Annual plans start at $7/month (only 200 credits), Pro plan is **$15/month** (800 credits), and Unlimited costs **$63/month** ($756/year billed annually). Monthly pricing without a commitment spikes up to $159/month.
 * **Strengths:** Very fast parallel cloud processing (~1.3s per asset), built-in marketing insights (SEMrush & Google Trends integration), and a "Selling Score" algorithm.
-* **Weaknesses:** **The highest security risk on the market.** Demands that you store your raw stock agency FTP passwords on their cloud infrastructure. If you stop paying their steep monthly subscription, you lose access to the platform and your distribution history entirely.
+* **Weaknesses:** **The highest security risk on the market.** Demands that you store your stock agency passwords on their cloud infrastructure. 
 
 #### PhotoKeyworder.ai (`photokeyworder.ai`)
-* **Pricing:** Pay-as-you-go credit packs (20 free credits upon registration).
+* **Pricing:** Pay-as-you-go credit packs (20 free credits upon registration). **400 Images/month or (or 133 Videos/month) €8.99.**
 * **Strengths:** Features a built-in AI image upscaler for small assets, extracts geolocation data from EXIF to generate contextual keywords, and directly embeds metadata into vector EPS files.
 * **Weaknesses:** Trapped in a continuous web loop—manually dragging batches into a browser, configuring, and downloading ZIP/CSV files back to your drive. No native local workspace.
 
@@ -54,7 +54,7 @@ Everything runs **100% locally on your machine**. Your FTP credentials never lea
 * **Weaknesses:** AI keywording is treated as an external cloud add-on—Xpiks uploads a downscaled copy of your images to its remote servers to generate tags. It lacks automated category generation and does not have a dedicated local resolver for specialized iStock/Getty controlled vocabularies.
 
 #### ImStocker Studio (`studio.imstocker.com`)
-* **Pricing:** Basic version is free. **Pro License is $49.50/year or $250 for a lifetime license**. *Crucial Catch:* AI keywording features (IMS Vision) are **billed completely separately** via recurring credit packs (approx. $42 to $170/year based on volume).
+* **Pricing:** Basic version is free. **Pro License is $49.50/year or $250 for a lifetime license**. *Crucial Catch:* AI keywording features (IMS Vision) are **billed completely separately** via recurring credit packs (approx. $42 to $170/year based on volume). 
 * **Strengths:** An absolute powerhouse for granular metadata micro-management. Supports different metadata sets for different agencies and features a brilliant interactive panel for Getty/iStock controlled vocabulary mapping.
 * **Weaknesses:** Overwhelming, highly complex interface with a steep learning curve. Its AI module is a closed cloud ecosystem (requires credits and remote data uploading). **History tracking is tied to the app database;** if you move to a new PC, your upload history is lost unless you manually migrate the database files.
 
@@ -66,10 +66,9 @@ ArtushVision AI acts as a **completely autonomous, private desktop bridge**, com
 
 ### 🧠 Built-In Offline Model Manager (Ollama)
 ArtushVision AI features a clean graphical interface to manage local offline models via Ollama. For 100% free, private, and offline metadata generation, it natively recommends and utilizes advanced community Vision-Language models:
-* **`gemma4:e4b`:** A highly optimized community vision model with exceptional accuracy for fine photographic details and conceptual stock storytelling.
-* **`llava`:** The reliable open-source standard for object, scene, and environmental recognition.
+* **`gemma4:e4b and others`:** A highly optimized community vision model with exceptional accuracy for fine photographic details and conceptual stock storytelling.
 
-*Need maximum commercial speed?* Switch to the hybrid cloud mode using OpenRouter (Gemini, GPT-4o), where you pay only raw API developer costs (approx. $5 per 100,000 images), bypassing steep SaaS markups.
+*Need maximum commercial speed?* Switch to the hybrid cloud mode using OpenRouter (Gemini, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups. 
 
 ### 📝 Customizable Prompts & Profile Presets
 Instead of being a prisoner to a rigid, hardcoded prompt designed by a web developer, ArtushVision AI lets you **edit the underlying system prompts** and assign them to specific profile presets:
