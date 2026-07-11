@@ -13,11 +13,25 @@ description: "See what professional photographers, stock contributors, and creat
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "reviewCount": "4",
+    "reviewCount": "5",
     "bestRating": "5",
     "worstRating": "1"
   },
   "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Steven Heap (BackyardSilver)"
+      },
+      "datePublished": "2026-07-10",
+      "reviewBody": "I am looking for fine art descriptions that highlight what a buyer might see in the image and how they might feel... and with the custom AI instructions, I can tailor the prompts to get exactly that. It's the unique combination of standard AI generation and full workflow customizability that makes this app a winner.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      }
+    },
     {
       "@type": "Review",
       "author": {
@@ -176,7 +190,19 @@ h1 { text-align: center; }
 
 <div class="review-container">
 
-  <!-- Review Card 1 - July 5, 2026 -->
+  <!-- Review Card 1 - July 10, 2026 -->
+  <article class="review-card">
+    <div class="review-header">
+      <div class="reviewer-info">
+        <h3>Steven Heap (BackyardSilver)</h3>
+        <p class="reviewer-role">Professional Stock Photographer & Blogger • July 10, 2026</p>
+      </div>
+    </div>
+    <blockquote class="review-quote">"I am looking for fine art descriptions that highlight what a buyer might see in the image and how they might feel... and with the custom AI instructions, I can tailor the prompts to get exactly that. It's the unique combination of standard AI generation and full workflow customizability that makes this app a winner."</blockquote>
+    <a href="https://backyardsilver.com/custom-ai-keywording-stock-fine-art-metadata/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read Steven Heap's review on Custom Prompts & Fine Art Metadata">Read Custom Prompting Guide &rarr;</a>
+  </article>
+
+  <!-- Review Card 2 - July 5, 2026 -->
   <article class="review-card">
     <div class="review-header">
       <div class="reviewer-info">
@@ -188,7 +214,7 @@ h1 { text-align: center; }
     <a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read Steven Heap's review on Lightroom Keyword Priority & Getty Mapping">Read Full Workflow Review &rarr;</a>
   </article>
 
-  <!-- Review Card 2 - Kruwt.nl - May 26, 2026 -->
+  <!-- Review Card 3 - Kruwt.nl - May 26, 2026 -->
   <article class="review-card">
     <div class="review-header">
       <div class="reviewer-info">
@@ -200,7 +226,7 @@ h1 { text-align: center; }
     <a href="https://www.kruwt.nl/mijn-favoriete-ai-tool-voor-metadata-en-trefwoorden-bij-stockfotos" target="_blank" rel="noopener noreferrer" class="review-link" title="Read the review on Kruwt.nl">Read Full Dutch Review &rarr;</a>
   </article>
 
-  <!-- Review Card 3 - April 27, 2026 -->
+  <!-- Review Card 4 - April 27, 2026 -->
   <article class="review-card">
     <div class="review-header">
       <div class="reviewer-info">
@@ -212,7 +238,7 @@ h1 { text-align: center; }
     <a href="https://backyardsilver.com/artushvision-ai-b2b-metadata-guide/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read Steven Heap's guide on B2B metadata">Read B2B Metadata Guide &rarr;</a>
   </article>
 
-  <!-- Review Card 4 - April 14, 2026 -->
+  <!-- Review Card 5 - April 14, 2026 -->
   <article class="review-card">
     <div class="review-header">
       <div class="reviewer-info">
