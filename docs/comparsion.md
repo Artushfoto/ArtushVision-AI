@@ -31,13 +31,11 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 #### Pixify Studio (pixify.io)
 * **Pricing:** Ranges from $5/month (100 credits) to $59/month (3,000 credits), up to $115/month. Additional top-up credits cost $30 per 1,000.
-* **Getty/iStock Optimization:** Internal AI model currently in development; costs 2 credits per generation.
+* **Getty/iStock Optimization:** According to the website, the internal AI model is currently in development; costs 2 credits per generation.
 * **EXIF & GPS Handling:** Completely ignores EXIF/GPS data during the AI keywording phase. The AI analyzes the image purely as a blind visual container, meaning location-specific context or technical camera data cannot be utilized to improve keyword precision.
 * **Strengths:** Includes a decent Lightroom Classic plugin.
 * **Weaknesses:** High credit anxiety. Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy.
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
- 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
 
   <!-- Levý obrázek - ArtushVision AI -->
@@ -45,7 +43,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
     <img src="images/comparsion/artushvision-editorial.webp" alt="ArtushVision AI with Editorial Prompt" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
       <strong>ArtushVision AI (Editorial Profile)</strong><br>
-      Automatically assigns categories and country, with descriptions tailored precisely to Shutterstock's compliance rules.<br>
+      Automatically assigns categories/countries and tailors descriptions to Shutterstock rules. Includes a <strong>built-in FTP/FTPS client</strong> to upload files directly from the app. For agencies like Shutterstock and Dreamstime, it <strong>automatically generates and submits the required CSV metadata files</strong> alongside your photos—once uploaded, just log in and click submit. No extra setup needed!<br>
       <span style="color: #2da44e; font-weight: 600;">Cost: $0.000662 USD per image</span>
     </p>
   </div>
@@ -56,11 +54,9 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
       <strong>Pixify Studio (Standard Output)</strong><br>
       Generates generic titles, descriptions, and keywords. Completely rigid system with no options to customize prompts for specific market requirements.<br>
-      <span style="color: #cf222e; font-weight: 600;">Cost: Subscription required</span>
+      <span style="color: #cf222e; font-weight: 600;">Cost: Premium subscription required</span>
     </p>
   </div>
-
-</div>
 
 </div>
 
