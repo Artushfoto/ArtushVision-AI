@@ -58,7 +58,6 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 </div>
 
-
 #### PhotoTag.ai (phototag.ai)
 * **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (e.g., 10,000 Upload Credits / 1,000 file batch upload for €56).
 * **Getty/iStock Optimization:** None. Generates generic keywords that do not map to the ESP controlled dictionary, offering no specialized support for Getty contributors.
