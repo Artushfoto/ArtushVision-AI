@@ -1,5 +1,5 @@
 ---
-title: "Smart Category Mapping | Microstock Metadata Editor | ArtushVision AI"
+title: "Microstock Keywording & Metadata Tools | ArtushVision AI"
 description: "ArtushVision AI vs. Market Leaders. The Ultimate Microstock Keywording Tools & Private Archive Management Comparison"
 ---
 <div style="display: none;">
