@@ -190,7 +190,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
     </a>
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
       <strong>ArtushVision AI (Editorial Profile)</strong><br>
-      Automatically assigns categories/countries and tailors descriptions to Shutterstock rules. Includes a <a href="https://vision.artushfoto.eu/docs/global-stock-distribution-ftp.html" style="color: #0969da; text-decoration: none; font-weight: 600;">built-in FTP/FTPS client</a> to upload files directly from the app. For agencies like Shutterstock and Dreamstime, it <strong>automatically generates and submits the required CSV metadata files</strong> alongside your photos. Once uploaded, just log in and click submit. No extra setup needed!<br>
+      Automatically assigns categories/countries and tailors descriptions to Shutterstock rules. Includes a <a href="docs/global-stock-distribution-ftp.html" style="color: #0969da; text-decoration: none; font-weight: 600;">built-in FTP/FTPS client</a> to upload files directly from the app. For agencies like Shutterstock and Dreamstime, it <strong>automatically generates and submits the required CSV metadata files</strong> alongside your photos. Once uploaded, just log in and click submit. No extra setup needed!<br>
       <span style="color: #2da44e; font-weight: 600;">Cost: $0.000662 USD per image</span>
     </p>
   </div>
