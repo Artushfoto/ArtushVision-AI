@@ -40,7 +40,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
   
   <!-- Levý obrázek -->
   <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
-    <img src="https://vision.artushfoto.eu/assets/img/before.jpg" alt="Lightroom Alphabetical Sorting" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
+    <img src="docs/images/comparsion/artushvision-editorial.webp" alt="Lightroom Alphabetical Sorting" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
       <strong>Před: Standardní export</strong><br>
       Klíčová slova jsou seřazena abecedně, čímž se ztrácí jejich relevance.
