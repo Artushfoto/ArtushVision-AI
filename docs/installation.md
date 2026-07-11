@@ -143,7 +143,7 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Download & Install ArtushVision AI v2026.001 for Windows
+# Download & Install ArtushVision AI for Windows
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
