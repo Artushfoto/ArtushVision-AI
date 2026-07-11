@@ -154,7 +154,7 @@ The modern microstock business demands extreme speed, metadata precision, and pa
 Most modern microstock tools function by forcing you to upload your high-resolution assets to their remote cloud servers for analysis. 
 
 > ### Critical Security Warning
-> To use cloud-based automated distribution features (such as CyberStock's CyberPusher), you are required to save your FTP/SFTP usernames and passwords on their remote cloud servers. If these third-party platforms suffer a data breach, server exploit, or cloud database leak, your entire portfolio livelihood, financial stock accounts, and agency payout profiles can be exposed to malicious actors.
+> To use cloud-based automated distribution features, you are required to save your FTP/SFTP usernames and passwords on their remote cloud servers. If these third-party platforms suffer a data breach, server exploit, or cloud database leak, your entire portfolio livelihood, financial stock accounts, and agency payout profiles can be exposed to malicious actors.
 
 Furthermore, constantly uploading gigabytes of high-res files to the web is completely unviable for:
 1. **Client Work Under NDA:** Commercial assignments, corporate portraits, and private events where non-disclosure agreements strictly forbid uploading proprietary files to unverified third-party cloud servers.
@@ -264,9 +264,23 @@ ArtushVision AI acts as a completely autonomous, private desktop bridge, combini
 
 ### [Built-In Offline Model Manager (Ollama)](docs/ai-metadata-generation-cloud-local-ollama.html#5-local-ollama-model-setup--recommended-models)
 ArtushVision AI features a clean graphical interface to manage local offline models via Ollama. For 100% free, private, and offline metadata generation, it natively recommends and utilizes advanced community Vision-Language models:
-* **Offline models from the Google Gemma family** (alongside other customized VLM models): Highly optimized community vision models providing exceptional accuracy for fine photographic details, wildlife recognition, and conceptual stock storytelling.
+* **High-End Precision:** For users with powerful dedicated GPUs, advanced vision models from the Google Gemma family deliver flawless, highly accurate detail recognition and deep conceptual microstock storytelling. While processing takes slightly longer, the metadata precision is unmatched.
+* **Lightweight & Fast:** For standard hardware setups, highly optimized community models (like *Llama-3.2-Vision* or *Moondream2*) provide lightning-fast processing speeds while staying safely within lower VRAM limits.
 
 Need maximum commercial speed? Switch to the hybrid cloud mode using OpenRouter (Gemini Flash, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups.
+
+---
+
+### Built-In Offline Model Manager (Ollama)
+ArtushVision AI features a clean graphical interface to manage local offline models via Ollama. For 100% free, private, and offline metadata generation, the application adapts perfectly to your hardware capabilities:
+
+* **High-End Precision:** For users with powerful dedicated GPUs, advanced vision models from the Google Gemma family deliver flawless, highly accurate detail recognition and deep conceptual microstock storytelling. While processing takes slightly longer, the metadata precision is unmatched.
+* **Lightweight & Fast:** For standard hardware setups, highly optimized community models (like *Llama-3.2-Vision* or *Moondream2*) provide lightning-fast processing speeds while staying safely within lower VRAM limits.
+
+
+
+
+
 
 ### [Advanced AI Prompting Profiles & Dynamic Variables](docs/advanced-ai-prompting-profiles-variables.html)
 Unlike any competitor on the market that uses rigid, hardcoded, hidden system prompts, ArtushVision AI gives you total control through its revolutionary **[Dynamic Variable Prompt Engine](docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)**. You can completely customize the underlying system instructions and map them to specialized profiles. 
