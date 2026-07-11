@@ -258,7 +258,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 ---
 
-## [The Core Advantages of ArtushVision AI](index.html#key-features--functionality)
+## [The Core Advantages of ArtushVision AI](/index.html#key-features--functionality)
 
 ArtushVision AI acts as a completely autonomous, private desktop bridge, combining advanced localized AI orchestration with absolute metadata control.
 
