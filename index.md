@@ -1,5 +1,5 @@
 ---
-title: "ArtushVision AI | Professional Photo Metadata & Auto Keywording"
+title: "ArtushVision AI | Professional Metadata Automation Workstation"
 description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with Local & Cloud Vision AI."
 ---
 
@@ -269,6 +269,12 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
       </span>
     </blockquote>
     
+    <!-- Nový integrovaný blok odkazů -->
+    <div style="margin: -5px 0 22px 0; font-size: 0.9em; display: flex; flex-direction: column; gap: 6px;">
+      <div> <strong>Case Studies &amp; Reviews:</strong> <a href="/docs/artushvision-reviews.html" style="color: #0969da; text-decoration: none; font-weight: 500;">Explore Independent User Testimonials &rarr;</a></div>
+      <div> <strong>Deep Competitor Analysis:</strong> <a href="docs/ultimate-microstock-keywording-tools-private-archive-comparison.html" style="color: #0969da; text-decoration: none; font-weight: 500;">ArtushVision AI vs. Cloud \"Market Leaders\" Comparison &rarr;</a></div>
+    </div>
+    
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
       <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
       <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
@@ -309,20 +315,20 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 ## Key Features & Functionality
 
-* **[Versatile AI Engine Modes & Customization](/docs/ai-metadata-generation-cloud-local-ollama.html)**
+* ### <a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Versatile AI Engine Modes & Customization</a>
     * **Cloud AI:** High-speed cloud processing via OpenRouter. You maintain full control over your API usage through a **Built-in OpenRouter Dashboard**, paying only raw API prices with total transparency.
     * **Local AI (100% Free & Private):** Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots with zero API costs.
     * **Hybrid AI (Local Vision + Cloud Text):** Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.
     * **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
     * **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.
 
-* **[Getty Images Optimizer (Master ESP Tool)](/docs/getty-images-esp-metadata-optimizer.html)**
+* ### <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images Optimizer (Master ESP Tool)</a>
     * **Near-Perfect Acceptance:** Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.
     * **Interactive Getty Resolver:** Available for both Single and Batch modes with visual context highlighting and term splitting.
     * **Semantic AI Disambiguation:** The AI analyzes image context to solve homonyms (e.g., automatically distinguishing a "crane" bird from a "crane" construction machine).
     * **Non-Destructive Workflow:** Original metadata remains untouched; optimized terms are safely stored in separate XMP metadata.
 
-* **[Manual Workflow & Ergonomics (Hands-On Control)](/docs/smart-manual-keywording-batch-editing.html)**
+* ### <a href="/docs/smart-manual-keywording-batch-editing.html">Manual Workflow & Ergonomics (Hands-On Control)</a>
     * **Intuitive Drag & Drop Keywords:** Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between photos.
     * **Advanced Batch Metadata Application:** Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously.
     * **Smart Append Sync:** Type a keyword into a selection of hundreds of photos—the app injects it in real-time without overwriting their unique existing tags.
@@ -330,26 +336,26 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
     * **Lightning-Fast Copy & Paste:** Use dedicated shortcuts to copy entire metadata blocks from one master image and paste them across an entire batch.
     * **Metadata Templates:** Save and load custom metadata presets for recurring shoots or specific studio setups.
 
-* **[Global Distribution & Smart FTP Suite](/docs/global-stock-distribution-ftp.html)**
+* ### <a href="/docs/global-stock-distribution-ftp.html">Global Distribution & Smart FTP Suite</a>
     * **Multi-Server Batch Uploads:** Configure individual thread limits per agency to prevent connection blocks (`421 Too many connections`).
     * **1-Click Automated CSV Upload:** Generates a temporary, agency-specific CSV with matching category IDs, uploads it alongside your media, and automatically purges it.
     * **Universal Category Mapping:** Pre-configured mapping for Adobe Stock, Shutterstock, and other major agencies.
     * **FTP Status Badges:** Successful uploads write micro-badges directly into XMP metadata for persistent tracking.
 
-* **[Advanced Interface & Portfolio Organization](/docs/smart-grid-filters-search-metadata-management.html)**
+* ### <a href="/docs/smart-grid-filters-search-metadata-management.html">Advanced Interface & Portfolio Organization</a>
     * **Blazing-Fast Image Grid:** Displays Titles, Descriptions, and Keywords directly below every card. Includes comprehensive Thumbnail Badges.
     * **Visual Status Indicators:** Color-coded states warn you in real-time about validation errors.
     * **Absolute Priority AI Hints:** Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.
     * **Flat View:** Toggle a unified, continuous list view for all loaded subfolders simultaneously.
 
-* **[Universal Metadata Compatibility & Linguistics](/docs/metadata-compatibility-and-file-handling.html)**
+* ### <a href="/docs/metadata-compatibility-and-file-handling.html">Universal Metadata Compatibility & Linguistics</a>
     * **100% EXIF/IPTC/XMP Compliant:** Data is written safely to sidecars or directly embedded, ensuring seamless interoperability with Adobe Lightroom, Bridge, and Capture One.
     * **Keyword Order Restoration:** Easily revert to your original keyword sequencing with a single click to protect manually sorted priority tags.
     * **Category Management:** Easily assign standard microstock categories to single images or entire batches to ensure full compliance with agency submission requirements.
     * **Auto-GPS Country Lookup:** Auto-translates GPS coordinates into readable city/country names via OpenStreetMap or ArcGIS.
     * **Dual-Language Spellcheck:** Validate against two dictionaries simultaneously without switching settings.
 
-* **[Powerful Batch Operations & Configuration](/docs/batch-operations-metadata-library-management.html)**
+* ### <a href="/docs/batch-operations-metadata-library-management.html">Powerful Batch Operations & Configuration</a>
     * **Smarter Batch Rename:** Rename thousands of files using dynamic variables like `{TITLE}`, `{CC}`, `{DATE}`, or `{FOLDER_NAME}`.
     * **Bulk Metadata Editing:** Smart Add/Remove/Replace with `Old -> New` syntax and `Ctrl+H` support.
     * **Ollama VRAM Context Tuning:** Optimize memory allocation based on your GPU hardware.
@@ -428,7 +434,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
   </tbody>
 </table>
 
-### [ArtushVision AI vs. "Market Leaders": The Ultimate Microstock Keywording Tools & Private Archive Management Comparison (June 2026)](docs/ultimate-microstock-keywording-tools-private-archive-comparison.html)
+### <a href="docs/ultimate-microstock-keywording-tools-private-archive-comparison.html">ArtushVision AI vs. \"Market Leaders\": The Ultimate Microstock Keywording Tools & Private Archive Management Comparison (June 2026)</a>
 
 <hr>
 
