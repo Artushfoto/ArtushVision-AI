@@ -165,7 +165,7 @@ Everything runs 100% locally on your machine. Your FTP credentials are **securel
 
 ---
 
-## [Integrated Getty & iStock Controlled Vocabulary Tool](docs/getty-images-esp-metadata-optimizer.html)
+## [Integrated Getty & iStock Controlled Vocabulary Tool](getty-images-esp-metadata-optimizer.html)
 Getty Images and iStock do not use standard open-ended text tags. They operate on a strict, controlled vocabulary to eliminate homonyms (e.g., separating the machine crane from the bird crane). If your keywords aren't mapped properly to their dictionary, your files require painful manual asset-by-asset disambiguation on their ESP platform or through tools like DeepMeta. Only a few tools provide optimization solutions for this specific bottleneck.
 
 ---
@@ -277,11 +277,6 @@ ArtushVision AI features a clean graphical interface to manage local offline mod
 * **High-End Precision:** For users with powerful dedicated GPUs, advanced vision models from the Google Gemma family deliver flawless, highly accurate detail recognition and deep conceptual microstock storytelling. While processing takes slightly longer, the metadata precision is unmatched.
 * **Lightweight & Fast:** For standard hardware setups, highly optimized community models (like *Llama-3.2-Vision* or *Moondream2*) provide lightning-fast processing speeds while staying safely within lower VRAM limits.
 
-
-
-
-
-
 ### [Advanced AI Prompting Profiles & Dynamic Variables](docs/advanced-ai-prompting-profiles-variables.html)
 Unlike any competitor on the market that uses rigid, hardcoded, hidden system prompts, ArtushVision AI gives you total control through its revolutionary **[Dynamic Variable Prompt Engine](docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)**. You can completely customize the underlying system instructions and map them to specialized profiles. 
 
@@ -297,7 +292,7 @@ This allows the AI to cross-reference visual pixel arrays with exact technical a
 ### EXIF GPS Geolocation Integration
 Visual recognition alone is often not enough for highly specific travel, architectural, or wildlife photography. ArtushVision AI automatically reads the GPS coordinates hidden in your files' EXIF data and injects this precise geographical context directly into the AI model using the variable pipeline. Instead of guessing a generic "tropical landscape," the AI knows exactly what region, city, or habitat it is analyzing. This generates highly accurate, localized keywords and precise species descriptions that drastically boost your SEO. Most desktop competitors completely ignore GPS data during AI keywording.
 
-### [Local Getty Images / Batch iStock Optimization and Resolver](docs/getty-images-esp-metadata-optimizer.html)
+### [Local Getty Images / Batch iStock Optimization and Resolver](getty-images-esp-metadata-optimizer.html)
 ArtushVision AI completely bypasses the frustration of iStock submissions. It includes a built-in offline Master Dictionary of over 9,800+ Getty-approved terms and an interactive Getty Resolver panel. AI-generated keywords are automatically parsed, resolved, and mapped to Getty's controlled vocabulary. If an exotic keyword isn't found, you can save it directly to a custom user dictionary or flag it under a "Candidates" field, ensuring your upload queues never freeze.
 
 ### [Customizable Profiles Presets](docs/create-and-optimize-custom-ai-prompts.html)
