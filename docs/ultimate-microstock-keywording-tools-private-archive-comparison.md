@@ -201,7 +201,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
       <img src="images/comparison/pixify.webp" alt="Pixify Studio Interface Screenshot" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de; cursor: zoom-in;">
     </a>
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
-      <strong>Pixify Studio (Standard Output)</strong><br>
+      <strong>Pixify Studio (The playground  Output)</strong><br>
       Generates generic titles, descriptions, and keywords. Completely rigid system with no options to customize prompts for specific market requirements.<br>
       <span style="color: #cf222e; font-weight: 600;">Cost: Premium subscription required</span>
     </p>
