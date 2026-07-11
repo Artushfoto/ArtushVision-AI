@@ -9,7 +9,7 @@ The modern microstock business demands extreme speed, metadata precision, and pa
 Most modern microstock tools function by forcing you to upload your high-resolution assets to their remote cloud servers for analysis. 
 
 > ### Critical Security Warning
-> To use cloud-based automated distribution features (such as CyberStock's CyberPusher), you are required to save your FTP/SFTP usernames and passwords on their remote cloud servers. If these third-party platforms suffer a data breach, server exploit, or cloud database leak, your entire portfolio livelihood, financial stock accounts, and agency payout profiles are exposed to malicious actors.
+> To use cloud-based automated distribution features (such as CyberStock's CyberPusher), you are required to save your FTP/SFTP usernames and passwords on their remote cloud servers. If these third-party platforms suffer a data breach, server exploit, or cloud database leak, your entire portfolio livelihood, financial stock accounts, and agency payout profiles can be exposed to malicious actors.
 
 Furthermore, constantly uploading gigabytes of high-res files to the web is completely unviable for:
 1. **Client Work Under NDA:** Commercial assignments, corporate portraits, and private events where non-disclosure agreements strictly forbid uploading proprietary files to unverified third-party cloud servers.
@@ -20,7 +20,7 @@ Everything runs 100% locally on your machine. Your FTP credentials are **securel
 
 ---
 
-## The Ribbon of Getty Images / iStock Disambiguation
+## Integrated Getty & iStock Controlled Vocabulary Tool
 Getty Images and iStock do not use standard open-ended text tags. They operate on a strict, controlled vocabulary to eliminate homonyms (e.g., separating the machine crane from the bird crane). If your keywords aren't mapped properly to their dictionary, your files require painful manual asset-by-asset disambiguation on their ESP platform or through tools like DeepMeta. Only a few tools provide optimization solutions for this specific bottleneck.
 
 ---
@@ -35,6 +35,29 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 * **EXIF & GPS Handling:** Completely ignores EXIF/GPS data during the AI keywording phase. The AI analyzes the image purely as a blind visual container, meaning location-specific context or technical camera data cannot be utilized to improve keyword precision.
 * **Strengths:** Includes a decent Lightroom Classic plugin.
 * **Weaknesses:** High credit anxiety. Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy.
+
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
+  
+  <!-- Levý obrázek -->
+  <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
+    <img src="https://vision.artushfoto.eu/assets/img/before.jpg" alt="Lightroom Alphabetical Sorting" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
+    <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
+      <strong>Před: Standardní export</strong><br>
+      Klíčová slova jsou seřazena abecedně, čímž se ztrácí jejich relevance.
+    </p>
+  </div>
+
+  <!-- Pravý obrázek -->
+  <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
+    <img src="https://vision.artushfoto.eu/assets/img/after.jpg" alt="ArtushVision AI Preserved Order" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
+    <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
+      <strong>Po: ArtushVision AI optimalizace</strong><br>
+      Klíčová slova si drží přesné pořadí podle důležitosti (vhodné pro Getty/iStock).
+    </p>
+  </div>
+
+</div>
+
 
 #### PhotoTag.ai (phototag.ai)
 * **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (e.g., 10,000 Upload Credits / 1,000 file batch upload for €56).
