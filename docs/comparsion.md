@@ -66,21 +66,21 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 ---
 
-#### PhotoTag.ai (phototag.ai)
+### PhotoTag.ai (phototag.ai)
 * **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (e.g., 10,000 Upload Credits / 1,000 file batch upload for €56).
 * **Getty/iStock Optimization:** None. Generates generic keywords that do not map to the ESP controlled dictionary, offering no specialized support for Getty contributors.
 * **EXIF & GPS Handling:** Zero ingestion of EXIF/GPS metadata. The cloud engine reads the uploaded files purely as raw pixels. If a photo features a specific monument or localized geographic event, the AI will describe it literally ("stone building, tower") instead of pulling the true historical or geographical name from geolocation metadata.
 * **Strengths:** Clean web interface supporting photos, videos, and vectors. Lightroom Classic plug-in and API access available
 * **Weaknesses:** Uses generic, rigid AI that describes scenes literally ("green pot, white background") rather than capturing commercial, high-ranking metadata concepts ("slow living, morning routine, authentic lifestyle"). Zero local file culling and no FTP modules.
 
-#### CyberStock (cyberstock.lol)
+### CyberStock (cyberstock.lol)
 * **Pricing:** Annual plans start at $7/month (only 200 credits), Pro plan is $15/month (800 credits), and Unlimited costs $63/month ($756/year billed annually). Monthly pricing without a commitment spikes up to $159/month.
 * **Getty/iStock Optimization:** CyberStock natively integrates with the Getty Images Controlled Vocabulary guidelines. 
 * **EXIF & GPS Handling:** Metadata-blind AI processing. CyberStock focuses entirely on pipeline processing speed. The cloud-based AI bypasses any internal EXIF/GPS analysis, making it impossible to auto-inject geographical or hardware variables into the metadata generation process.
 * **Strengths:** Very fast parallel cloud processing (~1.3s per asset), built-in marketing insights (SEMrush and Google Trends integration), and a Selling Score algorithm.
 * **Weaknesses:** High security risk on the market. Demands that you store your raw stock agency passwords and FTP connections directly on their remote cloud infrastructure. 
 
-#### PhotoKeyworder.ai (photokeyworder.ai)
+### PhotoKeyworder.ai (photokeyworder.ai)
 * **Pricing:** Pay-as-you-go credit packs (20 free credits upon registration) or fixed tier at €8.99/month for 400 Images (or 133 Videos).
 * **Getty/iStock Optimization:** Yes. Includes a specialized iStock/Getty Images optimization tool that outputs metadata tailored to their controlled vocabulary, generating DeepMeta and QHero-ready CSVs via cloud processing.
 * **EXIF & GPS Handling:** Extracts geolocation data from EXIF to cross-reference location names on the cloud side. However, because it is a closed web browser interface, it cannot write this data back into the original local files natively—it only offers it as a downloadable CSV or sidecar text file.
@@ -89,16 +89,16 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 ---
 
-### 2. Traditional Desktop Powerhouses (Native Software)
+## 2. Traditional Desktop Powerhouses (Native Software)
 
-#### Xpiks Pro (xpiksapp.com)
+### Xpiks Pro (xpiksapp.com)
 * **Pricing:** Basic version is free. Pro License is a one-time €49 purchase. The advanced Pro+ tier costs €99/year (subscription) and is required to unlock AI keywording plugins (includes 4,000 credits/month).
 * **Getty/iStock Optimization:** No native support. Lacks an integrated controlled vocabulary engine for Getty/iStock; users must map terms entirely manually or rely on basic external metadata structures.
 * **EXIF & GPS Handling:** High-quality local EXIF reader and writer. It correctly displays GPS coordinates on a visual map within the desktop UI. However, a major disconnect exists: its AI keywording plugin operates externally via cloud downscaling and **completely ignores the GPS/EXIF data during AI generation**. The AI does not know where the photo was taken unless you manually type it into a text prompt beforehand.
 * **Strengths:** Highly mature, lightning-fast native local file system navigator. Excellent background multi-threaded FTP uploads, automated vector ZIP creation, local search filtering, and color tag tagging.
 * **Weaknesses:** AI keywording is treated as an external cloud add-on—Xpiks uploads a downscaled copy of your images to its remote servers to generate tags.
 
-#### ImStocker Studio (studio.imstocker.com)
+### ImStocker Studio (studio.imstocker.com)
 * **Pricing:** Basic version is free. Pro License is $49.50/year or $250 for a lifetime license. Crucial Catch: AI keywording features (IMS Vision) are billed completely separately via recurring credit packs (approx. $42 to $170/year based on volume). 
 * **Getty/iStock Optimization:** Yes. interactive keyword refinement panel for manual Getty/iStock controlled vocabulary matching (though the cache is tied to the app database).
 * **EXIF & GPS Handling:** Industrial-grade local EXIF/IPTC/XMP editor. It allows meticulous manual management of GPS coordinates, templates, and metadata schemas. But much like Xpiks, its native AI module (IMS Vision) is a visual-only cloud API. The AI engine itself does not automatically read or digest the file's GPS coordinates to contextualize its object recognition, forcing users to bridge the gap between AI visual tags and manual location tags themselves.
