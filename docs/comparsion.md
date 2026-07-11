@@ -40,7 +40,9 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
   <!-- Levý obrázek - ArtushVision AI -->
   <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
-    <img src="images/comparsion/artushvision-editorial.webp" alt="ArtushVision AI with Editorial Prompt" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
+    <a href="images/comparsion/artushvision-editorial.webp" target="_blank" title="Click to view full size">
+      <img src="images/comparsion/artushvision-editorial.webp" alt="ArtushVision AI with Editorial Prompt" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de; cursor: zoom-in;">
+    </a>
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
       <strong>ArtushVision AI (Editorial Profile)</strong><br>
       Automatically assigns categories/countries and tailors descriptions to Shutterstock rules. Includes a <strong>built-in FTP/FTPS client</strong> to upload files directly from the app. For agencies like Shutterstock and Dreamstime, it <strong>automatically generates and submits the required CSV metadata files</strong> alongside your photos—once uploaded, just log in and click submit. No extra setup needed!<br>
@@ -50,7 +52,9 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
   <!-- Pravý obrázek - Pixify Studio -->
   <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
-    <img src="images/comparsion/pixify.webp" alt="Pixify Studio" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
+    <a href="images/comparsion/pixify.webp" target="_blank" title="Click to view full size">
+      <img src="images/comparsion/pixify.webp" alt="Pixify Studio" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de; cursor: zoom-in;">
+    </a>
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
       <strong>Pixify Studio (Standard Output)</strong><br>
       Generates generic titles, descriptions, and keywords. Completely rigid system with no options to customize prompts for specific market requirements.<br>
