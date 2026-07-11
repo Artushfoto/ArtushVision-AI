@@ -40,16 +40,16 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
   
   <!-- Levý obrázek -->
   <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
-    <img src="docs/images/comparsion/artushvision-editorial.webp" alt="Lightroom Alphabetical Sorting" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
+    <img src="docs/images/comparsion/artushvision-editorial.webp" alt="ArtushVision  AI with Editorial Prompt" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
-      <strong>Před: Standardní export</strong><br>
-      Klíčová slova jsou seřazena abecedně, čímž se ztrácí jejich relevance.
+      <strong>Před: ArtushVision with editorial prompt</strong><br>
+      All categories also assigned and description is according Shutterstock rules. Price: $0.000662 USD
     </p>
   </div>
 
   <!-- Pravý obrázek -->
   <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
-    <img src="https://vision.artushfoto.eu/assets/img/after.jpg" alt="ArtushVision AI Preserved Order" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
+    <img src="docs/images/comparsion/pixify.webp" alt="Pixify Studio" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
       <strong>Po: ArtushVision AI optimalizace</strong><br>
       Klíčová slova si drží přesné pořadí podle důležitosti (vhodné pro Getty/iStock).
