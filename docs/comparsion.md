@@ -37,26 +37,34 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 * **Weaknesses:** High credit anxiety. Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy.
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
-  
-  <!-- Levý obrázek -->
+ 
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
+
+  <!-- Levý obrázek - ArtushVision AI -->
   <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
-    <img src="docs/images/comparsion/artushvision-editorial.webp" alt="ArtushVision  AI with Editorial Prompt" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
+    <img src="images/comparsion/artushvision-editorial.webp" alt="ArtushVision AI with Editorial Prompt" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
-      <strong>Před: ArtushVision with editorial prompt</strong><br>
-      All categories also assigned and description is according Shutterstock rules. Price: $0.000662 USD
+      <strong>ArtushVision AI (Editorial Profile)</strong><br>
+      Automatically assigns categories and country, with descriptions tailored precisely to Shutterstock's compliance rules.<br>
+      <span style="color: #2da44e; font-weight: 600;">Cost: $0.000662 USD per image</span>
     </p>
   </div>
 
-  <!-- Pravý obrázek -->
+  <!-- Pravý obrázek - Pixify Studio -->
   <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
-    <img src="docs/images/comparsion/pixify.webp" alt="Pixify Studio" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
+    <img src="images/comparsion/pixify.webp" alt="Pixify Studio" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de;">
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
-      <strong>Po: ArtushVision AI optimalizace</strong><br>
-      Klíčová slova si drží přesné pořadí podle důležitosti (vhodné pro Getty/iStock).
+      <strong>Pixify Studio (Standard Output)</strong><br>
+      Generates generic titles, descriptions, and keywords. Completely rigid system with no options to customize prompts for specific market requirements.<br>
+      <span style="color: #cf222e; font-weight: 600;">Cost: Subscription required</span>
     </p>
   </div>
 
 </div>
+
+</div>
+
+---
 
 #### PhotoTag.ai (phototag.ai)
 * **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (e.g., 10,000 Upload Credits / 1,000 file batch upload for €56).
