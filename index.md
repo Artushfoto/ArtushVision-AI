@@ -272,7 +272,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
     <!-- Nový integrovaný blok odkazů -->
     <div style="margin: -5px 0 22px 0; font-size: 0.9em; display: flex; flex-direction: column; gap: 6px;">
       <div> <strong>Case Studies &amp; Reviews:</strong> <a href="/docs/artushvision-reviews.html" style="color: #0969da; text-decoration: none; font-weight: 500;">Explore Independent User Testimonials &rarr;</a></div>
-      <div> <strong>Deep Competitor Analysis:</strong> <a href="docs/ultimate-microstock-keywording-tools-private-archive-comparison.html" style="color: #0969da; text-decoration: none; font-weight: 500;">ArtushVision AI vs. Cloud "Market Leaders" Comparison &rarr;</a></div>
+      <div> <strong>Deep Competitor Analysis:</strong> <a href="docs/ultimate-microstock-keywording-tools-private-archive-comparison.html" style="color: #0969da; text-decoration: none; font-weight: 500;">ArtushVision AI vs. Cloud and "Market Leaders" Comparison &rarr;</a></div>
     </div>
     
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
