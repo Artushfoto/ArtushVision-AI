@@ -70,12 +70,12 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 * **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (e.g., 10,000 Upload Credits / 1,000 file batch upload for €56).
 * **Getty/iStock Optimization:** None. Generates generic keywords that do not map to the ESP controlled dictionary, offering no specialized support for Getty contributors.
 * **EXIF & GPS Handling:** Zero ingestion of EXIF/GPS metadata. The cloud engine reads the uploaded files purely as raw pixels. If a photo features a specific monument or localized geographic event, the AI will describe it literally ("stone building, tower") instead of pulling the true historical or geographical name from geolocation metadata.
-* **Strengths:** Clean web interface supporting photos, videos, and vectors.
+* **Strengths:** Clean web interface supporting photos, videos, and vectors. Lightroom Classic plug-in and API access available
 * **Weaknesses:** Uses generic, rigid AI that describes scenes literally ("green pot, white background") rather than capturing commercial, high-ranking metadata concepts ("slow living, morning routine, authentic lifestyle"). Zero local file culling and no FTP modules.
 
 #### CyberStock (cyberstock.lol)
 * **Pricing:** Annual plans start at $7/month (only 200 credits), Pro plan is $15/month (800 credits), and Unlimited costs $63/month ($756/year billed annually). Monthly pricing without a commitment spikes up to $159/month.
-* **Getty/iStock Optimization:** ??? or None. It completely lacks specialized vocabulary resolution tools; it outputs generic text tags that will cause mass disambiguation failures upon ingestion to Getty/iStock.
+* **Getty/iStock Optimization:** CyberStock natively integrates with the Getty Images Controlled Vocabulary guidelines. 
 * **EXIF & GPS Handling:** Metadata-blind AI processing. CyberStock focuses entirely on pipeline processing speed. The cloud-based AI bypasses any internal EXIF/GPS analysis, making it impossible to auto-inject geographical or hardware variables into the metadata generation process.
 * **Strengths:** Very fast parallel cloud processing (~1.3s per asset), built-in marketing insights (SEMrush and Google Trends integration), and a Selling Score algorithm.
 * **Weaknesses:** High security risk on the market. Demands that you store your raw stock agency passwords and FTP connections directly on their remote cloud infrastructure. 
@@ -100,7 +100,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 #### ImStocker Studio (studio.imstocker.com)
 * **Pricing:** Basic version is free. Pro License is $49.50/year or $250 for a lifetime license. Crucial Catch: AI keywording features (IMS Vision) are billed completely separately via recurring credit packs (approx. $42 to $170/year based on volume). 
-* **Getty/iStock Optimization:** Yes. Features an excellent interactive keyword refinement panel for manual Getty/iStock controlled vocabulary matching (though the cache is tied to the app database).
+* **Getty/iStock Optimization:** Yes. interactive keyword refinement panel for manual Getty/iStock controlled vocabulary matching (though the cache is tied to the app database).
 * **EXIF & GPS Handling:** Industrial-grade local EXIF/IPTC/XMP editor. It allows meticulous manual management of GPS coordinates, templates, and metadata schemas. But much like Xpiks, its native AI module (IMS Vision) is a visual-only cloud API. The AI engine itself does not automatically read or digest the file's GPS coordinates to contextualize its object recognition, forcing users to bridge the gap between AI visual tags and manual location tags themselves.
 * **Strengths:** An absolute powerhouse for granular metadata micro-management. Supports different metadata sets for different agencies.
 * **Weaknesses:** Overwhelming, highly complex interface with a steep learning curve. Its AI module is a closed cloud ecosystem (requires credits and remote data uploading). Getty and FTP tracking maps are tied strictly to the app database; if you move to a new PC, your metadata history and connection states are lost unless you manually migrate the database files.
@@ -132,7 +132,7 @@ This allows the AI to cross-reference visual pixel arrays with exact technical a
 ### EXIF GPS Geolocation Integration
 Visual recognition alone is often not enough for highly specific travel, architectural, or wildlife photography. ArtushVision AI automatically reads the GPS coordinates hidden in your files' EXIF data and injects this precise geographical context directly into the AI model using the variable pipeline. Instead of guessing a generic "tropical landscape," the AI knows exactly what region, city, or habitat it is analyzing. This generates highly accurate, localized keywords and precise species descriptions that drastically boost your SEO. Most desktop competitors completely ignore GPS data during AI keywording.
 
-### Local Getty Images / iStock Optimization and Resolver
+### Local Getty Images / Batch iStock Optimization and Resolver
 ArtushVision AI completely bypasses the frustration of iStock submissions. It includes a built-in offline Master Dictionary of over 9,800+ Getty-approved terms and an interactive Getty Resolver panel. AI-generated keywords are automatically parsed, resolved, and mapped to Getty's controlled vocabulary. If an exotic keyword isn't found, you can save it directly to a custom user dictionary or flag it under a "Candidates" field, ensuring your upload queues never freeze.
 
 ### Customizable Profiles Presets
@@ -165,7 +165,7 @@ ArtushVision AI functions as a high-speed culling workspace for massive local ca
 | **Security Profile (FTP Credentials)** | **Zero Risk** (Stored strictly locally) | Zero Risk (Stored strictly locally) | Zero Risk (Stored locally) | **High Risk** (Saved on remote cloud servers) | N/A (No FTP module) | N/A (No FTP module) | N/A (No FTP module) |
 | **EXIF GPS AI Keywording Integration**| **Yes** (Context directly feeds AI) | No (Map tagging only, AI ignores it) | No (AI ignores GPS data entirely) | No | No | No (AI ignores GPS) | **Yes** (Extracts EXIF geolocation) |
 | **Dynamic Prompting Variables** | **Yes** (Tokens: `{GPS}`, `{LENS}`, etc.) | No (Static UI/closed system) | No (Hardcoded prompts) | No | No | No | No |
-| **Getty / iStock Optimization** | **Yes** (Interactive Local Resolver) | **Yes** (Selection Panel + App DB Cache) | No (Manual entry/plugins only) | No (Standard flat text tags only) | No (Standard flat text tags only) | No (Standard flat text tags only) | **Yes** (Cloud-generated ESP CSV) |
+| **Getty / iStock Optimization** | **Yes** (Interactive Local Resolver) | **Yes** (Selection Panel + App DB Cache) | No (Manual entry/plugins only) | Getty Images Controlled Vocabulary guidelines ??? | No (Standard flat text tags only) | No (Standard flat text tags only) | **Yes** (Cloud-generated ESP CSV) |
 | **Upload Status Tracking** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A (No FTP module) | N/A (No FTP module) | N/A (No FTP module) |
 | **Data Portability (Categories & Tags)** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A | N/A | N/A |
 | **Recommended Local Models** | **Yes** (Gemma family and others) | No | No | No | No | No | No |
