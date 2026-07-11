@@ -190,7 +190,7 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
     </a>
     <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
       <strong>ArtushVision AI (Editorial Profile)</strong><br>
-      Automatically assigns categories/countries and tailors descriptions to Shutterstock rules. Includes a <a href="docs/global-stock-distribution-ftp.html" style="color: #0969da; text-decoration: none; font-weight: 600;">built-in FTP/FTPS client</a> to upload files directly from the app. For agencies like Shutterstock and Dreamstime, it <strong>automatically generates and submits the required CSV metadata files</strong> alongside your photos. Once uploaded, just log in and click submit. No extra setup needed!<br>
+      Automatically assigns categories/countries and tailors descriptions to Shutterstock rules. Includes a <a href="global-stock-distribution-ftp.html" style="color: #0969da; text-decoration: none; font-weight: 600;">built-in FTP/FTPS client</a> to upload files directly from the app. For agencies like Shutterstock and Dreamstime, it <strong>automatically generates and submits the required CSV metadata files</strong> alongside your photos. Once uploaded, just log in and click submit. No extra setup needed!<br>
       <span style="color: #2da44e; font-weight: 600;">Cost: $0.000662 USD per image</span>
     </p>
   </div>
@@ -262,23 +262,18 @@ Getty Images and iStock do not use standard open-ended text tags. They operate o
 
 ArtushVision AI acts as a completely autonomous, private desktop bridge, combining advanced localized AI orchestration with absolute metadata control.
 
-### [Built-In Offline Model Manager (Ollama)](docs/ai-metadata-generation-cloud-local-ollama.html#5-local-ollama-model-setup--recommended-models)
-ArtushVision AI features a clean graphical interface to manage local offline models via Ollama. For 100% free, private, and offline metadata generation, it natively recommends and utilizes advanced community Vision-Language models:
-* **High-End Precision:** For users with powerful dedicated GPUs, advanced vision models from the Google Gemma family deliver flawless, highly accurate detail recognition and deep conceptual microstock storytelling. While processing takes slightly longer, the metadata precision is unmatched.
-* **Lightweight & Fast:** For standard hardware setups, highly optimized community models (like *Llama-3.2-Vision* or *Moondream2*) provide lightning-fast processing speeds while staying safely within lower VRAM limits.
-
-Need maximum commercial speed? Switch to the hybrid cloud mode using OpenRouter (Gemini Flash, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups.
-
 ---
 
-### Built-In Offline Model Manager (Ollama)
+### [Built-In Offline Model Manager (Ollama)](ai-metadata-generation-cloud-local-ollama.html#5-local-ollama-model-setup--recommended-models)
 ArtushVision AI features a clean graphical interface to manage local offline models via Ollama. For 100% free, private, and offline metadata generation, the application adapts perfectly to your hardware capabilities:
 
 * **High-End Precision:** For users with powerful dedicated GPUs, advanced vision models from the Google Gemma family deliver flawless, highly accurate detail recognition and deep conceptual microstock storytelling. While processing takes slightly longer, the metadata precision is unmatched.
 * **Lightweight & Fast:** For standard hardware setups, highly optimized community models (like *Llama-3.2-Vision* or *Moondream2*) provide lightning-fast processing speeds while staying safely within lower VRAM limits.
 
-### [Advanced AI Prompting Profiles & Dynamic Variables](docs/advanced-ai-prompting-profiles-variables.html)
-Unlike any competitor on the market that uses rigid, hardcoded, hidden system prompts, ArtushVision AI gives you total control through its revolutionary **[Dynamic Variable Prompt Engine](docs/advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)**. You can completely customize the underlying system instructions and map them to specialized profiles. 
+Need maximum commercial speed? Switch to the hybrid cloud mode using OpenRouter (Gemini Flash, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups.
+
+### [Advanced AI Prompting Profiles & Dynamic Variables](advanced-ai-prompting-profiles-variables.html)
+Unlike any competitor on the market that uses rigid, hardcoded, hidden system prompts, ArtushVision AI gives you total control through its revolutionary **[Dynamic Variable Prompt Engine](advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)**. You can completely customize the underlying system instructions and map them to specialized profiles. 
 
 By utilizing standardized formatting tokens and metadata placeholders, the app automatically extracts real-time information from the file and injects it straight into the AI’s prompt context. Available variables include:
 * `{GPS}` / `{CITY}` / `{COUNTRY}` – Automatically feeds precise localized geographic data.
@@ -295,19 +290,19 @@ Visual recognition alone is often not enough for highly specific travel, archite
 ### [Local Getty Images / Batch iStock Optimization and Resolver](getty-images-esp-metadata-optimizer.html)
 ArtushVision AI completely bypasses the frustration of iStock submissions. It includes a built-in offline Master Dictionary of over 9,800+ Getty-approved terms and an interactive Getty Resolver panel. AI-generated keywords are automatically parsed, resolved, and mapped to Getty's controlled vocabulary. If an exotic keyword isn't found, you can save it directly to a custom user dictionary or flag it under a "Candidates" field, ensuring your upload queues never freeze.
 
-### [Customizable Profiles Presets](docs/create-and-optimize-custom-ai-prompts.html)
+### [Customizable Profiles Presets](create-and-optimize-custom-ai-prompts.html)
 Assign your variable-driven prompts to specific structural presets based on your active workflow:
 * **Wildlife Profile:** Automatically instructs the AI to locate and append the exact scientific Latin names of fauna based on visual data and `{COUNTRY}`/`{GPS}` location tracking.
 * **Studio Shots Profile:** Directs the model to analyze product placement, artificial lighting techniques, and studio aesthetics, auto-appending technical `{CAMERA}` settings if requested.
 * **Editorial Profile:** Forces the AI to capture strict documentary reality based on `{FILENAME}` data while banning commercial buzzwords.
 
-### [XMP-Centric Data Architecture (True Portability)](docs/metadata-compatibility-and-file-handling.html)
+### [XMP-Centric Data Architecture (True Portability)](metadata-compatibility-and-file-handling.html)
 While competitors lock your history into an isolated application database, ArtushVision AI writes its entire metadata ecosystem directly into the file's XMP metadata fields (or .xmp sidecars for RAWs). This includes your **FTP upload history**, your resolved **Getty controlled vocabulary mapping**, assigned **agency categories**, and the exact **customized order of your keywords**. Your files carry their own complete history. Move your archive folder to an external drive, open it on an entirely different computer, and ArtushVision instantly reads: which agencies the file has already been sent to, its exact structural categories, and the SEO-weighted sequence of its keywords. Everything stays perfectly intact.
 
-### [Smart Category Management (AI and Manual)](docs/category-matrix.html)
+### [Smart Category Management (AI and Manual)](category-matrix.html)
 Stock agencies require sorting files into rigid structural categories (e.g., Nature, Technology, People). ArtushVision AI can automatically assign categories using AI visual analysis, or allow you to batch-apply predefined category sets manually across hundreds of selected files simultaneously. (And as mentioned above, this category data moves securely with the file via XMP).
 
-### [Professional Culling and Batch Operations](docs/batch-operations-metadata-library-management.html)
+### [Professional Culling and Batch Operations](batch-operations-metadata-library-management.html)
 ArtushVision AI functions as a high-speed culling workspace for massive local catalogs (including native RAW and video formats):
 * **Culling Suite:** Full support for Star Ratings (1–5), Color Labels, and Status Flags (Pick/Reject) compatible with Lightroom and other software.
 * **Massive Batch Tools:** Select 500 files at once to apply ratings, perform advanced token-based file renaming with counters, or append/remove specific tags without destroying the unique keywords generated by the AI on individual files.
