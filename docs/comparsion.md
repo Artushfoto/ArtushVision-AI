@@ -318,5 +318,67 @@ ArtushVision AI functions as a high-speed culling workspace for massive local ca
 | **Category Management** | **Yes** (AI Auto + Manual Sets via XMP) | Yes (Manual Only via App DB) | Yes (Manual Only via App DB) | Partial (AI Only) | No | No | No |
 | **Culling Suite (Stars, Colors, Flags)** | **Yes** (Complete sorting toolkit) | Yes | Partial (Color tags only) | No | No | No | No |
 | **Lightroom Alphabetical Sort Fix** | **Yes** (Critical for Adobe Stock SEO) | No | No | No | No | No | No |
-| **Batch Operations & Token Renaming** | **Yes** (Advanced counters and tokens) | Yes | Yes | Limited (Browser latencies) | No | No | No |
+| **Metadata Batch Operations** | **Yes** (Advanced) | Yes | Yes | Limited (Browser latencies) | No | No | No |
 | **Getty/iStock Vocabulary Cache** | **Yes** (Stored permanently in XMP) | Yes (Tied to app database) | No | No | No | No | No (Temporary cloud session) |
+
+---
+
+### [Get Started Now]
+* [Download Free Lite Version](/docs/download-purchase.html)
+* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+
+---
+
+## Need Help?
+
+Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
+[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
+[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
+[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
+---
+
+*ArtushVision AI - Stability and precision for professional photography workflows.*
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    let analyticsLoaded = false;
+
+    function loadAnalytics() {
+      if (analyticsLoaded) return;
+      analyticsLoaded = true;
+
+      // 1. Dynamické vložení externího skriptu gtag.js s NOVÝM ID
+      var gtagScript = document.createElement('script');
+      gtagScript.async = true;
+      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ5';
+      document.head.appendChild(gtagScript);
+
+      // 2. Inicializace nastavení Google Analytics s NOVÝM ID
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-KCZWMGZFJ5');
+
+      // 3. Odstranění posluchačů událostí po úspěšném načtení
+      document.removeEventListener('scroll', loadAnalytics);
+      document.removeEventListener('mousemove', loadAnalytics);
+      document.removeEventListener('touchstart', loadAnalytics);
+    }
+
+    // Spuštění při první skutečné interakci uživatele
+    document.addEventListener('scroll', loadAnalytics, { passive: true });
+    document.addEventListener('mousemove', loadAnalytics, { passive: true });
+    document.addEventListener('touchstart', loadAnalytics, { passive: true });
+
+    // Pojistka: Pokud uživatel do 5 sekund nic neudělá, načíst Analytics automaticky
+    setTimeout(loadAnalytics, 5000);
+  });
+</script>
