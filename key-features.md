@@ -1,6 +1,6 @@
 ---
 title: "Key Features"
-description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
+description: "Master the Getty Images ESP Controlled Vocabulary. Desktop AI Microstock Tagger with 100% Private Local AI & Getty ESP Optimizer."
 ---
 <div style="display: none;">
 <style>
