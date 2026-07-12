@@ -1,5 +1,5 @@
 ---
-title: "Free Trial Version. Test Microstock Workflow"
+title: "Free Trial to Test Your Microstock Workflow"
 description: "Discover the ArtushVision AI Free Trial (Lite version). Test hardware compatibility, API connections, and our AI microstock metadata workflow before buying."
 ---
 <div style="display: none;">
