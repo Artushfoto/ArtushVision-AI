@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions | ArtushVision AI Documentation"
+title: "Frequently Asked Questions"
 description: "Professional answers to common questions about ArtushVision AI pricing, privacy, local AI setup, and technical requirements."
 ---
 <div style="display: none;">

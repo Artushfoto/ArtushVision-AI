@@ -1,5 +1,5 @@
 ---
-title: "Download ArtushVision AI | Windows Installer & System Requirements"
+title: "Windows Installer & System Requirements"
 description: "Download the latest ArtushVision AI v2026.001 for Windows. Discover hardware requirements for local Ollama AI photo tagging, offline metadata automation, and fast image processing."
 ---
 <div style="display: none;">

@@ -1,5 +1,5 @@
 ---
-title: "Download ArtushVision AI | Lifetime License for Stock Photography Workflow"
+title: "Download & Lifetime License for Stock Photography Workflow"
 description: "Download the free version or buy a lifetime commercial license of ArtushVision AI. Automate your stock photography keywording, offline AI batch processing, and FTP distribution with a one-time payment."
 ---
 <div style="display: none;">

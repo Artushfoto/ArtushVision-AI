@@ -1,5 +1,5 @@
 ---
-title: "Create & Optimize Custom AI Prompts for Stock Photography | ArtushVision AI"
+title: "Create & Optimize Custom AI Prompts for Stock Photography"
 description: "Learn how to use the Meta-Prompt strategy with ChatGPT, Claude, or Gemini to build SEO-optimized custom AI prompt profiles for stock photography metadata in ArtushVision AI."
 ---
 <div style="display: none;">

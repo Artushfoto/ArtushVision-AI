@@ -1,5 +1,5 @@
 ---
-title: "Smart Manual Keywording and Culling | ArtushVision AI"
+title: "Smart Manual Keywording and Culling"
 description: "Master manual metadata curation and visual culling in ArtushVision AI. Experience real-time tag bubbles, drag-and-drop mechanics, and lightning-fast sorting and culling."
 ---
 <div style="display: none;">

@@ -1,5 +1,5 @@
 ---
-title: "Getty Images ESP Metadata Optimizer | ArtushVision AI Documentation"
+title: "Key Features"
 description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
 ---
 <div style="display: none;">

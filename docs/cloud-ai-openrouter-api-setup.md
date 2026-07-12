@@ -1,6 +1,6 @@
 ---
-title: OpenRouter API Setup | ArtushVision AI
-description: Step-by-step guide on how to configure your OpenRouter API key for Cloud AI metadata automation in ArtushVision AI.
+title: "OpenRouter API Setup"
+description: "Step-by-step guide on how to configure your OpenRouter API key for Cloud AI metadata automation in ArtushVision AI."
 ---
 <div style="display: none;">
 <style>

@@ -1,7 +1,6 @@
 ---
-title: "ArtushVision AI Free Trial: Limits, Testing & Microstock Workflow"
+title: "Trial Limits, Testing & Microstock Workflow"
 description: "Discover the ArtushVision AI Free Trial (Lite version). Test hardware compatibility, API connections, and our AI microstock metadata workflow before buying."
-keywords: "ArtushVision AI, free trial, AI microstock software, auto-tagging, image metadata generator, stock photography workflow, local AI, OpenRouter"
 ---
 <div style="display: none;">
 <style>

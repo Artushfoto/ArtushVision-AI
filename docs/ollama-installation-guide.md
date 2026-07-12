@@ -1,5 +1,5 @@
 ---
-title: "Ollama Installation & Setup Guide | ArtushVision AI"
+title: "Ollama Installation & Setup Guide"
 description: "Step-by-step instructions for installing Ollama to run local AI Vision and Text models completely offline with ArtushVision AI."
 ---
 <div style="display: none;">

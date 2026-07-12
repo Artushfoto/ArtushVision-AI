@@ -1,5 +1,5 @@
 ---
-title: "Batch Metadata Operations & Bulk Editing | ArtushVision AI"
+title: "Batch Metadata Operations & Bulk Editing"
 description: "Efficiently manage thousands of photos with ArtushVision AI batch processing tools. Bulk edit metadata, batch rename files, and use global search & replace for professional photography workflows."
 ---
 <div style="display: none;">

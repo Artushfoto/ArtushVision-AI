@@ -1,5 +1,5 @@
 ---
-title: "User Reviews & Testimonials | ArtushVision AI"
+title: "User Reviews & Testimonials"
 description: "See what professional photographers, stock contributors, and creators are saying about their workflow with ArtushVision AI."
 ---
 <div style="display: none;">

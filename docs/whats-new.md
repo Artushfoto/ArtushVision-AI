@@ -1,5 +1,5 @@
 ---
-title: "What's New in ArtushVision AI | Release Notes & Features"
+title: "What's New, Release Notes & Features"
 description: "Discover the latest updates in ArtushVision AI (v1.10). Explore offline Ollama Vision models, Getty Images dictionary integration, and automated FTP microstock distribution."
 ---
 <div style="display: none;">

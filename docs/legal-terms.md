@@ -1,5 +1,5 @@
 ---
-title: "Legal Terms, EULA & Terms of Service | ArtushVision AI"
+title: "Legal Terms, EULA & Terms of Service"
 description: "Read the End User License Agreement (EULA), Terms of Service, and merchant information for ArtushVision AI desktop software."
 ---
 <div style="display: none;">

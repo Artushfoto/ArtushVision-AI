@@ -1,5 +1,5 @@
 ---
-title: "Manual Editing & Detailed Photo View | ArtushVision AI"
+title: "Manual Editing & Detailed Photo View"
 description: "Master granular metadata control in ArtushVision AI. Learn about the keyword bubble system, linguistic tools, multilingual spell check, and GPS mapping."
 ---
 <div style="display: none;">

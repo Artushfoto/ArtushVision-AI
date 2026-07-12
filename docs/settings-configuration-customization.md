@@ -1,5 +1,5 @@
 ---
-title: "Settings and Configuration Guide | ArtushVision AI Documentation"
+title: "Settings and Configuration Guide"
 description: "Customize ArtushVision AI to your specific professional needs. Learn about workspace customization, CSV template editing, category matrix mapping, and geocoding settings."
 ---
 <div style="display: none;">

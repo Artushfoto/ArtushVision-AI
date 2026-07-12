@@ -1,5 +1,5 @@
 --- 
-title: "Bi-directional Metadata Synchronization for Adobe Lightroom & More | ArtushVision AI"
+title: "Bi-directional Metadata Synchronization for Adobe Lightroom"
 description: "Ensure seamless bi-directional metadata synchronization with Adobe Lightroom, Zoner Photo Studio, and digiKam using ArtushVision AI's XMP sidecar workflow."
 ---
 <div style="display: none;">

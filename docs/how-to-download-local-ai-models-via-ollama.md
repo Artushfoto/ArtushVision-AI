@@ -1,5 +1,5 @@
 ---
-title: "How to Download Local AI Models via Ollama | ArtushVision AI Guide"
+title: "How to Download Local AI Models via Ollama"
 description: "Step-by-step guide to downloading, managing, and organizing local AI Vision and Text models using Ollama in the ArtushVision AI Model Manager."
 ---
 <div style="display: none;">

@@ -1,5 +1,5 @@
 ---
-title: "Local AI Model Manager: Complete Offline Control | ArtushVision AI"
+title: "Local AI Model Manager: Complete Offline Control"
 description: "Manage local Ollama AI models with our visual dashboard. Browse, download, and monitor Vision/Text models for secure, offline AI metadata tagging."
 ---
 <div style="display: none;">
