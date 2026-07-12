@@ -357,6 +357,7 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
 
+<!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     let analyticsLoaded = false;
