@@ -1,5 +1,5 @@
 ---
-title: "Getty Images Keywords ESP Metadata Optimizer"
+title: "Getty Images ESP Keywords & Metadata Optimizer"
 description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
 ---
 <div style="display: none;">
