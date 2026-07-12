@@ -1,5 +1,5 @@
 ---
-title: "AI Metadata Generation: Cloud and Local Vision Models | ArtushVision AI"
+title: "AI Metadata Generation: Cloud and Local Vision Models"
 description: "Professional AI photo and video tagging workstation. Features a 4-tier engine including Cloud (OpenRouter), Local (Ollama), Hybrid, and 2-Pass Local AI processing."
 ---
 <div style="display: none;">
