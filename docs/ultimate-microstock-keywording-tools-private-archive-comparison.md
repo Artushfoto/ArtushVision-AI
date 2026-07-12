@@ -1,6 +1,6 @@
 ---
-title: "Microstock Keywording & Metadata Tools | ArtushVision AI"
-description: "ArtushVision AI vs. Market Leaders. The Ultimate Microstock Keywording Tools & Private Archive Management Comparison"
+title: "ArtushVision AI vs. Market Leaders: The Ultimate Microstock Keywording Tools & Private Archive Management Comparison (June 2026)"
+description: "A detailed comparison of local AI keywording, privacy, Getty/iStock vocabulary mapping, and workflow features against cloud SaaS competitors."
 ---
 <div style="display: none;">
 <style>
