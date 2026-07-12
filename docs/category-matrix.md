@@ -1,5 +1,5 @@
 ---
-title: "Smart Category Mapping, Microstock Metadata Editor"
+title: "Smart Category Mapping, Metadata Editor"
 description: "Master microstock categories with ArtushVision AI. Automate metadata tagging, batch edit properties, and map stock photography categories across agencies seamlessly."
 ---
 <div style="display: none;">
