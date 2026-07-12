@@ -1,63 +1,20 @@
 ---
-title: "ArtushVision AI | Professional Metadata Automation Workstation"
-description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with Local & Cloud Vision AI."
+title: "ArtushVision AI vs. Market Leaders: The Ultimate Microstock Keywording Tools & Private Archive Management Comparison (June 2026)"
+description: "A detailed comparison of local AI keywording, privacy, Getty/iStock vocabulary mapping, and workflow features against cloud SaaS competitors."
 ---
-
 <div style="display: none;">
 <style>
-header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
+/* Odstraněno plošné display:none pro header/footer kvůli Google Webmaster Guidelines */
+h1 { text-align: center; }
 
-/* Flexbox kontejner pro rozdělení vršku (Hero sekce) na poloviny */
-.hero-split {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 30px;
-  margin: 10px 0 40px 0;
-}
-.hero-text {
-  flex: 1.1;
-}
-.hero-image {
-  flex: 0.9;
-}
-@media (max-width: 900px) {
-  .hero-split {
-    flex-direction: column;
-  }
-}
-
-/* Zelený Privacy Callout Box s plnou podporou pro Světlý i Tmavý režim - CELÁ ŠÍŘKA */
-.privacy-callout {
-  background-color: rgba(46, 164, 78, 0.08);
-  border: 1px solid rgba(26, 127, 55, 0.3);
-  border-radius: 6px;
-  padding: 18px;
-  margin: 25px 0;
-  width: 100%;
-  box-sizing: border-box;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
-}
-.privacy-callout h2 {
-  color: #1a7f37;
-  margin-top: 0;
-  margin-bottom: 8px;
-  font-size: 15px;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-.privacy-callout p {
-  margin: 0;
-  font-size: 13.5px;
-  color: #24292f;
-  line-height: 1.5;
-}
+/* Skrytí specifické patičky 'Improve this page' na této stránce */
+.site-footer, .footer, footer, div[class*="footer"], p[class*="footer"] { display: none !important; }
 
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
-  width: 100%;
+  margin: 20px auto;
+  max-width: 100%;
   text-decoration: none;
 }
 .screenshot-img {
@@ -73,46 +30,10 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   opacity: 0.95;
 }
 
-/* Tlačítka (Call to Action) - UŽŠÍ PRO LEPŠÍ ZOBRAZENÍ VEDLE SEBE */
-.btn {
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  width: 230px;
-  max-width: 100%;
-  padding: 10px 15px;
-  font-size: 15px;
-  font-weight: 600;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 6px;
-  transition: background-color 0.2s, color 0.2s, box-shadow 0.2s;
-  cursor: pointer;
-  box-sizing: border-box;
-}
-.btn-primary {
-  background-color: #0969da;
-  color: #ffffff !important;
-  border: 1px solid #0969da;
-}
-.btn-primary:hover {
-  background-color: #0550ae;
-  box-shadow: 0 3px 8px rgba(9, 105, 218, 0.2);
-}
-.btn-success {
-  background-color: #2da44e;
-  color: #ffffff !important;
-  border: 1px solid #2da44e;
-}
-.btn-success:hover {
-  background-color: #2c974b;
-  box-shadow: 0 3px 8px rgba(45, 164, 78, 0.2);
-}
-
-/* GitHub Téma vyhledávacího komponentu - ZAROVNÁNO DOLEVA */
+/* GitHub Téma vyhledávacího komponentu (Světlý i Tmavý režim) */
 #flex-search-container {
   max-width: 500px;
-  margin: 15px 0 25px 0;
+  margin: 25px auto;
   position: relative;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
@@ -191,16 +112,6 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 }
 
 @media (prefers-color-scheme: dark) {
-  .privacy-callout {
-    background-color: rgba(35, 134, 54, 0.15);
-    border: 1px solid rgba(46, 164, 78, 0.4);
-  }
-  .privacy-callout h2 {
-    color: #2ea44e;
-  }
-  .privacy-callout p {
-    color: #c9d1d9;
-  }
   #flex-search-input {
     border: 1px solid #30363d;
     background-color: #0d1117;
@@ -233,249 +144,195 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
   }
 }
 </style>
-
-<!-- Nastavení Site Name pro vyhledávač Google -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "ArtushVision AI",
-  "url": "https://vision.artushfoto.eu"
-}
-</script>
 </div>
 
-<h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
+## ArtushVision AI vs. Market Leaders: The Ultimate Microstock Keywording Tools & Private Archive Management Comparison (June 2026)
 
-<div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); overflow: hidden; background-color: #253544; line-height: 0;">
-  <object type="image/svg+xml" data="artushvision.svg" title="ArtushVision AI Software Features - Smart Microstock Tagging" aria-label="ArtushVision AI Software Features - Smart Microstock Tagging" style="width: 100%; height: auto; aspect-ratio: 841.89 / 210.47; display: block; pointer-events: auto !important; outline: none; border: none; margin: 0; padding: 0;">
-    <img src="artushvision.svg" alt="ArtushVision AI Software Features - Smart Microstock Tagging" />
-  </object>
-</div>
+The modern microstock business demands extreme speed, metadata precision, and parallel distribution across multiple agencies (Adobe Stock, Shutterstock, Getty Images, Pond5, etc.). While the market has split into fast cloud-based web utilities and established desktop asset managers, a critical factor is often overlooked: Data Privacy, Security, and Specialized Platform Optimization.
 
 ---
 
-<div class="hero-split">
-  <div class="hero-text">
-    <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
-    
-    <p style="font-size: 0.95em; margin: 10px 0;">Designed for smart photographers who are ready to abandon expensive cloud subscriptions and take back control. <strong><a href="/docs/artushvision-reviews.html">Read our user reviews and success stories &rarr;</a></strong></p>
-    
-    <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a; padding-left: 15px; border-left: 4px solid #0969da; font-style: italic;">
-      "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
-      <br>
-      <span style="display: block; margin-top: 8px; font-style: normal; font-size: 0.85em; font-weight: 600; color: #24292f;">
-        &mdash; Steven Heap, BackyardSilver (<a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" title="Read full user reviews">Read Full Review &rarr;</a>)
-      </span>
-    </blockquote>
-    
-    <!-- Nový integrovaný blok odkazů -->
-    <div style="margin: -5px 0 22px 0; font-size: 0.9em; display: flex; flex-direction: column; gap: 6px;">
-      <div> <strong>Case Studies &amp; Reviews:</strong> <a href="/docs/artushvision-reviews.html" style="color: #0969da; text-decoration: none; font-weight: 500;">Explore Independent User Testimonials &rarr;</a></div>
-      <div> <strong>Deep Competitor Analysis:</strong> <a href="docs/ultimate-microstock-keywording-tools-private-archive-comparison.html" style="color: #0969da; text-decoration: none; font-weight: 500;">ArtushVision AI vs. Cloud \"Market Leaders\" Comparison &rarr;</a></div>
-    </div>
-    
-    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-      <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
-      <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
-    </div>
-  </div>
-  
-  <div class="hero-image">
-    <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
-      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" fetchpriority="high" class="screenshot-img" />
+## The Cloud Security Risk and The Privacy Dilemma
+
+Most modern microstock tools function by forcing you to upload your high-resolution assets to their remote cloud servers for analysis. 
+
+> ### Critical Security Warning
+> To use cloud-based automated distribution features, you are required to save your FTP/SFTP usernames and passwords on their remote cloud servers. If these third-party platforms suffer a data breach, server exploit, or cloud database leak, your entire portfolio livelihood, financial stock accounts, and agency payout profiles can be exposed to malicious actors.
+
+Furthermore, constantly uploading gigabytes of high-res files to the web is completely unviable for:
+1. **Client Work Under NDA:** Commercial assignments, corporate portraits, and private events where non-disclosure agreements strictly forbid uploading proprietary files to unverified third-party cloud servers.
+2. **Family and Personal Travel Archives:** Private photography assets that you do not want scraped, analyzed, or stored by corporate cloud entities.
+
+## [The ArtushVision AI Ecosystem](https://vision.artushfoto.eu/)
+Everything runs 100% locally on your machine. Your FTP credentials are **securely encrypted** and never leave your local drive, and thanks to an integrated local offline AI model manager, not a single pixel of your private, family, or client archives ever needs to touch the internet.
+
+---
+
+## [Integrated Getty & iStock Controlled Vocabulary Tool](getty-images-esp-metadata-optimizer.html)
+Getty Images and iStock do not use standard open-ended text tags. They operate on a strict, controlled vocabulary to eliminate homonyms (e.g., separating the machine crane from the bird crane). If your keywords aren't mapped properly to their dictionary, your files require painful manual asset-by-asset disambiguation on their ESP platform or through tools like DeepMeta. Only a few tools provide optimization solutions for this specific bottleneck.
+
+---
+
+## Detailed Competitor Breakdown: Strengths vs. Weaknesses
+
+### 1. Cloud-Based SaaS Utilities (Web Platforms)
+
+#### Pixify Studio (pixify.io)
+* **Pricing:** Ranges from $5/month (100 credits) to $59/month (3,000 credits), up to $115/month. Additional top-up credits cost $30 per 1,000.
+* **Getty/iStock Optimization:** According to the website, the internal AI model is currently in development; costs 2 credits per generation.
+* **EXIF & GPS Handling:** Completely ignores EXIF/GPS data during the AI keywording phase. The AI analyzes the image purely as a blind visual container, meaning location-specific context or technical camera data cannot be utilized to improve keyword precision.
+* **Strengths:** Includes a decent Lightroom Classic plugin.
+* **Weaknesses:** High credit anxiety. Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy.
+
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
+
+<!-- Levý obrázek - ArtushVision AI -->
+  <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
+    <a href="images/comparison/artushvision-editorial.webp" target="_blank" title="Click to view full size">
+      <img src="images/comparison/artushvision-editorial.webp" alt="ArtushVision AI with Editorial Profile Metadata" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de; cursor: zoom-in;">
     </a>
+    <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
+      <strong>ArtushVision AI (Editorial Profile)</strong><br>
+      Automatically assigns categories/countries and tailors descriptions to Shutterstock rules. Includes a <a href="global-stock-distribution-ftp.html" style="color: #0969da; text-decoration: none; font-weight: 600;">built-in FTP/FTPS client</a> to upload files directly from the app. For agencies like Shutterstock and Dreamstime, it <strong>automatically generates and submits the required CSV metadata files</strong> alongside your photos. Once uploaded, just log in and click submit. No extra setup needed!<br>
+      <span style="color: #2da44e; font-weight: 600;">Cost: $0.000662 USD per image</span>
+    </p>
   </div>
+
+  <!-- Pravý obrázek - Pixify Studio -->
+  <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
+    <a href="images/comparison/pixify.webp" target="_blank" title="Click to view full size">
+      <img src="images/comparison/pixify.webp" alt="Pixify Studio Interface Screenshot" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de; cursor: zoom-in;">
+    </a>
+    <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
+      <strong>Pixify Studio (The playground  Output)</strong><br>
+      Generates generic titles, descriptions, and keywords. Completely rigid system with no options to customize prompts for specific market requirements.<br>
+      <span style="color: #cf222e; font-weight: 600;">Cost: Premium subscription required</span>
+    </p>
+  </div>
+
 </div>
 
 ---
 
-<div class="privacy-callout">
-  <h2>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h2>
-  <p>
-    Protect your family memories, private travel logs, and sensitive client shoots. By running advanced Vision models entirely <strong>locally on your own hardware</strong>, your images are analyzed right on your graphics card. <strong>No photos ever leave your computer</strong>, zero data is uploaded to corporate clouds, and absolute data logging privacy is fully guaranteed.
-  </p>
-</div>
+### PhotoTag.ai (phototag.ai)
+* **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (e.g., 10,000 Upload Credits / 1,000 file batch upload for €56).
+* **Getty/iStock Optimization:** None. Generates generic keywords that do not map to the ESP controlled dictionary, offering no specialized support for Getty contributors.
+* **EXIF & GPS Handling:** Zero ingestion of EXIF/GPS metadata. The cloud engine reads the uploaded files purely as raw pixels. If a photo features a specific monument or localized geographic event, the AI will describe it literally ("stone building, tower") instead of pulling the true historical or geographical name from geolocation metadata.
+* **Strengths:** Clean web interface supporting photos, videos, and vectors. Lightroom Classic plug-in and API access available
+* **Weaknesses:** Uses generic, rigid AI that describes scenes literally ("green pot, white background") rather than capturing commercial, high-ranking metadata concepts ("slow living, morning routine, authentic lifestyle"). Zero local file culling and no FTP modules.
 
 ---
 
-**Stop paying rent** for your software or credits. For just $39.99, the price of a **casual dinner for two**, you get a powerful tool that is yours forever. **No expensive monthly subscriptions**, no strings attached. Run it **completely offline for maximum privacy**, or connect to **cloud AI** whenever you need it with **total control** over your usage and costs. **It’s a one-time investment that pays for itself in just two hours of saved work.**
+### CyberStock (cyberstock.lol)
+* **Pricing:** Annual plans start at $7/month (only 200 credits), Pro plan is $15/month (800 credits), and Unlimited costs $63/month ($756/year billed annually). Monthly pricing without a commitment spikes up to $159/month.
+* **Getty/iStock Optimization:** CyberStock natively integrates with the Getty Images Controlled Vocabulary guidelines. 
+* **EXIF & GPS Handling:** Metadata-blind AI processing. CyberStock focuses entirely on pipeline processing speed. The cloud-based AI bypasses any internal EXIF/GPS analysis, making it impossible to auto-inject geographical or hardware variables into the metadata generation process.
+* **Strengths:** Very fast parallel cloud processing (~1.3s per asset), built-in marketing insights (SEMrush and Google Trends integration), and a Selling Score algorithm.
+* **Weaknesses:** High security risk on the market. Demands that you store your raw stock agency passwords and FTP connections directly on their remote cloud infrastructure.
 
 ---
 
-## The 3-Step Production Workflow
-
-ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
-
-1. **Load & Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
-2. **Generate & Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in AI/Offline Getty Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
-3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
-
----
-
-## Key Features & Functionality
-
-* ### <a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Versatile AI Engine Modes & Customization</a>
-    * **Cloud AI:** High-speed cloud processing via OpenRouter. You maintain full control over your API usage through a **Built-in OpenRouter Dashboard**, paying only raw API prices with total transparency.
-    * **Local AI (100% Free & Private):** Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots with zero API costs.
-    * **Hybrid AI (Local Vision + Cloud Text):** Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.
-    * **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
-    * **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.
-
-* ### <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images Optimizer (Master ESP Tool)</a>
-    * **Near-Perfect Acceptance:** Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.
-    * **Interactive Getty Resolver:** Available for both Single and Batch modes with visual context highlighting and term splitting.
-    * **Semantic AI Disambiguation:** The AI analyzes image context to solve homonyms (e.g., automatically distinguishing a "crane" bird from a "crane" construction machine).
-    * **Non-Destructive Workflow:** Original metadata remains untouched; optimized terms are safely stored in separate XMP metadata.
-
-* ### <a href="/docs/smart-manual-keywording-batch-editing.html">Manual Workflow & Ergonomics (Hands-On Control)</a>
-    * **Intuitive Drag & Drop Keywords:** Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between photos.
-    * **Advanced Batch Metadata Application:** Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously.
-    * **Smart Append Sync:** Type a keyword into a selection of hundreds of photos—the app injects it in real-time without overwriting their unique existing tags.
-    * **Interactive Integrated Map:** Visually verify extracted GPS coordinates running reverse geocoding.
-    * **Lightning-Fast Copy & Paste:** Use dedicated shortcuts to copy entire metadata blocks from one master image and paste them across an entire batch.
-    * **Metadata Templates:** Save and load custom metadata presets for recurring shoots or specific studio setups.
-
-* ### <a href="/docs/global-stock-distribution-ftp.html">Global Distribution & Smart FTP Suite</a>
-    * **Multi-Server Batch Uploads:** Configure individual thread limits per agency to prevent connection blocks (`421 Too many connections`).
-    * **1-Click Automated CSV Upload:** Generates a temporary, agency-specific CSV with matching category IDs, uploads it alongside your media, and automatically purges it.
-    * **Universal Category Mapping:** Pre-configured mapping for Adobe Stock, Shutterstock, and other major agencies.
-    * **FTP Status Badges:** Successful uploads write micro-badges directly into XMP metadata for persistent tracking.
-
-* ### <a href="/docs/smart-grid-filters-search-metadata-management.html">Advanced Interface & Portfolio Organization</a>
-    * **Blazing-Fast Image Grid:** Displays Titles, Descriptions, and Keywords directly below every card. Includes comprehensive Thumbnail Badges.
-    * **Visual Status Indicators:** Color-coded states warn you in real-time about validation errors.
-    * **Absolute Priority AI Hints:** Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.
-    * **Flat View:** Toggle a unified, continuous list view for all loaded subfolders simultaneously.
-
-* ### <a href="/docs/metadata-compatibility-and-file-handling.html">Universal Metadata Compatibility & Linguistics</a>
-    * **100% EXIF/IPTC/XMP Compliant:** Data is written safely to sidecars or directly embedded, ensuring seamless interoperability with Adobe Lightroom, Bridge, and Capture One.
-    * **Keyword Order Restoration:** Easily revert to your original keyword sequencing with a single click to protect manually sorted priority tags.
-    * **Category Management:** Easily assign standard microstock categories to single images or entire batches to ensure full compliance with agency submission requirements.
-    * **Auto-GPS Country Lookup:** Auto-translates GPS coordinates into readable city/country names via OpenStreetMap or ArcGIS.
-    * **Dual-Language Spellcheck:** Validate against two dictionaries simultaneously without switching settings.
-
-* ### <a href="/docs/batch-operations-metadata-library-management.html">Powerful Batch Operations & Configuration</a>
-    * **Smarter Batch Rename:** Rename thousands of files using dynamic variables like `{TITLE}`, `{CC}`, `{DATE}`, or `{FOLDER_NAME}`.
-    * **Bulk Metadata Editing:** Smart Add/Remove/Replace with `Old -> New` syntax and `Ctrl+H` support.
-    * **Ollama VRAM Context Tuning:** Optimize memory allocation based on your GPU hardware.
-    * **Video Economy Mode:** Collage-based analysis to minimize API consumption and process video files efficiently.
-    
----
-
-<h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h2>
-
-<table style="width: 100%; display: table; border-collapse: collapse;">
-  <tr>
-    <th style="width: 50%; text-align: center; padding: 12px;">
-      <a href="/docs/download-purchase.html" class="btn btn-primary" style="margin: 0 auto;">Download Free Lite Version</a>
-    </th>
-    <th style="width: 50%; text-align: center; padding: 12px;">
-      <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success" style="margin: 0 auto;">Get Lifetime License</a>
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 10px;"><b>Fully Functional Version</b></td>
-    <td style="text-align: center; padding: 10px;"><b>Only $39.99</b> (+ local VAT)</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 8px;">No time limits for testing</td>
-    <td style="text-align: center; padding: 8px;">One-time payment &bull; No monthly fees</td>
-  </tr>
-</table>
-
-<br />
-
-<p align="center">
-  <strong>Securely processed by Polar &amp; Stripe.</strong> <a href="/docs/manage-licence.html">Manage your licensed devices</a>
-</p>
-
-<hr>
-
-**ArtushVision AI Main Grid Workspace**
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="3066" height="1885" class="screenshot-img" loading="lazy" />
-</a>
+### PhotoKeyworder.ai (photokeyworder.ai)
+* **Pricing:** Pay-as-you-go credit packs (20 free credits upon registration) or fixed tier at €8.99/month for 400 Images (or 133 Videos).
+* **Getty/iStock Optimization:** Yes. Includes a specialized iStock/Getty Images optimization tool that outputs metadata tailored to their controlled vocabulary, generating DeepMeta and QHero-ready CSVs via cloud processing.
+* **EXIF & GPS Handling:** Extracts geolocation data from EXIF to cross-reference location names on the cloud side. However, because it is a closed web browser interface, it cannot write this data back into the original local files natively—it only offers it as a downloadable CSV or sidecar text file.
+* **Strengths:** Features a built-in AI image upscaler and extracts geolocation data from EXIF.
+* **Weaknesses:** Trapped in a continuous web loop—manually dragging batches into a browser, configuring, and downloading ZIP/CSV files back to your drive. No native local workspace, zero asset organizational tools, and lacks an FTP module.
 
 ---
 
-## Cost Comparison: Own Your Tools
+## 2. Traditional Desktop Powerhouses (Native Software)
 
-<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #d0d7de; padding: 8px; text-align: left;">Feature</th>
-      <th style="border: 1px solid #d0d7de; padding: 8px; text-align: left;">Typical Online AI Tools</th>
-      <th style="border: 1px solid #d0d7de; padding: 8px; text-align: left;">ArtushVision AI (Desktop App)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Media Privacy</b></td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;">Mandatory Cloud Upload</td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;">🔒 <b>100% Private (Local AI via Ollama)</b> or Thumbnail-only modes</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Format Support</b></td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;">JPG Only</td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>JPG, RAW, Video, TIFF, webp, HEIC</b></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Pricing Model</b></td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;">Recurring Subscriptions / Credits</td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Perpetual License ($39.99)</b></td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Cost (10,000 Photos)</b></td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;">High-tier monthly plans</td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>~$6</b> using Gemini Flash or <b>Free</b> utilizing Local AI</td>
-    </tr>
-  </tbody>
-</table>
+### Xpiks Pro (xpiksapp.com)
+* **Pricing:** Basic version is free. Pro License is a one-time €49 purchase. The advanced Pro+ tier costs €99/year (subscription) and is required to unlock AI keywording plugins (includes 4,000 credits/month).
+* **Getty/iStock Optimization:** No native support. Lacks an integrated controlled vocabulary engine for Getty/iStock; users must map terms entirely manually or rely on basic external metadata structures.
+* **EXIF & GPS Handling:** High-quality local EXIF reader and writer. It correctly displays GPS coordinates on a visual map within the desktop UI. However, a major disconnect exists: its AI keywording plugin operates externally via cloud downscaling and **completely ignores the GPS/EXIF data during AI generation**. The AI does not know where the photo was taken unless you manually type it into a text prompt beforehand.
+* **Strengths:** Highly mature, lightning-fast native local file system navigator. Excellent background multi-threaded FTP uploads, automated vector ZIP creation, local search filtering, and color tag tagging.
+* **Weaknesses:** AI keywording is treated as an external cloud add-on—Xpiks uploads a downscaled copy of your images to its remote servers to generate tags.
 
-### <a href="docs/ultimate-microstock-keywording-tools-private-archive-comparison.html">ArtushVision AI vs. \"Market Leaders\": The Ultimate Microstock Keywording Tools & Private Archive Management Comparison (June 2026)</a>
+---
 
-<hr>
+### ImStocker Studio (studio.imstocker.com)
+* **Pricing:** Basic version is free. Pro License is $49.50/year or $250 for a lifetime license. Crucial Catch: AI keywording features (IMS Vision) are billed completely separately via recurring credit packs (approx. $42 to $170/year based on volume). 
+* **Getty/iStock Optimization:** Yes. Interactive keyword refinement panel for manual Getty/iStock controlled vocabulary matching (though the cache is tied to the app database).
+* **EXIF & GPS Handling:** Industrial-grade local EXIF/IPTC/XMP editor. It allows meticulous manual management of GPS coordinates, templates, and metadata schemas. But much like Xpiks, its native AI module (IMS Vision) is a visual-only cloud API. The AI engine itself does not automatically read or digest the file's GPS coordinates to contextualize its object recognition, forcing users to bridge the gap between AI visual tags and manual location tags themselves.
+* **Strengths:** An absolute powerhouse for granular metadata micro-management. Supports different metadata sets for different agencies.
+* **Weaknesses:** Overwhelming, highly complex interface with a steep learning curve. Its AI module is a closed cloud ecosystem (requires credits and remote data uploading). Getty and FTP tracking maps are tied strictly to the app database; if you move to a new PC, your metadata history and connection states are lost unless you manually migrate the database files.
 
-> **Exceptional Value:** Describe up to **10,000 photos for only $6** with perfect, high-quality results.  
-> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
+---
 
-<hr>
+## [The Core Advantages of ArtushVision AI](../index.html#key-features--functionality)
 
-## Complete Documentation Index
+ArtushVision AI acts as a completely autonomous, private desktop bridge, combining advanced localized AI orchestration with absolute metadata control.
 
-<div id="flex-search-container">
-  <input type="text" id="flex-search-input" placeholder="Search documentation..." />
-  <ul id="flex-results-container"></ul>
-</div>
+---
 
-### 1. Getting Started
-* [System Requirements & Installation](/docs/installation.html)
-* [First Launch & Activation](/docs/download-purchase.html)
-* [Interface Overview](/docs/interface-overview.html)
-* [Detail Window Overview](/docs/detail-window-interface-overview.html)
-* [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
-* [Local AI Setup & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
+### [Built-In Offline Model Manager (Ollama)](ai-metadata-generation-cloud-local-ollama.html#5-local-ollama-model-setup--recommended-models)
+ArtushVision AI features a clean graphical interface to manage local offline models via Ollama. For 100% free, private, and offline metadata generation, the application adapts perfectly to your hardware capabilities:
 
-### 2. Core Workflows
-* [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
-* [How to Download Local AI Models via Ollama](/docs/how-to-download-local-ai-models-via-ollama.html)
-* [Local AI Model Manager: Complete Offline Control](/docs/local-ai-model-manager-ollama.html)
-* [Advanced AI Prompting, Profiles & Variables](/docs/advanced-ai-prompting-profiles-variables.html)
-* [Create and Optimize Custom AI Prompts](/docs/create-and-optimize-custom-ai-prompts.html)
-* [Manual Editing, Multi-language Spellcheck & Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
-* [Batch Metadata Actions, Search & Replace](/docs/batch-operations-metadata-library-management.html)
-* [Microstock Category Mapping Matrix](/docs/category-matrix.html)
-* [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
+* **High-End Precision:** For users with powerful dedicated GPUs, advanced vision models from the Google Gemma family deliver flawless, highly accurate detail recognition and deep conceptual microstock storytelling. While processing takes slightly longer, the metadata precision is unmatched.
+* **Lightweight & Fast:** For standard hardware setups, highly optimized community models (like *Llama-3.2-Vision* or *Moondream2*) provide lightning-fast processing speeds while staying safely within lower VRAM limits.
 
-### 3. Professional Asset Distribution
-* [Getty Images ESP Metadata Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html)
-* [Global Stock Distribution & Multi-threaded FTP Suite](/docs/global-stock-distribution-ftp.html)
-* [Dynamic CSV Template Mapping](/docs/settings-configuration-customization.html#advanced-csv-template-editor)
+Need maximum commercial speed? Switch to the hybrid cloud mode using OpenRouter (Gemini Flash, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups.
 
-### 4. Advanced Management
-* [Workspace Theming, VRAM context tuning & Data Safety](/docs/settings-configuration-customization.html)
+### [Advanced AI Prompting Profiles & Dynamic Variables](advanced-ai-prompting-profiles-variables.html)
+Unlike any competitor on the market that uses rigid, hardcoded, hidden system prompts, ArtushVision AI gives you total control through its revolutionary **[Dynamic Variable Prompt Engine](advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)**. You can completely customize the underlying system instructions and map them to specialized profiles. 
+
+By utilizing standardized formatting tokens and metadata placeholders, the app automatically extracts real-time information from the file and injects it straight into the AI’s prompt context. Available variables include:
+* `{GPS}` / `{CITY}` / `{COUNTRY}` – Automatically feeds precise localized geographic data.
+* `{CAMERA}` / `{LENS}` / `{ISO}` / `{FOCAL_LENGTH}` – Injects exact technical execution parameters.
+* `{FILENAME}` / `{PARENT_FOLDER}` – Feeds organizational or contextual text clues directly to the model.
+
+For example, a custom prompt template like:
+`"Analyze this commercial stock image taken with {LENS}. The exact geographical location is {CITY}, {COUNTRY}. Generate 30 high-ranking SEO keywords tailored for Adobe Stock, prioritizing local terms."`
+This allows the AI to cross-reference visual pixel arrays with exact technical and structural context, generating hyper-accurate, commercially relevant metadata completely customized by you.
+
+### EXIF GPS Geolocation Integration
+Visual recognition alone is often not enough for highly specific travel, architectural, or wildlife photography. ArtushVision AI automatically reads the GPS coordinates hidden in your files' EXIF data and injects this precise geographical context directly into the AI model using the variable pipeline. Instead of guessing a generic "tropical landscape," the AI knows exactly what region, city, or habitat it is analyzing. This generates highly accurate, localized keywords and precise species descriptions that drastically boost your SEO. Most desktop competitors completely ignore GPS data during AI keywording.
+
+### [Local Getty Images / Batch iStock Optimization and Resolver](getty-images-esp-metadata-optimizer.html)
+ArtushVision AI completely bypasses the frustration of iStock submissions. It includes a built-in offline Master Dictionary of over 9,800+ Getty-approved terms and an interactive Getty Resolver panel. AI-generated keywords are automatically parsed, resolved, and mapped to Getty's controlled vocabulary. If an exotic keyword isn't found, you can save it directly to a custom user dictionary or flag it under a "Candidates" field, ensuring your upload queues never freeze.
+
+### [Customizable Profiles Presets](create-and-optimize-custom-ai-prompts.html)
+Assign your variable-driven prompts to specific structural presets based on your active workflow:
+* **Wildlife Profile:** Automatically instructs the AI to locate and append the exact scientific Latin names of fauna based on visual data and `{COUNTRY}`/`{GPS}` location tracking.
+* **Studio Shots Profile:** Directs the model to analyze product placement, artificial lighting techniques, and studio aesthetics, auto-appending technical `{CAMERA}` settings if requested.
+* **Editorial Profile:** Forces the AI to capture strict documentary reality based on `{FILENAME}` data while banning commercial buzzwords.
+
+### [XMP-Centric Data Architecture (True Portability)](metadata-compatibility-and-file-handling.html)
+While competitors lock your history into an isolated application database, ArtushVision AI writes its entire metadata ecosystem directly into the file's XMP metadata fields (or .xmp sidecars for RAWs). This includes your **FTP upload history**, your resolved **Getty controlled vocabulary mapping**, assigned **agency categories**, and the exact **customized order of your keywords**. Your files carry their own complete history. Move your archive folder to an external drive, open it on an entirely different computer, and ArtushVision instantly reads: which agencies the file has already been sent to, its exact structural categories, and the SEO-weighted sequence of its keywords. Everything stays perfectly intact.
+
+### [Smart Category Management (AI and Manual)](category-matrix.html)
+Stock agencies require sorting files into rigid structural categories (e.g., Nature, Technology, People). ArtushVision AI can automatically assign categories using AI visual analysis, or allow you to batch-apply predefined category sets manually across hundreds of selected files simultaneously. (And as mentioned above, this category data moves securely with the file via XMP).
+
+### [Professional Culling and Batch Operations](batch-operations-metadata-library-management.html)
+ArtushVision AI functions as a high-speed culling workspace for massive local catalogs (including native RAW and video formats):
+* **Culling Suite:** Full support for Star Ratings (1–5), Color Labels, and Status Flags (Pick/Reject) compatible with Lightroom and other software.
+* **Massive Batch Tools:** Select 500 files at once to apply ratings, perform advanced token-based file renaming with counters, or append/remove specific tags without destroying the unique keywords generated by the AI on individual files.
+* **The Lightroom Alphabetical Sort Fix:** Lightroom automatically alphabetizes keywords upon export. This destroys stock SEO because Adobe Stock weights the first 10 keywords heaviest. ArtushVision AI features a one-click algorithm that restores keyword priority and order, paired with intuitive drag-and-drop sorting.
+
+---
+
+## Comprehensive Functional Matrix
+
+| Feature / Parameter | ArtushVision AI | ImStocker Studio | Xpiks Pro | CyberStock | Pixify Studio | PhotoTag.ai | PhotoKeyworder.ai |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Application Type** | **Native Desktop Bridge** | Native Desktop | Native Desktop | Cloud Web App | Cloud Web App | Cloud Web App | Cloud Web App |
+| **Pricing Model** | **One-time $39.99** (Lifetime) | $49.50/yr or $250 lifetime + extra AI costs | €49 one-time or €99/yr for AI tier | Subscription $14 to $159/mo | Subscription $5 to $115/mo | 1,000 file batch for €56 | €8.99/mo (400 images) or Pay-as-you-go |
+| **100% Privacy / Offline Mode** | **Yes** (Native Ollama Integration) | Limited | No (AI uploads to cloud) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) |
+| **Security Profile (FTP Credentials)** | **Zero Risk** (Stored strictly locally) | Zero Risk (Stored strictly locally) | Zero Risk (Stored locally) | **Potential Privacy Risk** (Saved on remote cloud servers) | N/A (No FTP module) | N/A (No FTP module) | N/A (No FTP module) |
+| **EXIF GPS AI Keywording Integration**| **Yes** (Context directly feeds AI) | No (Map tagging only, AI ignores it) | No (AI ignores GPS data entirely) | No | No | No (AI ignores GPS) | **Yes** (Extracts EXIF geolocation) |
+| **Dynamic Prompting Variables** | **Yes** (Tokens: `{GPS}`, `{LENS}`, etc.) | No (Static UI/closed system) | No (Hardcoded prompts) | No | No | No | No |
+| **Getty / iStock Optimization** | **Yes** (Interactive Local Resolver) | **Yes** (Selection Panel + App DB Cache) | No (Manual entry/plugins only) | Yes (Controlled Vocabulary Guidelines) | No (Standard flat text tags only) | No (Standard flat text tags only) | **Yes** (Cloud-generated ESP CSV) |
+| **Upload Status Tracking** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A (No FTP module) | N/A (No FTP module) | N/A (No FTP module) |
+| **Data Portability (Categories & Tags)** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A | N/A | N/A |
+| **Recommended Local Models** | **Yes** (Gemma family and others, local manager) | No | No | No | No | No | No |
+| **Custom System Prompt Editing** | **Yes** (Fully customizable profiles) | Limited | No | No | No | No | No |
+| **Category Management** | **Yes** (AI Auto + Manual Sets via XMP) | Yes (Manual Only via App DB) | Yes (Manual Only via App DB) | Partial (AI Only) | No | No | No |
+| **Culling Suite (Stars, Colors, Flags)** | **Yes** (Complete sorting toolkit) | Yes | Partial (Color tags only) | No | No | No | No |
+| **Lightroom Alphabetical Sort Fix** | **Yes** (Critical for Adobe Stock SEO) | No | No | No | No | No | No |
+| **Metadata Batch Operations** | **Yes** (Advanced) | Yes | Yes | Limited (Browser latencies) | No | No | No |
+| **Getty/iStock Vocabulary Cache** | **Yes** (Stored permanently in XMP field) | Yes (Tied to app database) | No | No | No | No | No (Temporary cloud session) |
 
 ---
 
@@ -486,6 +343,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 ---
 
 ## Need Help?
+
 Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
@@ -498,86 +356,9 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
-[📷 Developer's Photography Portfolio: artushfoto.eu](https://artushfoto.eu)
-
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
-
-<script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var searchInput = document.getElementById('flex-search-input');
-  var resultsContainer = document.getElementById('flex-results-container');
-  var indexTitle, indexContent;
-  var documentsMap = {};
-
-  if (!searchInput || !resultsContainer) return;
-
-  indexTitle = new FlexSearch.Index({ tokenize: "forward", resolution: 9, depth: 1 });
-  indexContent = new FlexSearch.Index({ tokenize: "forward", resolution: 5, depth: 1 });
-
-  fetch('/search.json')
-    .then(response => response.json())
-    .then(data => {
-      data.forEach((item, index) => {
-        var id = index;
-        documentsMap[id] = { title: item.title, url: item.url };
-        indexTitle.add(id, item.title);
-        indexContent.add(id, item.content || "");
-      });
-    })
-    .catch(err => console.error("Search index compilation failed:", err));
-
-  searchInput.addEventListener('input', function() {
-    var query = this.value.trim();
-    resultsContainer.innerHTML = '';
-    
-    if (query.length < 2) {
-      resultsContainer.style.display = 'none';
-      return;
-    }
-
-    var titleResults = indexTitle.search(query, { limit: 10 });
-    var contentResults = indexContent.search(query, { limit: 10 });
-    var scores = {};
-
-    titleResults.forEach(id => { scores[id] = (scores[id] || 0) + 10; });
-    contentResults.forEach(id => { scores[id] = (scores[id] || 0) + 1; });
-
-    var sortedIds = Object.keys(scores).sort((a, b) => scores[b] - scores[a]);
-    var finalIds = sortedIds.slice(0, 8);
-
-    if (finalIds.length > 0) {
-      finalIds.forEach(id => {
-          var doc = documentsMap[id];
-          if (!doc) return;
-          var li = document.createElement('li');
-          li.innerHTML = '<a href="' + doc.url + '">' + doc.title + '</a>';
-          resultsContainer.appendChild(li);
-        });
-        resultsContainer.style.display = 'block';
-      } else {
-        resultsContainer.innerHTML = '<div class="no-results-msg">No documentation pages found</div>';
-        resultsContainer.style.display = 'block';
-      }
-  });
-
-  document.addEventListener('click', function(e) {
-    if (e.target !== searchInput && e.target !== resultsContainer) {
-      resultsContainer.style.display = 'none';
-    }
-  });
-
-  searchInput.addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') {
-      e.preventDefault();
-      var firstLink = resultsContainer.querySelector('li a');
-      if (firstLink) window.location.href = firstLink.href;
-    }
-  });
-});
-</script>
 
 <!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
 <script>
