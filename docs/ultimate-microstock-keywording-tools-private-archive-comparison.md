@@ -7,6 +7,9 @@ description: "A detailed comparison of local AI keywording, privacy, Getty/iStoc
 /* Odstraněno plošné display:none pro header/footer kvůli Google Webmaster Guidelines */
 h1 { text-align: center; }
 
+/* Skrytí specifické patičky 'Improve this page' na této stránce */
+.site-footer, .footer, footer, div[class*="footer"], p[class*="footer"] { display: none !important; }
+
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
