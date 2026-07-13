@@ -143,10 +143,6 @@ h1 { text-align: center; }
 </style>
 </div>
 
-<header>
-  <h1>AI Metadata Generation: Smart, Fast, and 100% Private</h1>
-</header>
-
 # AI Metadata Generation: Cloud and Local Vision Models
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
