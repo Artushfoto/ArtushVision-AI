@@ -156,7 +156,7 @@ You only need to assign a category once, and the application will automatically 
 <video src="video/how-to-add-categories.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Automate Microstock Category Mapping & Metadata">
   Video demonstration of ArtushVision AI: Learn how to seamlessly map, batch edit, and automatically assign metadata categories for microstock agencies.
 </video>
-<p><a href="video/how-to-add-categories.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/how-to-add-categories.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to seamlessly map, batch edit, and automatically assign metadata categories (full size)</a></p>
 
 ---
 
@@ -176,7 +176,7 @@ If you prefer manual control, want to adjust the AI's choices, or need to set sp
 <video src="video/category-filter.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Batch Filter and Edit Metadata Categories">
   Video demonstration of ArtushVision AI: Automatically filter categories for microstock agencies and work with categories in the detail metadata window.
 </video>
-<p><a href="video/category-filter.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/category-filter.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to filter categories and work with them in the metadata window (full size)</a></p>
 
 ---
 
