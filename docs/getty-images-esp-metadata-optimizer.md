@@ -264,7 +264,7 @@ At the top of the window, you'll see thumbnails of your selected batch:
 <video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty ESP Optimizer">
   ArtushVision AI - Getty optimizer manual editing Overview.
 </video>
-<p><a href="video/getty-optimizer-manual.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/getty-optimizer-manual.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to perform Manual Editing in Getty ESP Optimizer (full size)</a></p>
 
 ---
 
@@ -281,7 +281,7 @@ If **New AI terms** is set greater than `0`, the AI will also discover and sugge
 <video src="video/getty-optimizer-ai.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using AI to resolve Getty ESP Terms">
   ArtushVision AI - Getty resolver with AI beta.
 </video>
-<p><a href="video/getty-optimizer-ai.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/getty-optimizer-ai.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to resolve Getty ESP Terms using Cloud AI (full size)</a></p>
 
 ### Offline Resolving (Local Semantics)
 The **Offline Suggest** feature uses local vector embedding models running on the ONNX Runtime directly on your CPU. **Based on our extensive real-world testing, this offline workflow performs exceptionally well**, delivering highly accurate keyword mapping and context evaluation without any cloud API dependency. It automatically transforms your keywording workflow in three automated steps:
@@ -297,7 +297,7 @@ The **Offline Suggest** feature uses local vector embedding models running on th
 <video src="video/getty-optimizer-semantics.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Offline Resolving Getty ESP Terms with Local Semantics">
   ArtushVision AI - Offline Resolving Getty Terms with Local Semantics.
 </video>
-<p><a href="video/getty-optimizer-semantics.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/getty-optimizer-semantics.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to use Local Semantics for Offline Resolving (full size)</a></p>
 
 ---
 
@@ -314,7 +314,7 @@ Teach ArtushVision AI your specific niche. Any manual keyword associations you m
 <video src="video/getty-user-dictionary.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Add New Term to User Getty ESP Dictionary">
   ArtushVision AI - Add New Term to User Getty Dictionary.
 </video>
-<p><a href="video/getty-user-dictionary.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/getty-user-dictionary.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to Add New Terms to User Getty Dictionary (full size)</a></p>
 
 ---
 
@@ -330,7 +330,7 @@ Generate a flawlessly formatted spreadsheet ready for the **Getty Images ESP web
 <video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP">
   ArtushVision AI - Applying exported CSV to Getty ESP.
 </video>
-<p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: Applying exported CSVs to the Getty ESP website (full size)</a></p>
 
 ### Option B: Export JPG for Getty (Direct Metadata Embedding)
 Export copies of your actual image files with Getty-optimized metadata embedded directly into the files themselves.
