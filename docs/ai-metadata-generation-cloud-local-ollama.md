@@ -299,7 +299,7 @@ When working with local AI models (via Ollama):
 <video src="video/download-recomended-model.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI" preload="metadata">
   ArtushVision AI - Local Ollama Model Setup & Recommended Models.
 </video>
-<p><a href="video/download-recomended-model.mp4" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em;">Watch tutorial: How to set up and use Local Ollama Models (full size)</a></p>
+<p><a href="video/download-recomended-model.mp4" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em;">Watch tutorial: How to download  Ollama Models (full size)</a></p>
 
 ---
 
