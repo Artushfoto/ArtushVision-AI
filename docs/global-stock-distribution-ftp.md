@@ -172,7 +172,7 @@ Not all stock agencies are built the same. While some servers can handle aggress
 <video src="video/ftp-upload.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Smart FTP Upload and Status Tracking">
   ArtushVision AI - Multi-threaded FTP uploading, custom agency server groups configuration, and automated status tracking badges in the main photo grid.
 </video>
-<p><a href="video/ftp-upload.mp4" target="_blank" style="font-size: 0.9em;">Watch full-size FTP upload and status tracking workflow video</a></p>
+<p><a href="video/ftp-upload.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to use FTP upload and status tracking workflow (full size)</a></p>
 
 ---
 
