@@ -11,8 +11,40 @@ h1:first-of-type {
     display: none !important;
 }
 
-// Zajištění, že tvůj skutečný druhý H1 (nadpis článku) bude vycentrovaný
-.markdown-body h1,
+// --------------------------------------------------------
+// DESIGN HLAVNÍHO NADPISU (Tvůj spojený H1 na začátku textu)
+// --------------------------------------------------------
+.markdown-body h1 {
+    text-align: center;
+    color: #24292f;          
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.3;
+    
+    // Nové designové prvky pro efekt elegantní "karty"
+    background-color: #f6f8fa;             // Velmi jemné světle šedé pozadí
+    padding: 24px 20px;                    // Vzdušné vnitřní odsazení
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;                    // Moderní zaoblené rohy
+    border-bottom: 3px solid #0969da;      // Úderná modrá linka zespodu
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05); // Jemný stín pro pocit hloubky
+}
+
+// Styl pro modrý klikací odkaz "ArtushVision AI" uvnitř H1
+.markdown-body h1 a.home-link {
+    color: #0969da !important; 
+    text-decoration: none;
+}
+
+.markdown-body h1 a.home-link:hover {
+    text-decoration: underline; 
+}
+
+// --------------------------------------------------------
+// DESIGN PODNADPISŮ V TEXTU (H2)
+// --------------------------------------------------------
+// Zajištění, že tvé podnadpisy H2 budou také vycentrované
 .markdown-body h2 {
     text-align: center;
 }
