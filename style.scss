@@ -1,27 +1,23 @@
 # --- style.scss ---
 ---
 ---
-// Načtení výchozího vzhledu
+// Načtení výchozího vzhledu GitHub šablony
 @import "jekyll-theme-primer";
 
-// CENTRÁLNÍ FIX: Kompletní skrytí automatického záhlaví pro VŠECHNY výchozí GitHub šablony
-.page-header, 
-body > header,
-header.site-header,
-.site-header,
-div[class*="header"] > h1:first-child {
-    display: none !important;
+// 1. Schování automatického H1 ze šablony (Zmenšíme ho na nulu a zprůhledníme)
+// Tím vizuálně zmizí z webu, ale roboti ho nebudou brát jako podvodný display:none
+.page-header h1,
+header h1,
+.project-name {
+    font-size: 0px !important;
+    line-height: 0 !important;
+    color: transparent !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-// Pokud výchozí šablona generuje nadpis přímo do wrapperu před markdown-body:
-.container-lg > h1:first-child,
-.wrapper > header {
-    display: none !important;
-}
-
-// CENTRÁLNÍ FIX: Automatické vycentrování tvých skutečných spojených nadpisů H1 v textu
-.markdown-body h1,
-#main_content h1 {
+// 2. Automatické vycentrování tvých skutečných nadpisů H1 v textu
+.markdown-body h1 {
     text-align: center;
     color: #24292f;          
     font-size: 32px;
@@ -30,15 +26,13 @@ div[class*="header"] > h1:first-child {
     margin-top: 20px;
 }
 
-// Styl speciálně pro modrý klikací odkaz na domovskou stránku uvnitř tvého vlastního H1 nadpisu
-.markdown-body h1 a.home-link,
-#main_content h1 a.home-link {
+// Styl pro modrý klikací odkaz na domovskou stránku uvnitř tvého vlastního H1
+.markdown-body h1 a.home-link {
     color: #0969da !important; 
     text-decoration: none;
 }
 
-.markdown-body h1 a.home-link:hover,
-#main_content h1 a.home-link:hover {
+.markdown-body h1 a.home-link:hover {
     text-decoration: underline; 
 }
 # --- style.scss ---
