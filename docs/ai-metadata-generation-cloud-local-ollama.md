@@ -186,7 +186,7 @@ Best for maximum speed and complex commercial SEO. Connect your [OpenRouter API 
 <video src="video/cloud-ai-keywording.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Cloud AI Keywording and Metadata Generation" preload="metadata">
   ArtushVision AI - High-speed cloud AI keywording, automated stock agency category mapping, marking assets as Editorial, and live metadata status validation badges in the main photo grid.
 </video>
-<p><a href="video/cloud-ai-keywording.mp4" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em;">Watch the full-size Cloud AI keywording and metadata automation video</a></p>
+<p><a href="video/cloud-ai-keywording.mp4" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em;">Watch tutorial: How to use Cloud AI for keywording and metadata automation (full size)</a></p>
 
 * **Multi-Threading:** Process up to 15 assets simultaneously for high-volume batches.
 * **Transparent AI Pricing and Live Cost Tracking:** ArtushVision AI connects to OpenRouter on a pay-as-you-go basis. You only pay for the API calls you actually make. The cost per image is microscopic, and a built-in tracker monitors your API spend to 6 decimal places in real-time.
@@ -299,7 +299,7 @@ When working with local AI models (via Ollama):
 <video src="video/download-recomended-model.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI" preload="metadata">
   ArtushVision AI - Local Ollama Model Setup & Recommended Models.
 </video>
-<p><a href="video/download-recomended-model.mp4" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/download-recomended-model.mp4" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em;">Watch tutorial: How to set up and use Local Ollama Models (full size)</a></p>
 
 ---
 
