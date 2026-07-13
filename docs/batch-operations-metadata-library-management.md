@@ -189,7 +189,7 @@ Organization starts with consistent file naming. The Batch Rename tool uses a dy
 ## Synchronized File & Sidecar Operations
 Moving or deleting professional assets is risky if sidecar files are left behind. ArtushVision AI handles file management with "linked" logic.
 
-* **Sidecar Synchronization:** When you Move or Copy a file within the application, it automatically brings along all associated `.xmp` and `.getty` sidecar files.
+* **Sidecar Synchronization:** When you Move or Copy a file within the application, it automatically brings along all associated `.xmp` sidecar files.
 * **Safe Deletion:** Deleting an asset through the application ensures that the primary file and all its metadata sidecars are removed together, preventing "ghost" metadata files from cluttering your folders.
 * **Folder Structure Integrity:** Maintain your organizational hierarchy while performing mass file migrations across different drives.
 
