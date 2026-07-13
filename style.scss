@@ -3,14 +3,17 @@
 ---
 @import "jekyll-theme-primer";
 
-// CÍLENÝ FIX: Úplně vymaže pouze ten první automatický H1 odkaz šablony
-.markdown-body > h1:first-of-type {
+// CÍLENÝ FIX PRO DUPLICITNÍ H1:
+// Kompletně schová první H1 šablony, který zlobí nahoře
+.markdown-body > h1:first-of-type,
+.container-lg > h1:first-of-type,
+h1:first-of-type {
     display: none !important;
 }
 
-// Úprava tvého skutečného hlavního nadpisu, který teď bude na stránce jako jediný
-.markdown-body h1 {
+// Zajištění, že tvůj skutečný druhý H1 (nadpis článku) bude vycentrovaný
+.markdown-body h1,
+.markdown-body h2 {
     text-align: center;
-    color: #24292f;
 }
 # --- style.scss ---
