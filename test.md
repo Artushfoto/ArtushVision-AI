@@ -1,14 +1,10 @@
 ---
-title: "ArtushVision AI vs. Market Leaders: The Ultimate Microstock Keywording Tools & Private Archive Management Comparison (June 2026)"
-description: "A detailed comparison of local AI keywording, privacy, Getty/iStock vocabulary mapping, and workflow features against cloud SaaS competitors."
+title: "Getty Images ESP Keywords Optimizer"
+description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
 ---
 <div style="display: none;">
 <style>
-/* Odstraněno plošné display:none pro header/footer kvůli Google Webmaster Guidelines */
 h1 { text-align: center; }
-
-/* Skrytí specifické patičky 'Improve this page' na této stránce */
-.site-footer, .footer, footer, div[class*="footer"], p[class*="footer"] { display: none !important; }
 
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
@@ -146,193 +142,214 @@ h1 { text-align: center; }
 </style>
 </div>
 
-## ArtushVision AI vs. Market Leaders: The Ultimate Microstock Keywording Tools & Private Archive Management Comparison (June 2026)
+# <a href="https://vision.artushfoto.eu/" class="home-link">ArtushVision AI</a> - Getty Images ESP Metadata Optimizer: Master the Controlled Vocabulary
 
-The modern microstock business demands extreme speed, metadata precision, and parallel distribution across multiple agencies (Adobe Stock, Shutterstock, Getty Images, Pond5, etc.). While the market has split into fast cloud-based web utilities and established desktop asset managers, a critical factor is often overlooked: Data Privacy, Security, and Specialized Platform Optimization.
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
----
+**Eliminate submission errors and keyword rejections. ArtushVision AI ensures a Near-Perfect Acceptance Rate with the Getty Images ESP system through manual or automated keyword translation and context-aware AI disambiguation.**
 
-## The Cloud Security Risk and The Privacy Dilemma
+Optimizing metadata for the **Getty Images / iStock ESP portal** is one of the most demanding tasks for **stock contributors**. Getty Images enforces a strict **Controlled Vocabulary (CV)** of over 9,800 approved commercial terms. Standard keywords used for other stock agencies are frequently rejected or mismatched by the ESP portal, leading to tedious manual corrections.
 
-Most modern microstock tools function by forcing you to upload your high-resolution assets to their remote cloud servers for analysis. 
+The **Getty Optimizer module** in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the ESP system. You can map words **manually**, use **Local Semantics (100% offline)**, or let the **Cloud AI** do the heavy lifting for you.
 
-> ### Critical Security Warning
-> To use cloud-based automated distribution features, you are required to save your FTP/SFTP usernames and passwords on their remote cloud servers. If these third-party platforms suffer a data breach, server exploit, or cloud database leak, your entire portfolio livelihood, financial stock accounts, and agency payout profiles can be exposed to malicious actors.
-
-Furthermore, constantly uploading gigabytes of high-res files to the web is completely unviable for:
-1. **Client Work Under NDA:** Commercial assignments, corporate portraits, and private events where non-disclosure agreements strictly forbid uploading proprietary files to unverified third-party cloud servers.
-2. **Family and Personal Travel Archives:** Private photography assets that you do not want scraped, analyzed, or stored by corporate cloud entities.
-
-## [The ArtushVision AI Ecosystem](https://vision.artushfoto.eu/)
-Everything runs 100% locally on your machine. Your FTP credentials are **securely encrypted** and never leave your local drive, and thanks to an integrated local offline AI model manager, not a single pixel of your private, family, or client archives ever needs to touch the internet.
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.webp" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation for Getty ESP" width="100%" class="screenshot-img">
+</a>    
 
 ---
 
-## [Integrated Getty & iStock Controlled Vocabulary Tool](getty-images-esp-metadata-optimizer.html)
-Getty Images and iStock do not use standard open-ended text tags. They operate on a strict, controlled vocabulary to eliminate homonyms (e.g., separating the machine crane from the bird crane). If your keywords aren't mapped properly to their dictionary, your files require painful manual asset-by-asset disambiguation on their ESP platform or through tools like DeepMeta. Only a few tools provide optimization solutions for this specific bottleneck.
+## 1. Built-in Getty Master Dictionary & Non-Destructive Workflow
+
+ArtushVision AI includes a massive, local **Master Dictionary** specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the ESP portal for permitted terms.
+
+* **Automated Keyword Mapping:** Instantly translates standard tags into approved Getty alternatives (e.g., expanding "`Authentic`" into the required `"Real People", "candid", "Real Life", "Natural Pattern", "Auto Post", "Production Filter", "Digital Authentication"` format).
+* **Technical Tag Injection:** Automatically adds required structural tags such as *Horizontal/Vertical*, *Photography*, or *No People* that Getty requires for **commercial searchability**.
+* **Non-Destructive Safety:** Your original metadata remains completely untouched and safe. All Getty-optimized terms, titles, and descriptions are stored in dedicated, custom `XMP-getty` fields directly within the files, allowing this data to be instantly recalled or reloaded at any time.
 
 ---
 
-## Detailed Competitor Breakdown: Strengths vs. Weaknesses
+## 2. Accessing the Getty ESP Optimizer & Main Interface
 
-### 1. Cloud-Based SaaS Utilities (Web Platforms)
+Select one or more photos in the main grid, right-click, and select **"Getty Optimizer..."** from the context menu. 
 
-#### Pixify Studio (pixify.io)
-* **Pricing:** Ranges from $5/month (100 credits) to $59/month (3,000 credits), up to $115/month. Additional top-up credits cost $30 per 1,000.
-* **Getty/iStock Optimization:** According to the website, the internal AI model is currently in development; costs 2 credits per generation.
-* **EXIF & GPS Handling:** Completely ignores EXIF/GPS data during the AI keywording phase. The AI analyzes the image purely as a blind visual container, meaning location-specific context or technical camera data cannot be utilized to improve keyword precision.
-* **Strengths:** Includes a decent Lightroom Classic plugin.
-* **Weaknesses:** High credit anxiety. Heavy contributors face massive recurring costs. It lacks native local file management and an integrated FTP engine (users must manually download CSVs and upload via separate clients like FileZilla). Zero privacy.
+The main dashboard displays your original keywords side-by-side with the optimized **Getty tags**. From this view, you can trigger key actions or launch the advanced **Interactive Resolver** interface.
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin: 20px 0;">
-
-<!-- Levý obrázek - ArtushVision AI -->
-  <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
-    <a href="images/comparison/artushvision-editorial.webp" target="_blank" title="Click to view full size">
-      <img src="images/comparison/artushvision-editorial.webp" alt="ArtushVision AI with Editorial Profile Metadata" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de; cursor: zoom-in;">
-    </a>
-    <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
-      <strong>ArtushVision AI (Editorial Profile)</strong><br>
-      Automatically assigns categories/countries and tailors descriptions to Shutterstock rules. Includes a <a href="global-stock-distribution-ftp.html" style="color: #0969da; text-decoration: none; font-weight: 600;">built-in FTP/FTPS client</a> to upload files directly from the app. For agencies like Shutterstock and Dreamstime, it <strong>automatically generates and submits the required CSV metadata files</strong> alongside your photos. Once uploaded, just log in and click submit. No extra setup needed!<br>
-      <span style="color: #2da44e; font-weight: 600;">Cost: $0.000662 USD per image</span>
-    </p>
-  </div>
-
-  <!-- Pravý obrázek - Pixify Studio -->
-  <div style="flex: 1; min-width: 280px; max-width: 400px; text-align: center;">
-    <a href="images/comparison/pixify.webp" target="_blank" title="Click to view full size">
-      <img src="images/comparison/pixify.webp" alt="Pixify Studio Interface Screenshot" style="width: 100%; border-radius: 8px; border: 1px solid #d0d7de; cursor: zoom-in;">
-    </a>
-    <p style="margin-top: 10px; font-size: 14px; line-height: 1.5;">
-      <strong>Pixify Studio (The playground  Output)</strong><br>
-      Generates generic titles, descriptions, and keywords. Completely rigid system with no options to customize prompts for specific market requirements.<br>
-      <span style="color: #cf222e; font-weight: 600;">Cost: Premium subscription required</span>
-    </p>
-  </div>
-
-</div>
+<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty ESP Optimizer">
+  ArtushVision AI - Getty ESP Optimizer Overview.
+</video>
+<p><a href="video/getty-optimizer-overview.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
-### PhotoTag.ai (phototag.ai)
-* **Pricing:** Monthly subscriptions or pay-as-you-go credit bundles (e.g., 10,000 Upload Credits / 1,000 file batch upload for €56).
-* **Getty/iStock Optimization:** None. Generates generic keywords that do not map to the ESP controlled dictionary, offering no specialized support for Getty contributors.
-* **EXIF & GPS Handling:** Zero ingestion of EXIF/GPS metadata. The cloud engine reads the uploaded files purely as raw pixels. If a photo features a specific monument or localized geographic event, the AI will describe it literally ("stone building, tower") instead of pulling the true historical or geographical name from geolocation metadata.
-* **Strengths:** Clean web interface supporting photos, videos, and vectors. Lightroom Classic plug-in and API access available
-* **Weaknesses:** Uses generic, rigid AI that describes scenes literally ("green pot, white background") rather than capturing commercial, high-ranking metadata concepts ("slow living, morning routine, authentic lifestyle"). Zero local file culling and no FTP modules.
+### Main Control Panel Actions:
+* **Interactive Resolver (AI Mapping)...**: Opens the visual dashboard for rapid validation and mapping.
+* **Export ESP CSV...**: Generates a final, clean **CSV spreadsheet** specifically formatted for direct import into the **Getty Images ESP portal**.
+* **Export for Getty...**: Creates copies of the selected files (JPEGs, RAWs, or videos) in your target directory and writes the optimized Title, Description, and approved Keywords directly into their standard metadata fields (EXIF/IPTC/XMP) using ExifTool.
+  * **`Direct Upload:`** Simply upload these embedded files directly to the Getty portal, **no CSV import is required**. Once the upload is complete, you can safely delete these exported copies from your local drive to save disk space, as they can be fully re-generated from your originals at any time.
+* **Delete Getty Data**: Clears all generated `getty terms` from the selected files' metadata space so you can start the optimization process from scratch.
+* **Custom Content Control:** The Getty Images Export Optimizer also allows you to set a **specific title and description** tailored exclusively for the Getty ESP portal. These adjustments are applied strictly to your Getty metadata and have no impact on your standard title and description.
+
+## 3. Interactive AI Resolver Dashboard for Keyword Mapping
+
+When you open the **Interactive Resolver**, you are presented with an advanced dual-panel layout designed for rapid inline validation and micro-management of your **batch metadata**.
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.webp" alt="ArtushVision AI - The Interactive AI Resolver Dashboard for Getty Metadata" width="100%" class="screenshot-img">
+</a>  
+
+### Interactive Table & Color-Coded Terms
+
+The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. 
+
+   * **Original Word**: The keyword from your metadata. **Double-click** to edit it in place. If you type a **comma** (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows. Words marked in **red** are not recognized by the Getty dictionary and must be resolved or unchecked before submission.
+   * **Orange Terms (Unmapped / Unrecognized / Ambiguous):** These represent unrecognized keywords. Because Getty's official vocabulary is proprietary, the built-in master dictionary cannot cover 100% of it. However, an unrecognized keyword might still be a valid Getty term. If it is, you can easily add it to your personal database by **right-clicking the word** and saving it to your **User Dictionary**. Once added, it will automatically be recognized and reported as a **valid Getty term** in all future optimizations and exports.
+   * **Blue Terms (Standard)**: Valid Getty terms successfully mapped from the master dictionary.
+   * **Green Terms (AI or Local Semantics Suggested)**: Brand new, highly relevant terms suggested by the Cloud AI or local offline Semantics model.
+   * **Purple Chips (Mixed State)**: Indicates that the term is selected for *some* photos but not *all* photos in your current batch view.
+
+**Interaction & Shortcuts**:
+   * **Manual Selection**: Click any active colored bubble to check/uncheck it.
+   * **Hover Context Visualizer**: Hover your mouse over any chip to instantly highlight the photo thumbnails it is currently assigned to (or can be assigned to).
+   * **Drag & Drop (Assign & Remove)**: Grab a chip and drop it directly onto a photo thumbnail to instantly assign it. To **remove** it from that photo, hold **Alt** or **Shift** while dropping the chip.
+   * **Undo/Redo**: Use `Ctrl+Z` and `Ctrl+Y` to safely step backward or forward through your edits.
 
 ---
 
-### CyberStock (cyberstock.lol)
-* **Pricing:** Annual plans start at $7/month (only 200 credits), Pro plan is $15/month (800 credits), and Unlimited costs $63/month ($756/year billed annually). Monthly pricing without a commitment spikes up to $159/month.
-* **Getty/iStock Optimization:** CyberStock natively integrates with the Getty Images Controlled Vocabulary guidelines. 
-* **EXIF & GPS Handling:** Metadata-blind AI processing. CyberStock focuses entirely on pipeline processing speed. The cloud-based AI bypasses any internal EXIF/GPS analysis, making it impossible to auto-inject geographical or hardware variables into the metadata generation process.
-* **Strengths:** Very fast parallel cloud processing (~1.3s per asset), built-in marketing insights (SEMrush and Google Trends integration), and a Selling Score algorithm.
-* **Weaknesses:** High security risk on the market. Demands that you store your raw stock agency passwords and FTP connections directly on their remote cloud infrastructure.
+### Control Panel Element Breakdown
+
+The bottom control panel is organized into two horizontal rows for efficient access:
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.webp" target="_blank" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.webp" alt="ArtushVision AI - Resolver Control Panel Element Breakdown" width="100%" class="screenshot-img">
+</a>  
+
+#### Row 1: Cloud AI & UI Settings
+* **`Resolve with AI beta` (Green Button)**: Triggers the Cloud AI semantic resolver to process selected images.
+* **Profile Selector (`Getty_Default.json` Dropdown)**: Selects the active AI system prompt profile, or allows you to create your own depending on your needs. Use different profiles for varying photography styles or **microstock targets**.
+* **Profile Settings (Cog Icon ⚙)**: Opens the Profile Editor where you can modify the model selection, system prompt templates, variables (such as `{loc_hint}` or `{date_info}`), and keyword blacklists.
+* **`New AI terms:` (Spinbox)**: Controls the number of new approved Getty keywords the AI should suggest per photo. Setting this to `0` disables new suggestions, while `5` to `8` is recommended for high-quality, relevant tags. Higher values can lead to less precise or irrelevant suggestions.
+
+* **`Row height:` (Spinbox)**: Adjusts the vertical line spacing of the main resolver table (between `30px` and `150px`) to customize data density.
+
+#### Row 2: Offline Semantic Resolving & Local Actions
+* **`Offline Suggest` (Blue Button)**: Starts the local semantic suggestion engine (**100% local offline, no API credits required**).
+* **`Suggest Threshold:` (Spinbox)**: Sets the minimum semantic similarity score (from `0.10` to `1.00`) required for local matching. The default is `0.45`. Higher values (e.g. 0.70) produce fewer but more relevant suggestions. Lower values (e.g. 0.40) produce more suggestions but they might be less relevant.
+* **`Model:` (Dropdown)**: Chooses which **local ONNX embedding model** to use for semantic similarity calculations.
+Available models:
+  * **MiniLM-L6-v2 (Super-Fast):** A lightning-fast, lightweight model with very low hardware requirements, making it ideal for modest or older machines.
+  * **BGE-small-en-v1.5 (Accurate):** The recommended default choice, delivering solid, well-balanced accuracy and excellent processing speed.
+  * **BGE-base-en-v1.5 (Maximum Accuracy):** Provides the absolute maximum accuracy in its class for pinpoint semantic mapping, at the cost of slightly higher memory and CPU utilization.
+* **`Add Term` (Button)**: Opens a manual search dialog to look up and append approved Getty terms directly to selected photos.
+* **`User Dictionary` (Button)**: Accesses your personal persistent vocabulary database and the new **Personalization Blacklist**.
+* **`Re-Optimize All (Local)`(Button)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
 
 ---
 
-### PhotoKeyworder.ai (photokeyworder.ai)
-* **Pricing:** Pay-as-you-go credit packs (20 free credits upon registration) or fixed tier at €8.99/month for 400 Images (or 133 Videos).
-* **Getty/iStock Optimization:** Yes. Includes a specialized iStock/Getty Images optimization tool that outputs metadata tailored to their controlled vocabulary, generating DeepMeta and QHero-ready CSVs via cloud processing.
-* **EXIF & GPS Handling:** Extracts geolocation data from EXIF to cross-reference location names on the cloud side. However, because it is a closed web browser interface, it cannot write this data back into the original local files natively—it only offers it as a downloadable CSV or sidecar text file.
-* **Strengths:** Features a built-in AI image upscaler and extracts geolocation data from EXIF.
-* **Weaknesses:** Trapped in a continuous web loop—manually dragging batches into a browser, configuring, and downloading ZIP/CSV files back to your drive. No native local workspace, zero asset organizational tools, and lacks an FTP module.
+### Photo Context, Thumbnails & Dynamic Badges (Top Panel)
+
+At the top of the window, you'll see thumbnails of your selected batch:
+* **Dynamic Status Badges**: Each thumbnail features a live badge in the corner showing the exact number of valid Getty terms for that photo.
+  * **Gray (Neutral)**: Unprocessed. The photo still contains unresolved "Unknown" words waiting for your input or AI analysis.
+  * **Green**: Optimized. All unknown words are resolved, and the photo has between 5 and 50 valid terms.
+  * **Red**: Limit Violation. The photo has fewer than 5 or more than 50 terms and needs adjustment.
+* **Filter by Photo (Left-Click)**: Click any thumbnail to instantly filter the table below. It will show *only* the terms associated with that specific photo. Click again to clear the filter.
+* **Multi-Select & Targeted Edits**: Use `Ctrl + Click` to select multiple thumbnails. When one or more thumbnails are selected, **any changes you make in the table below will apply strictly to those selected photos**, leaving the rest of the batch untouched.
+* **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
+
+* **Getty Resolver Hover Highlights**: Hovering your mouse over any Getty term chip in the table dynamically highlights related photo thumbnails in the sidebar:
+  * **Blue Border**: The photo already has this specific Getty term checked (active).
+  * **Orange Border**: The photo contains the original keyword, but this Getty term is currently unchecked (candidate photo).
+
+<video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty ESP Optimizer">
+  ArtushVision AI - Getty optimizer manual editing Overview.
+</video>
+<p><a href="video/getty-optimizer-manual.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
-## 2. Traditional Desktop Powerhouses (Native Software)
+## 4. AI-Powered Metadata Optimization Engines
 
-### Xpiks Pro (xpiksapp.com)
-* **Pricing:** Basic version is free. Pro License is a one-time €49 purchase. The advanced Pro+ tier costs €99/year (subscription) and is required to unlock AI keywording plugins (includes 4,000 credits/month).
-* **Getty/iStock Optimization:** No native support. Lacks an integrated controlled vocabulary engine for Getty/iStock; users must map terms entirely manually or rely on basic external metadata structures.
-* **EXIF & GPS Handling:** High-quality local EXIF reader and writer. It correctly displays GPS coordinates on a visual map within the desktop UI. However, a major disconnect exists: its AI keywording plugin operates externally via cloud downscaling and **completely ignores the GPS/EXIF data during AI generation**. The AI does not know where the photo was taken unless you manually type it into a text prompt beforehand.
-* **Strengths:** Highly mature, lightning-fast native local file system navigator. Excellent background multi-threaded FTP uploads, automated vector ZIP creation, local search filtering, and color tag tagging.
-* **Weaknesses:** AI keywording is treated as an external cloud add-on—Xpiks uploads a downscaled copy of your images to its remote servers to generate tags.
+### Cloud AI Resolving & Disambiguation
 
----
+Cloud AI resolving uses advanced Vision & Language models (such as Gemini 2.5 Flash Lite or GPT-4o) via OpenRouter to read the visual context of your images and handle homonyms, words with multiple meanings.
 
-### ImStocker Studio (studio.imstocker.com)
-* **Pricing:** Basic version is free. Pro License is $49.50/year or $250 for a lifetime license. Crucial Catch: AI keywording features (IMS Vision) are billed completely separately via recurring credit packs (approx. $42 to $170/year based on volume). 
-* **Getty/iStock Optimization:** Yes. Interactive keyword refinement panel for manual Getty/iStock controlled vocabulary matching (though the cache is tied to the app database).
-* **EXIF & GPS Handling:** Industrial-grade local EXIF/IPTC/XMP editor. It allows meticulous manual management of GPS coordinates, templates, and metadata schemas. But much like Xpiks, its native AI module (IMS Vision) is a visual-only cloud API. The AI engine itself does not automatically read or digest the file's GPS coordinates to contextualize its object recognition, forcing users to bridge the gap between AI visual tags and manual location tags themselves.
-* **Strengths:** An absolute powerhouse for granular metadata micro-management. Supports different metadata sets for different agencies.
-* **Weaknesses:** Overwhelming, highly complex interface with a steep learning curve. Its AI module is a closed cloud ecosystem (requires credits and remote data uploading). Getty and FTP tracking maps are tied strictly to the app database; if you move to a new PC, your metadata history and connection states are lost unless you manually migrate the database files.
+**Example**: If your original keyword is **"crane"**, the Cloud AI reviews the photo's visual content, title, description, and GPS data to identify whether the photo features a construction site (mapping it to `crane (construction machine)`) or a wetland (mapping it to `crane (bird)`).
 
----
+If **New AI terms** is set greater than `0`, the AI will also discover and suggest completely new concepts that are guaranteed to exist in Getty’s controlled vocabulary database.
 
-## [The Core Advantages of ArtushVision AI](../index.html#key-features--functionality)
+<video src="video/getty-optimizer-ai.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using AI to resolve Getty ESP Terms">
+  ArtushVision AI - Getty resolver with AI beta.
+</video>
+<p><a href="video/getty-optimizer-ai.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
-ArtushVision AI acts as a completely autonomous, private desktop bridge, combining advanced localized AI orchestration with absolute metadata control.
+### Offline Resolving (Local Semantics)
+The **Offline Suggest** feature uses local vector embedding models running on the ONNX Runtime directly on your CPU. **Based on our extensive real-world testing, this offline workflow performs exceptionally well**, delivering highly accurate keyword mapping and context evaluation without any cloud API dependency. It automatically transforms your keywording workflow in three automated steps:
 
----
+1. **Context Understanding:** The Local Semantics analyzes existing keywords to target the core theme (e.g., *snow, mountains* automatically targets *winter sports*).
+2. **Automatic Cleaning & Disambiguation:** Red-marked unrecognized rows are checked against the Getty database via vector encoding. If a close match fits the theme, it is corrected; otherwise, it is skipped. Ambiguous words are automatically locked into their correct definition based on nearby tags.
+3. **Controlled Keyword Expansion:** The local model compares context vectors against the pre-compiled Getty Vector Database and appends new relevant terms up to your chosen **Suggest Threshold** limit.
 
-### [Built-In Offline Model Manager (Ollama)](ai-metadata-generation-cloud-local-ollama.html#5-local-ollama-model-setup--recommended-models)
-ArtushVision AI features a clean graphical interface to manage local offline models via Ollama. For 100% free, private, and offline metadata generation, the application adapts perfectly to your hardware capabilities:
+    * **MiniLM-L6-v2**: Super-fast and lightweight model for modest hardware.
+    * **BGE-small-en-v1.5**: Recommended default balancing speed and precision.
+    * **BGE-base-en-v1.5**: Maximum accuracy with the largest embedding space.
 
-* **High-End Precision:** For users with powerful dedicated GPUs, advanced vision models from the Google Gemma family deliver flawless, highly accurate detail recognition and deep conceptual microstock storytelling. While processing takes slightly longer, the metadata precision is unmatched.
-* **Lightweight & Fast:** For standard hardware setups, highly optimized community models (like *Llama-3.2-Vision* or *Moondream2*) provide lightning-fast processing speeds while staying safely within lower VRAM limits.
-
-Need maximum commercial speed? Switch to the hybrid cloud mode using OpenRouter (Gemini Flash, GPT-4o), where you pay only raw API developer costs (approx. $6 per 10,000 images), bypassing steep SaaS markups.
-
-### [Advanced AI Prompting Profiles & Dynamic Variables](advanced-ai-prompting-profiles-variables.html)
-Unlike any competitor on the market that uses rigid, hardcoded, hidden system prompts, ArtushVision AI gives you total control through its revolutionary **[Dynamic Variable Prompt Engine](advanced-ai-prompting-profiles-variables.html#basic-and-contextual-variables)**. You can completely customize the underlying system instructions and map them to specialized profiles. 
-
-By utilizing standardized formatting tokens and metadata placeholders, the app automatically extracts real-time information from the file and injects it straight into the AI’s prompt context. Available variables include:
-* `{GPS}` / `{CITY}` / `{COUNTRY}` – Automatically feeds precise localized geographic data.
-* `{CAMERA}` / `{LENS}` / `{ISO}` / `{FOCAL_LENGTH}` – Injects exact technical execution parameters.
-* `{FILENAME}` / `{PARENT_FOLDER}` – Feeds organizational or contextual text clues directly to the model.
-
-For example, a custom prompt template like:
-`"Analyze this commercial stock image taken with {LENS}. The exact geographical location is {CITY}, {COUNTRY}. Generate 30 high-ranking SEO keywords tailored for Adobe Stock, prioritizing local terms."`
-This allows the AI to cross-reference visual pixel arrays with exact technical and structural context, generating hyper-accurate, commercially relevant metadata completely customized by you.
-
-### EXIF GPS Geolocation Integration
-Visual recognition alone is often not enough for highly specific travel, architectural, or wildlife photography. ArtushVision AI automatically reads the GPS coordinates hidden in your files' EXIF data and injects this precise geographical context directly into the AI model using the variable pipeline. Instead of guessing a generic "tropical landscape," the AI knows exactly what region, city, or habitat it is analyzing. This generates highly accurate, localized keywords and precise species descriptions that drastically boost your SEO. Most desktop competitors completely ignore GPS data during AI keywording.
-
-### [Local Getty Images / Batch iStock Optimization and Resolver](getty-images-esp-metadata-optimizer.html)
-ArtushVision AI completely bypasses the frustration of iStock submissions. It includes a built-in offline Master Dictionary of over 9,800+ Getty-approved terms and an interactive Getty Resolver panel. AI-generated keywords are automatically parsed, resolved, and mapped to Getty's controlled vocabulary. If an exotic keyword isn't found, you can save it directly to a custom user dictionary or flag it under a "Candidates" field, ensuring your upload queues never freeze.
-
-### [Customizable Profiles Presets](create-and-optimize-custom-ai-prompts.html)
-Assign your variable-driven prompts to specific structural presets based on your active workflow:
-* **Wildlife Profile:** Automatically instructs the AI to locate and append the exact scientific Latin names of fauna based on visual data and `{COUNTRY}`/`{GPS}` location tracking.
-* **Studio Shots Profile:** Directs the model to analyze product placement, artificial lighting techniques, and studio aesthetics, auto-appending technical `{CAMERA}` settings if requested.
-* **Editorial Profile:** Forces the AI to capture strict documentary reality based on `{FILENAME}` data while banning commercial buzzwords.
-
-### [XMP-Centric Data Architecture (True Portability)](metadata-compatibility-and-file-handling.html)
-While competitors lock your history into an isolated application database, ArtushVision AI writes its entire metadata ecosystem directly into the file's XMP metadata fields (or .xmp sidecars for RAWs). This includes your **FTP upload history**, your resolved **Getty controlled vocabulary mapping**, assigned **agency categories**, and the exact **customized order of your keywords**. Your files carry their own complete history. Move your archive folder to an external drive, open it on an entirely different computer, and ArtushVision instantly reads: which agencies the file has already been sent to, its exact structural categories, and the SEO-weighted sequence of its keywords. Everything stays perfectly intact.
-
-### [Smart Category Management (AI and Manual)](category-matrix.html)
-Stock agencies require sorting files into rigid structural categories (e.g., Nature, Technology, People). ArtushVision AI can automatically assign categories using AI visual analysis, or allow you to batch-apply predefined category sets manually across hundreds of selected files simultaneously. (And as mentioned above, this category data moves securely with the file via XMP).
-
-### [Professional Culling and Batch Operations](batch-operations-metadata-library-management.html)
-ArtushVision AI functions as a high-speed culling workspace for massive local catalogs (including native RAW and video formats):
-* **Culling Suite:** Full support for Star Ratings (1–5), Color Labels, and Status Flags (Pick/Reject) compatible with Lightroom and other software.
-* **Massive Batch Tools:** Select 500 files at once to apply ratings, perform advanced token-based file renaming with counters, or append/remove specific tags without destroying the unique keywords generated by the AI on individual files.
-* **The Lightroom Alphabetical Sort Fix:** Lightroom automatically alphabetizes keywords upon export. This destroys stock SEO because Adobe Stock weights the first 10 keywords heaviest. ArtushVision AI features a one-click algorithm that restores keyword priority and order, paired with intuitive drag-and-drop sorting.
+<video src="video/getty-optimizer-semantics.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Offline Resolving Getty ESP Terms with Local Semantics">
+  ArtushVision AI - Offline Resolving Getty Terms with Local Semantics.
+</video>
+<p><a href="video/getty-optimizer-semantics.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
 
 ---
 
-## Comprehensive Functional Matrix
+## 5. Custom ESP Dictionaries, Memory & Keyword Blacklists
 
-| Feature / Parameter | ArtushVision AI | ImStocker Studio | Xpiks Pro | CyberStock | Pixify Studio | PhotoTag.ai | PhotoKeyworder.ai |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Application Type** | **Native Desktop Bridge** | Native Desktop | Native Desktop | Cloud Web App | Cloud Web App | Cloud Web App | Cloud Web App |
-| **Pricing Model** | **One-time $39.99** (Lifetime) | $49.50/yr or $250 lifetime + extra AI costs | €49 one-time or €99/yr for AI tier | Subscription $14 to $159/mo | Subscription $5 to $115/mo | 1,000 file batch for €56 | €8.99/mo (400 images) or Pay-as-you-go |
-| **100% Privacy / Offline Mode** | **Yes** (Native Ollama Integration) | Limited | No (AI uploads to cloud) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) | No (Entirely cloud-hosted) |
-| **Security Profile (FTP Credentials)** | **Zero Risk** (Stored strictly locally) | Zero Risk (Stored strictly locally) | Zero Risk (Stored locally) | **Potential Privacy Risk** (Saved on remote cloud servers) | N/A (No FTP module) | N/A (No FTP module) | N/A (No FTP module) |
-| **EXIF GPS AI Keywording Integration**| **Yes** (Context directly feeds AI) | No (Map tagging only, AI ignores it) | No (AI ignores GPS data entirely) | No | No | No (AI ignores GPS) | **Yes** (Extracts EXIF geolocation) |
-| **Dynamic Prompting Variables** | **Yes** (Tokens: `{GPS}`, `{LENS}`, etc.) | No (Static UI/closed system) | No (Hardcoded prompts) | No | No | No | No |
-| **Getty / iStock Optimization** | **Yes** (Interactive Local Resolver) | **Yes** (Selection Panel + App DB Cache) | No (Manual entry/plugins only) | Yes (Controlled Vocabulary Guidelines) | No (Standard flat text tags only) | No (Standard flat text tags only) | **Yes** (Cloud-generated ESP CSV) |
-| **Upload Status Tracking** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A (No FTP module) | N/A (No FTP module) | N/A (No FTP module) |
-| **Data Portability (Categories & Tags)** | **Directly inside XMP metadata** | Inside local app database | Inside local app database | Inside cloud database | N/A | N/A | N/A |
-| **Recommended Local Models** | **Yes** (Gemma family and others, local manager) | No | No | No | No | No | No |
-| **Custom System Prompt Editing** | **Yes** (Fully customizable profiles) | Limited | No | No | No | No | No |
-| **Category Management** | **Yes** (AI Auto + Manual Sets via XMP) | Yes (Manual Only via App DB) | Yes (Manual Only via App DB) | Partial (AI Only) | No | No | No |
-| **Culling Suite (Stars, Colors, Flags)** | **Yes** (Complete sorting toolkit) | Yes | Partial (Color tags only) | No | No | No | No |
-| **Lightroom Alphabetical Sort Fix** | **Yes** (Critical for Adobe Stock SEO) | No | No | No | No | No | No |
-| **Metadata Batch Operations** | **Yes** (Advanced) | Yes | Yes | Limited (Browser latencies) | No | No | No |
-| **Getty/iStock Vocabulary Cache** | **Yes** (Stored permanently in XMP field) | Yes (Tied to app database) | No | No | No | No | No (Temporary cloud session) |
+Teach ArtushVision AI your specific niche. Any manual keyword associations you make are remembered here for future exports.
+
+* **Add Term**: Click to search the Getty Master Dictionary manually, select multiple terms, and apply them across your selection.
+* **User Getty Dictionary**: 
+  * *Quick Add:* **Right-click** any Original Word in the table and select *"Save 'word' to User Dictionary"*. Next time this word is loaded, it maps to your preferred Getty term automatically.
+  * *Management:* Open the manager to manually add, delete, or wipe custom rules.
+* **Personalization Blacklist (Tab 2 - Blocked Terms)**: Instantly block unwanted or repetitive Getty terms via a right-click context menu directly on any `GettyChipButton`. Blacklisted terms are written to `getty_blacklist.json`, stripped from active image memory, and completely filtered out of future processes.
+
+<video src="video/getty-user-dictionary.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Add New Term to User Getty ESP Dictionary">
+  ArtushVision AI - Add New Term to User Getty Dictionary.
+</video>
+<p><a href="video/getty-user-dictionary.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+---
+
+## 6. Final Export to Getty ESP and Global Distribution
+
+Once your metadata is verified and your thumbnail status badges are green, choose your preferred export method:
+
+### Option A: Precision CSV Export (For ESP Web Portal)
+Generate a flawlessly formatted spreadsheet ready for the **Getty Images ESP web interface**.
+1. Click **Export CSV...** and choose your preferred CSV template.
+2. Go to the Getty ESP portal, upload your media files, and go to `Templates` → `Apply from CSV` → `Submit` to apply the metadata in one go.
+
+<video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP">
+  ArtushVision AI - Applying exported CSV to Getty ESP.
+</video>
+<p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+
+### Option B: Export JPG for Getty (Direct Metadata Embedding)
+Export copies of your actual image files with Getty-optimized metadata embedded directly into the files themselves.
+* **How it works:** Click **Export for Getty...** and select a destination folder. ArtushVision AI creates a folder named `YYYYMMDD-getty` (e.g., `20260624-getty`) and copies the files. It writes the Getty data into standard metadata fields (`XMP-dc`, `IPTC`, `XPKeywords`) and custom `XMP-getty` fields.
+* **RAW & Video Support:** For JPEGs, data is written directly inside the file headers. For RAW formats and videos, it automatically writes to `.xmp` sidecar files to preserve original file integrity. 
+
+---
+
+## 7. Recommended Professional Stock Photography Workflow
+Load Files ➔ Open Interactive Resolver ➔ Run Cloud AI or Offline Suggest ➔ Interactively Filter & Clean Tags ➔ Export CSV or Getty tagged JPG ➔ Upload files to ESP ➔ If You use CSV upload, apply CSV on Getty ESP.
+
+1. **Load Your Files:** Open the Getty Optimizer module with your targeted image batch.
+2. **Review Mapping Table:** Check your keyword status tags:
+   * **Single Blue** = Successfully matched and OK.
+   * **Multiple Blue / Orange** = Ambiguous terms requiring resolution (can be resolved manually, using AI semantic models, or a combination of both).
+   * **Red** = Unknown or unrecognized keywords that need to be cleared or mapped.
+3. **Navigate Interactively:** Use thumbnail filters, hover visualizers, and drag-and-drop to rapidly refine assignments. Hold **Alt/Shift** to subtract terms.
+4. **Clean, Split and Check:** Double-click original words to edit typos or split phrases using a comma (`,`). Uncheck unfit terms. Check result.
+5. **Save to Memory:** If you have new or unique terms not covered by the built-in master dictionary, save recurring custom keywords to your User Dictionary or blacklist unwanted ones, so they are automatically recognized or filtered next time.
+6. **Export & Upload:** Generate your final **ESP-compliant CSV** or self-contained JPEGs, and complete your submission on the ESP portal!
 
 ---
 
