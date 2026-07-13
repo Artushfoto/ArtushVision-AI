@@ -1,15 +1,30 @@
+# --- style.scss ---
 ---
 ---
 // Tento řádek načte výchozí vzhled tvé GitHub šablony
 @import "jekyll-theme-primer";
 
-// CENTRÁLNÍ FIX: Kompletní smazání automatického modrého balastu na podstránkách
-.markdown-body > h1:first-child,
-.container-lg > h1:first-child {
+// CENTRÁLNÍ FIX: Kompletní skrytí automatického horního pruhu (záhlaví) šablony Primer
+.page-header {
     display: none !important;
 }
 
-// CENTRÁLNÍ FIX: Automatické vycentrování VŠECH tvých skutečných nadpisů H1 na celém webu
+// CENTRÁLNÍ FIX: Automatické vycentrování tvých skutečných spojených nadpisů H1 na celém webu
 .markdown-body h1 {
     text-align: center;
+    color: #24292f;          // Barva pro obyčejný text v nadpisu (elegantní tmavá)
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.3;
 }
+
+// Styl speciálně pro modrý klikací odkaz na domovskou stránku uvnitř nadpisu H1
+.markdown-body h1 a.home-link {
+    color: #0969da !important; // Klasická GitHub modrá
+    text-decoration: none;
+}
+
+.markdown-body h1 a.home-link:hover {
+    text-decoration: underline; // Podtržení odkazu při najetí myší
+}
+# --- style.scss ---
