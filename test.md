@@ -1,10 +1,10 @@
 ---
-layout: default
-title: "Getty Images ESP Keywords Optimizer"
+title: "Getty Images ESP Keywords & Metadata Optimizer"
 description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
 ---
 <div style="display: none;">
 <style>
+header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
 h1 { text-align: center; }
 
 /* Profesionální styl pro klikací screenshoty */
@@ -143,7 +143,7 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# <a href="https://vision.artushfoto.eu/" class="home-link">ArtushVision AI</a> - Getty Images ESP Metadata Optimizer: Master the Controlled Vocabulary test
+# Getty Images ESP Metadata Optimizer: Master the Controlled Vocabulary
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
