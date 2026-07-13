@@ -1,5 +1,7 @@
 ---
-title: "Getty Images ESP Keywords Optimizer"
+layout: default
+title: ""
+seo_title: "Getty Images ESP Keywords Optimizer"
 description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
 ---
 <div style="display: none;">
