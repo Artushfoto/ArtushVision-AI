@@ -4,8 +4,9 @@
 // Tento řádek načte výchozí vzhled tvé GitHub šablony
 @import "jekyll-theme-primer";
 
-// CENTRÁLNÍ FIX: Kompletní skrytí automatického horního pruhu (záhlaví) šablony Primer
-.page-header {
+// CENTRÁLNÍ FIX: Kompletní skrytí automatického záhlaví šablony Primer (včetně odkazu a linky)
+.page-header, 
+body > header {
     display: none !important;
 }
 
@@ -16,6 +17,7 @@
     font-size: 32px;
     font-weight: bold;
     line-height: 1.3;
+    margin-top: 20px;
 }
 
 // Styl speciálně pro modrý klikací odkaz na domovskou stránku uvnitř nadpisu H1
