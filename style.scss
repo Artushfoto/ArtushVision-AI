@@ -1,21 +1,16 @@
-// --- TENTO BLOK PŘIDEJ DO STYLE.SCSS ---
+# --- style.scss ---
+---
+---
+@import "jekyll-theme-primer";
 
-// 1. KOMPLETNÍ ZMIZENÍ HORNÍHO MODRÉHO PRUHU
-// Tento příkaz natvrdo vypne zobrazování celého toho automatického záhlaví šablony
-.page-header, 
-header.page-header {
+// CÍLENÝ FIX: Úplně vymaže pouze ten první automatický H1 odkaz šablony
+.markdown-body > h1:first-of-type {
     display: none !important;
 }
 
-// 2. OPRAVA DUPLICITY H1 PRO SEO VYHLEDÁVAČE
-// Pro jistotu zmenšíme text v tom skrytém záhlaví na nulu, 
-// aby ho roboti úplně ignorovali a nehlásili více H1 na stránce.
-.page-header h1, 
-.project-name {
-    font-size: 0px !important;
-    line-height: 0 !important;
-    color: transparent !important;
-    padding: 0 !important;
-    margin: 0 !important;
+// Úprava tvého skutečného hlavního nadpisu, který teď bude na stránce jako jediný
+.markdown-body h1 {
+    text-align: center;
+    color: #24292f;
 }
-// --- KONEC BLOKU ---
+# --- style.scss ---
