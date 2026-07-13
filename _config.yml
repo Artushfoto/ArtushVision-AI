@@ -25,7 +25,4 @@ exclude:
 
 # Nastavení Google Analytics
 google_analytics: "G-9CH7W6CRCH"
-
-# Vypne automatické generování názvu projektu v záhlaví stránek
-show_downloads: false
 # --- _config.yml ---
