@@ -202,14 +202,14 @@ To perform operations effectively, you must first isolate the right files. The F
 * **Quality Control Filters:** Isolate files that have "Exceeded Limits" (e.g., too many keywords for Getty Images) and use batch actions to trim them down to compliance.
 * **Selection Tools:** Use standard keyboard shortcuts (Shift+Click for ranges, Ctrl+A for all) to define the scope of your batch operation instantly.
 
-**Using Smart Filters in ArtushVision AI**
+  **Using Smart Filters in ArtushVision AI**
 
-<video src="video/smart-filters.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Smart Filters for Workflow and Metadata Quality Control">
-  ArtushVision AI - Smart Filter Function for batch editing.
-</video>
-<p><a href="video/smart-filters.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+  <video src="video/smart-filters.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Smart Filters for Workflow and Metadata Quality Control">
+    ArtushVision AI - Smart Filter Function for batch editing.
+  </video>
+  <p><a href="video/smart-filters.mp4" target="_blank" style="font-size: 0.9em;">Open video: How to use Smart Filters in ArtushVision AI in full size</a></p>
 
----
+  ---
 
 ## Target Selection (Where the change should happen)
 Before running an operation, use the **"Batch Edit: / Target:"** dropdown to choose which field the action applies to:
@@ -247,7 +247,7 @@ Opens a dialog for advanced bulk text replacement.
 <video src="video/batch-operations.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Batch Operations and Bulk Text Replacement Tutorial">
   ArtushVision AI - Batch Operation and Metadata Replacement overview.
 </video>
-<p><a href="video/batch-operations.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/batch-operations.mp4" target="_blank" style="font-size: 0.9em;">Open video: How to use Batch Operations and Bulk Text Replacement in ArtushVision AI in full size</a></p>
 
 ### ⌫ Clear Field
 Completely and permanently deletes the content **only for the currently selected target** (e.g., clears only Descriptions for all selected photos, leaving Title and Keywords untouched).
