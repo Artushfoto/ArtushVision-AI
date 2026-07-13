@@ -1,32 +1,44 @@
 # --- style.scss ---
 ---
 ---
-// Tento řádek načte výchozí vzhled tvé GitHub šablony
+// Načtení výchozího vzhledu
 @import "jekyll-theme-primer";
 
-// CENTRÁLNÍ FIX: Kompletní skrytí automatického záhlaví šablony Primer (včetně odkazu a linky)
+// CENTRÁLNÍ FIX: Kompletní skrytí automatického záhlaví pro VŠECHNY výchozí GitHub šablony
 .page-header, 
-body > header {
+body > header,
+header.site-header,
+.site-header,
+div[class*="header"] > h1:first-child {
     display: none !important;
 }
 
-// CENTRÁLNÍ FIX: Automatické vycentrování tvých skutečných spojených nadpisů H1 na celém webu
-.markdown-body h1 {
+// Pokud výchozí šablona generuje nadpis přímo do wrapperu před markdown-body:
+.container-lg > h1:first-child,
+.wrapper > header {
+    display: none !important;
+}
+
+// CENTRÁLNÍ FIX: Automatické vycentrování tvých skutečných spojených nadpisů H1 v textu
+.markdown-body h1,
+#main_content h1 {
     text-align: center;
-    color: #24292f;          // Barva pro obyčejný text v nadpisu (elegantní tmavá)
+    color: #24292f;          
     font-size: 32px;
     font-weight: bold;
     line-height: 1.3;
     margin-top: 20px;
 }
 
-// Styl speciálně pro modrý klikací odkaz na domovskou stránku uvnitř nadpisu H1
-.markdown-body h1 a.home-link {
-    color: #0969da !important; // Klasická GitHub modrá
+// Styl speciálně pro modrý klikací odkaz na domovskou stránku uvnitř tvého vlastního H1 nadpisu
+.markdown-body h1 a.home-link,
+#main_content h1 a.home-link {
+    color: #0969da !important; 
     text-decoration: none;
 }
 
-.markdown-body h1 a.home-link:hover {
-    text-decoration: underline; // Podtržení odkazu při najetí myší
+.markdown-body h1 a.home-link:hover,
+#main_content h1 a.home-link:hover {
+    text-decoration: underline; 
 }
 # --- style.scss ---
