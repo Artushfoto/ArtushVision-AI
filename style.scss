@@ -1,15 +1,21 @@
----
----
-// Tento řádek načte výchozí vzhled tvé GitHub šablony
-@import "jekyll-theme-primer";
+// --- TENTO BLOK PŘIDEJ DO STYLE.SCSS ---
 
-// CENTRÁLNÍ FIX: Kompletní smazání automatického modrého balastu na podstránkách
-.markdown-body > h1:first-child,
-.container-lg > h1:first-child {
+// 1. KOMPLETNÍ ZMIZENÍ HORNÍHO MODRÉHO PRUHU
+// Tento příkaz natvrdo vypne zobrazování celého toho automatického záhlaví šablony
+.page-header, 
+header.page-header {
     display: none !important;
 }
 
-// CENTRÁLNÍ FIX: Automatické vycentrování VŠECH tvých skutečných nadpisů H1 na celém webu
-.markdown-body h1 {
-    text-align: center;
+// 2. OPRAVA DUPLICITY H1 PRO SEO VYHLEDÁVAČE
+// Pro jistotu zmenšíme text v tom skrytém záhlaví na nulu, 
+// aby ho roboti úplně ignorovali a nehlásili více H1 na stránce.
+.page-header h1, 
+.project-name {
+    font-size: 0px !important;
+    line-height: 0 !important;
+    color: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
 }
+// --- KONEC BLOKU ---
