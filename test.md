@@ -143,7 +143,7 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# <a href="https://vision.artushfoto.eu/" class="home-link">ArtushVision AI</a> - Getty Images ESP Metadata Optimizer: Master the Controlled Vocabulary
+# <a href="https://vision.artushfoto.eu/" class="home-link">ArtushVision AI</a> - Getty Images ESP Metadata Optimizer: Master the Controlled Vocabulary test
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
