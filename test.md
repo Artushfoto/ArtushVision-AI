@@ -3,6 +3,22 @@ layout: default
 title: "Getty Images ESP Keywords & Metadata Optimizer"
 description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
 ---
+<style>
+  /* Vypne tmavou kartu pouze pro tuto hlavní stránku */
+  .markdown-body h1 {
+      background: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+      padding: 10px 0 !important;
+      color: #24292f !important;
+  }
+  
+  /* Vypne i vznášecí animaci */
+  .markdown-body h1:hover {
+      transform: none !important;
+      box-shadow: none !important;
+  }
+</style>
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
