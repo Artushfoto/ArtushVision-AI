@@ -2,6 +2,22 @@
 title: "ArtushVision AI | Professional Metadata Automation Workstation"
 description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with Local & Cloud Vision AI."
 ---
+<style>
+  /* Vypne tmavou kartu pouze pro tuto hlavní stránku */
+  .markdown-body h1 {
+      background: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+      padding: 10px 0 !important;
+      color: #24292f !important;
+  }
+  
+  /* Vypne i vznášecí animaci */
+  .markdown-body h1:hover {
+      transform: none !important;
+      box-shadow: none !important;
+  }
+</style>
 
 <div style="display: none;">
 <style>
