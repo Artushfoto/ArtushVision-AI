@@ -170,7 +170,7 @@ Transform your raw comma-separated text into interactive, colorful Tag Bubbles.
 <video src="video/seamless-drag-and-drop.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Seamless Drag and Drop Demonstration">
   ArtushVision AI - Demonstration of seamless metadata drag and drop editing.
 </video>
-<p><a href="video/seamless-drag-and-drop.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/seamless-drag-and-drop.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to perform seamless metadata drag and drop editing (full size)</a></p>
 
 ---
 
@@ -189,7 +189,7 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 <video src="video/copy-paste-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Copy and paste metadata in ArtushVision AI">
   ArtushVision AI - Demonstration of copying and pasting metadata across assets.
 </video>
-<p><a href="video/copy-paste-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/copy-paste-metadata.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to copy and paste metadata across assets (full size)</a></p>
 
 ---
 
@@ -218,7 +218,7 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 <video src="video/remove-keyword.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - bulk remove keyword">
   ArtushVision AI - Demonstration of bulk keyword removal across a selection.
 </video>
-<p><a href="video/remove-keyword.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/remove-keyword.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to perform bulk keyword removal across a selection (full size)</a></p>
 
 ---
 
@@ -240,7 +240,7 @@ ArtushVision offers several ways to bulk delete keywords depending on what exact
 <video src="video/clear-metadata.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Clear Metadata">
   ArtushVision AI - Demonstration of clearing metadata fields completely.
 </video>
-<p><a href="video/clear-metadata.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/clear-metadata.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to clear metadata fields (full size)</a></p>
 
 ---
 
@@ -253,7 +253,7 @@ If you accidentally deleted the wrong keywords and **haven't clicked the "Save" 
 <video src="video/restore-metadata-from-backup.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI">
   ArtushVision AI - Made a Mistake? Restore Original Data from automatic CSV backup.
 </video>
-<p><a href="video/restore-metadata-from-backup.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/restore-metadata-from-backup.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to restore original data from automatic CSV backups (full size)</a></p>
 
 ---
 
@@ -282,7 +282,7 @@ ArtushVision AI offers a powerful **Keyword Sets (Presets)** feature that signif
 <video src="video/keyword-sets.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using Keyword Sets in ArtushVision AI">
   ArtushVision AI - Demonstration of keyword presets and management tools.
 </video>
-<p><a href="video/keyword-sets.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<p><a href="video/keyword-sets.mp4" target="_blank" style="font-size: 0.9em;">Watch tutorial: How to use keyword presets tools (full size)</a></p>
 
 The feature is fully integrated into your workflow and is available across the entire application:
 * **In the main grid:** You can apply sets in bulk to any number of selected photos – just use the context menu (right-click) or the *Sets* button on the bottom batch edit bar.
