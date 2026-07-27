@@ -13,11 +13,25 @@ description: "See what professional photographers, stock contributors, and creat
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "reviewCount": "5",
+    "reviewCount": "6",
     "bestRating": "5",
     "worstRating": "1"
   },
   "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Steven Heap (BackyardSilver)"
+      },
+      "datePublished": "2026-07-24",
+      "reviewBody": "I've written a lot about using ArtushVision AI as the new mainstay of my keywording and descriptions... Incidentally, I think I spend about 1 minute per image on average creating the metadata using this approach.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      }
+    },
     {
       "@type": "Review",
       "author": {
@@ -189,6 +203,18 @@ h1 { text-align: center; }
 ## 📝 Featured Editorial & Blog Reviews
 
 <div class="review-container">
+
+  <!-- Review Card New - July 24, 2026 -->
+  <article class="review-card">
+    <div class="review-header">
+      <div class="reviewer-info">
+        <h3>Steven Heap (BackyardSilver)</h3>
+        <p class="reviewer-role">Professional Stock Photographer & Blogger • July 24, 2026</p>
+      </div>
+    </div>
+    <blockquote class="review-quote">"I've written a lot about using ArtushVision AI as the new mainstay of my keywording and descriptions... Incidentally, I think I spend about 1 minute per image on average creating the metadata using this approach."</blockquote>
+    <a href="https://backyardsilver.com/edit-keyword-upload-stock-photos-workflow/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read Steven Heap's workflow review">Read Stock Photo Workflow Review &rarr;</a>
+  </article>
 
   <!-- Review Card 1 - July 10, 2026 -->
   <article class="review-card">
