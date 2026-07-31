@@ -1,6 +1,5 @@
-# --- index.md ---
 ---
-title: "ArtushVision AI | Professional Metadata Automation Workstation"
+title: "ArtushVision AI X | Professional Metadata Automation Workstation"
 description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with Local & Cloud Vision AI."
 ---
 <style>
