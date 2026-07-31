@@ -1,7 +1,7 @@
+# --- index.md ---
 ---
-layout: default
-title: "Getty Images ESP Keywords & Metadata Optimizer"
-description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to use the Master Dictionary, AI Resolver, and automated keyword translation."
+title: "ArtushVision AI | Professional Metadata Automation Workstation"
+description: "The ultimate AI photo tagging and metadata workstation for stock, travel, and home photography. Optimize for Getty Images with Local & Cloud Vision AI."
 ---
 <style>
   /* Vypne tmavou kartu pouze pro tuto hlavní stránku */
@@ -19,16 +19,62 @@ description: "Master the Getty Images ESP Controlled Vocabulary. Learn how to us
       box-shadow: none !important;
   }
 </style>
+
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
-h1 { text-align: center; }
+
+/* Flexbox kontejner pro rozdělení vršku (Hero sekce) na poloviny */
+.hero-split {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+  margin: 10px 0 40px 0;
+}
+.hero-text {
+  flex: 1.1;
+}
+.hero-image {
+  flex: 0.9;
+}
+@media (max-width: 900px) {
+  .hero-split {
+    flex-direction: column;
+  }
+}
+
+/* Zelený Privacy Callout Box s plnou podporou pro Světlý i Tmavý režim - CELÁ ŠÍŘKA */
+.privacy-callout {
+  background-color: rgba(46, 164, 78, 0.08);
+  border: 1px solid rgba(26, 127, 55, 0.3);
+  border-radius: 6px;
+  padding: 18px;
+  margin: 25px 0;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+}
+.privacy-callout h2 {
+  color: #1a7f37;
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.privacy-callout p {
+  margin: 0;
+  font-size: 13.5px;
+  color: #24292f;
+  line-height: 1.5;
+}
 
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
-  margin: 20px auto;
-  max-width: 100%;
+  width: 100%;
   text-decoration: none;
 }
 .screenshot-img {
@@ -44,10 +90,46 @@ h1 { text-align: center; }
   opacity: 0.95;
 }
 
-/* GitHub Téma vyhledávacího komponentu (Světlý i Tmavý režim) */
+/* Tlačítka (Call to Action) - UŽŠÍ PRO LEPŠÍ ZOBRAZENÍ VEDLE SEBE */
+.btn {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 230px;
+  max-width: 100%;
+  padding: 10px 15px;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.2s, color 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.btn-primary {
+  background-color: #0969da;
+  color: #ffffff !important;
+  border: 1px solid #0969da;
+}
+.btn-primary:hover {
+  background-color: #0550ae;
+  box-shadow: 0 3px 8px rgba(9, 105, 218, 0.2);
+}
+.btn-success {
+  background-color: #2da44e;
+  color: #ffffff !important;
+  border: 1px solid #2da44e;
+}
+.btn-success:hover {
+  background-color: #2c974b;
+  box-shadow: 0 3px 8px rgba(45, 164, 78, 0.2);
+}
+
+/* GitHub Téma vyhledávacího komponentu - ZAROVNÁNO DOLEVA */
 #flex-search-container {
   max-width: 500px;
-  margin: 25px auto;
+  margin: 15px 0 25px 0;
   position: relative;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
 }
@@ -126,6 +208,16 @@ h1 { text-align: center; }
 }
 
 @media (prefers-color-scheme: dark) {
+  .privacy-callout {
+    background-color: rgba(35, 134, 54, 0.15);
+    border: 1px solid rgba(46, 164, 78, 0.4);
+  }
+  .privacy-callout h2 {
+    color: #2ea44e;
+  }
+  .privacy-callout p {
+    color: #c9d1d9;
+  }
   #flex-search-input {
     border: 1px solid #30363d;
     background-color: #0d1117;
@@ -158,216 +250,240 @@ h1 { text-align: center; }
   }
 }
 </style>
+
 </div>
 
-# Getty Images ESP Metadata Optimizer: Master the Controlled Vocabulary test
+<h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
-
-**Eliminate submission errors and keyword rejections. ArtushVision AI ensures a Near-Perfect Acceptance Rate with the Getty Images ESP system through manual or automated keyword translation and context-aware AI disambiguation.**
-
-Optimizing metadata for the **Getty Images / iStock ESP portal** is one of the most demanding tasks for **stock contributors**. Getty Images enforces a strict **Controlled Vocabulary (CV)** of over 9,800 approved commercial terms. Standard keywords used for other stock agencies are frequently rejected or mismatched by the ESP portal, leading to tedious manual corrections.
-
-The **Getty Optimizer module** in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the ESP system. You can map words **manually**, use **Local Semantics (100% offline)**, or let the **Cloud AI** do the heavy lifting for you.
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.webp" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.webp" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation for Getty ESP" width="100%" class="screenshot-img">
-</a>    
+<div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); overflow: hidden; background-color: #253544; line-height: 0;">
+  <object type="image/svg+xml" data="artushvision.svg" title="ArtushVision AI Software Features - Smart Microstock Tagging" aria-label="ArtushVision AI Software Features - Smart Microstock Tagging" style="width: 100%; height: auto; aspect-ratio: 841.89 / 210.47; display: block; pointer-events: auto !important; outline: none; border: none; margin: 0; padding: 0;">
+    <img src="artushvision.svg" alt="ArtushVision AI Software Features - Smart Microstock Tagging" />
+  </object>
+</div>
 
 ---
 
-## 1. Built-in Getty Master Dictionary & Non-Destructive Workflow
-
-ArtushVision AI includes a massive, local **Master Dictionary** specifically built for the Getty Images commercial ecosystem. You no longer need to manually search the ESP portal for permitted terms.
-
-* **Automated Keyword Mapping:** Instantly translates standard tags into approved Getty alternatives (e.g., expanding "`Authentic`" into the required `"Real People", "candid", "Real Life", "Natural Pattern", "Auto Post", "Production Filter", "Digital Authentication"` format).
-* **Technical Tag Injection:** Automatically adds required structural tags such as *Horizontal/Vertical*, *Photography*, or *No People* that Getty requires for **commercial searchability**.
-* **Non-Destructive Safety:** Your original metadata remains completely untouched and safe. All Getty-optimized terms, titles, and descriptions are stored in dedicated, custom `XMP-getty` fields directly within the files, allowing this data to be instantly recalled or reloaded at any time.
-
----
-
-## 2. Accessing the Getty ESP Optimizer & Main Interface
-
-Select one or more photos in the main grid, right-click, and select **"Getty Optimizer..."** from the context menu. 
-
-The main dashboard displays your original keywords side-by-side with the optimized **Getty tags**. From this view, you can trigger key actions or launch the advanced **Interactive Resolver** interface.
-
-<video src="video/getty-optimizer-overview.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Overview of Getty ESP Optimizer">
-  ArtushVision AI - Getty ESP Optimizer Overview.
-</video>
-<p><a href="video/getty-optimizer-overview.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
-
----
-
-### Main Control Panel Actions:
-* **Interactive Resolver (AI Mapping)...**: Opens the visual dashboard for rapid validation and mapping.
-* **Export ESP CSV...**: Generates a final, clean **CSV spreadsheet** specifically formatted for direct import into the **Getty Images ESP portal**.
-* **Export for Getty...**: Creates copies of the selected files (JPEGs, RAWs, or videos) in your target directory and writes the optimized Title, Description, and approved Keywords directly into their standard metadata fields (EXIF/IPTC/XMP) using ExifTool.
-  * **`Direct Upload:`** Simply upload these embedded files directly to the Getty portal, **no CSV import is required**. Once the upload is complete, you can safely delete these exported copies from your local drive to save disk space, as they can be fully re-generated from your originals at any time.
-* **Delete Getty Data**: Clears all generated `getty terms` from the selected files' metadata space so you can start the optimization process from scratch.
-* **Custom Content Control:** The Getty Images Export Optimizer also allows you to set a **specific title and description** tailored exclusively for the Getty ESP portal. These adjustments are applied strictly to your Getty metadata and have no impact on your standard title and description.
-
-## 3. Interactive AI Resolver Dashboard for Keyword Mapping
-
-When you open the **Interactive Resolver**, you are presented with an advanced dual-panel layout designed for rapid inline validation and micro-management of your **batch metadata**.
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.webp" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/interactive-resolver-dashboard.webp" alt="ArtushVision AI - The Interactive AI Resolver Dashboard for Getty Metadata" width="100%" class="screenshot-img">
-</a>  
-
-### Interactive Table & Color-Coded Terms
-
-The main table displays your original keywords on the left and the corresponding valid Getty terms (chips) on the right. 
-
-   * **Original Word**: The keyword from your metadata. **Double-click** to edit it in place. If you type a **comma** (e.g., changing "cooked food" to "cooked, food"), the Resolver will intelligently split the word into two separate rows. Words marked in **red** are not recognized by the Getty dictionary and must be resolved or unchecked before submission.
-   * **Orange Terms (Unmapped / Unrecognized / Ambiguous):** These represent unrecognized keywords. Because Getty's official vocabulary is proprietary, the built-in master dictionary cannot cover 100% of it. However, an unrecognized keyword might still be a valid Getty term. If it is, you can easily add it to your personal database by **right-clicking the word** and saving it to your **User Dictionary**. Once added, it will automatically be recognized and reported as a **valid Getty term** in all future optimizations and exports.
-   * **Blue Terms (Standard)**: Valid Getty terms successfully mapped from the master dictionary.
-   * **Green Terms (AI or Local Semantics Suggested)**: Brand new, highly relevant terms suggested by the Cloud AI or local offline Semantics model.
-   * **Purple Chips (Mixed State)**: Indicates that the term is selected for *some* photos but not *all* photos in your current batch view.
-
-**Interaction & Shortcuts**:
-   * **Manual Selection**: Click any active colored bubble to check/uncheck it.
-   * **Hover Context Visualizer**: Hover your mouse over any chip to instantly highlight the photo thumbnails it is currently assigned to (or can be assigned to).
-   * **Drag & Drop (Assign & Remove)**: Grab a chip and drop it directly onto a photo thumbnail to instantly assign it. To **remove** it from that photo, hold **Alt** or **Shift** while dropping the chip.
-   * **Undo/Redo**: Use `Ctrl+Z` and `Ctrl+Y` to safely step backward or forward through your edits.
+<div class="hero-split">
+  <div class="hero-text">
+    <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
+    
+    <p style="font-size: 0.95em; margin: 10px 0;">Designed for smart photographers who are ready to abandon expensive cloud subscriptions and take back control. <strong><a href="/docs/artushvision-reviews.html">Read our user reviews and success stories &rarr;</a></strong></p>
+    
+    <blockquote style="margin: 20px 0 20px 0; font-size: 0.95em; color: #57606a; padding-left: 15px; border-left: 4px solid #0969da; font-style: italic;">
+      "ArtushVision AI has rapidly evolved into the <strong>Swiss Army Knife of metadata management</strong>... From handling keywording of raw files, resolving the annoying Lightroom habit of sorting keywords alphabetically, to providing a smooth solution for the Getty/iStock controlled vocabulary... <strong>this is very hard to beat.</strong>"
+      <br>
+      <span style="display: block; margin-top: 8px; font-style: normal; font-size: 0.85em; font-weight: 600; color: #24292f;">
+        &mdash; Steven Heap, BackyardSilver (<a href="https://backyardsilver.com/artushvision-ai-review-stock-photo-workflow/" title="Read full user reviews">Read Full Review &rarr;</a>)
+      </span>
+    </blockquote>
+    
+    <!-- Nový integrovaný blok odkazů -->
+    <div style="margin: -5px 0 22px 0; font-size: 0.9em; display: flex; flex-direction: column; gap: 6px;">
+      <div> <strong>Case Studies &amp; Reviews:</strong> <a href="/docs/artushvision-reviews.html" style="color: #0969da; text-decoration: none; font-weight: 500;">Explore Independent User Testimonials &rarr;</a></div>
+      <div> <strong>Deep Competitor Analysis:</strong> <a href="docs/ultimate-microstock-keywording-tools-private-archive-comparison.html" style="color: #0969da; text-decoration: none; font-weight: 500;">ArtushVision AI vs. Cloud and "Market Leaders" Comparison &rarr;</a></div>
+    </div>
+    
+    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+      <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
+      <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
+    </div>
+  </div>
+  
+  <div class="hero-image">
+    <a href="artushvision.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link" style="margin: 0;">
+      <img src="artushvision.webp" alt="Detail of ArtushVision AI split-screen workflow" width="2005" height="1333" fetchpriority="high" class="screenshot-img" />
+    </a>
+  </div>
+</div>
 
 ---
 
-### Control Panel Element Breakdown
-
-The bottom control panel is organized into two horizontal rows for efficient access:
-
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.webp" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/control-panel-element-breakdown.webp" alt="ArtushVision AI - Resolver Control Panel Element Breakdown" width="100%" class="screenshot-img">
-</a>  
-
-#### Row 1: Cloud AI & UI Settings
-* **`Resolve with AI beta` (Green Button)**: Triggers the Cloud AI semantic resolver to process selected images.
-* **Profile Selector (`Getty_Default.json` Dropdown)**: Selects the active AI system prompt profile, or allows you to create your own depending on your needs. Use different profiles for varying photography styles or **microstock targets**.
-* **Profile Settings (Cog Icon ⚙)**: Opens the Profile Editor where you can modify the model selection, system prompt templates, variables (such as `{loc_hint}` or `{date_info}`), and keyword blacklists.
-* **`New AI terms:` (Spinbox)**: Controls the number of new approved Getty keywords the AI should suggest per photo. Setting this to `0` disables new suggestions, while `5` to `8` is recommended for high-quality, relevant tags. Higher values can lead to less precise or irrelevant suggestions.
-
-* **`Row height:` (Spinbox)**: Adjusts the vertical line spacing of the main resolver table (between `30px` and `150px`) to customize data density.
-
-#### Row 2: Offline Semantic Resolving & Local Actions
-* **`Offline Suggest` (Blue Button)**: Starts the local semantic suggestion engine (**100% local offline, no API credits required**).
-* **`Suggest Threshold:` (Spinbox)**: Sets the minimum semantic similarity score (from `0.10` to `1.00`) required for local matching. The default is `0.45`. Higher values (e.g. 0.70) produce fewer but more relevant suggestions. Lower values (e.g. 0.40) produce more suggestions but they might be less relevant.
-* **`Model:` (Dropdown)**: Chooses which **local ONNX embedding model** to use for semantic similarity calculations.
-Available models:
-  * **MiniLM-L6-v2 (Super-Fast):** A lightning-fast, lightweight model with very low hardware requirements, making it ideal for modest or older machines.
-  * **BGE-small-en-v1.5 (Accurate):** The recommended default choice, delivering solid, well-balanced accuracy and excellent processing speed.
-  * **BGE-base-en-v1.5 (Maximum Accuracy):** Provides the absolute maximum accuracy in its class for pinpoint semantic mapping, at the cost of slightly higher memory and CPU utilization.
-* **`Add Term` (Button)**: Opens a manual search dialog to look up and append approved Getty terms directly to selected photos.
-* **`User Dictionary` (Button)**: Accesses your personal persistent vocabulary database and the new **Personalization Blacklist**.
-* **`Re-Optimize All (Local)`(Button)**: A 1-click local utility that runs without consuming API tokens. It automatically unchecks unknown terms, appends structural technical tags, and sorts the keywords alphabetically.
+<div class="privacy-callout">
+  <h2>🔒 100% Offline Privacy for Travel, Home &amp; Personal Archives</h2>
+  <p>
+    Protect your family memories, private travel logs, and sensitive client shoots. By running advanced Vision models entirely <strong>locally on your own hardware</strong>, your images are analyzed right on your graphics card. <strong>No photos ever leave your computer</strong>, zero data is uploaded to corporate clouds, and absolute data logging privacy is fully guaranteed.
+  </p>
+</div>
 
 ---
 
-### Photo Context, Thumbnails & Dynamic Badges (Top Panel)
-
-At the top of the window, you'll see thumbnails of your selected batch:
-* **Dynamic Status Badges**: Each thumbnail features a live badge in the corner showing the exact number of valid Getty terms for that photo.
-  * **Gray (Neutral)**: Unprocessed. The photo still contains unresolved "Unknown" words waiting for your input or AI analysis.
-  * **Green**: Optimized. All unknown words are resolved, and the photo has between 5 and 50 valid terms.
-  * **Red**: Limit Violation. The photo has fewer than 5 or more than 50 terms and needs adjustment.
-* **Filter by Photo (Left-Click)**: Click any thumbnail to instantly filter the table below. It will show *only* the terms associated with that specific photo. Click again to clear the filter.
-* **Multi-Select & Targeted Edits**: Use `Ctrl + Click` to select multiple thumbnails. When one or more thumbnails are selected, **any changes you make in the table below will apply strictly to those selected photos**, leaving the rest of the batch untouched.
-* **Context Menu (Right-Click)**: Right-click a thumbnail to copy/paste your perfectly mapped Getty terms across multiple photos, or to open the original file.
-
-* **Getty Resolver Hover Highlights**: Hovering your mouse over any Getty term chip in the table dynamically highlights related photo thumbnails in the sidebar:
-  * **Blue Border**: The photo already has this specific Getty term checked (active).
-  * **Orange Border**: The photo contains the original keyword, but this Getty term is currently unchecked (candidate photo).
-
-<video src="video/getty-optimizer-manual.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Manual Editing in Getty ESP Optimizer">
-  ArtushVision AI - Getty optimizer manual editing Overview.
-</video>
-<p><a href="video/getty-optimizer-manual.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+**Stop paying rent** for your software or credits. For just $39.99, the price of a **casual dinner for two**, you get a powerful tool that is yours forever. **No expensive monthly subscriptions**, no strings attached. Run it **completely offline for maximum privacy**, or connect to **cloud AI** whenever you need it with **total control** over your usage and costs. **It’s a one-time investment that pays for itself in just two hours of saved work.**
 
 ---
 
-## 4. AI-Powered Metadata Optimization Engines
+## The 3-Step Production Workflow
 
-### Cloud AI Resolving & Disambiguation
+ArtushVision AI eliminates the friction between editing software, AI tagging, and final asset organization:
 
-Cloud AI resolving uses advanced Vision & Language models (such as Gemini 2.5 Flash Lite or GPT-4o) via OpenRouter to read the visual context of your images and handle homonyms, words with multiple meanings.
-
-**Example**: If your original keyword is **"crane"**, the Cloud AI reviews the photo's visual content, title, description, and GPS data to identify whether the photo features a construction site (mapping it to `crane (construction machine)`) or a wetland (mapping it to `crane (bird)`).
-
-If **New AI terms** is set greater than `0`, the AI will also discover and suggest completely new concepts that are guaranteed to exist in Getty’s controlled vocabulary database.
-
-<video src="video/getty-optimizer-ai.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Using AI to resolve Getty ESP Terms">
-  ArtushVision AI - Getty resolver with AI beta.
-</video>
-<p><a href="video/getty-optimizer-ai.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
-
-### Offline Resolving (Local Semantics)
-The **Offline Suggest** feature uses local vector embedding models running on the ONNX Runtime directly on your CPU. **Based on our extensive real-world testing, this offline workflow performs exceptionally well**, delivering highly accurate keyword mapping and context evaluation without any cloud API dependency. It automatically transforms your keywording workflow in three automated steps:
-
-1. **Context Understanding:** The Local Semantics analyzes existing keywords to target the core theme (e.g., *snow, mountains* automatically targets *winter sports*).
-2. **Automatic Cleaning & Disambiguation:** Red-marked unrecognized rows are checked against the Getty database via vector encoding. If a close match fits the theme, it is corrected; otherwise, it is skipped. Ambiguous words are automatically locked into their correct definition based on nearby tags.
-3. **Controlled Keyword Expansion:** The local model compares context vectors against the pre-compiled Getty Vector Database and appends new relevant terms up to your chosen **Suggest Threshold** limit.
-
-    * **MiniLM-L6-v2**: Super-fast and lightweight model for modest hardware.
-    * **BGE-small-en-v1.5**: Recommended default balancing speed and precision.
-    * **BGE-base-en-v1.5**: Maximum accuracy with the largest embedding space.
-
-<video src="video/getty-optimizer-semantics.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Offline Resolving Getty ESP Terms with Local Semantics">
-  ArtushVision AI - Offline Resolving Getty Terms with Local Semantics.
-</video>
-<p><a href="video/getty-optimizer-semantics.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+1. **Load & Cull:** Open thousands of RAW or JPG files across multiple subfolders instantly using the **Flat View**, filter out the noise, and organize your batch using native Lightroom-compatible star ratings and color labels.
+2. **Generate & Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in AI/Offline Getty Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
+3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
 
 ---
 
-## 5. Custom ESP Dictionaries, Memory & Keyword Blacklists
+## Key Features & Functionality
 
-Teach ArtushVision AI your specific niche. Any manual keyword associations you make are remembered here for future exports.
+* ### <a href="/docs/ai-metadata-generation-cloud-local-ollama.html">Versatile AI Engine Modes & Customization</a>
+    * **Cloud AI:** High-speed cloud processing via OpenRouter. You maintain full control over your API usage through a **Built-in OpenRouter Dashboard**, paying only raw API prices with total transparency.
+    * **Local AI (100% Free & Private):** Run standard visual analysis on your local hardware via Ollama. Perfect for sensitive shoots with zero API costs.
+    * **Hybrid AI (Local Vision + Cloud Text):** Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.
+    * **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
+    * **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.
 
-* **Add Term**: Click to search the Getty Master Dictionary manually, select multiple terms, and apply them across your selection.
-* **User Getty Dictionary**: 
-  * *Quick Add:* **Right-click** any Original Word in the table and select *"Save 'word' to User Dictionary"*. Next time this word is loaded, it maps to your preferred Getty term automatically.
-  * *Management:* Open the manager to manually add, delete, or wipe custom rules.
-* **Personalization Blacklist (Tab 2 - Blocked Terms)**: Instantly block unwanted or repetitive Getty terms via a right-click context menu directly on any `GettyChipButton`. Blacklisted terms are written to `getty_blacklist.json`, stripped from active image memory, and completely filtered out of future processes.
+* ### <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images Optimizer (Master ESP Tool)</a>
+    * **Near-Perfect Acceptance:** Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.
+    * **Interactive Getty Resolver:** Available for both Single and Batch modes with visual context highlighting and term splitting.
+    * **Semantic AI Disambiguation:** The AI analyzes image context to solve homonyms (e.g., automatically distinguishing a "crane" bird from a "crane" construction machine).
+    * **Non-Destructive Workflow:** Original metadata remains untouched; optimized terms are safely stored in separate XMP metadata.
 
-<video src="video/getty-user-dictionary.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Add New Term to User Getty ESP Dictionary">
-  ArtushVision AI - Add New Term to User Getty Dictionary.
-</video>
-<p><a href="video/getty-user-dictionary.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+* ### <a href="/docs/smart-manual-keywording-batch-editing.html">Manual Workflow & Ergonomics (Hands-On Control)</a>
+    * **Intuitive Drag & Drop Keywords:** Seamlessly drag and drop keyword bubbles to reorder them (vital for Adobe Stock top 10 priority weighting) or drag selected keywords directly between photos.
+    * **Advanced Batch Metadata Application:** Select multiple files to bulk-add, overwrite, or clear Title, Description, and Keywords simultaneously.
+    * **Smart Append Sync:** Type a keyword into a selection of hundreds of photos—the app injects it in real-time without overwriting their unique existing tags.
+    * **Interactive Integrated Map:** Visually verify extracted GPS coordinates running reverse geocoding.
+    * **Lightning-Fast Copy & Paste:** Use dedicated shortcuts to copy entire metadata blocks from one master image and paste them across an entire batch.
+    * **Metadata Templates:** Save and load custom metadata presets for recurring shoots or specific studio setups.
+
+* ### <a href="/docs/global-stock-distribution-ftp.html">Global Distribution & Smart FTP Suite</a>
+    * **Multi-Server Batch Uploads:** Configure individual thread limits per agency to prevent connection blocks (`421 Too many connections`).
+    * **1-Click Automated CSV Upload:** Generates a temporary, agency-specific CSV with matching category IDs, uploads it alongside your media, and automatically purges it.
+    * **Universal Category Mapping:** Pre-configured mapping for Adobe Stock, Shutterstock, and other major agencies.
+    * **FTP Status Badges:** Successful uploads write micro-badges directly into XMP metadata for persistent tracking.
+
+* ### <a href="/docs/smart-grid-filters-search-metadata-management.html">Advanced Interface & Portfolio Organization</a>
+    * **Blazing-Fast Image Grid:** Displays Titles, Descriptions, and Keywords directly below every card. Includes comprehensive Thumbnail Badges.
+    * **Visual Status Indicators:** Color-coded states warn you in real-time about validation errors.
+    * **Absolute Priority AI Hints:** Force the AI to treat your manual hints (obscure locations, Latin species) as absolute facts, completely eliminating hallucinations.
+    * **Flat View:** Toggle a unified, continuous list view for all loaded subfolders simultaneously.
+
+* ### <a href="/docs/metadata-compatibility-and-file-handling.html">Universal Metadata Compatibility & Linguistics</a>
+    * **100% EXIF/IPTC/XMP Compliant:** Data is written safely to sidecars or directly embedded, ensuring seamless interoperability with Adobe Lightroom, Bridge, and Capture One.
+    * **Keyword Order Restoration:** Easily revert to your original keyword sequencing with a single click to protect manually sorted priority tags.
+    * **Category Management:** Easily assign standard microstock categories to single images or entire batches to ensure full compliance with agency submission requirements.
+    * **Auto-GPS Country Lookup:** Auto-translates GPS coordinates into readable city/country names via OpenStreetMap or ArcGIS.
+    * **Dual-Language Spellcheck:** Validate against two dictionaries simultaneously without switching settings.
+
+* ### <a href="/docs/batch-operations-metadata-library-management.html">Powerful Batch Operations & Configuration</a>
+    * **Smarter Batch Rename:** Rename thousands of files using dynamic variables like `{TITLE}`, `{CC}`, `{DATE}`, or `{FOLDER_NAME}`.
+    * **Bulk Metadata Editing:** Smart Add/Remove/Replace with `Old -> New` syntax and `Ctrl+H` support.
+    * **Ollama VRAM Context Tuning:** Optimize memory allocation based on your GPU hardware.
+    * **Video Economy Mode:** Collage-based analysis to minimize API consumption and process video files efficiently.
+    
+---
+
+<h2 align="center">💡 ZERO-RISK WORKFLOW: TRY BEFORE YOU BUY!</h2>
+
+<table style="width: 100%; display: table; border-collapse: collapse;">
+  <tr>
+    <th style="width: 50%; text-align: center; padding: 12px;">
+      <a href="/docs/download-purchase.html" class="btn btn-primary" style="margin: 0 auto;">Download Free Lite Version</a>
+    </th>
+    <th style="width: 50%; text-align: center; padding: 12px;">
+      <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success" style="margin: 0 auto;">Get Lifetime License</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;"><b>Fully Functional Version</b></td>
+    <td style="text-align: center; padding: 10px;"><b>Only $39.99</b> (+ local VAT)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 8px;">No time limits for testing</td>
+    <td style="text-align: center; padding: 8px;">One-time payment &bull; No monthly fees</td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <strong>Securely processed by Polar &amp; Stripe.</strong> <a href="/docs/manage-licence.html">Manage your licensed devices</a>
+</p>
+
+<hr>
+
+**ArtushVision AI Main Grid Workspace**
+
+<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
+  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="3066" height="1885" class="screenshot-img" loading="lazy" />
+</a>
 
 ---
 
-## 6. Final Export to Getty ESP and Global Distribution
+## Cost Comparison: Own Your Tools
 
-Once your metadata is verified and your thumbnail status badges are green, choose your preferred export method:
+<table style="width: 100%; border-collapse: collapse; margin: 15px 0;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #d0d7de; padding: 8px; text-align: left;">Feature</th>
+      <th style="border: 1px solid #d0d7de; padding: 8px; text-align: left;">Typical Online AI Tools</th>
+      <th style="border: 1px solid #d0d7de; padding: 8px; text-align: left;">ArtushVision AI (Desktop App)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Media Privacy</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">Mandatory Cloud Upload</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">🔒 <b>100% Private (Local AI via Ollama)</b> or Thumbnail-only modes</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Format Support</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">JPG Only</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>JPG, RAW, Video, TIFF, webp, HEIC</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Pricing Model</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">Recurring Subscriptions / Credits</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Perpetual License ($39.99)</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Cost (10,000 Photos)</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;">High-tier monthly plans</td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>~$6</b> using Gemini Flash or <b>Free</b> utilizing Local AI</td>
+    </tr>
+  </tbody>
+</table>
 
-### Option A: Precision CSV Export (For ESP Web Portal)
-Generate a flawlessly formatted spreadsheet ready for the **Getty Images ESP web interface**.
-1. Click **Export CSV...** and choose your preferred CSV template.
-2. Go to the Getty ESP portal, upload your media files, and go to `Templates` → `Apply from CSV` → `Submit` to apply the metadata in one go.
+### <a href="docs/ultimate-microstock-keywording-tools-private-archive-comparison.html">ArtushVision AI vs. \"Market Leaders\": The Ultimate Microstock Keywording Tools & Private Archive Management Comparison (June 2026)</a>
 
-<video src="video/getty-optimizer-apply-csv.mp4" width="100%" autoplay loop muted playsinline title="ArtushVision AI - Apply CSV on Getty ESP">
-  ArtushVision AI - Applying exported CSV to Getty ESP.
-</video>
-<p><a href="video/getty-optimizer-apply-csv.mp4" target="_blank" style="font-size: 0.9em;">Open video in full size</a></p>
+<hr>
 
-### Option B: Export JPG for Getty (Direct Metadata Embedding)
-Export copies of your actual image files with Getty-optimized metadata embedded directly into the files themselves.
-* **How it works:** Click **Export for Getty...** and select a destination folder. ArtushVision AI creates a folder named `YYYYMMDD-getty` (e.g., `20260624-getty`) and copies the files. It writes the Getty data into standard metadata fields (`XMP-dc`, `IPTC`, `XPKeywords`) and custom `XMP-getty` fields.
-* **RAW & Video Support:** For JPEGs, data is written directly inside the file headers. For RAW formats and videos, it automatically writes to `.xmp` sidecar files to preserve original file integrity. 
+> **Exceptional Value:** Describe up to **10,000 photos for only $6** with perfect, high-quality results.  
+> **Full Cost Control:** Monitor your budget with built-in **spending statistics** (6-decimal precision).
 
----
+<hr>
 
-## 7. Recommended Professional Stock Photography Workflow
-Load Files ➔ Open Interactive Resolver ➔ Run Cloud AI or Offline Suggest ➔ Interactively Filter & Clean Tags ➔ Export CSV or Getty tagged JPG ➔ Upload files to ESP ➔ If You use CSV upload, apply CSV on Getty ESP.
+## Complete Documentation Index
 
-1. **Load Your Files:** Open the Getty Optimizer module with your targeted image batch.
-2. **Review Mapping Table:** Check your keyword status tags:
-   * **Single Blue** = Successfully matched and OK.
-   * **Multiple Blue / Orange** = Ambiguous terms requiring resolution (can be resolved manually, using AI semantic models, or a combination of both).
-   * **Red** = Unknown or unrecognized keywords that need to be cleared or mapped.
-3. **Navigate Interactively:** Use thumbnail filters, hover visualizers, and drag-and-drop to rapidly refine assignments. Hold **Alt/Shift** to subtract terms.
-4. **Clean, Split and Check:** Double-click original words to edit typos or split phrases using a comma (`,`). Uncheck unfit terms. Check result.
-5. **Save to Memory:** If you have new or unique terms not covered by the built-in master dictionary, save recurring custom keywords to your User Dictionary or blacklist unwanted ones, so they are automatically recognized or filtered next time.
-6. **Export & Upload:** Generate your final **ESP-compliant CSV** or self-contained JPEGs, and complete your submission on the ESP portal!
+<div id="flex-search-container">
+  <input type="text" id="flex-search-input" placeholder="Search documentation..." />
+  <ul id="flex-results-container"></ul>
+</div>
+
+### 1. Getting Started
+* [System Requirements & Installation](/docs/installation.html)
+* [First Launch & Activation](/docs/download-purchase.html)
+* [Interface Overview](/docs/interface-overview.html)
+* [Detail Window Overview](/docs/detail-window-interface-overview.html)
+* [Cloud AI & OpenRouter API Setup](/docs/cloud-ai-openrouter-api-setup.html)
+* [Local AI Setup & Integrated Model Manager](/docs/local-ai-model-manager-ollama.html)
+
+### 2. Core Workflows
+* [Understanding AI Processing Modes (Cloud, Local, Hybrid)](/docs/ai-metadata-generation-cloud-local-ollama.html)
+* [How to Download Local AI Models via Ollama](/docs/how-to-download-local-ai-models-via-ollama.html)
+* [Local AI Model Manager: Complete Offline Control](/docs/local-ai-model-manager-ollama.html)
+* [Advanced AI Prompting, Profiles & Variables](/docs/advanced-ai-prompting-profiles-variables.html)
+* [Create and Optimize Custom AI Prompts](/docs/create-and-optimize-custom-ai-prompts.html)
+* [Manual Editing, Multi-language Spellcheck & Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
+* [Batch Metadata Actions, Search & Replace](/docs/batch-operations-metadata-library-management.html)
+* [Microstock Category Mapping Matrix](/docs/category-matrix.html)
+* [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
+
+### 3. Professional Asset Distribution
+* [Getty Images ESP Metadata Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html)
+* [Global Stock Distribution & Multi-threaded FTP Suite](/docs/global-stock-distribution-ftp.html)
+* [Dynamic CSV Template Mapping](/docs/settings-configuration-customization.html#advanced-csv-template-editor)
+
+### 4. Advanced Management
+* [Workspace Theming, VRAM context tuning & Data Safety](/docs/settings-configuration-customization.html)
 
 ---
 
@@ -378,7 +494,6 @@ Load Files ➔ Open Interactive Resolver ➔ Run Cloud AI or Offline Suggest ➔
 ---
 
 ## Need Help?
-
 Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
 
 ---
@@ -391,43 +506,84 @@ Search the documentation pages directly or jump back to the main [Complete Docum
 
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
+[📷 Developer's Photography Portfolio: artushfoto.eu](https://artushfoto.eu)
+
 ---
 
 *ArtushVision AI - Stability and precision for professional photography workflows.*
 
-<!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
+<script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    let analyticsLoaded = false;
+document.addEventListener("DOMContentLoaded", function() {
+  var searchInput = document.getElementById('flex-search-input');
+  var resultsContainer = document.getElementById('flex-results-container');
+  var indexTitle, indexContent;
+  var documentsMap = {};
 
-    function loadAnalytics() {
-      if (analyticsLoaded) return;
-      analyticsLoaded = true;
+  if (!searchInput || !resultsContainer) return;
 
-      // 1. Dynamické vložení externího skriptu gtag.js s NOVÝM ID
-      var gtagScript = document.createElement('script');
-      gtagScript.async = true;
-      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ5';
-      document.head.appendChild(gtagScript);
+  indexTitle = new FlexSearch.Index({ tokenize: "forward", resolution: 9, depth: 1 });
+  indexContent = new FlexSearch.Index({ tokenize: "forward", resolution: 5, depth: 1 });
 
-      // 2. Inicializace nastavení Google Analytics s NOVÝM ID
-      window.dataLayer = window.dataLayer || [];
-      window.gtag = function(){ dataLayer.push(arguments); }
-      gtag('js', new Date());
-      gtag('config', 'G-KCZWMGZFJ5');
+  fetch('/search.json')
+    .then(response => response.json())
+    .then(data => {
+      data.forEach((item, index) => {
+        var id = index;
+        documentsMap[id] = { title: item.title, url: item.url };
+        indexTitle.add(id, item.title);
+        indexContent.add(id, item.content || "");
+      });
+    })
+    .catch(err => console.error("Search index compilation failed:", err));
 
-      // 3. Odstranění posluchačů událostí po úspěšném načtení
-      document.removeEventListener('scroll', loadAnalytics);
-      document.removeEventListener('mousemove', loadAnalytics);
-      document.removeEventListener('touchstart', loadAnalytics);
+  searchInput.addEventListener('input', function() {
+    var query = this.value.trim();
+    resultsContainer.innerHTML = '';
+    
+    if (query.length < 2) {
+      resultsContainer.style.display = 'none';
+      return;
     }
 
-    // Spuštění při první skutečné interakci uživatele
-    document.addEventListener('scroll', loadAnalytics, { passive: true });
-    document.addEventListener('mousemove', loadAnalytics, { passive: true });
-    document.addEventListener('touchstart', loadAnalytics, { passive: true });
+    var titleResults = indexTitle.search(query, { limit: 10 });
+    var contentResults = indexContent.search(query, { limit: 10 });
+    var scores = {};
 
-    // Pojistka: Pokud uživatel do 5 sekund nic neudělá, načíst Analytics automaticky
-    setTimeout(loadAnalytics, 5000);
+    titleResults.forEach(id => { scores[id] = (scores[id] || 0) + 10; });
+    contentResults.forEach(id => { scores[id] = (scores[id] || 0) + 1; });
+
+    var sortedIds = Object.keys(scores).sort((a, b) => scores[b] - scores[a]);
+    var finalIds = sortedIds.slice(0, 8);
+
+    if (finalIds.length > 0) {
+      finalIds.forEach(id => {
+          var doc = documentsMap[id];
+          if (!doc) return;
+          var li = document.createElement('li');
+          li.innerHTML = '<a href="' + doc.url + '">' + doc.title + '</a>';
+          resultsContainer.appendChild(li);
+        });
+        resultsContainer.style.display = 'block';
+      } else {
+        resultsContainer.innerHTML = '<div class="no-results-msg">No documentation pages found</div>';
+        resultsContainer.style.display = 'block';
+      }
   });
+
+  document.addEventListener('click', function(e) {
+    if (e.target !== searchInput && e.target !== resultsContainer) {
+      resultsContainer.style.display = 'none';
+    }
+  });
+
+  searchInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      var firstLink = resultsContainer.querySelector('li a');
+      if (firstLink) window.location.href = firstLink.href;
+    }
+  });
+});
 </script>
+# --- index.md ---
