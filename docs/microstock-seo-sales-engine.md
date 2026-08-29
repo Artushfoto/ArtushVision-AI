@@ -144,6 +144,8 @@ h1 { text-align: center; }
 </div>
 
 # Advanced Microstock SEO & Sales Intelligence Engine
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 Maximize the revenue potential and organic visibility of your visual portfolio. Our built-in SEO engine transcends basic descriptive tagging by integrating real-time market intelligence, buyer behavioral analysis, and algorithmic stock agency ranking factors directly into your keywording workflow.
 ---
 ### 🚀 Optimize for Sales: Data-Driven Commercial Power
