@@ -171,6 +171,7 @@ Official guidance highlights that search placement reflects metadata relevance a
 * **Accurate Metadata:** Detailed and precise keywords give visual assets the best opportunity to match buyer queries.
 * **Keyword Quality:** Shutterstock recommends focused, highly accurate keywords rather than inflated sets containing vague terms.
 * **Dynamic Search:** Ranking continuously adapts to reflect evolving buyer behavior and marketplace demand.
+
 *ArtushVision does not claim to know proprietary internal formulas. Instead, it models observable, actionable signals that contributors can actively optimize before upload.*
 
 ---
@@ -183,7 +184,8 @@ ArtushVision utilizes proprietary scoring and ranking models developed from mark
   ArtushVision uses a proprietary approach to keyword positioning that gives greater strategic importance to high-priority terms while maintaining meaningful supporting coverage across the complete keyword set.
 * **Intelligent SEO Sort:**
   With a single click, ArtushVision automatically prioritizes keywords based on a synthesis of semantic relevance, market demand, competition, buyer intent, and position importance—helping place your strongest terms where keyword position carries the greatest strategic importance.
-> **Built for optimization — not algorithm guessing.**  
+
+> **Built for optimization, not algorithm guessing.**  
 > ArtushVision does not attempt to reproduce proprietary agency algorithms. Instead, it turns publicly documented search principles, proprietary market intelligence, and visual-semantic analysis into practical metadata recommendations.
 
 ---
