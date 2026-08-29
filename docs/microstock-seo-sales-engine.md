@@ -237,11 +237,16 @@ Better metadata is not about adding more keywords, it is about selecting the rig
 
 ---
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu/)
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
+
 ---
+
 *ArtushVision AI — intelligent metadata optimization for professional photography workflows.*
 <!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
 <script>
