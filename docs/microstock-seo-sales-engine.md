@@ -1,6 +1,6 @@
 ---
-title: "Key Features"
-description: "Master the Getty Images ESP Controlled Vocabulary. Desktop AI Microstock Tagger with 100% Private Local AI & Getty ESP Optimizer."
+title: "Key Features - SEO & Market Intelligence"
+description: "Advanced Microstock SEO and Market Intelligence with AI-powered keyword relevance, demand analysis, competition insights, and intelligent keyword positioning."
 ---
 <div style="display: none;">
 <style>
@@ -143,139 +143,125 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Advanced Microstock SEO & Sales Intelligence Engine
-Maximize the revenue potential and organic visibility of your visual portfolio. Our built-in SEO engine transcends basic descriptive tagging by integrating real-time market intelligence, buyer behavioral analysis, and algorithmic stock agency ranking factors directly into your keywording workflow.
+# Advanced Microstock SEO & Market Intelligence
+Optimize your metadata for relevance, search visibility, and commercial opportunity.
+ArtushVision goes beyond basic image description. It combines visual-semantic analysis, keyword relevance, market demand, competition, search trends, and intelligent keyword-position modeling to help you build metadata that is accurate, focused, and commercially informed.
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu/)
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+---
 
-## How Leading Stock Agencies Rank Keywords & How ArtushVision Models SEO
-
-Search algorithms across major stock agencies evaluate metadata through different mechanisms, but they share a core principle: **relevance, precision, and strategic keyword placement influence asset discoverability.**
+## How Leading Stock Agencies Handle Keywords — and How ArtushVision Models SEO
+Search systems across major stock agencies use different algorithms and ranking signals. While their internal ranking mechanics are proprietary, their published guidelines consistently highlight core principles: accurate metadata, relevance, keyword quality, and strategic positioning all matter.
 
 ---
 
 ### 1. Adobe Stock: The Proven Importance of the TOP 10
-* **Position Weighting Matters:** Adobe Stock explicitly confirms that **the first 10 keywords carry the most weight** in search results.
-* **Thematic Anchor:** The opening keywords form the primary descriptive context for your asset. Placing the most relevant and commercially valuable terms toward the top helps maximize their search relevance.
+Adobe Stock explicitly confirms that **the first 10 keywords carry the most weight in search results** and recommends placing the most important and relevant terms in those positions.
+* **Position Matters:** The first 10 keyword positions carry the greatest weight in Adobe Stock search results.
+* **Relevance Comes First:** Adobe recommends arranging keywords in strict order of descriptive importance.
+* **Quality Over Quantity:** Current Adobe guidance indicates that 15–35 relevant keywords can often be sufficient, making relevance and keyword quality more important than filling every available slot.
+*ArtushVision applies this principle directly to its SEO sorting and positioning engine.*
 
 ---
 
-### 2. Shutterstock: Multi-Signal Search Architecture (Best Match)
-* **Complex Ranking Signals:** Shutterstock's *Best Match* search uses multiple signals when determining search-result order, including metadata relevance and popularity-related signals such as downloads.
-* **Relevance First:** Clear, accurate, and specific keywords help Shutterstock match content with relevant buyer searches. Descriptive multi-word phrases can also provide useful specificity when they accurately describe the asset and reflect genuine search intent.
+### 2. Shutterstock: Multi-Signal Search Architecture
+Shutterstock’s *Best Match* search operates as a multi-signal system that evaluates a broad set of ranking factors alongside metadata.
+Official guidance highlights that search placement reflects metadata relevance as well as performance signals, including customer demand, download activity, seasonality, and overall keyword quality.
+* **Accurate Metadata:** Detailed and precise keywords give visual assets the best opportunity to match buyer queries.
+* **Keyword Quality:** Shutterstock recommends focused, highly accurate keywords rather than inflated sets containing vague terms.
+* **Dynamic Search:** Ranking continuously adapts to reflect evolving buyer behavior and marketplace demand.
+*ArtushVision does not claim to know proprietary internal formulas. Instead, it models observable, actionable signals that contributors can actively optimize before upload.*
 
 ---
 
-### 🎯 How the ArtushVision SEO Engine Calculates Quality
-
-ArtushVision translates documented agency behavior and large-scale stock-market data into an actionable, data-driven analytical model:
-
-* **Smooth Position Decay:**
-  Rather than using an arbitrary cutoff, ArtushVision applies a gradual position-decay curve across the entire keyword set. Keywords near the beginning receive substantially more weight than supporting terms further down the list.
-* **The 85 / 15 Weighting Model:**
-  Our engine calibrates this curve so that **the TOP 10 keywords contribute approximately 85% of the overall Keyword Quality Score**, while the remaining keywords provide supporting coverage.
+### 🎯 How the ArtushVision SEO Engine Models Quality
+ArtushVision utilizes proprietary scoring and ranking models developed from market intelligence, semantic analysis, and observed search behavior.
+* **Intelligent Position Weighting:**
+  Keywords are evaluated not only by their individual relevance and commercial strength, but also by their position within the metadata set. High-priority terms placed near the beginning carry greater influence in the overall assessment, while later tags provide supporting thematic coverage.
+* **Proprietary Position-Weighting Architecture:**
+  ArtushVision uses a proprietary approach to keyword positioning that gives greater strategic importance to high-priority terms while maintaining meaningful supporting coverage across the complete keyword set.
 * **Intelligent SEO Sort:**
-  High-demand, commercially valuable terms are prioritized toward the top of your metadata, helping maximize the opportunity for relevant search exposure while preserving semantic accuracy and avoiding keyword stuffing.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-### 🚀 Optimize for Sales: Data-Driven Commercial Power
-Traditional keywording describes what is in the image; our **Sales Intelligence Engine** optimizes for what customers actually buy. By analyzing market supply vs. commercial demand, it transforms passive metadata into an active sales driver:
-* **Keywords Quality Score (Algorithmic Strength):** 
-  Every keyword receives an intelligent conversion rating based on buyer intent, search volume, and market saturation. Easily identify and eliminate weak, overused, or irrelevant filler tags that dilute your metadata, concentrating algorithmic weight exclusively on high-performing terms.
-  
-* **Market Potential & Demand Evaluation:** 
-  Assess the commercial viability and revenue opportunities of your visual assets before submission. The engine benchmarks your subject matter against current purchasing patterns across top agencies (Shutterstock, Adobe Stock, Getty/iStock, Freepik), highlighting profitable niches.
-* **New Commercial Phrases & Long-Tail Targets:** 
-  Break through crowded single-word search results. The engine generates high-converting, multi-word commercial search phrases (e.g., *"authentic senior remote working from home"* instead of generic *"work, home, laptop"*), targeting ready-to-buy art directors, designers, and marketers.
-* **Missing Keywords & Attribute Detection:** 
-  Never miss a sale due to an omitted tag. The AI scans your visual composition and cross-references it against top-selling benchmark sets to detect missing essential attributes—such as lighting style, demographic details, conceptual themes, copy-space presence, or specific orientation.
-* **Smart SEO Expand (Context-Aware Enrichment):** 
-  Enrich your tag set with one click. Smart SEO Expand intelligently branches out into related conceptual, metaphorical, and emotional descriptors while preserving strict thematic relevance—ensuring comprehensive discoverability without triggering spam penalties.
-* **Actionable Quick Wins:** 
-  Get instant, prioritized suggestions that deliver the highest ROI on your ranking position. Quick Wins highlight simple, zero-effort adjustments—like swapping weak synonyms or reordering high-priority tags—for immediate visibility gains.
----
-### 💡 Real Buyer-Intent Autocomplete in Synonyms Window
-Stop guessing how buyers formulate their search queries. The interactive **Synonyms & Tag Inspector** comes equipped with real-time **Buyer-Intent Autocomplete**:
-* **Real-World Query Suggestions:** 
-  As you type or inspect a term, the engine pulls real-time search queries directly reflecting what agency buyers and creative directors are typing into stock search bars at this very moment.
-* **Commercial Synonyms & Alternates:** 
-  Instantly discover high-traffic commercial equivalents and industry-standard terminology for everyday words, boosting your chances of ranking across diverse customer segments.
-* **Frictionless, One-Click Replacement:** 
-  Effortlessly replace, split, or append terms with zero context switching. Fine-tune complex keywording sets in seconds with intelligent suggestion pills and instant preview.
----
-### 🔄 Daily Database Updates: Always Ahead of the Algorithm
-Microstock search algorithms, consumer trends, and commercial vocabulary evolve constantly. What worked six months ago might be saturated today.
-* **Daily Cloud Trend Synchronization:** 
-  Our internal keyword database is continuously refreshed every 24 hours with new search data, seasonal demand spikes, emerging tech terminology, and shifting buyer preferences.
-  
-* **Zero Stale Metadata:** 
-  Ensure your uploads always reflect the current market landscape. Take advantage of early trend adoption (e.g., new tech, lifestyle shifts, seasonal campaigns) before the marketplace becomes overcrowded.
+  With a single click, ArtushVision automatically prioritizes keywords based on a synthesis of semantic relevance, market demand, competition, buyer intent, and position importance—helping place your strongest terms where keyword position carries the greatest strategic importance.
+> **Built for optimization — not algorithm guessing.**  
+> ArtushVision does not attempt to reproduce proprietary agency algorithms. Instead, it turns publicly documented search principles, proprietary market intelligence, and visual-semantic analysis into practical metadata recommendations.
 
 ---
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+### 🚀 Optimize for Commercial Opportunity
+Traditional keywording focuses primarily on describing what is visible in an image. ArtushVision adds another dimension: *What is commercially relevant, what is actively searched for, and where are the marketplace opportunities?*
+* **Keyword Quality Score:**
+  Every keyword receives a data-driven quality assessment based on semantic relevance, buyer intent, search demand, market competition, and commercial opportunity. This helps identify weak, generic, or low-value terms so you can focus on high-impact candidates.
+* **Market Potential & Demand Evaluation:**
+  Evaluate the commercial potential of your visual content before submission. ArtushVision benchmarks your subject matter against market intelligence from major stock ecosystems, including **Shutterstock · Adobe Stock · Getty/iStock · Freepik**, providing a clearer picture of demand and competition levels.
+* **Commercial Phrases & Long-Tail Opportunities:**
+  Generic single-word keywords often describe an image without fully expressing the commercial concept behind it. ArtushVision identifies specific, commercially relevant multi-word phrases that more precisely represent the subject and intended use of an image.  
+  *For example: `authentic senior remote working from home` instead of relying solely on `work · home · laptop`.*
+* **Missing Keywords & Attribute Detection:**
+  Never overlook an essential searchable attribute. ArtushVision scans visual content to identify potentially missing elements—such as lighting style, demographic details, activities, conceptual themes, environment, copy-space, and composition. Only strictly relevant attributes are suggested, preserving metadata integrity.
+* **GAP Keywords Analysis:**
+  ArtushVision analyzes your current metadata against proprietary market intelligence to uncover relevant concepts that are missing or underrepresented in your existing tags.
+* **Smart SEO Expand:**
+  Expand your keyword set intelligently with one click. Smart SEO Expand explores related conceptual terms, contextual associations, and semantic alternatives while maintaining strict thematic relevance to the original visual concept.
+* **Actionable Quick Wins:**
+  High-impact, prioritized suggestions that deliver immediate improvements—such as promoting a strong keyword, swapping a weak synonym, or adding a missing commercial anchor.
 
+---
+
+### 💡 Buyer-Intent Autocomplete
+*Search terminology derived from real marketplace data.*
+The interactive Synonyms & Tag Inspector includes Buyer-Intent Autocomplete designed to surface commercially relevant search terminology derived from real marketplace data.
+* **Real-World Query Suggestions:**
+  As you inspect or enter a keyword, ArtushVision surfaces relevant search-query patterns directly from its market database.
+* **Commercial Synonyms & Alternatives:**
+  Discover commercially relevant equivalents and industry-standard terminology to broaden your reach without introducing unrelated keywords.
+* **One-Click Replacement:**
+  Replace, split, or append terms seamlessly within the inspector interface with zero context switching.
+
+---
+
+### 🔄 Continuously Updated Market Intelligence
+Stock marketplaces evolve continuously. Search demand fluctuates, seasonal trends shift, and vocabulary changes over time. ArtushVision refreshes its market intelligence so recommendations stay aligned with current commercial conditions.
+* **Fresh Demand & Trend Signals:**
+  Regularly refreshed with emerging terminology, seasonal patterns, trend movements, and shifting marketplace demand.
+* **Early Opportunity Detection:**
+  Identify growing topics and emerging vocabulary before niches become overly saturated.
+
+---
+
+### 🎯 The Workflow
+Better metadata is not about adding more keywords, it is about selecting the right concepts, placing them in the right order, and understanding their commercial context.
+`Visual AI · Semantic Relevance · Market Intelligence · Keyword Quality · Position Intelligence → Intelligent SEO Sort`
+
+---
+
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu/)
 [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
-
 [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
-
 [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
-
 ---
-
-*ArtushVision AI - Stability and precision for professional photography workflows.*
-
+*ArtushVision AI — intelligent metadata optimization for professional photography workflows.*
 <!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     let analyticsLoaded = false;
-
     function loadAnalytics() {
       if (analyticsLoaded) return;
       analyticsLoaded = true;
-
-      // 1. Dynamické vložení externího skriptu gtag.js s NOVÝM ID
       var gtagScript = document.createElement('script');
       gtagScript.async = true;
       gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ5';
       document.head.appendChild(gtagScript);
-
-      // 2. Inicializace nastavení Google Analytics s NOVÝM ID
       window.dataLayer = window.dataLayer || [];
       window.gtag = function(){ dataLayer.push(arguments); }
       gtag('js', new Date());
       gtag('config', 'G-KCZWMGZFJ5');
-
-      // 3. Odstranění posluchačů událostí po úspěšném načtení
       document.removeEventListener('scroll', loadAnalytics);
       document.removeEventListener('mousemove', loadAnalytics);
       document.removeEventListener('touchstart', loadAnalytics);
     }
-
-    // Spuštění při první skutečné interakci uživatele
     document.addEventListener('scroll', loadAnalytics, { passive: true });
     document.addEventListener('mousemove', loadAnalytics, { passive: true });
     document.addEventListener('touchstart', loadAnalytics, { passive: true });
-
-    // Pojistka: Pokud uživatel do 5 sekund nic neudělá, načíst Analytics automaticky
     setTimeout(loadAnalytics, 5000);
   });
 </script>
