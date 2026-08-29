@@ -148,6 +148,53 @@ Maximize the revenue potential and organic visibility of your visual portfolio. 
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+## How Leading Stock Agencies Rank Keywords & How ArtushVision Models SEO
+
+Search algorithms across major stock agencies evaluate metadata through different mechanisms, but they share a core principle: **relevance, precision, and strategic keyword placement influence asset discoverability.**
+
+---
+
+### 1. Adobe Stock: The Proven Importance of the TOP 10
+* **Position Weighting Matters:** Adobe Stock explicitly confirms that **the first 10 keywords carry the most weight** in search results.
+* **Thematic Anchor:** The opening keywords form the primary descriptive context for your asset. Placing the most relevant and commercially valuable terms toward the top helps maximize their search relevance.
+
+---
+
+### 2. Shutterstock: Multi-Signal Search Architecture (Best Match)
+* **Complex Ranking Signals:** Shutterstock's *Best Match* search uses multiple signals when determining search-result order, including metadata relevance and popularity-related signals such as downloads.
+* **Relevance First:** Clear, accurate, and specific keywords help Shutterstock match content with relevant buyer searches. Descriptive multi-word phrases can also provide useful specificity when they accurately describe the asset and reflect genuine search intent.
+
+---
+
+### 🎯 How the ArtushVision SEO Engine Calculates Quality
+
+ArtushVision translates documented agency behavior and large-scale stock-market data into an actionable, data-driven analytical model:
+
+* **Smooth Position Decay:**
+  Rather than using an arbitrary cutoff, ArtushVision applies a gradual position-decay curve across the entire keyword set. Keywords near the beginning receive substantially more weight than supporting terms further down the list.
+* **The 85 / 15 Weighting Model:**
+  Our engine calibrates this curve so that **the TOP 10 keywords contribute approximately 85% of the overall Keyword Quality Score**, while the remaining keywords provide supporting coverage.
+* **Intelligent SEO Sort:**
+  High-demand, commercially valuable terms are prioritized toward the top of your metadata, helping maximize the opportunity for relevant search exposure while preserving semantic accuracy and avoiding keyword stuffing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ### 🚀 Optimize for Sales: Data-Driven Commercial Power
 Traditional keywording describes what is in the image; our **Sales Intelligence Engine** optimizes for what customers actually buy. By analyzing market supply vs. commercial demand, it transforms passive metadata into an active sales driver:
@@ -169,7 +216,6 @@ Traditional keywording describes what is in the image; our **Sales Intelligence 
 Stop guessing how buyers formulate their search queries. The interactive **Synonyms & Tag Inspector** comes equipped with real-time **Buyer-Intent Autocomplete**:
 * **Real-World Query Suggestions:** 
   As you type or inspect a term, the engine pulls real-time search queries directly reflecting what agency buyers and creative directors are typing into stock search bars at this very moment.
-  
 * **Commercial Synonyms & Alternates:** 
   Instantly discover high-traffic commercial equivalents and industry-standard terminology for everyday words, boosting your chances of ranking across diverse customer segments.
 * **Frictionless, One-Click Replacement:** 
