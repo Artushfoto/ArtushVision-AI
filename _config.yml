@@ -15,6 +15,7 @@ highlighter: rouge
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Soubory a složky, které má kompilátor ignorovat
 exclude:
