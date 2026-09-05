@@ -143,7 +143,7 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# Advanced Microstock SEO & Market Intelligence
+# Advanced market intelligence for stock photographers.
 Optimize your metadata for relevance, search visibility, and commercial opportunity.
 ArtushVision goes beyond basic image description. It combines visual-semantic analysis, keyword relevance, market demand, competition, search trends, and intelligent keyword-position modeling to help you build metadata that is accurate, focused, and commercially informed.
 
