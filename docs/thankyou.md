@@ -141,7 +141,7 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# ArtushVision AI License Thank You for purchase
+# Thank You for purchase
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
