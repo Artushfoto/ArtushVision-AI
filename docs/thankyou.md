@@ -1,5 +1,5 @@
 ---
-title: "License Management & Activation Guide"
+title: "Thank You for Purchasing"
 description: "Manage your ArtushVision AI license easily. Activate your AI photography software on up to 2 devices, handle deactivations via Polar.sh, and access professional metadata tools."
 ---
 <div style="display: none;">
