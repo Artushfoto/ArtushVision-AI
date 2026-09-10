@@ -13,11 +13,25 @@ description: "See what professional photographers, stock contributors, and creat
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "reviewCount": "6",
+    "reviewCount": "7",
     "bestRating": "5",
     "worstRating": "1"
   },
   "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Miro Vrlik"
+      },
+      "datePublished": "2026-09-08",
+      "reviewBody": "This is a really great software, especially when we talk about the price because I think it's really fantastic price... It's really a very fast and well organized workflow for stock photography and video footage, allowing you to easily upload to multiple agencies via FTP.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      }
+    },
     {
       "@type": "Review",
       "author": {
@@ -203,6 +217,18 @@ h1 { text-align: center; }
 ## 📝 Featured Editorial & Blog Reviews
 
 <div class="review-container">
+
+  <!-- Review Card Video - Miro Vrlik - September 8, 2026 -->
+  <article class="review-card">
+    <div class="review-header">
+      <div class="reviewer-info">
+        <h3>Miro Vrlik</h3>
+        <p class="reviewer-role">Professional Stock Photographer & YouTuber • September 8, 2026</p>
+      </div>
+    </div>
+    <blockquote class="review-quote">"This is a really great software, especially when we talk about the price because I think it's really fantastic price... It's really a very fast and well organized workflow for stock photography and video footage, allowing you to easily upload to multiple agencies via FTP."</blockquote>
+    <a href="https://www.youtube.com/watch?v=LuN7SxXDOCg" target="_blank" rel="noopener noreferrer" class="review-link" title="Watch Miro Vrlik's video review">Watch Video Review on YouTube &rarr;</a>
+  </article>
 
   <!-- Review Card New - July 24, 2026 -->
   <article class="review-card">
