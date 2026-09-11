@@ -8,7 +8,24 @@
     <meta name="application-name" content="ArtushVision AI">
     <meta name="apple-mobile-web-app-title" content="ArtushVision AI">
 
-    {% seo %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "@id": "https://vision.artushfoto.eu/#website",
+      "name": "ArtushVision AI",
+      "url": "https://vision.artushfoto.eu/",
+      "inLanguage": "en-US",
+      "publisher": {
+        "@type": "Organization",
+        "name": "ArtushVision AI",
+        "url": "https://vision.artushfoto.eu/"
+      }
+    }
+    </script>
+
+    {% seo title=false %}
+    <title>{{ page.title | default: site.title }} | ArtushVision AI</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
     <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
