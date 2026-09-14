@@ -1,3 +1,4 @@
+# --- default.html ---
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en" }}">
   <head>
@@ -5,27 +6,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Primární signály pro Google Site Names -->
     <meta name="application-name" content="ArtushVision AI">
     <meta name="apple-mobile-web-app-title" content="ArtushVision AI">
+    <meta property="og:site_name" content="ArtushVision AI">
 
+    <!-- Schema WebSite POUZE pro hlavní stránku -->
+    {% if page.url == "/" or page.url == "/index.html" %}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "@id": "https://vision.artushfoto.eu/#website",
       "name": "ArtushVision AI",
-      "url": "https://vision.artushfoto.eu/",
-      "inLanguage": "en-US",
-      "publisher": {
-        "@type": "Organization",
-        "name": "ArtushVision AI",
-        "url": "https://vision.artushfoto.eu/"
-      }
+      "alternateName": ["ArtushVision", "vision.artushfoto.eu"],
+      "url": "https://vision.artushfoto.eu/"
     }
     </script>
+    {% endif %}
 
     {% seo title=false %}
-    <title>{{ page.title | default: site.title }} | ArtushVision AI</title>
+
+    <!-- Ochrana proti ztrojování názvu v titulku -->
+    {% if page.url == "/" or page.url == "/index.html" %}
+      <title>{{ page.title }}</title>
+    {% else %}
+      <title>{{ page.title | default: site.title }} | ArtushVision AI</title>
+    {% endif %}
 
     <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
     <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
@@ -47,3 +53,4 @@
     </div>
   </body>
 </html>
+# --- default.html ---
