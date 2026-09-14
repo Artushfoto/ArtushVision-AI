@@ -27,4 +27,11 @@ exclude:
 
 # Nastavení Google Analytics
 google_analytics: "G-KCZWMGZFJ5"
+
+# Automatické přiřazení šablony default.html pro všechny stránky
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 # --- _config.yml ---
