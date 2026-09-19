@@ -133,9 +133,9 @@ h1 { text-align: center; }
 
 # Advanced SEO & Market Intelligence for Stock Photography
 
-### Transform visual content into commercially focused, search-ready metadata — combining visual AI, market intelligence, and verified real-world context.
-Most keywording tools simply generate basic descriptions of what appears in an image. But in competitive microstock marketplaces, descriptive tags alone are not enough. Buyers search with specific commercial intent, and stock agencies rank files based on relevance, keyword order, and search demand.
-**ArtushVision AI** goes beyond generic tagging. It connects image analysis with real marketplace search patterns, strategic keyword positioning, and ground-truth verification — helping you create metadata that is accurate, commercially targeted, and built to convert.
+### Transform visual content into commercially focused, search-ready metadata combining visual AI, market intelligence, and verified real-world context.
+Many keywording tools focus primarily on describing what appears in an image. But in competitive microstock marketplaces, descriptive tags alone are not enough. Buyers search with specific commercial intent, and stock agencies rank files based on relevance, keyword order, and search demand.
+**ArtushVision AI** goes beyond generic tagging. It connects image analysis with marketplace search intelligence, strategic keyword positioning, and ground-truth verification helping you create metadata that is accurate, commercially targeted, and optimized for discoverability and buyer intent.
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu/)
 
@@ -152,7 +152,7 @@ Most keywording tools simply generate basic descriptions of what appears in an i
 
 ## 🎯 Selling Score
 
-### Clear, objective feedback on your metadata's commercial strength.
+### Clear, consistent feedback on your metadata's commercial strength.
 Instead of vague confidence percentages or black-box guesswork, ArtushVision evaluates your keyword set with a consolidated **Selling Score**.
 * **Comprehensive Quality Assessment:** Analyzes keyword relevance, search demand, intent strength, and metadata coverage in a single metric.
 * **Redundancy & Overlap Detection:** Automatically highlights redundant terms when stronger, more specific phrases are already present.
@@ -164,7 +164,8 @@ Instead of vague confidence percentages or black-box guesswork, ArtushVision eva
 ## ⚡ Intelligent SEO Sort & Strategic Positioning
 
 ### Place your highest-impact keywords where search algorithms look first.
-Search systems on major stock platforms (including Adobe Stock and Shutterstock) place significant importance on **keyword order** and early positions. ArtushVision is architected around this fundamental principle.
+**Keyword order** can influence how metadata is interpreted and ranked on major stock platforms, making early positions especially valuable.. ArtushVision is architected around this fundamental principle.
+
 * **1-Click Priority Placement (`Ctrl+Shift+S`):** Automatically reorders keywords so that core descriptive anchors and high-converting commercial phrases are placed at the front.
 * **Generic Keyword Management:** Prevents overly broad words (like *background*, *nature*, or *concept*) from occupying critical early positions, keeping your strongest terms prioritized.
 * **Visual Top-Position Dividers:** The interactive tag editor includes dedicated visual breaks after key positions, allowing you to instantly review your high-priority keywords at a glance.
@@ -200,7 +201,8 @@ Single generic words compete with millions of existing files. Real commercial bu
 
 ### Surface emerging vocabulary and seasonal search interest.
 Market demand on stock agencies is dynamic. Search terminology evolves, seasonal concepts cycle, and cultural shifts create fresh buyer interest.
-* **Emerging Search Trends:** Surfaces newly trending commercial phrases and search queries across stock agencies before niches become oversaturated.
+
+* **Emerging Search Trends:** Helps you identify emerging terminology while buyer interest is developing.
 * **Early Commercial Positioning:** Helps you index fresh content using modern, in-demand vocabulary while buyer interest is growing.
 * **Image-Specific Filtering:** Newly discovered phrases are filtered against your photo's visual context, preventing unrelated trend tags from polluting your metadata.
 
@@ -208,8 +210,8 @@ Market demand on stock agencies is dynamic. Search terminology evolves, seasonal
 
 ## 🌍 Ground-Truth Verification: Geo & Taxonomic Intelligence
 
-### Prevent embarrassing rejections and preserve absolute metadata credibility.
-Stock agencies strictly penalize misleading locations and inaccurate species descriptions. ArtushVision protects your portfolio with dual verification engines before you submit.
+### Prevent metadata errors and preserve geographic and biological accuracy..
+Incorrect locations and species information can reduce metadata quality and may cause submission or discoverability issues. ArtushVision protects your portfolio with dual verification engines before you submit.
 
 ### 📍 Geographic Verification
 * **GPS-Assisted Validation:** Reads camera GPS coordinates directly from EXIF metadata to verify countries, regions, cities, and landmarks.
@@ -228,19 +230,21 @@ Stock agencies strictly penalize misleading locations and inaccurate species des
 ## 💡 Synonyms Inspector & Buyer-Intent Autocomplete
 
 ### Interactive fine-tuning for individual keywords.
-Double-click or inspect any tag to open the comprehensive **Synonyms & Tag Inspector**:
+Inspect any tag to open the comprehensive **Synonyms & Tag Inspector**:
+
 * **Buyer-Intent Autocomplete:** As you type or inspect a term, instantly explore related commercial search queries based on real marketplace patterns.
 * **Related Top Tags:** Discover the most frequent co-occurring tags associated with successful imagery in that subject area.
 * **Smart Add & Smart Swap:** Quickly replace weak or generic synonyms with market-proven commercial expressions.
 * **Built-in Definitions & Translation:** Instant dictionary lookups and live hover translations into your native language.
-* **Custom User Dictionary:** Easily save your specialized terminology, regional landmarks, or proprietary brand terms with one click.
+* **Custom User Dictionary**: Easily save specialized terminology, regional landmarks, scientific names, or personal keywords with one click.
 
 ---
 
 ## 🚀 Smart SEO Expand (`Ctrl+Shift+E`)
 
-### Intelligently scale compact keyword sets to optimal commercial density.
+### Intelligently scale compact keyword sets to strong commercial coverage.
 When you have a focused set of keywords but want to expand coverage without manual research, **Smart SEO Expand** does the work in seconds:
+
 * **Automated Candidate Selection:** Intelligently combines semantic queries, gap concepts, and market discovery terms to expand your list up to the recommended commercial range.
 * **Interactive Selection Dialog:** Review candidate tags, toggle selections with 1-click inverted controls, or load additional ideas dynamically.
 * **Deduplication & Quality Safeguards:** Automatically strips duplicate concepts, weak variants, and low-relevance noise.
@@ -258,6 +262,7 @@ Metadata optimization shouldn't be guesswork. Every tag is assigned an intuitive
 | **🏷️ SUPPLEMENTARY** | Accurate supporting tag providing broad thematic coverage. |
 | **⚠️ WARNING** | Generic or low-value word that may dilute metadata impact. |
 | **❌ AVOID** | Contradictory species, geographic mismatch, or redundant term. |
+
 * **1-Click Batch Clean-Up:** Remove all flagged conflicting or low-value tags in a single click with **`Remove ❌`**.
 * **Quick Wins Diagnostic Panel:** Real-time actionable recommendations highlight instant improvements before submission.
 * **Topic-Safe Isolation:** Isolates conceptual categories (wildlife, people, architecture, food) to prevent cross-topic keyword contamination.
