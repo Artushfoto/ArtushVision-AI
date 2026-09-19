@@ -154,9 +154,10 @@ Many keywording tools focus primarily on describing what appears in an image. Bu
 
 ### Clear, consistent feedback on your metadata's commercial strength.
 Instead of vague confidence percentages or black-box guesswork, ArtushVision evaluates your keyword set with a consolidated **Selling Score**.
+
 * **Comprehensive Quality Assessment:** Analyzes keyword relevance, search demand, intent strength, and metadata coverage in a single metric.
 * **Redundancy & Overlap Detection:** Automatically highlights redundant terms when stronger, more specific phrases are already present.
-* **Metadata Balance Optimization:** Guides you toward the microstock sweet spot — ensuring comprehensive coverage without diluting your file with keyword spam.
+* **Metadata Balance Optimization:** Guides you toward the microstock sweet spot and ensuring comprehensive coverage without diluting your file with keyword spam.
 * **Commercial Potential Feedback:** Provides immediate visibility into whether your subject matter targets high-demand commercial concepts or competitive niches.
 
 ---
@@ -168,7 +169,7 @@ Instead of vague confidence percentages or black-box guesswork, ArtushVision eva
 
 * **1-Click Priority Placement (`Ctrl+Shift+S`):** Automatically reorders keywords so that core descriptive anchors and high-converting commercial phrases are placed at the front.
 * **Generic Keyword Management:** Prevents overly broad words (like *background*, *nature*, or *concept*) from occupying critical early positions, keeping your strongest terms prioritized.
-* **Visual Top-Position Dividers:** The interactive tag editor includes dedicated visual breaks after key positions, allowing you to instantly review your high-priority keywords at a glance.
+* **Visual Dividers (TOP 10 Strongest & 35 Optimal):** In the Sales & Trends editor window, keywords are visually organized with dedicated spacing breaks after the **10th** and **35th** positions. This provides instant visual clarity over your **TOP 10 strongest keywords** (crucial for high-weight search placement) and clearly demarcates the **35-keyword optimal count** sweet spot to prevent metadata dilution.
 * **Safe Optimization:** The sorting engine preserves your keyword integrity while systematically maximizing search prominence.
 
 ---
