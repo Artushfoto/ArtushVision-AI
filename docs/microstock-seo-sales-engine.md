@@ -256,6 +256,7 @@ When you have a focused set of keywords but want to expand coverage without manu
 
 ### Clear, transparent categorization for every single tag.
 Metadata optimization shouldn't be guesswork. Every tag is assigned an intuitive, color-coded verdict:
+
 | Verdict | Meaning & Recommended Action |
 | :--- | :--- |
 | **🔥 MUST USE** | Core anchor term or high-demand commercial phrase. Priority for top positions. |
