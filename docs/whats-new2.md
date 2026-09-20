@@ -143,154 +143,250 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# What's New in ArtushVision AI (v1.20)
+# What's New in ArtushVision AI v1.20
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 [Frequently Asked Questions (FAQ)](/docs/faq.html)
 
-**Welcome to the official release notes hub for ArtushVision AI. Update 1.20 marks a monumental leap forward: transforming ArtushVision AI from an intelligent metadata tagger into a comprehensive Commercial Market Intelligence and Strategic SEO Suite engineered exclusively for professional stock photographers and videographers.**
+Version 1.20 introduces a major expansion of ArtushVision AI: **Market Intelligence and advanced SEO tools for professional stock photographers and videographers.**
+
+ArtushVision AI now combines visual relevance, market data, buyer-oriented search patterns, geographic verification, and taxonomy intelligence in a single metadata workflow.
 
 ---
 
-## Advanced SEO & Market Intelligence for Stock Photography
+## New in Version 1.20
 
-In version 1.20, keywording is no longer a guessing game. By coupling visual neural networks with our 340,000+ stock keyword market database (featuring real monthly search volumes and live competition numbers from Shutterstock and Adobe Stock), ArtushVision AI ensures your assets rank at the top of agency search engines where buyers actually spend money.
+### Market Intelligence
 
-### The Three Pillars of ArtushVision Intelligence
-Every keyword recommendation and score calculation is governed by three symbiotic dimensions:
-1. **Visual & Semantic Ground-Truth:** Deep 768-dimensional BGE vector embeddings ensure that every suggested term directly correlates with the physical contents of your image or video.
-2. **Real Market Demand & Search Volume:** Powered by real search counts and commercial query frequencies from major microstock agencies rather than arbitrary language model guesses.
-3. **Buyer & Transactional Intent:** Prioritizes terms buyers actually type when ready to license (commercial phrases, conceptual business hooks, specific subjects) over low-converting descriptive fluff.
+ArtushVision AI now goes beyond generating visually relevant keywords.
 
-### Selling Score (10–99 Commercial Rating Engine)
-ArtushVision AI now computes a unified, scientifically grounded **Selling Score** for every image and video:
-* **Holistic Quality Evaluation:** Blends top-ranking commercial keywords, keyword density balance, query simulation curves, and title/description synergy.
-* **Real-Time Dynamic Thumbnail Badges:** Color-coded badges right on your grid thumbnails instantly highlight the commercial readiness of hundreds of assets at a glance without having to open them individually.
-* **Over-Optimization & Dilution Protection:** Penalizes keyword stuffing, redundant substrings, and keyword counts outside the sweet spot (25–35 terms).
+**Market Intelligence** adds market context to the keyword optimization workflow, helping contributors identify relevant opportunities based on available stock-market data.
 
-### Intelligent SEO Sort & Strategic Positioning
-Search engines on Adobe Stock and Shutterstock assign significantly greater algorithmic weight to your **first 10 to 15 keywords**:
-* **Verdict Tier Clustering:** With one click (`⚡ SEO Sort` or `Ctrl+Shift+S`), high-converting **🔥 MUST USE** phrases and **✅ RECOMMENDED** terms are automatically elevated to primary ranking positions.
-* **Automated Generic Cap:** Enforces a strict ceiling (maximum 3 generic core tags in the top 15 slots), preventing broad words like *nature*, *background*, or *animal* from displacing high-value long-tail phrases.
+It provides additional insight into:
 
-### Bestseller GAP Analysis
-Find out what top-earning portfolios have that you are missing:
-* **Competitive Intelligence:** Cross-references your image against top-performing bestselling assets in the same commercial niche.
-* **Missing High-Yield Tags:** Identifies high-converting keywords frequently used by bestsellers that are completely absent from your metadata.
-* **1-Click Insertion:** Add individual missing keywords or the entire missing gap set with a single click.
+* keyword demand and market supply,
+* commercial search patterns,
+* missing opportunities in existing metadata,
+* relevant multi-word search phrases,
+* and emerging or less saturated keyword candidates.
 
-### Commercial Phrases Engine
-Single words are saturated; multi-word commercial phrases make sales:
-* **High-Converting Buyer Phrases:** Mines multi-word search queries (*"isolated on white"*, *"copy space"*, *"aerial view"*, *"wildlife in nature"*) directly from successful stock assets.
-* **Topic-Noun Compatibility Filter:** Prevents mismatched modifier combinations while keeping multi-word phrases natural and commercially targeted.
+The feature is designed to **support metadata decisions**, not to predict or guarantee sales or search rankings.
 
-### Market Discovery (Satellite Resolver)
-Tap into high-demand keywords before the rest of the market catches up:
-* **Untapped Microstock Niches:** Leverages vector cosine similarity over emerging buyer search queries to highlight high-demand, low-competition tags.
-* **Early Trend Capitalization:** Pinpoints trending search trends before they become oversaturated with millions of competitor files.
+---
 
-### Ground-Truth Verification: Geo & Taxonomic Intelligence
-Say goodbye to buyer complaints, agency rejections, and AI hallucinations:
-* **Deterministic GPS Geocoding:** Reads EXIF coordinates and validates geographical keywords against an integrated offline reverse-geocoder (OpenStreetMap / ArcGIS). Completely prevents country hallucinations (e.g. tagging *Portugal* on a photo captured in *Prague*).
-* **Biological Taxonomy & Species Conflict Guard:** Understands hypernym hierarchies (knowing an *Anhinga* is an *avian/water bird/wildlife*), while strictly rejecting conflicting species (preventing *falcon* or *hawk* from polluting an eagle image).
-* **CLIP People Verification:** Neural detection verifies human presence. Empty landscapes safely retain the commercially lucrative tag *"no people"* while permanently blocking erroneous human tags (*portrait, man, crowd*).
+### Bestseller GAP
 
-### Synonyms Inspector & Buyer-Intent Autocomplete
-* **Stock Autocomplete Suggestions:** Type or inspect any keyword to see real-time buyer autocompletions straight from microstock search bars.
-* **Contextual Replacements & Definitions:** Inspect word definitions, explore high-yield synonyms, and perform 1-click swaps or additions.
-* **Instant Multi-Language Translation:** Seamlessly translates tags across 20+ languages so international contributors can keyword with native confidence.
+**Bestseller GAP** identifies relevant keywords that are commonly associated with comparable successful stock content but are missing from the current metadata.
+
+This makes it easier to discover potentially useful additions without replacing the contributor's own judgment.
+
+You can:
+
+* inspect individual missing keywords,
+* review their relevance and market context,
+* and add selected terms directly to your metadata.
+
+---
+
+### Commercial Phrases
+
+Stock buyers often search for specific combinations of words rather than isolated terms.
+
+The new **Commercial Phrases** engine identifies relevant multi-word search phrases and separates them from ordinary descriptive vocabulary.
+
+Examples can include phrases such as:
+
+* `isolated on white`
+* `copy space`
+* `aerial view`
+* `wildlife in nature`
+
+Only phrases compatible with the detected subject and context are considered.
+
+---
+
+### Market Discovery
+
+**Market Discovery** provides an additional source of keyword candidates by comparing the current subject context with available market-search data.
+
+It can surface:
+
+* relevant lower-competition opportunities,
+* related search concepts,
+* emerging keyword candidates,
+* and market terms that may not be obvious from visual analysis alone.
+
+Market Discovery is intentionally presented as a **discovery tool** rather than a prediction of future trends.
+
+---
+
+### SEO Sort
+
+Version 1.20 introduces **SEO Sort**, a dedicated workflow for organizing existing keywords.
+
+With one click, ArtushVision AI can reorder the current keyword set according to its relevance and SEO importance, helping place the strongest terms earlier in the metadata.
+
+This allows contributors to optimize keyword order without having to manually reorganize large keyword sets.
+
+**Shortcut:** `Ctrl+Shift+S`
+
+---
+
+### Explainable Keyword Verdicts
+
+Keyword recommendations are now presented using clear action-oriented categories:
+
+* **🔥 MUST USE** — highly relevant terms with strong supporting evidence.
+* **✅ RECOMMENDED** — useful relevant terms worth considering.
+* **⚠️ OPTIONAL** — descriptive or contextual terms with lower priority.
+* **❌ AVOID** — terms affected by conflicts, redundancy, or insufficient relevance.
+
+The verdicts are designed to make the reasoning behind keyword suggestions easier to understand and review.
+
+---
 
 ### Smart SEO Expand
-* **Curated Low-Noise Suggestions:** Dynamically generates 10–15 top-tier related candidates tailored to your current seed keywords.
-* **Visual Separation Layout:** Neatly separates new discovery suggestions from existing tags with an intuitive bubble gap interface.
 
-### Explainable AI Verdicts & Quick Wins
-* **Actionable Decision Badges:** Every tag is classified into transparent tiers:
-  * **🔥 MUST USE:** Essential high-volume and high-relevance terms.
-  * **✅ RECOMMENDED:** High-converting commercial terms.
-  * **⚠️ OPTIONAL:** Purely descriptive or contextual tags.
-  * **❌ AVOID:** Redundant substrings, species conflicts, or dead-trend terms.
-* **Quick Wins Audit Bar:** Real-time diagnostics provide 1-click fixes for metadata health (e.g., removing redundant single words contained inside phrases).
+**Smart SEO Expand** provides a focused set of additional keyword candidates based on the current metadata and detected subject.
+
+Instead of generating a large list of loosely related words, the feature focuses on a smaller set of relevant candidates that can be reviewed and selectively added.
+
+New discovery suggestions are visually separated from the existing keyword set for easier review.
 
 ---
 
-## Complete Workflow & File Format Freedom
+## Improved Ground-Truth Verification
 
-### Direct Metadata Write to Video MP4 / MOV (Lossless In-Place Injection)
-ArtushVision AI now brings true native metadata management to stock videographers:
-* **No Re-encoding, Sub-Second Speed:** Patches XMP metadata directly into ISOBMFF/QuickTime atoms (`moov/udta` & UUID boxes) in milliseconds without re-encoding video streams or altering visual quality.
-* **Adobe Bridge & Agency Compatibility:** 100% compliant with Adobe Bridge, Adobe Premiere, DaVinci Resolve, Shutterstock, Adobe Stock, and Pond5.
+Version 1.20 also extends the way ArtushVision AI validates keyword candidates against available evidence.
 
-### Universal Drag & Drop
-* **Frictionless Ingestion:** Simply drag and drop entire folders, mixed batches of RAW images, JPGs, or MP4/MOV videos directly from Windows Explorer straight into the ArtushVision grid.
+### Geographic Verification
 
-### Multiple CSV Export
-* **One-Click Multi-Agency Distribution:** Export your selected assets into multiple custom agency CSV templates (e.g., Shutterstock, Adobe Stock, Pond5, Dreamstime) simultaneously in a single pass.
-* **Template Memory:** Remembers your preselected agency targets for effortless recurring export routines.
+Geographic terms can be checked against available GPS and geographic information.
 
----
+This helps distinguish between:
 
-## Previous Releases: What's New in ArtushVision AI (v1.10)
+* locations supported by the photograph's metadata,
+* locations supported by contextual evidence,
+* and geographic terms that are not sufficiently supported.
 
-Update 1.10 was the milestone that introduced local offline AI models, Getty Images dictionary integration, and multi-threaded FTP uploads.
-
-### Local, Hybrid, and 2-Pass Offline Vision AI
-The application no longer relies solely on cloud APIs. We have fully integrated the Ollama system, allowing you to run powerful AI models to process your sensitive (or massive) batches of photos 100% locally, for free, and in complete privacy.
-
-* **Three Independent AI Photo Tagging Engines:**
-    * **[Local AI](/docs/ai-metadata-generation-cloud-local-ollama.html#2-local-ai)**: Run standard visual analysis on your local hardware with zero API costs (see the [Ollama Installation Guide](/docs/ollama-installation-guide.html)).
-    * **[Hybrid AI (Local Vision + Cloud Text)](/docs/ai-metadata-generation-cloud-local-ollama.html#3-hybrid-ai)**: Our recommended mode. Your graphics card securely and freely performs the demanding visual analysis. The extracted text metadata is then sent to a cheap but highly intelligent cloud model for lightning-fast SEO formatting. Learn more in the [AI Metadata Generation Guide](/docs/ai-metadata-generation-cloud-local-ollama.html).
-    * **[Enhanced Local AI (2-Pass Offline)](/docs/ai-metadata-generation-cloud-local-ollama.html#4-two-step-local-ai)**: Maximum quality completely offline. First, a local Vision model reads the photo, then a *second* specialized local text model creates a perfect JSON with keywords.
-* **2-Pass Batch Processing:** A special background batching architecture that prevents GPU VRAM overload and drastically speeds up processing times for thousands of RAW files.
-* **Live VRAM/RAM Hardware Monitor:** A live memory consumption indicator located in the bottom status bar, tracking real-time load of your active Ollama models.
-* **Remote Ollama Server Support:** Run visual analysis on a separate machine. In Settings, you can now specify a custom Ollama network API URL to connect to a powerful GPU server in your local network (LAN) instead of running it locally.
-
-### [Integrated Local AI Model Manager for Ollama](/docs/local-ai-model-manager-ollama.html)
-AI model management is now fully integrated directly into the ArtushVision user interface. No need to open the Windows terminal or command line.
-
-* **Curated Recommended Models Catalog:** Browse and download the best available Vision and Text models for photography analysis with a single click directly from the [Local AI Model Manager](/docs/local-ai-model-manager-ollama.html).
-* **Smart Management and Detection:** The downloaded models table shows physical size in GB, parameter count, and quantization level (recommending the **Q4_0** sweet spot for standard 8GB VRAM cards). The app automatically detects whether it is a Vision (image-to-text) or Text model.
-* **Custom Personal Notes:** Double-click any model row to add your own performance tags and custom notes (e.g., "Best for illustrations" or "Fast descriptions, struggles with complex JSON").
-
-### [Getty Images Resolver and Custom Vocabulary Dictionary](/docs/getty-images-esp-metadata-optimizer.html)
-A brand new set of linguistic tools designed to solve the hardest task in the microstock world: creating valid metadata that strictly complies with Getty Images / iStock ESP requirements.
-
-* **[Interactive AI Mapping (Getty Resolver)](/docs/getty-images-esp-metadata-optimizer.html):** An advanced visual table that checks your keywords against the massive Getty Master Dictionary (>9,867 approved commercial terms). You can edit, format, and split original and new words directly in-line using the [Getty Images ESP Metadata Optimizer](/docs/getty-images-esp-metadata-optimizer.html).
-* **[Intelligent Semantic Disambiguation Assistant](/docs/getty-images-esp-metadata-optimizer.html#offline-resolving-local-semantics):** The Cloud AI engine can study the visual context of your photo and automatically decide which precise meaning of a word to select (e.g., reliably distinguishing a 'crane' bird from a 'crane' construction machine).
-* **[Persistent User Dictionary](/docs/getty-images-esp-metadata-optimizer.html#1-built-in-getty-master-dictionary--non-destructive-workflow):** The system features personal memory. Once you manually map a missing keyword or a custom name to an existing term from the Master database, the application remembers it for all future exports.
-* **Interactive Getty Term Badge Counters:** A dynamic badge on each photo thumbnail in the Getty Resolver shows the count of currently valid terms. The badge turns green when reaching the recommended 5 terms threshold and red if below it, allowing instant visual quality checks.
-* **1-Click Batch Optimization:** Run automatic resolution on entire batches using a single click, instantly matching keywords against the Master dictionary and your personal memory.
-* **Auto-Save & Sidecar State Persistence:** The resolver now automatically saves your progress into temporary sidecar JSON files, protecting your work from power loss or accidental window closures.
-
-### [Smart Category Matrix and Bulk Portfolio Management](/docs/settings-configuration-customization.html#the-category-matrix)
-No more manual sorting and categorizing for each stock agency separately.
-
-* **Cross-Agency AI Category Mapping:** We created a flexible Category Matrix. The AI model receives a list of your "Master Categories" and assigns the best ones to the photo. These categories are then automatically translated into the correct numerical ID formats for Shutterstock, Adobe Stock, or Motion Elements during export or upload via the [Settings and Configuration Guide](/docs/settings-configuration-customization.html#the-category-matrix).
-* **Motion Elements (Video vs Photo Logic):** The matrix intelligently distinguishes photo and video formats, automatically funneling assets into the correct technical subcategories required by Motion Elements.
-* **Separate Motion Elements Categories:** The category matrix now maps distinct photo and video categories for Motion Elements, ensuring compliance with their technical upload guidelines.
-* **Bulk Adding from Image Grid:** A new Categories button in the batch edit bar opens a dialog for quick manual selection (up to 3 categories) for hundreds of selected photos at once. You can also define properties, model releases, and editorial flags in bulk using [Smart Manual Keywording and Culling](/docs/smart-manual-keywording-batch-editing.html).
-
-### [Smart FTP Manager and Automated One-Click CSV Generation](/docs/global-stock-distribution-ftp.html)
-The entire stock photo and video upload process has been rewritten from the ground up to be fully independent, multi-threaded, and automated.
-
-* **Assign CSV Template per Server:** In the FTP upload window, you can now assign a specific CSV template format to each agency profile (server).
-* **One-Click Temporary CSV Generation:** When active, the app automatically takes the uploaded photos, generates a temporary CSV tailored to the specific agency, uploads the CSV file immediately after the media files, and then cleanly purges it from your computer. Read the complete setup in the [Global Stock Distribution & FTP Guide](/docs/global-stock-distribution-ftp.html).
-* **[Advanced Server Settings (Thread Limits)](/docs/global-stock-distribution-ftp.html#per-server-multi-threading-and-auto-retry):** The number of concurrent uploads (threads) is no longer global but set individually for each FTP server. You can safely send to Shutterstock with 10 photos at once, while limiting Zoonar to 1 thread to prevent connection blocks (`421 Too many connections`).
-* **One-Click Server Profile Duplication:** Easily duplicate existing FTP server configurations with a single click to set up multiple accounts or subfolders for the same stock agency.
-* **[FTP Profiles and Status Badges:](/docs/global-stock-distribution-ftp.html#advanced-tracking-and-visual-status-badges)** Group your servers into custom FTP Profiles (e.g., "Video" or "Main Stock"). Uploaded agencies are then permanently visualized as colored micro-badges directly on the grid thumbnails for each photo and can be actively filtered using Smart Grid Filters and Search.
+The goal is to reduce incorrect geographic tagging while preserving relevant natural and administrative place names.
 
 ---
 
-## Desktop UI and Linguistic Performance Updates
+### Taxonomic Verification
 
-* **Advanced Undo/Redo Engine:** Made a mistake during a massive batch edit? The application now features a robust, 200-step local Undo/Redo stack (`Ctrl+Z` / `Ctrl+Y`). It perfectly restores not just text, but also keyword colors, star ratings, and rejection flags.
-* **[Lightroom Keyword Order Restoration:](/docs/metadata-compatibility-and-file-handling.html#seamless-integration-with-adobe-lightroom-and-other-managers)** Added a new **"Restore keywords and order after LR Export"** context menu action. This recovers the exact original sequence of keywords using `XMP-artush:KeywordOrder` metadata, fixing any keyword shuffling caused by Lightroom export pipelines.
+ArtushVision AI now uses biological taxonomy as an additional source of evidence when working with animals, plants, fungi, and other taxonomic subjects.
 
-### System & Interface Polish
-* **[Non-Destructive Keyword Sets & Predefined Presets:](/docs/smart-manual-keywording-batch-editing.html#keyword-sets-presets)** Create, manage, and batch-apply custom preset combinations of tags (e.g., for specific locations or studio environments) that undergo instant deduplication and live spell checking. The application now comes preloaded with **24 curated predefined keyword sets** (including Landscape, Drone, Travel, Food, Plants, Animals, and more) to immediately boost your workflow.
-* **Bi-Directional Lightroom & Zoner Integration:** All stars, flags, and custom tags map perfectly to standard XMP namespaces (like `XMP-dc`, `XMP-lr`), allowing seamless catalog synchronization via Adobe's "Read Metadata from Files" command. We have also added complete rating and color label synchronization for Zoner Photo Studio, ensuring seamless metadata exchange across Lightroom, Zoner Photo Studio, and ArtushVision AI.
-* **Settings Backup & Migration:** Added a full, one-click ZIP backup of all custom profiles, AI prompts, and CSV templates, utilizing secure Windows DPAPI encryption to safely package credentials.
+The system can distinguish between:
+
+* specific species,
+* broader taxonomic groups,
+* related organisms,
+* and conflicting species suggestions.
+
+This provides an additional safeguard against visually plausible but biologically incorrect keyword suggestions.
+
+---
+
+### Human Presence Verification
+
+Human-related suggestions can be checked against visual evidence.
+
+This helps prevent inappropriate human-related keywords from being introduced into scenes where people are not actually present, while allowing relevant contextual concepts when supported by the image.
+
+---
+
+## New Video Metadata Workflow
+
+Version 1.20 extends ArtushVision AI beyond still photography with native metadata handling for video.
+
+### Direct Metadata Write to MP4 / MOV
+
+Metadata can now be written directly into supported MP4 and MOV files **without re-encoding the video stream**.
+
+This means the video image and audio streams do not need to be rendered again simply to update metadata.
+
+The workflow is designed for stock-video contributors working with applications and agencies that support standard embedded metadata workflows.
+
+---
+
+## Universal Drag & Drop
+
+Importing content is now simpler.
+
+You can drag folders or mixed batches directly from Windows Explorer into the ArtushVision AI workspace.
+
+Supported workflows include:
+
+* JPG and other supported image formats,
+* RAW photographs,
+* MP4 video,
+* MOV video,
+* and mixed batches.
+
+---
+
+## Multiple CSV Export
+
+Version 1.20 expands agency export workflows with **multiple CSV templates in a single operation**.
+
+Selected assets can be exported using different agency-specific templates without having to repeat the export process separately for every destination.
+
+Configured export targets can also be remembered for recurring workflows.
+
+---
+
+## Improved Metadata Workflow
+
+The new features are integrated into the existing ArtushVision AI workflow rather than requiring separate tools.
+
+A typical workflow can now be:
+
+**Analyze → Review → Verify → Optimize → SEO Sort → Export**
+
+This allows visual analysis, keyword optimization, market research, verification, and agency export to remain part of one workflow.
+
+---
+
+## What Market Intelligence Does — and Does Not Do
+
+Market Intelligence is intended to provide **additional evidence for metadata decisions**.
+
+It does not guarantee:
+
+* sales,
+* downloads,
+* search-engine position,
+* agency acceptance,
+* or future market demand.
+
+Stock-market algorithms and buyer behavior can change independently of ArtushVision AI.
+
+The purpose of Market Intelligence is to give contributors more useful information when deciding **which relevant keywords and phrases deserve attention**.
+
+---
+
+## Version 1.20 in Brief
+
+**New**
+
+* Market Intelligence
+* Bestseller GAP
+* Commercial Phrases
+* Market Discovery
+* SEO Sort
+* Explainable Keyword Verdicts
+* Smart SEO Expand
+* Expanded geographic verification
+* Expanded taxonomic verification
+* Human-presence verification
+* Direct MP4/MOV metadata writing
+* Universal Drag & Drop
+* Multiple CSV Export
+
+Version 1.20 marks the transition from AI-assisted keyword generation toward a broader **metadata optimization and market-intelligence workflow for professional stock contributors**.
+
 
 ---
 
