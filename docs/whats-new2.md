@@ -155,13 +155,11 @@ ArtushVision AI now combines visual relevance, market data, buyer-oriented searc
 
 ---
 
-## New in Version 1.20
-
-### Market Intelligence
+## Microstock Market Intelligence
 
 ArtushVision AI now goes beyond generating visually relevant keywords.
 
-**Market Intelligence** adds market context to the keyword optimization workflow, helping contributors identify relevant opportunities based on available stock-market data.
+**Microstock Market Intelligence** adds market context to the keyword optimization workflow, helping contributors identify relevant opportunities based on available stock-market data.
 
 It provides additional insight into:
 
