@@ -1,3 +1,4 @@
+# --- default.html ---
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   <head>
@@ -5,25 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Primární signály pro Google Site Names -->
+    <!-- Doplňkové signály pro mobilní a desktopové zobrazení -->
     <meta name="application-name" content="ArtushVision AI">
     <meta name="apple-mobile-web-app-title" content="ArtushVision AI">
-    <meta property="og:site_name" content="ArtushVision AI">
 
-    <!-- Schema.org WebSite pro Google Site Names (pouze pro hlavní stránku) -->
-    {% if page.url == "/" or page.url == "/index.html" %}
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "ArtushVision AI",
-      "alternateName": "ArtushVision",
-      "url": "https://vision.artushfoto.eu/"
-    }
-    </script>
-    {% endif %}
-
-    <!-- Jekyll SEO tag vygeneruje správný titulek a meta tagy pro každou stránku zvlášť -->
+    <!-- Jekyll SEO tag vygeneruje JEDINÉ čisté schema WebSite a og:site_name přímo z _config.yml -->
     {% seo %}
 
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -44,3 +31,4 @@
     </div>
   </body>
 </html>
+# --- default.html ---
