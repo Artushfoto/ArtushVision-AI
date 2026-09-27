@@ -300,6 +300,19 @@ This transparent classification allows contributors to review large numbers of m
 
 ---
 
+### Synonym & Market Suggestions
+
+The **Synonym Window** goes beyond traditional thesaurus-style suggestions by connecting each keyword with relevant marketplace language.
+
+For every keyword, ArtushVision AI can display:
+
+* **Bestseller Tags:** Relevant tags associated with high-performing stock content.
+* **Trending Autocomplete:** Current search suggestions and emerging terms related to the selected keyword.
+
+This gives contributors a quick way to explore **how a keyword is used in the stock market** and discover relevant alternatives without replacing their own creative judgment.
+
+---
+
 ### Smart SEO Expand
 
 **Smart SEO Expand** provides a curated, non-destructive expansion of your existing keywords.
