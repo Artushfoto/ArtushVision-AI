@@ -163,6 +163,8 @@ flowchart LR
     B --> C["🌍 Context Verification<br/><b>Ground-Truth Safeguard</b><br/>Validates GPS location & biological taxonomy"]
 ```
 
+---
+
 1. **Visual Intelligence:** Accurately identifies primary subjects, secondary details, composition, and photographic mood.
 2. **Market Intelligence:** Evaluates commercial demand, connecting your image to buyer search vocabulary, multi-word phrases, and seasonal opportunities.
 3. **Context Verification:** Cross-checks camera GPS data and biological references to prevent geographic contradictions and species confusion before submission.
