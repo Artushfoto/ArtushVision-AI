@@ -10,7 +10,7 @@ h1 { text-align: center; }
 /* Profesionální styl pro klikací screenshoty */
 .screenshot-link {
   display: block;
-  margin: 20px auto;
+  margin: 24px auto;
   max-width: 100%;
   text-decoration: none;
 }
@@ -19,12 +19,44 @@ h1 { text-align: center; }
   height: auto;
   display: block;
   border: 1px solid #333;
-  border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  transition: opacity 0.2s;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+  transition: transform 0.2s ease, opacity 0.2s ease;
 }
 .screenshot-img:hover {
-  opacity: 0.95;
+  opacity: 0.96;
+  transform: translateY(-2px);
+}
+
+/* Badge a alert boxy */
+.update-badge {
+  display: inline-block;
+  background-color: #2ea44f;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+  margin-bottom: 12px;
+}
+
+.notice-box {
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  border-left: 4px solid #0969da;
+  border-radius: 6px;
+  padding: 14px 18px;
+  margin: 20px 0;
+  font-size: 14px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .notice-box {
+    background: #161b22;
+    border-color: #30363d;
+    border-left-color: #58a6ff;
+    color: #c9d1d9;
+  }
 }
 
 /* GitHub Téma vyhledávacího komponentu (Světlý i Tmavý režim) */
@@ -145,248 +177,239 @@ h1 { text-align: center; }
 
 # What's New in ArtushVision AI v1.20
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu) | [Frequently Asked Questions (FAQ)](/docs/faq.html) | [Documentation Index](/index.html)
 
-[Frequently Asked Questions (FAQ)](/docs/faq.html)
+<div class="notice-box">
+  <strong>🎉 Free Update for v1.x Users:</strong> Version 1.20 is a free update for all active lifetime license owners. Existing users can update directly via <strong>Help → Check for Updates</strong> inside the application.
+</div>
 
-Version 1.20 introduces a major expansion of ArtushVision AI: **Market Intelligence and advanced SEO tools for professional stock photographers and videographers.**
+Version 1.20 introduces a major milestone for ArtushVision AI: **Microstock Market Intelligence, Selling Score analytics, and lossless MP4/MOV video metadata injection for professional stock contributors.**
 
-ArtushVision AI now combines visual relevance, market data, buyer-oriented search patterns, geographic verification, and taxonomy intelligence in a single metadata workflow.
+ArtushVision AI now unifies computer vision, stock-agency market demand, commercial buyer phrases, biological taxonomy, and geographic validation into a seamless, high-speed metadata workstation.
 
 ---
 
 ## Microstock Market Intelligence
 
-ArtushVision AI now goes beyond generating visually relevant keywords.
+ArtushVision AI now goes far beyond generating visually descriptive tags.
 
-**Microstock Market Intelligence** adds market context to the keyword optimization workflow, helping contributors identify relevant opportunities based on available stock-market data.
+**Microstock Market Intelligence** injects real-world commercial context into your cataloging workflow, helping contributors identify missing high-demand keywords and buyer search patterns.
 
-It provides additional insight into:
+It provides actionable insight into:
 
-* keyword demand and market supply,
-* commercial search patterns,
-* missing opportunities in existing metadata,
-* relevant multi-word search phrases,
-* and emerging or less saturated keyword candidates.
-
-The feature is designed to **support metadata decisions**, not to predict or guarantee sales or search rankings.
+* Keyword commercial demand vs. marketplace saturation,
+* High-intent buyer search phrases,
+* Revenue-critical keywords missing from your current metadata,
+* Real-time metadata strength scoring before agency submission,
+* Lower-competition emerging opportunities.
 
 ---
 
-### Bestseller GAP
+### Commercial Selling Score
 
-**Bestseller GAP** identifies relevant keywords that are commonly associated with comparable successful stock content but are missing from the current metadata.
+Evaluate the commercial readiness and SEO weight of your metadata before submitting to agencies.
 
-This makes it easier to discover potentially useful additions without replacing the contributor's own judgment.
+ArtushVision AI calculates a dynamic **Selling Score (0–100%)** based on:
 
-You can:
+* **Title & Description Structure:** Search-engine readability and strategic keyword placement.
+* **Commercial Intent Coverage:** Ratio of action-oriented and conceptual buyer phrases versus generic descriptors.
+* **Keyword Density & Order:** Optimal keyword count (avoiding over-tagging penalties) and placement of primary terms in the top 10–25 positions.
+* **Redundancy & Conflict Suppression:** Deductions for spammy variants, irrelevant terms, or contradictory concepts.
 
-* inspect individual missing keywords,
-* review their relevance and market context,
-* and add selected terms directly to your metadata.
+The Selling Score gives you an instant, objective benchmark to ensure your asset can compete effectively in search rankings.
 
 ---
 
-### Commercial Phrases
+### Bestseller GAP Analysis
 
-Stock buyers often search for specific combinations of words rather than isolated terms.
+**Bestseller GAP** analyzes comparable top-performing stock media and detects high-converting keywords that are missing from your file.
 
-The new **Commercial Phrases** engine identifies relevant multi-word search phrases and separates them from ordinary descriptive vocabulary.
+Instead of guessing what buyers search for:
 
-Examples can include phrases such as:
+* Inspect high-relevance missing terms side by side with your current list,
+* Review their commercial demand context,
+* Add selected terms with a single click without overriding your creative judgment.
+
+---
+
+### Commercial Buyer Phrases
+
+Stock buyers frequently search using multi-word phrases rather than single isolated keywords.
+
+The **Commercial Phrases** engine automatically extracts and prioritizes commercial concepts such as:
 
 * `isolated on white`
-* `copy space`
+* `copy space for text`
 * `aerial view`
-* `wildlife in nature`
+* `candid lifestyle`
+* `wildlife in natural habitat`
 
-Only phrases compatible with the detected subject and context are considered.
+Every suggested phrase is strictly cross-checked against visual and contextual evidence to guarantee 100% agency compliance.
 
 ---
 
 ### Market Discovery
 
-**Market Discovery** provides an additional source of keyword candidates by comparing the current subject context with available market-search data.
+**Market Discovery** acts as an intelligent keyword scout, comparing your image subject against market search patterns.
 
-It can surface:
+It surfaces:
 
-* relevant lower-competition opportunities,
-* related search concepts,
-* emerging keyword candidates,
-* and market terms that may not be obvious from visual analysis alone.
-
-Market Discovery is intentionally presented as a **discovery tool** rather than a prediction of future trends.
+* **Niche Opportunities:** High-demand keywords with lower asset saturation,
+* **Conceptual Search Terms:** Buyer-oriented conceptual metaphors (e.g., *resilience*, *teamwork*, *tranquility*) that direct visual inspection might miss,
+* **Trending & Seasonal Queries:** Relevant emerging terms aligned with current commercial demand.
 
 ---
 
 ### SEO Sort
 
-Version 1.20 introduces **SEO Sort**, a dedicated workflow for organizing existing keywords.
+Stock agency algorithms (such as Adobe Stock and Shutterstock) weigh the first 10–25 keywords significantly higher than the rest.
 
-With one click, ArtushVision AI can reorder the current keyword set according to its relevance and SEO importance, helping place the strongest terms earlier in the metadata.
+With **SEO Sort**, ArtushVision AI reorders your entire keyword list with a single click:
 
-This allows contributors to optimize keyword order without having to manually reorganize large keyword sets.
+* Core subject and primary commercial keywords are moved to the top positions,
+* Secondary and contextual descriptors are organized cleanly after primary terms,
+* Redundant or weak synonyms are deprioritized.
 
-**Shortcut:** `Ctrl+Shift+S`
+**Keyboard Shortcut:** `Ctrl+Shift+S`
 
 ---
 
 ### Explainable Keyword Verdicts
 
-Keyword recommendations are now presented using clear action-oriented categories:
+Say goodbye to black-box AI suggestions. Every suggested keyword now comes with clear, actionable classification:
 
-* **🔥 MUST USE** — highly relevant terms with strong supporting evidence.
-* **✅ RECOMMENDED** — useful relevant terms worth considering.
-* **⚠️ OPTIONAL** — descriptive or contextual terms with lower priority.
-* **❌ AVOID** — terms affected by conflicts, redundancy, or insufficient relevance.
+* **🔥 MUST USE** — Essential subject and high-commercial-value terms with overwhelming evidence.
+* **✅ RECOMMENDED** — Strong contextual and secondary terms that expand discoverability.
+* **⚠️ OPTIONAL** — Broad, generic, or atmospheric keywords; useful if keyword quota allows.
+* **❌ AVOID** — Contradictory, hallucinated, spammy, or geographically conflicting terms.
 
-The verdicts are designed to make the reasoning behind keyword suggestions easier to understand and review.
+This transparent labeling allows you to review and approve dozens of tags in seconds.
 
 ---
 
 ### Smart SEO Expand
 
-**Smart SEO Expand** provides a focused set of additional keyword candidates based on the current metadata and detected subject.
+**Smart SEO Expand** provides a curated, non-destructive expansion of your existing keywords.
 
-Instead of generating a large list of loosely related words, the feature focuses on a smaller set of relevant candidates that can be reviewed and selectively added.
-
-New discovery suggestions are visually separated from the existing keyword set for easier review.
+Rather than flooding your file with generic synonyms, it analyzes the specific gaps in your metadata and suggests a tight cluster of high-relevance additions. Discovery candidates are visually highlighted so you can approve them individually or in bulk.
 
 ---
 
-## Improved Ground-Truth Verification
+## Advanced Ground-Truth Verification
 
-Version 1.20 also extends the way ArtushVision AI validates keyword candidates against available evidence.
+Version 1.20 introduces multi-layered evidence checks to prevent metadata rejections and agency penalties.
 
-### Geographic Verification
+### Geographic Verification & Reverse Geocoding
 
-Geographic terms can be checked against available GPS and geographic information.
-
-This helps distinguish between:
-
-* locations supported by the photograph's metadata,
-* locations supported by contextual evidence,
-* and geographic terms that are not sufficiently supported.
-
-The goal is to reduce incorrect geographic tagging while preserving relevant natural and administrative place names.
+* Verifies location keywords against embedded EXIF GPS coordinates,
+* Distinguishes verified shoot locations from loose contextual mentions,
+* Automatically injects accurate administrative names (Country, State/Province, City, National Park),
+* Prevents misleading geographic tags on generic studio or outdoor shots.
 
 ---
 
-### Taxonomic Verification
+### Taxonomic & Biological Verification
 
-ArtushVision AI now uses biological taxonomy as an additional source of evidence when working with animals, plants, fungi, and other taxonomic subjects.
+For wildlife, bird, insect, botanical, and mushroom photography, precision is paramount. ArtushVision AI now leverages a comprehensive biological taxonomy database:
 
-The system can distinguish between:
-
-* specific species,
-* broader taxonomic groups,
-* related organisms,
-* and conflicting species suggestions.
-
-This provides an additional safeguard against visually plausible but biologically incorrect keyword suggestions.
+* **Scientific Binomial Names:** Automatically validates and provides scientific Latin names (e.g., *Panthera pardus*, *Passer domesticus*) alongside common names.
+* **Taxonomic Hierarchy:** Safely introduces correct family, genus, and order terms while avoiding false species identification.
+* **Species Confusion Safeguard:** Prevents common AI hallucinations between visually similar but biologically distinct species.
 
 ---
 
-### Human Presence Verification
+### Human Presence & Demographics Verification
 
-Human-related suggestions can be checked against visual evidence.
-
-This helps prevent inappropriate human-related keywords from being introduced into scenes where people are not actually present, while allowing relevant contextual concepts when supported by the image.
-
----
-
-## New Video Metadata Workflow
-
-Version 1.20 extends ArtushVision AI beyond still photography with native metadata handling for video.
-
-### Direct Metadata Write to MP4 / MOV
-
-Metadata can now be written directly into supported MP4 and MOV files **without re-encoding the video stream**.
-
-This means the video image and audio streams do not need to be rendered again simply to update metadata.
-
-The workflow is designed for stock-video contributors working with applications and agencies that support standard embedded metadata workflows.
+* Checks human-related terms (e.g., *person*, *adult*, *portrait*, *looking at camera*) against computer-vision evidence.
+* Suppresses inadvertent people-related keywords in landscapes, still lifes, and macro shots.
+* When people are detected, verifies age group, shot framing, and activity accurately.
 
 ---
 
-## Universal Drag & Drop
+## Native Video Metadata Workflow
 
-Importing content is now simpler.
+Version 1.20 brings full native metadata management to stock videographers.
 
-You can drag folders or mixed batches directly from Windows Explorer into the ArtushVision AI workspace.
+### Lossless MP4 & MOV Direct Injection
 
-Supported workflows include:
+Write titles, descriptions, copyright, and keywords directly into video files **without re-encoding**.
 
-* JPG and other supported image formats,
-* RAW photographs,
-* MP4 video,
-* MOV video,
-* and mixed batches.
+* **Instantaneous Processing:** Tagging an MP4 or MOV clip takes milliseconds, saving hours of re-rendering.
+* **Zero Quality Loss:** Video and audio streams are preserved bit-for-bit with no compression artifacts.
+* **Agency-Ready Standard:** Writes both QuickTime metadata atoms (`©nam`, `©des`, `©key`) and embedded XMP schemas natively recognized by **Adobe Stock, Pond5, Shutterstock, BlackBox, and Getty/iStock**.
 
 ---
 
-## Multiple CSV Export
+## Streamlined Batch Operations
 
-Version 1.20 expands agency export workflows with **multiple CSV templates in a single operation**.
+### Universal Drag & Drop
 
-Selected assets can be exported using different agency-specific templates without having to repeat the export process separately for every destination.
+Effortlessly import entire projects into the workspace:
 
-Configured export targets can also be remembered for recurring workflows.
+* Drag single files, folders, or mixed batches directly from Windows Explorer,
+* Seamlessly handles mixed collections of **JPG, RAW, MP4, and MOV** files in a single queue,
+* Automatically parses existing embedded metadata upon import.
 
 ---
 
-## Improved Metadata Workflow
+### Multi-Agency CSV Export
 
-The new features are integrated into the existing ArtushVision AI workflow rather than requiring separate tools.
+Exporting to multiple agencies with different CSV formatting rules is now a one-step operation:
 
-A typical workflow can now be:
+* Export selected assets across multiple agency templates (Shutterstock, Adobe Stock, Pond5, etc.) simultaneously,
+* Saves custom column mappings and delimiter settings for recurring daily workflows,
+* Fully supports agency-specific requirements (e.g., custom category columns, editorial flags).
 
-**Analyze → Review → Verify → Optimize → SEO Sort → Export**
+---
 
-This allows visual analysis, keyword optimization, market research, verification, and agency export to remain part of one workflow.
+## Key Shortcuts Reference
+
+| Shortcut | Action |
+| :--- | :--- |
+| `Ctrl + Shift + S` | **SEO Sort** — Reorder keywords by commercial weight |
+| `Ctrl + E` | **Smart SEO Expand** — Surface relevant gap terms |
+| `Ctrl + Shift + V` | **Run Ground-Truth Verification** |
+| `Ctrl + Enter` | **Save & Write Metadata** to selected file(s) |
 
 ---
 
 ## What Market Intelligence Does — and Does Not Do
 
-Market Intelligence is intended to provide **additional evidence for metadata decisions**.
+Market Intelligence is engineered to give contributors **evidence-based data to make informed metadata decisions**.
 
-It does not guarantee:
+It does **not** guarantee:
 
-* sales,
-* downloads,
-* search-engine position,
-* agency acceptance,
-* or future market demand.
+* Specific sales volumes or revenue numbers,
+* Guaranteed first-page rankings on any stock agency,
+* Automatic acceptance by agency inspection algorithms.
 
-Stock-market algorithms and buyer behavior can change independently of ArtushVision AI.
-
-The purpose of Market Intelligence is to give contributors more useful information when deciding **which relevant keywords and phrases deserve attention**.
+Stock agency search algorithms and buyer preferences evolve constantly. ArtushVision AI equips you with the best available data, keyword hierarchy, and verification tools to maximize your commercial discoverability.
 
 ---
 
-## Version 1.20 in Brief
+## Version 1.20 Changelog Summary
 
-**New**
-
-* Market Intelligence
-* Bestseller GAP
-* Commercial Phrases
-* Market Discovery
-* SEO Sort
-* Explainable Keyword Verdicts
-* Smart SEO Expand
-* Expanded geographic verification
-* Expanded taxonomic verification
-* Human-presence verification
-* Direct MP4/MOV metadata writing
-* Universal Drag & Drop
-* Multiple CSV Export
-
-Version 1.20 marks the transition from AI-assisted keyword generation toward a broader **metadata optimization and market-intelligence workflow for professional stock contributors**.
-
+* **New:** Microstock Market Intelligence suite.
+* **New:** Real-time Commercial Selling Score (0–100%).
+* **New:** Bestseller GAP analysis for missing high-performing terms.
+* **New:** Commercial multi-word buyer phrase detection.
+* **New:** Market Discovery tool for niche, low-competition tags.
+* **New:** SEO Sort algorithm with `Ctrl+Shift+S` shortcut.
+* **New:** Explainable Keyword Verdicts (🔥 MUST USE, ✅ RECOMMENDED, ⚠️ OPTIONAL, ❌ AVOID).
+* **New:** Smart SEO Expand with dedicated suggestion tray.
+* **New:** Native MP4 / MOV lossless metadata write (no re-encoding).
+* **New:** Full scientific binomial (Latin) taxonomy validation.
+* **New:** GPS-assisted geographic reverse validation.
+* **New:** Human-presence evidence validation.
+* **New:** Multi-template batch CSV export.
+* **New:** Universal Drag & Drop supporting mixed RAW/JPG/MP4/MOV folders.
 
 ---
+
+## How to Get Version 1.20
+
+* **Existing Customers:** Open ArtushVision AI and navigate to **Help → Check for Updates** to download and install version 1.20 free of charge.
+* **New Users:** Download the free Lite version or unlock the complete workstation with a lifetime license.
 
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
@@ -395,21 +418,20 @@ Version 1.20 marks the transition from AI-assisted keyword generation toward a b
 ---
 
 ## Need Help?
-Search the documentation pages directly or jump back to the main [Complete Documentation Index](/index.html#complete-documentation-index).
+
+<div id="flex-search-container">
+  <input type="text" id="flex-search-input" placeholder="Search documentation, tutorials, shortcuts..." autocomplete="off">
+  <ul id="flex-results-container"></ul>
+</div>
+
+* [Complete Documentation Index](/index.html#complete-documentation-index)
+* [⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
+* [❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
+* [💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
 
 ---
 
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
-
-[⭐ User Reviews & Testimonials](/docs/artushvision-reviews.html)
-
-[❓ Frequently Asked Questions (FAQ)](/docs/faq.html)
-
-[💬 Support, Bugs & Community Forum](https://github.com/Artushfoto/ArtushVision-AI/discussions)
-
----
-
-*ArtushVision AI - Stability and precision for professional photography workflows.*
+*ArtushVision AI — Stability, precision, and market intelligence for professional photography and video workflows.*
 
 <!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
 <script>
