@@ -312,26 +312,26 @@ Discovery candidates are visually highlighted so you can approve them individual
 
 ## Advanced Ground-Truth Verification
 
-Version 1.20 introduces multi-layered evidence checks designed to validate metadata against real-world facts and prevent avoidable agency rejections.
+Version 1.20 introduces multi-layered evidence checks designed to validate metadata against real-world facts and reduce unsupported or misleading keywords.
 
 ### Geographic Verification & GPS Cross-Checking
 
-ArtushVision AI checks location keywords against embedded EXIF GPS data and authoritative spatial databases (OpenStreetMap / ArcGIS reverse geocoding):
+ArtushVision AI checks location keywords against embedded EXIF GPS data and authoritative geographic data sources.
 
-* **Prevents Geographic Hallucinations:** Detects contradictory location tags (e.g., tagging *London* or *Alps* on a photo taken in Prague) and flags them as **❌ AVOID**.
-* **Confirms Authentic Locations:** Accurately verifies genuine cities, regions, countries, and landmarks supported by the photo's GPS coordinates.
-* **Studio & Generic Shot Protection:** Distinguishes verified shoot locations from loose geographic buzzwords, keeping studio or generic outdoor imagery clean.
+* **Prevents Geographic Hallucinations:** Detects contradictory location tags and flags unsupported locations as **❌ AVOID**.
+* **Confirms Authentic Locations:** Verifies genuine cities, regions, countries, landmarks, and other geographic references supported by available location evidence.
+* **Evidence-Based Location Metadata:** Helps distinguish verified geographic information from unsupported contextual assumptions.
 
 ---
 
 ### Taxonomic & Biological Verification
 
-For wildlife, bird, insect, botanical, and mushroom photography, biological accuracy is critical. ArtushVision AI integrates a local taxonomy engine.
+For wildlife, bird, insect, botanical, and mushroom photography, biological accuracy is critical. ArtushVision AI provides dedicated biological metadata validation.
 
-* **Scientific Name Verification:** Cross-references common and scientific Latin names against millions of verified biological taxa to ensure correct classification and spelling.
-* **Species Confusion Safeguard:** Prevents conflicting species tags and AI hallucinations (e.g., automatically flagging incorrect bird species or incompatible biological families as **❌ AVOID**).
-* **Factual Metadata Protection:** Protects valid rare species and scientific binomials from being wrongfully penalized or removed by generic keyword spellcheckers.
-* **Hierarchical Classification:** Recognizes correct taxonomic relationships (Species → Genus → Family → Order), allowing legitimate broader concepts (*raptor*, *waterfowl*, *wildlife*) while suppressing conflicting taxa.
+* **Scientific Name Verification:** Validates common and scientific Latin names against a comprehensive biological taxonomy resource.
+* **Species Confusion Safeguard:** Helps detect conflicting species tags and unsupported biological identifications, including incompatible taxonomic references.
+* **Factual Metadata Protection:** Helps preserve valid biological terminology and scientific names that may be incorrectly rejected by generic validation tools.
+* **Biological Context Validation:** Recognizes relevant broader biological concepts while suppressing terms that conflict with the verified subject.
 
 ---
 
