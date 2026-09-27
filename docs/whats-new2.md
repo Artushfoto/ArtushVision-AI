@@ -312,44 +312,26 @@ Discovery candidates are visually highlighted so you can approve them individual
 
 ## Advanced Ground-Truth Verification
 
-Version 1.20 introduces enhanced evidence-based verification designed to reduce unsupported metadata and help prevent avoidable agency rejections.
+Version 1.20 introduces multi-layered evidence checks designed to validate metadata against real-world facts and prevent avoidable agency rejections.
 
-### Geographic Verification & Reverse Geocoding
+### Geographic Verification & GPS Cross-Checking
 
-ArtushVision AI can use available geographic evidence to validate and enrich location metadata.
+ArtushVision AI checks location keywords against embedded EXIF GPS data and authoritative spatial databases (OpenStreetMap / ArcGIS reverse geocoding):
 
-It:
-
-* Verifies geographic keywords against embedded EXIF GPS information when available,
-* Distinguishes verified locations from less certain contextual references,
-* Identifies relevant geographic names from available location evidence,
-* Helps prevent misleading geographic metadata on generic studio or outdoor images.
+* **Prevents Geographic Hallucinations:** Detects contradictory location tags (e.g., tagging *London* or *Alps* on a photo taken in Prague) and flags them as **❌ AVOID**.
+* **Confirms Authentic Locations:** Accurately verifies genuine cities, regions, countries, and landmarks supported by the photo's GPS coordinates.
+* **Studio & Generic Shot Protection:** Distinguishes verified shoot locations from loose geographic buzzwords, keeping studio or generic outdoor imagery clean.
 
 ---
 
 ### Taxonomic & Biological Verification
 
-For wildlife, bird, insect, botanical, and mushroom photography, biological accuracy is critical.
+For wildlife, bird, insect, botanical, and mushroom photography, biological accuracy is critical. ArtushVision AI integrates a local taxonomy engine.
 
-ArtushVision AI uses a comprehensive biological taxonomy resource to improve the reliability of biological metadata.
-
-Features include:
-
-* **Scientific Binomial Names:** Validates and provides scientific Latin names alongside common names.
-* **Taxonomic Relationships:** Provides relevant biological terms while avoiding unsupported species identification.
-* **Species Confusion Safeguard:** Helps prevent unsupported identification between visually similar but biologically distinct organisms.
-
----
-
-### Human Presence & Demographics Verification
-
-ArtushVision AI validates human-related metadata against available computer-vision evidence.
-
-It:
-
-* Checks human-related terms such as *person*, *adult*, *portrait*, and *looking at camera*,
-* Suppresses unsupported people-related keywords in images where they are not evidenced,
-* Validates relevant human-related information when people are detected.
+* **Scientific Name Verification:** Cross-references common and scientific Latin names against millions of verified biological taxa to ensure correct classification and spelling.
+* **Species Confusion Safeguard:** Prevents conflicting species tags and AI hallucinations (e.g., automatically flagging incorrect bird species or incompatible biological families as **❌ AVOID**).
+* **Factual Metadata Protection:** Protects valid rare species and scientific binomials from being wrongfully penalized or removed by generic keyword spellcheckers.
+* **Hierarchical Classification:** Recognizes correct taxonomic relationships (Species → Genus → Family → Order), allowing legitimate broader concepts (*raptor*, *waterfowl*, *wildlife*) while suppressing conflicting taxa.
 
 ---
 
