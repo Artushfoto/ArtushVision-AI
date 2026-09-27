@@ -157,12 +157,10 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 
 ---
 
-## The Three Pillars of ArtushVision Intelligence
-
 ```mermaid
 flowchart LR
-    A[🧠 Visual Intelligence<br/><b>Visual Content Analysis</b><br/>Recognizes subject, style, lighting & composition] --> B[📈 Market Intelligence<br/><b>Commercial Context</b><br/>Surfaces buyer demand, commercial phrases & GAP terms]
-    B --> C[🌍 Context Verification<br/><b>Ground-Truth Safeguard</b><br/>Validates GPS location & biological taxonomy]
+    A["🧠 Visual Intelligence<br/><b>Visual Content Analysis</b><br/>Recognizes subject, style, lighting & composition"] --> B["📈 Market Intelligence<br/><b>Commercial Context</b><br/>Surfaces buyer demand, commercial phrases & GAP terms"]
+    B --> C["🌍 Context Verification<br/><b>Ground-Truth Safeguard</b><br/>Validates GPS location & biological taxonomy"]
 ```
 
 1. **Visual Intelligence:** Accurately identifies primary subjects, secondary details, composition, and photographic mood.
