@@ -179,13 +179,15 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
+# What's New in ArtushVision AI v1.20
+
 <div class="notice-box">
   <strong>🎉 Free Update for v1.x Users:</strong> Version 1.20 is a free update for all active lifetime license owners. Existing users can update directly via <strong>Help → Check for Updates</strong> inside the application.
 </div>
 
 Version 1.20 introduces a major milestone for ArtushVision AI: **Microstock Market Intelligence, Selling Score analytics, and lossless MP4/MOV video metadata injection for professional stock contributors.**
 
-ArtushVision AI now unifies computer vision, stock-agency market demand, commercial buyer phrases, biological taxonomy, and geographic validation into a seamless, high-speed metadata workstation.
+ArtushVision AI now brings together computer vision, commercial market intelligence, buyer-oriented search language, biological taxonomy, and geographic validation in a seamless, high-speed metadata workstation.
 
 ---
 
@@ -193,57 +195,59 @@ ArtushVision AI now unifies computer vision, stock-agency market demand, commerc
 
 ArtushVision AI now goes far beyond generating visually descriptive tags.
 
-**Microstock Market Intelligence** adds real-world commercial context to your cataloging workflow, helping contributors identify missing high-demand keywords, market gaps, and buyer-oriented search patterns.
+**Microstock Market Intelligence** adds commercial context to your cataloging workflow, helping contributors identify relevant market opportunities, missing keywords, and buyer-oriented search patterns.
 
 It provides actionable insight into:
 
-* Keyword commercial demand vs. marketplace saturation,
-* High-intent buyer search phrases,
+* Commercial keyword demand and market context,
+* Buyer-oriented search phrases,
 * Commercially relevant keywords missing from your current metadata,
-* Dynamic metadata strength scoring before agency submission,
-* Lower-competition and emerging market opportunities.
+* Dynamic metadata strength analysis before agency submission,
+* Emerging and niche market opportunities.
 
-Market Intelligence is designed to provide **evidence-based commercial context**, not sales predictions. It helps you understand where your metadata may have measurable market gaps while keeping the final decision in your hands.
+Market Intelligence is designed to provide **evidence-based commercial context**, helping contributors make better-informed metadata decisions while retaining full control over the final result.
 
 ---
 
 ### Commercial Selling Score
 
-Evaluate the commercial readiness and SEO strength of your metadata before submitting to agencies.
+Evaluate the commercial strength of your metadata before submitting to agencies.
 
-ArtushVision AI calculates a dynamic **Selling Score (0–100%)** based on:
+ArtushVision AI calculates a dynamic **Selling Score (0–100%)** based on the overall quality, relevance, structure, and commercial strength of your metadata.
 
-* **Title & Description Structure:** Search-engine readability and strategic keyword placement.
-* **Commercial Intent Coverage:** Ratio of action-oriented and conceptual buyer phrases versus generic descriptors.
-* **Keyword Density & Order:** Metadata completeness, keyword count, and placement of primary terms in strategically important positions.
-* **Redundancy & Conflict Suppression:** Deductions for spammy variants, irrelevant terms, or contradictory concepts.
+The analysis considers areas such as:
 
-The Selling Score provides a **consistent metadata benchmark** that helps you identify weaknesses in your current metadata before submission.
+* **Title & Description Quality:** Clear structure and effective presentation of the asset.
+* **Commercial Relevance:** Coverage of meaningful buyer-oriented concepts.
+* **Metadata Structure:** Overall keyword organization and metadata completeness.
+* **Consistency & Relevance:** Detection of unnecessary, conflicting, or weak metadata.
 
-It is a metadata-strength measurement, **not a prediction of sales, revenue, or search position**.
+The Selling Score provides a **consistent benchmark for evaluating metadata strength** before submission.
+
+It is a metadata analysis tool — **not a prediction of sales, revenue, or search position**.
 
 ---
 
 ### Bestseller GAP Analysis
 
-**Bestseller GAP** analyzes comparable high-performing stock media and identifies commercially relevant keywords that may be missing from your file.
+**Bestseller GAP** identifies commercially relevant metadata opportunities that may be missing from your current file.
 
-Instead of guessing what buyers search for:
+Instead of guessing what buyers may be searching for:
 
-* Inspect high-relevance missing terms side by side with your current list,
-* Review their commercial demand context,
-* Identify keyword gaps against comparable market data,
+* Inspect relevant missing terms alongside your current metadata,
+* Review their available commercial context,
+* Identify potential metadata gaps,
 * Add selected terms with a single click without overriding your creative judgment.
 
-Bestseller GAP highlights **market evidence and metadata gaps**; it does not imply that adding a particular keyword will generate a specific number of sales.
+Bestseller GAP is designed to expose **useful market opportunities while leaving the final metadata decision to the contributor**.
 
 ---
 
 ### Commercial Buyer Phrases
 
-Stock buyers frequently search using multi-word phrases rather than single isolated keywords.
+Stock buyers frequently search using multi-word concepts rather than isolated keywords.
 
-The **Commercial Phrases** engine automatically extracts and prioritizes commercially relevant concepts such as:
+The **Commercial Phrases** engine automatically identifies and prioritizes commercially relevant phrases such as:
 
 * `isolated on white`
 * `copy space for text`
@@ -251,33 +255,33 @@ The **Commercial Phrases** engine automatically extracts and prioritizes commerc
 * `candid lifestyle`
 * `wildlife in natural habitat`
 
-Suggested phrases are cross-checked against available visual and contextual evidence to help prevent unsupported or irrelevant metadata.
+Suggested phrases are checked against available visual and contextual evidence to help reduce unsupported or irrelevant metadata.
 
 ---
 
 ### Market Discovery
 
-**Market Discovery** acts as an intelligent keyword scout, comparing your image subject against available market search patterns.
+**Market Discovery** acts as an intelligent keyword scout, comparing your image subject with available market search patterns.
 
-It surfaces:
+It can surface:
 
-* **Niche Opportunities:** High-demand keywords with comparatively lower asset saturation,
-* **Conceptual Search Terms:** Buyer-oriented conceptual terms (e.g., *resilience*, *teamwork*, *tranquility*) that direct visual inspection may not identify directly,
-* **Trending & Seasonal Queries:** Relevant emerging terms associated with current commercial demand data.
+* **Niche Opportunities:** Commercially relevant search opportunities identified from market data.
+* **Conceptual Search Terms:** Buyer-oriented concepts such as *resilience*, *teamwork*, or *tranquility* that may not be directly visible as physical objects.
+* **Trending & Seasonal Queries:** Emerging search opportunities associated with current commercial demand.
 
-Market Discovery provides additional **market intelligence and discovery candidates** without replacing ArtushVision AI's evidence-based keyword validation.
+Market Discovery provides additional **market intelligence and discovery candidates** without replacing ArtushVision AI's evidence-based metadata validation.
 
 ---
 
 ### SEO Sort
 
-Stock agency search systems can place additional importance on keywords appearing near the beginning of a keyword list.
+Stock agency search systems can give additional importance to keywords appearing near the beginning of a keyword list.
 
-With **SEO Sort**, ArtushVision AI reorders your keyword list with a single click:
+With **SEO Sort**, ArtushVision AI reorganizes your keyword list with a single click:
 
-* Core subjects and primary commercial keywords are moved toward the top positions,
-* Secondary and contextual descriptors are organized after primary terms,
-* Redundant or weaker synonyms are deprioritized.
+* Important subject and commercial terms are prioritized,
+* Secondary and contextual descriptors follow the primary terms,
+* Less useful or repetitive terms are moved lower in the list.
 
 **Keyboard Shortcut:** `Ctrl+Shift+S`
 
@@ -287,14 +291,14 @@ With **SEO Sort**, ArtushVision AI reorders your keyword list with a single clic
 
 Say goodbye to black-box AI suggestions.
 
-Every evaluated keyword can receive a clear, evidence-based classification:
+ArtushVision AI provides clear, actionable classifications for evaluated keywords:
 
-* **🔥 MUST USE** — Essential subject or commercially valuable terms supported by strong evidence.
-* **✅ RECOMMENDED** — Strong contextual and secondary terms that can expand discoverability.
-* **⚠️ OPTIONAL** — Broad, generic, or atmospheric terms that may be useful when keyword space allows.
-* **❌ AVOID** — Contradictory, unsupported, spammy, invalid, or geographically conflicting terms.
+* **🔥 MUST USE** — Essential or highly relevant terms supported by strong evidence.
+* **✅ RECOMMENDED** — Strong contextual terms that can expand discoverability.
+* **⚠️ OPTIONAL** — Broad or less essential terms that may be useful when keyword space allows.
+* **❌ AVOID** — Contradictory, unsupported, invalid, or geographically conflicting terms.
 
-This transparent classification allows you to review and approve large numbers of metadata candidates quickly while retaining full control over the final keyword set.
+This transparent classification allows contributors to review large numbers of metadata candidates quickly while retaining full control over the final keyword set.
 
 ---
 
@@ -302,7 +306,7 @@ This transparent classification allows you to review and approve large numbers o
 
 **Smart SEO Expand** provides a curated, non-destructive expansion of your existing keywords.
 
-Rather than flooding your file with generic synonyms, it analyzes specific gaps in your metadata and suggests a focused cluster of high-relevance additions.
+Instead of flooding your metadata with generic synonyms, it identifies relevant opportunities within your existing keyword set and presents focused additions for review.
 
 Discovery candidates are visually highlighted so you can approve them individually or in bulk.
 
@@ -310,14 +314,18 @@ Discovery candidates are visually highlighted so you can approve them individual
 
 ## Advanced Ground-Truth Verification
 
-Version 1.20 introduces multi-layered evidence checks designed to reduce unsupported metadata and help prevent avoidable agency rejections.
+Version 1.20 introduces enhanced evidence-based verification designed to reduce unsupported metadata and help prevent avoidable agency rejections.
 
 ### Geographic Verification & Reverse Geocoding
 
-* Verifies location keywords against embedded EXIF GPS coordinates when available,
-* Distinguishes verified shoot locations from loose contextual mentions,
-* Automatically identifies relevant administrative names such as Country, State/Province, City, or National Park,
-* Helps prevent misleading geographic tags on generic studio or outdoor images.
+ArtushVision AI can use available geographic evidence to validate and enrich location metadata.
+
+It:
+
+* Verifies geographic keywords against embedded EXIF GPS information when available,
+* Distinguishes verified locations from less certain contextual references,
+* Identifies relevant geographic names from available location evidence,
+* Helps prevent misleading geographic metadata on generic studio or outdoor images.
 
 ---
 
@@ -325,19 +333,25 @@ Version 1.20 introduces multi-layered evidence checks designed to reduce unsuppo
 
 For wildlife, bird, insect, botanical, and mushroom photography, biological accuracy is critical.
 
-ArtushVision AI now leverages a comprehensive biological taxonomy database:
+ArtushVision AI uses a comprehensive biological taxonomy resource to improve the reliability of biological metadata.
 
-* **Scientific Binomial Names:** Validates and provides scientific Latin names (e.g., *Panthera pardus*, *Passer domesticus*) alongside common names.
-* **Taxonomic Hierarchy:** Safely introduces relevant family, genus, and order terms while avoiding unsupported species identification.
-* **Species Confusion Safeguard:** Helps prevent unsupported identification between visually similar but biologically distinct species.
+Features include:
+
+* **Scientific Binomial Names:** Validates and provides scientific Latin names alongside common names.
+* **Taxonomic Relationships:** Provides relevant biological terms while avoiding unsupported species identification.
+* **Species Confusion Safeguard:** Helps prevent unsupported identification between visually similar but biologically distinct organisms.
 
 ---
 
 ### Human Presence & Demographics Verification
 
-* Checks human-related terms (e.g., *person*, *adult*, *portrait*, *looking at camera*) against computer-vision evidence.
-* Suppresses unsupported people-related keywords in landscapes, still lifes, and macro shots.
-* When people are detected, validates available evidence for age group, framing, and activity.
+ArtushVision AI validates human-related metadata against available computer-vision evidence.
+
+It:
+
+* Checks human-related terms such as *person*, *adult*, *portrait*, and *looking at camera*,
+* Suppresses unsupported people-related keywords in images where they are not evidenced,
+* Validates relevant human-related information when people are detected.
 
 ---
 
@@ -349,9 +363,9 @@ Version 1.20 brings native metadata management to stock videographers.
 
 Write titles, descriptions, copyright, and keywords directly into video files **without re-encoding**.
 
-* **Fast Processing:** Metadata injection operates without re-rendering the video stream.
-* **Zero Quality Loss:** Video and audio streams remain untouched by the metadata operation.
-* **Agency-Ready Metadata:** Writes QuickTime metadata atoms (`©nam`, `©des`, `©key`) together with embedded XMP metadata where supported by the target workflow.
+* **Fast Processing:** Metadata is written without re-rendering the video.
+* **Zero Quality Loss:** Video and audio streams are not re-encoded during metadata injection.
+* **Professional Metadata Support:** Writes supported QuickTime metadata and embedded XMP metadata for professional stock workflows.
 
 ---
 
@@ -369,28 +383,28 @@ Effortlessly import entire projects into the workspace:
 
 ### Multi-Agency CSV Export
 
-Export assets for multiple agencies using different CSV formatting requirements in a single workflow:
+Export assets for multiple stock agencies using different CSV formatting requirements.
 
-* Export selected assets across multiple agency templates, including Shutterstock, Adobe Stock, Pond5, and others,
+* Export selected assets using multiple agency templates,
 * Save custom column mappings and delimiter settings for recurring workflows,
-* Support agency-specific fields such as custom categories and editorial flags where required.
+* Support agency-specific fields such as categories and editorial information where required.
 
 ---
 
 ## Key Shortcuts Reference
 
-| Shortcut           | Action                                               |
-| :----------------- | :--------------------------------------------------- |
-| `Ctrl + Shift + S` | **SEO Sort** — Reorder keywords by commercial weight |
-| `Ctrl + E`         | **Smart SEO Expand** — Surface relevant gap terms    |
-| `Ctrl + Shift + V` | **Run Ground-Truth Verification**                    |
-| `Ctrl + Enter`     | **Save & Write Metadata** to selected file(s)        |
+| Shortcut           | Action                                                         |
+| :----------------- | :------------------------------------------------------------- |
+| `Ctrl + Shift + S` | **SEO Sort** — Reorganize keywords by commercial relevance     |
+| `Ctrl + E`         | **Smart SEO Expand** — Surface relevant metadata opportunities |
+| `Ctrl + Shift + V` | **Run Ground-Truth Verification**                              |
+| `Ctrl + Enter`     | **Save & Write Metadata** to selected file(s)                  |
 
 ---
 
-## What Market Intelligence Does - and Does Not Do
+## What Market Intelligence Does — and Does Not Do
 
-Market Intelligence is engineered to give contributors **evidence-based commercial data and metadata analysis to support informed decisions**.
+Market Intelligence is engineered to provide contributors with **evidence-based commercial context and metadata analysis** to support informed decisions.
 
 It does **not** guarantee:
 
@@ -399,9 +413,9 @@ It does **not** guarantee:
 * Automatic acceptance by agency inspection algorithms,
 * That adding a particular keyword will result in additional sales.
 
-Stock agency search algorithms, marketplace supply, and buyer preferences evolve constantly.
+Stock agency search systems, marketplace conditions, and buyer preferences evolve constantly.
 
-ArtushVision AI combines available market data, keyword hierarchy, commercial phrase analysis, and evidence-based verification to **help improve commercial discoverability while keeping metadata decisions under the contributor's control**.
+ArtushVision AI combines market intelligence, metadata analysis, commercial search concepts, and evidence-based verification to **help improve commercial discoverability while keeping the contributor in control of the final metadata**.
 
 ---
 
@@ -409,15 +423,15 @@ ArtushVision AI combines available market data, keyword hierarchy, commercial ph
 
 * **New:** Microstock Market Intelligence suite.
 * **New:** Dynamic Commercial Selling Score (0–100%).
-* **New:** Bestseller GAP analysis for missing commercially relevant terms.
+* **New:** Bestseller GAP analysis for commercially relevant metadata opportunities.
 * **New:** Commercial multi-word buyer phrase detection.
-* **New:** Market Discovery tool for niche and lower-competition opportunities.
+* **New:** Market Discovery for niche, conceptual, and emerging search opportunities.
 * **New:** SEO Sort algorithm with `Ctrl+Shift+S` shortcut.
 * **New:** Explainable Keyword Verdicts (🔥 MUST USE, ✅ RECOMMENDED, ⚠️ OPTIONAL, ❌ AVOID).
 * **New:** Smart SEO Expand with dedicated suggestion tray.
-* **New:** Native MP4 / MOV lossless metadata write without re-encoding.
+* **New:** Native MP4 / MOV lossless metadata writing without re-encoding.
 * **New:** Scientific binomial (Latin) taxonomy validation.
-* **New:** GPS-assisted geographic reverse validation.
+* **New:** GPS-assisted geographic validation.
 * **New:** Human-presence evidence validation.
 * **New:** Multi-template batch CSV export.
 * **New:** Universal Drag & Drop supporting mixed RAW/JPG/MP4/MOV folders.
