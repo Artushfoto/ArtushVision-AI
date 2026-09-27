@@ -179,10 +179,6 @@ h1 { text-align: center; }
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
-# What's New in ArtushVision AI v1.20
-
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu) | [Frequently Asked Questions (FAQ)](/docs/faq.html) | [Documentation Index](/index.html)
-
 <div class="notice-box">
   <strong>🎉 Free Update for v1.x Users:</strong> Version 1.20 is a free update for all active lifetime license owners. Existing users can update directly via <strong>Help → Check for Updates</strong> inside the application.
 </div>
