@@ -329,7 +329,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
     * **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
     * **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.
 
-  * ### <a href="/docs/microstock-seo-sales-engine.html">Market Intelligence for Stock Photographers.</a>
+* ### <a href="/docs/microstock-seo-sales-engine.html">Market Intelligence for Stock Photographers.</a>
 
   * **Commercial SEO Intelligence:** Combine AI semantic analysis with marketplace search intelligence to discover commercially relevant keywords, phrases, and missing opportunities.
   * **Bestseller GAP & Buyer Intent:** Identify missing commercial terms, explore buyer-oriented phrases, and discover relevant vocabulary through the interactive Synonyms & Tag Inspector.
