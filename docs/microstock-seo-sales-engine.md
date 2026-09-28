@@ -136,7 +136,7 @@ Inspect any keyword to open the interactive **Synonyms & Tag Inspector**:
 │  Hover Translation & Lookup:   Instant native translation & definition      │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
-
+![alt text](images/market-inteligence/coffee-synonyms.webp)
 
 * **Smart Swap:** Replace generic or overused words with commercially relevant expressions in one click.
 * **Buyer-Intent Autocomplete:** Explore multi-word phrases and common combinations buyers actually use when searching for that concept.
