@@ -170,7 +170,12 @@ BROAD DESCRIPTORS (36+ Supplementary Tags)
 [dry season]  [mammal]  [horizontal]  [no people]  [outdoor]
 ───────────────────────────────────────────────────────────────────────────────────────
 ```
-![alt text](images/market-inteligence/keywords-visual-dividers.webp)
+
+<a href="images/market-inteligence/keywords-visual-dividers.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/keywords-visual-dividers.webp" alt="ArtushVision Market Intelligence displaying keyword dividers in Sales and Trend windows" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+
 
 * **1-Click Strategic Ordering (`Ctrl+Shift+S`):** Moves primary subject anchors and commercially relevant phrases to the front while shifting generic descriptors (*background, texture*) toward the end.
 * **Visual Spacing Dividers:** Dedicated visual breaks after the **10th** and **35th** keywords make it easy to distinguish primary search terms from broader supporting metadata.
