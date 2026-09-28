@@ -272,6 +272,7 @@ It surfaces:
 Instead of flooding your list with generic synonyms, it evaluates your existing keywords and proposes focused, high-intent additions for review. Suggested terms are visually highlighted so you can approve them individually or accept them all at once.
 
 This layer adds targeted **buyer intent intelligence** while keeping ArtushVision AI's core evidence-based validation completely intact.
+
 ---
 
 ### [Strategic SEO Sort & Visual Dividers](microstock-seo-sales-engine.html#-strategic-seo-sort--visual-dividers)
