@@ -189,7 +189,7 @@ ArtushVision AI now brings together computer vision, commercial market intellige
 
 ---
 
-## Microstock Market Intelligence
+## [Microstock Market Intelligence](https://vision.artushfoto.eu/docs/microstock-seo-sales-engine.html)
 
 ArtushVision AI now goes far beyond generating visually descriptive tags.
 
@@ -207,7 +207,7 @@ Market Intelligence is designed to provide **evidence-based commercial context**
 
 ---
 
-### Commercial Selling Score
+### [Commercial Selling Score](https://vision.artushfoto.eu/docs/microstock-seo-sales-engine.html)
 
 Evaluate the commercial strength of your metadata before submitting to agencies.
 
