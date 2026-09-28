@@ -48,7 +48,7 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 
 ---
 
-## 🔍 Bestseller GAP Analysis & Commercial Phrases
+## 🔍 Bestseller Keyword GAP Analysis & New Commercial Phrase Suggestions
 
 ### Identify commercially relevant terms your metadata may be missing.
 
@@ -72,6 +72,8 @@ Bestseller GAP analysis compares your keyword set with commercial search pattern
 ---
 
 ## 🎯 Commercial Selling Score & Quick Wins
+
+Identifies simple, high-impact keyword and metadata improvements worth making first.
 
 ### Real-time, data-driven feedback on your metadata's commercial readiness.
 
