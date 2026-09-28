@@ -184,7 +184,7 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
 * **📍 Geographic GPS Verification:** Cross-checks camera GPS coordinates against geographic reference data to confirm countries, regions, and landmarks—helping prevent incorrect geographic associations and conflicting locations.
 * **🧬 Taxonomic & Biological Safeguards:** Validates scientific Latin binomials and common names against biological taxonomy references, protecting against cross-species confusion and helping distinguish valid scientific names from misspelled or invalid terms.
 
-
+![alt text](images/market-inteligence/tooltips.webp)
 ---
 
 ## 🚀 The Complete Optimization Workflow
