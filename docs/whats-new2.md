@@ -226,7 +226,7 @@ It is a metadata analysis tool — **not a prediction of sales, revenue, or sear
 
 ---
 
-### [Bestseller GAP Analysis](microstock-seo-sales-engine.html#-bestseller-gap-analysis--commercial-phrases)
+### [Bestseller Keyword GAP Analysis — Find Missing Keywords & Discover New Commercial Phrases](microstock-seo-sales-engine.html#-bestseller-keyword-gap-analysis--find-missing-keywords--discover-new-commercial-phrases)
 
 **Bestseller GAP** identifies commercially relevant metadata opportunities that may be missing from your current file.
 
@@ -241,7 +241,7 @@ Bestseller GAP is designed to expose **useful market opportunities while leaving
 
 ---
 
-### [Commercial Buyer Phrases](https://vision.artushfoto.eu/docs/microstock-seo-sales-engine.html#the-fundamental-shift-in-stock-keywording)
+### [Commercial Buyer Phrases](microstock-seo-sales-engine.html#the-evolution-of-microstock-keywording-from-metadata-to-market-intelligence)
 
 Stock buyers frequently search using multi-word concepts rather than isolated keywords.
 
