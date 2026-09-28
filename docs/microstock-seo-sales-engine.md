@@ -136,6 +136,8 @@ Inspect any keyword to open the interactive **Synonyms & Tag Inspector**:
 │  Hover Translation & Lookup:   Instant native translation & definition      │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
+Right Mouse Click on → `Keyword`
+
 ![alt text](images/market-inteligence/coffee-synonyms.webp)
 
 * **Smart Swap:** Replace generic or overused words with commercially relevant expressions in one click.
@@ -181,6 +183,7 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
 
 * **📍 Geographic GPS Verification:** Cross-checks camera GPS coordinates against geographic reference data to confirm countries, regions, and landmarks—helping prevent incorrect geographic associations and conflicting locations.
 * **🧬 Taxonomic & Biological Safeguards:** Validates scientific Latin binomials and common names against biological taxonomy references, protecting against cross-species confusion and helping distinguish valid scientific names from misspelled or invalid terms.
+
 
 ---
 
