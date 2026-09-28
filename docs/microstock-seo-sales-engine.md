@@ -21,14 +21,14 @@ Most keywording tools simply describe what appears in a photo. But in competitiv
 
 Traditional image recognition identifies physical objects. **Market Intelligence** translates those visual elements into the commercial search vocabulary used by designers, art directors, and media buyers.
 
-| Basic Visual Tagging *(Descriptive Only)* | ArtushVision Market Intelligence *(New recomended phrases for insertion Buyer-Oriented)* |
+| Basic Visual Tagging *(Descriptive Only)* | ArtushVision Market Intelligence *(New recommended phrases for insertion Buyer-Oriented)* |
 | :--- | :--- |
 | `bird`, `branch`, `nature`, `wildlife`, `forest` | `endemic songbird`, `bird watching`, `natural habitat`, `avian wildlife`, `tropical rainforest` |
 | `woman`, `laptop`, `desk`, `office` | `authentic remote worker`, `hybrid lifestyle`, `female entrepreneur`, `copy space for text` |
 | `coffee`, `cup`, `table`, `drink` | `artisan flat white`, `specialty coffee shop`, `morning routine`, `isolated on white` |
 
 <a href="images/market-inteligence/new-commercial-phases.webp" target="_blank" class="screenshot-link">
-  <img src="images/market-inteligence/new-commercial-phases.webp" alt="ArtushVision Market Intelligence (New recomended phrases for insertion Buyer-Oriented)" width="100%" class="screenshot-img">
+  <img src="images/market-inteligence/new-commercial-phases.webp" alt="ArtushVision Market Intelligence showing recommended buyer-oriented phrases for insertion" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -114,7 +114,10 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
 
 ---
 
-![alt text](images/market-inteligence/quick-wins.webp)
+<a href="images/market-inteligence/quick-wins.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/quick-wins.webp" alt="ArtushVision Market Intelligence panel displaying Quick Wins and recommended improvements" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 * **Live Dynamic Recalculation:** The score updates instantly as you add, remove, or reorder keywords.
 * **Balanced Coverage Guidance:** Guides you toward optimal keyword depth, discouraging both under-tagging and metadata dilution.
@@ -123,7 +126,10 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
 > **NOTE!**
 > The Selling Score is a data-driven metadata analysis benchmark designed to help evaluate commercial readiness. It is not an algorithmic prediction or guarantee of future sales or search rankings.
 
-![alt text](images/market-inteligence/commercial-hit-predictor.webp)
+<a href="images/market-inteligence/commercial-hit-predictor.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/commercial-hit-predictor.webp" alt="ArtushVision Market Intelligence tooltip displaying Commercial Hit Predictor" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 ---
 
@@ -140,7 +146,10 @@ When you start with a concise list of tags and want to expand your metadata with
 * **On-Demand Expansion:** Need more coverage? Click **`Load More Ideas`** to surface an additional batch of relevant suggestions.
 * **Non-Destructive Addition:** Approved terms are appended cleanly into your metadata, preserving your existing keyword structure and leaving your top-priority terms intact.
 
-![alt text](images/market-inteligence/smart-seo-keyword-expander.webp)
+<a href="images/market-inteligence/smart-seo-keyword-expander.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/smart-seo-keyword-expander.webp" alt="ArtushVision Market Intelligence Smart SEO Expander showing focused keyword lists scaled for optimal commercial coverage" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 ---
 
@@ -187,7 +196,12 @@ Inspect any keyword to open the interactive **Synonyms & Tag Inspector**:
 ```
 Right Mouse Click on → `Keyword`
 
-![alt text](images/market-inteligence/coffee-synonyms.webp)
+<a href="images/market-inteligence/coffee-synonyms.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/coffee-synonyms.webp" alt="ArtushVision Market Intelligence window displaying synonyms, buyer-intent autocomplete, and bestseller tag insights" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+
+
 
 * **Smart Swap:** Replace generic or overused words with commercially relevant expressions in one click.
 * **Buyer-Intent Autocomplete:** Explore multi-word phrases and common combinations buyers actually use when searching for that concept.
@@ -235,7 +249,11 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
 
 #### 🔍 Practical Illustration: Keyword Tooltips
 
-![alt text](images/market-inteligence/tooltips.webp)
+<a href="images/market-inteligence/tooltips.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/tooltips.webp" alt="ArtushVision Market Intelligence keyword tooltips examples with taxonomy and GEO confirmation" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+
 
 ---
 
