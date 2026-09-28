@@ -271,7 +271,7 @@ Market Discovery provides additional **market intelligence and discovery candida
 
 ---
 
-### [SEO Sort](microstock-seo-sales-engine.html#-smart-seo-keyword-expander)
+### [SEO Sort](microstock-seo-sales-engine.html#-strategic-seo-sort--visual-dividers)
 
 Stock agency search systems can give additional importance to keywords appearing near the beginning of a keyword list.
 
