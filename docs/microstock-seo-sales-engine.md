@@ -40,7 +40,7 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 ---
 
 1. **AI Visual Intelligence:** Accurately identifies primary subjects, secondary details, composition, and photographic mood.
-2. **Market Intelligence - Sales & Trends:** Evaluates commercial demand, connecting your image to buyer search vocabulary, multi-word phrases, and seasonal opportunities.
+2. **Market Intelligence -> Sales & Trends:** Evaluates commercial demand, connecting your image to buyer search vocabulary, multi-word phrases, and seasonal opportunities.
 3. **Context Verification:** Cross-checks camera GPS data and biological references to prevent geographic contradictions and species confusion before submission.
 
 ---
@@ -74,15 +74,42 @@ Bestseller GAP analysis compares your keyword set with commercial search pattern
 
 The **Keyword Quality (0–100%)** gives you an immediate benchmark of your metadata's commercial strength, keyword balance, and completeness.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  Keyword Quality: [████████████████░░░░] 82%                                │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Quick Wins (Recommended Improvements)                                      │
-│  ➕ Add: endemic songbird · natural habitat · avian wildlife                │
-│  ➖ Remove: background (redundant) · animalia (overly broad)                │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #d0d7de; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: #24292f; background-color: #f6f8fa;">
+  <!-- Řádek 1: Keyword Quality -->
+  <tr>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #d0d7de; background-color: #ffffff; border-top-left-radius: 6px; border-top-right-radius: 6px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+        <strong style="color: #1f2328;">Keyword Quality:</strong>
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <!-- Progress bar -->
+          <div style="width: 140px; background-color: #eaeef2; border-radius: 4px; overflow: hidden; height: 10px; display: inline-block;">
+            <div style="width: 82%; background-color: #2da44e; height: 100%; border-radius: 4px;"></div>
+          </div>
+          <span style="font-weight: 600; color: #2da44e;">82%</span>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <!-- Řádek 2: Quick Wins -->
+  <tr>
+    <td style="padding: 14px 16px; background-color: #f6f8fa; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px;">
+      <div style="font-weight: 600; color: #1f2328; margin-bottom: 8px;">Quick Wins (Recommended Improvements)</div>
+      <div style="margin-bottom: 6px; color: #1a7f37;">
+        <span style="display: inline-block; margin-right: 4px;">➕</span> <strong>Add:</strong> 
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">endemic songbird</code> · 
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">natural habitat</code> · 
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">avian wildlife</code>
+      </div>
+      <div style="color: #cf222e;">
+        <span style="display: inline-block; margin-right: 4px;">➖</span> <strong>Remove:</strong> 
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">background (redundant)</code> · 
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">animalia (overly broad)</code>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
 
 ![alt text](images/market-inteligence/quick-wins.webp)
 
@@ -202,13 +229,15 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
 * **📍 Geographic GPS Verification:** Cross-checks camera GPS coordinates against geographic reference data to confirm countries, regions, and landmarks—helping prevent incorrect geographic associations and conflicting locations.
 * **🧬 Taxonomic & Biological Safeguards:** Validates scientific Latin binomials and common names against biological taxonomy references, protecting against cross-species confusion and helping distinguish valid scientific names from misspelled or invalid terms.
 
+#### 🔍 Practical Illustration: Keyword Tooltips
+
 ![alt text](images/market-inteligence/tooltips.webp)
 
 ---
 
 ## 🚀 The Complete Optimization Workflow
 
-    1. Drop in your photos or videos. AI analyzes the subject, context, and photographic style.
+    1. Drop in your photos or videos into ArtushVision AI. AI Analysis: Automatically analyzes the subject, context, and photographic style.
     2. GPS data and taxonomy are cross-checked. Conflicting tags are flagged for 1-click removal.
     3. Add missing buyer phrases and commercial opportunities from the recommendations panel.
     4. Strategic SEO Sort, one click places high-impact commercial anchors into the prioritized TOP 10 search zone.
