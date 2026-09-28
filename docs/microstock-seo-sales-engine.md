@@ -207,7 +207,6 @@ Right Mouse Click on → `Keyword`
 <div style="height: 15px;"></div>
 
 
-
 * **Smart Swap:** Replace generic or overused words with commercially relevant expressions in one click.
 * **Buyer-Intent Autocomplete:** Explore multi-word phrases and common combinations buyers actually use when searching for that concept.
 * **Bestseller Tag Insights:** Discover commercially relevant tags associated with successful stock imagery in that subject area.
@@ -258,7 +257,6 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
   <img src="images/market-inteligence/tooltips.webp" alt="ArtushVision Market Intelligence keyword tooltips examples with taxonomy and GEO confirmation" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
-
 
 ---
 
