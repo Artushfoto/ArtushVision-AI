@@ -187,7 +187,7 @@ BROAD DESCRIPTORS (36+ Supplementary Tags)
 
 ### Move beyond basic thesaurus lookups to real marketplace vocabulary.
 
-Inspect any keyword to open the interactive **Synonyms & Tag Inspector**:
+Right Mouse Click on any keyword to open the interactive **Synonyms & Tag Inspector**:
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
