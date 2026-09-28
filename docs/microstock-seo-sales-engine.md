@@ -27,7 +27,7 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 | `woman`, `laptop`, `desk`, `office` | `authentic remote worker`, `hybrid lifestyle`, `female entrepreneur`, `copy space for text` |
 | `coffee`, `cup`, `table`, `drink` | `artisan flat white`, `specialty coffee shop`, `morning routine`, `isolated on white` |
 
-![alt text](images/market-inteligence/commercial-hit-predictor.webp)
+![alt text](images/market-inteligence/new-commercial-phases.webp)
 
 ---
 
