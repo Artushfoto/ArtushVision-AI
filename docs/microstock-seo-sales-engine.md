@@ -21,7 +21,7 @@ Most keywording tools simply describe what appears in a photo. But in competitiv
 
 Traditional image recognition identifies physical objects. **Market Intelligence** translates those visual elements into the commercial search vocabulary used by designers, art directors, and media buyers.
 
-| Basic Visual Tagging *(Descriptive Only)* | ArtushVision Market Intelligence *(Buyer-Oriented )* |
+| Basic Visual Tagging *(Descriptive Only)* | ArtushVision Market Intelligence *(New recomended phrases for insertion Buyer-Oriented)* |
 | :--- | :--- |
 | `bird`, `branch`, `nature`, `wildlife`, `forest` | `endemic songbird`, `bird watching`, `natural habitat`, `avian wildlife`, `tropical rainforest` |
 | `woman`, `laptop`, `desk`, `office` | `authentic remote worker`, `hybrid lifestyle`, `female entrepreneur`, `copy space for text` |
@@ -103,22 +103,13 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
 
 When you start with a concise list of tags and want to expand your metadata without manual brainstorming or keyword repetition, **Smart SEO Expander** presents an interactive tray of commercially relevant candidates tailored to your asset.
 
-<!-- SCREENSHOT: SMART SEO EXPANDER DIALOG -->
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  Smart SEO Expander — Select Recommended Keywords                           │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  [☑ avian]  [☑ wildlife sanctuary]  [☑ nature reserve]  [☑ eco tourism]  │
-│  [☑ birding] [☐ feathers]           [☑ ornithological]  [☑ jungle canopy]│
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Selected: 6 of 8 suggestions            [🔄 Load More]  [✅ Add Selected] │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+---
 
 * **Curated Selection Dialog (`Ctrl+Shift+E`):** Opens a focused review window displaying relevant candidate terms derived from commercial search context.
 * **Interactive Control:** Check or uncheck suggestions individually or in batches, ensuring every added keyword meets your standards before insertion.
 * **On-Demand Expansion:** Need more coverage? Click **`Load More Ideas`** to surface an additional batch of relevant suggestions.
 * **Non-Destructive Addition:** Approved terms are appended cleanly into your metadata, preserving your existing keyword structure and leaving your top-priority terms intact.
+
 ![alt text](images/market-inteligence/smart-seo-keyword-expander.webp)
 
 ---
