@@ -1,3 +1,4 @@
+<!-- --- layout.html --- -->
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   <head>
@@ -28,5 +29,18 @@
     <div class="container-lg px-3 my-5 markdown-body">
       {{ content }}
     </div>
+
+    <!-- AnchorJS pro automatické generování kotev u nadpisů -->
+    <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        anchors.options = {
+          placement: 'left', // Umístění ikony (left / right)
+          icon: '#'          // Znak pro kotvu
+        };
+        anchors.add('.markdown-body h2, .markdown-body h3');
+      });
+    </script>
   </body>
 </html>
+<!-- --- layout.html --- -->
