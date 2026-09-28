@@ -92,7 +92,32 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
 > [!NOTE]
 > The Selling Score is a data-driven metadata analysis benchmark designed to help evaluate commercial readiness. It is not an algorithmic prediction or guarantee of future sales or search rankings.
 
-Market potential
+![alt text](images/market-inteligence/commercial-hit-predictor.webp)
+
+---
+
+## 🚀 Smart SEO Keyword Expander
+
+### Scale focused keyword lists to optimal commercial coverage in seconds.
+
+When you start with a concise list of tags and want to expand your metadata without manual brainstorming or keyword repetition, **Smart SEO Expander** presents an interactive tray of commercially relevant candidates tailored to your asset.
+
+<!-- SCREENSHOT: SMART SEO EXPANDER DIALOG -->
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  Smart SEO Expander — Select Recommended Keywords                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  [☑ avian]  [☑ wildlife sanctuary]  [☑ nature reserve]  [☑ eco tourism]    │
+│  [☑ birding] [☐ feathers]           [☑ ornithological]  [☑ jungle canopy]  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Selected: 6 of 8 suggestions            [🔄 Load More]  [✅ Add Selected]   │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+* **Curated Selection Dialog (`Ctrl+Shift+E`):** Opens a focused review window displaying relevant candidate terms derived from commercial search context.
+* **Interactive Control:** Check or uncheck suggestions individually or in batches, ensuring every added keyword meets your standards before insertion.
+* **On-Demand Expansion:** Need more coverage? Click **`Load More Ideas`** to surface an additional batch of relevant suggestions.
+* **Non-Destructive Addition:** Approved terms are appended cleanly into your metadata, preserving your existing keyword structure and leaving your top-priority terms intact.
 
 ---
 
@@ -197,7 +222,7 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
 
 ---
 
-## What Market Intelligence Does — and Does Not Do
+## What Market Intelligence Does and what Does Not Do
 
 Market Intelligence is engineered to give stock contributors **data-driven commercial context, buyer search patterns, and metadata quality diagnostics**.
 
