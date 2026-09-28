@@ -66,8 +66,6 @@ Bestseller GAP analysis compares your keyword set with commercial search pattern
 * **Suggestion Control:** Adjust the breadth of recommendations from close literal matches to broader conceptual opportunities.
 * **Market Discovery:** Surface emerging search queries, modern terminology, and seasonal trends tailored specifically to your visual subject.
 
-![alt text](images/market-inteligence/new-commercial-phases.webp)
-
 ---
 
 ## 🎯 Commercial Selling Score & Quick Wins
@@ -81,8 +79,8 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
 │  Keyword Quality: [████████████████░░░░] 82%                                │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │  Quick Wins (Recommended Improvements)                                      │
-│  ➕ Add: endemic songbird · natural habitat · avian wildlife                │
-│  ➖ Remove: background (redundant) · animalia (overly broad)                │
+│  ➕ Add: endemic songbird · natural habitat · avian wildlife               │
+│  ➖ Remove: background (redundant) · animalia (overly broad)               │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -108,12 +106,12 @@ When you start with a concise list of tags and want to expand your metadata with
 <!-- SCREENSHOT: SMART SEO EXPANDER DIALOG -->
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  Smart SEO Expander — Select Recommended Keywords                          │
+│  Smart SEO Expander — Select Recommended Keywords                           │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│  [☑ avian]  [☑ wildlife sanctuary]  [☑ nature reserve]  [☑ eco tourism]    │
-│  [☑ birding] [☐ feathers]           [☑ ornithological]  [☑ jungle canopy]  │
+│  [☑ avian]  [☑ wildlife sanctuary]  [☑ nature reserve]  [☑ eco tourism]   │
+│  [☑ birding] [☐ feathers]           [☑ ornithological]  [☑ jungle canopy] │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│  Selected: 6 of 8 suggestions            [🔄 Load More]  [✅ Add Selected]   │
+│  Selected: 6 of 8 suggestions            [🔄 Load More]  [✅ Add Selected] │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
