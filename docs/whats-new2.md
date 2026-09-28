@@ -207,7 +207,7 @@ Market Intelligence is designed to provide **evidence-based commercial context**
 
 ---
 
-### [Commercial Selling Score](microstock-seo-sales-engine.html#commercial-selling-score--quick-wins)
+### [Commercial Selling Score](microstock-seo-sales-engine.html#-commercial-selling-score--quick-wins)
 
 Evaluate the commercial strength of your metadata before submitting to agencies.
 
@@ -226,7 +226,7 @@ It is a metadata analysis tool — **not a prediction of sales, revenue, or sear
 
 ---
 
-### [Bestseller GAP Analysis](microstock-seo-sales-engine.html#bestseller-gap-analysis--commercial-phrases)
+### [Bestseller GAP Analysis](microstock-seo-sales-engine.html#-bestseller-gap-analysis--commercial-phrases)
 
 **Bestseller GAP** identifies commercially relevant metadata opportunities that may be missing from your current file.
 
@@ -241,7 +241,7 @@ Bestseller GAP is designed to expose **useful market opportunities while leaving
 
 ---
 
-### [Commercial Buyer Phrases](microstock-seo-sales-engine.html#bestseller-gap-analysis--commercial-phrases)
+### [Commercial Buyer Phrases](https://vision.artushfoto.eu/docs/microstock-seo-sales-engine.html#the-fundamental-shift-in-stock-keywording)
 
 Stock buyers frequently search using multi-word concepts rather than isolated keywords.
 
@@ -257,7 +257,7 @@ Suggested phrases are checked against available visual and contextual evidence t
 
 ---
 
-### [Market Discovery](microstock-seo-sales-engine.html#the-three-pillars-of-artushvision-market-intelligence)
+### [Market Discovery](microstock-seo-sales-engine.html#-smart-seo-keyword-expander)
 
 **Market Discovery** acts as an intelligent keyword scout, comparing your image subject with available market search patterns.
 
@@ -271,7 +271,7 @@ Market Discovery provides additional **market intelligence and discovery candida
 
 ---
 
-### [SEO Sort](microstock-seo-sales-engine.html#strategic-seo-sort--visual-dividers)
+### [SEO Sort](microstock-seo-sales-engine.html#-smart-seo-keyword-expander)
 
 Stock agency search systems can give additional importance to keywords appearing near the beginning of a keyword list.
 
@@ -285,7 +285,7 @@ With **SEO Sort**, ArtushVision AI reorganizes your keyword list with a single c
 
 ---
 
-### [Explainable Keyword Verdicts](microstock-seo-sales-engine.html#explainable-verdicts--1-click-clean-up)
+### [Explainable Keyword Verdicts](microstock-seo-sales-engine.html#%EF%B8%8F-explainable-verdicts--1-click-clean-up)
 
 Say goodbye to black-box AI suggestions.
 
@@ -300,7 +300,7 @@ This transparent classification allows contributors to review large numbers of m
 
 ---
 
-### [Synonym & Market Suggestions](microstock-seo-sales-engine.html#synonyms--buyer-intent-inspector)
+### [Synonym & Market Suggestions](microstock-seo-sales-engine.html#-synonyms--buyer-intent-inspector)
 
 The **Synonym Window** goes beyond traditional thesaurus-style suggestions by connecting each keyword with relevant marketplace language.
 
@@ -313,7 +313,7 @@ This gives contributors a quick way to explore **how a keyword is used in the st
 
 ---
 
-### [Smart SEO Expand](microstock-seo-sales-engine.html#smart-seo-keyword-expander)
+### [Smart SEO Expand](microstock-seo-sales-engine.html#-smart-seo-keyword-expander)
 
 **Smart SEO Expand** provides a curated, non-destructive expansion of your existing keywords.
 
@@ -323,7 +323,7 @@ Discovery candidates are visually highlighted so you can approve them individual
 
 ---
 
-## [Advanced Ground-Truth Verification](microstock-seo-sales-engine.html#ground-truth-verification-geo--taxonomic-safeguards)
+## [Advanced Ground-Truth Verification](microstock-seo-sales-engine.html#-ground-truth-verification-geo--taxonomic-safeguards)
 
 Version 1.20 introduces multi-layered evidence checks designed to validate metadata against real-world facts and reduce unsupported or misleading keywords.
 
