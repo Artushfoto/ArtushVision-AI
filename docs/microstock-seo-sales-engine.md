@@ -117,7 +117,7 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
 * **Balanced Coverage Guidance:** Guides you toward optimal keyword depth, discouraging both under-tagging and metadata dilution.
 * **1-Click Quick Wins:** The diagnostic panel separates recommendations into high-impact terms to **Add (+)** and weak or redundant terms to **Remove (−)** with a single click.
 
-> [!NOTE]
+> **NOTE!**
 > The Selling Score is a data-driven metadata analysis benchmark designed to help evaluate commercial readiness. It is not an algorithmic prediction or guarantee of future sales or search rankings.
 
 ![alt text](images/market-inteligence/commercial-hit-predictor.webp)
