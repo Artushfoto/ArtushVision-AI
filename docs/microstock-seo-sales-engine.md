@@ -15,7 +15,7 @@ Most keywording tools simply describe what appears in a photo. But in competitiv
 
 ---
 
-## The Fundamental Shift in Stock Keywording
+## The Evolution of Microstock Keywording: From Metadata to Market Intelligence
 
 ### From “What is visible in the photo” to “What buyers actually search for”
 
