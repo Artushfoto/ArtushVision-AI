@@ -39,8 +39,8 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 
 ---
 
-1. **Visual Intelligence:** Accurately identifies primary subjects, secondary details, composition, and photographic mood.
-2. **Market Intelligence:** Evaluates commercial demand, connecting your image to buyer search vocabulary, multi-word phrases, and seasonal opportunities.
+1. ** AI Visual Intelligence:** Accurately identifies primary subjects, secondary details, composition, and photographic mood.
+2. **Market Intelligence - Sales & Trends:** Evaluates commercial demand, connecting your image to buyer search vocabulary, multi-word phrases, and seasonal opportunities.
 3. **Context Verification:** Cross-checks camera GPS data and biological references to prevent geographic contradictions and species confusion before submission.
 
 ---
@@ -118,6 +118,7 @@ When you start with a concise list of tags and want to expand your metadata with
 * **Interactive Control:** Check or uncheck suggestions individually or in batches, ensuring every added keyword meets your standards before insertion.
 * **On-Demand Expansion:** Need more coverage? Click **`Load More Ideas`** to surface an additional batch of relevant suggestions.
 * **Non-Destructive Addition:** Approved terms are appended cleanly into your metadata, preserving your existing keyword structure and leaving your top-priority terms intact.
+![alt text](images/market-inteligence/smart-seo-keyword-expander.webp)
 
 ---
 
