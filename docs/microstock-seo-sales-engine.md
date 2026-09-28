@@ -238,17 +238,17 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
 
 ## 🚀 The Complete AI Describing and Optimization Workflow
 
-1. Visual Understanding: Drag and drop photos or videos into ArtushVision AI. Run AI analysis to automatically analyze the subject, context, and photographic style.
+**1. Visual Understanding:** Drag and drop photos or videos into ArtushVision AI. Run AI analysis to automatically analyze the subject, context, and photographic style.
 
-2. Factual Verification: GPS data and taxonomy are cross-checked, and conflicting tags are flagged for 1-click removal.
+**2. Factual Verification:** GPS data and taxonomy are cross-checked, and conflicting tags are flagged for 1-click removal.
 
-3. Market Intelligence and GAP: Add missing buyer phrases and commercial opportunities directly from the recommendations panel.
+**3. Market Intelligence and GAP:** Add missing buyer phrases and commercial opportunities directly from the recommendations panel.
 
-4. Strategic SEO Sort: One click places high-impact commercial anchors into the prioritized TOP 10 search zone.
+**4. Strategic SEO Sort:** One click places high-impact commercial anchors into the prioritized TOP 10 search zone.
 
-5. Direct Metadata Export: Review your Selling Score and write directly to IPTC/XMP or inject into MP4/MOV losslessly.
+**5. Direct Metadata Export:** Review your Selling Score and write directly to IPTC/XMP or inject into MP4/MOV losslessly.
 
-6. Built-in FTP Engine: Use the built-in FTP engine to upload files to multiple microstock agencies.
+**6. Built-in FTP Engine:** Use the built-in FTP engine to upload files to multiple microstock agencies.
 
 ---
 
