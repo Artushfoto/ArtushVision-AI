@@ -79,8 +79,8 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
 │  Keyword Quality: [████████████████░░░░] 82%                                │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │  Quick Wins (Recommended Improvements)                                      │
-│  ➕ Add: endemic songbird · natural habitat · avian wildlife               │
-│  ➖ Remove: background (redundant) · animalia (overly broad)               │
+│  ➕ Add: endemic songbird · natural habitat · avian wildlife                │
+│  ➖ Remove: background (redundant) · animalia (overly broad)                │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -108,8 +108,8 @@ When you start with a concise list of tags and want to expand your metadata with
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │  Smart SEO Expander — Select Recommended Keywords                           │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│  [☑ avian]  [☑ wildlife sanctuary]  [☑ nature reserve]  [☑ eco tourism]   │
-│  [☑ birding] [☐ feathers]           [☑ ornithological]  [☑ jungle canopy] │
+│  [☑ avian]  [☑ wildlife sanctuary]  [☑ nature reserve]  [☑ eco tourism]  │
+│  [☑ birding] [☐ feathers]           [☑ ornithological]  [☑ jungle canopy]│
 ├─────────────────────────────────────────────────────────────────────────────┤
 │  Selected: 6 of 8 suggestions            [🔄 Load More]  [✅ Add Selected] │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -132,12 +132,13 @@ Stock platforms may place significant weight on keyword position, making the ord
 ```text
 TOP 10 PRIORITY ZONE (Primary Commercial Anchors)
 [african elephant]  [safari wildlife]  [kenya savanna]  [endangered species]  [tusker]
-─────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────────────────────────
 SECONDARY SEARCH TERMS (11–35 Contextual & Descriptive Metadata)
 [natural habitat]  [game reserve]  [herbivore]  [wilderness]  [golden hour] ...
-─────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────────────────────────
 BROAD DESCRIPTORS (36+ Supplementary Tags)
 [dry season]  [mammal]  [horizontal]  [no people]  [outdoor]
+───────────────────────────────────────────────────────────────────────────────────────
 ```
 
 * **1-Click Strategic Ordering (`Ctrl+Shift+S`):** Moves primary subject anchors and commercially relevant phrases to the front while shifting generic descriptors (*background, texture*) toward the end.
