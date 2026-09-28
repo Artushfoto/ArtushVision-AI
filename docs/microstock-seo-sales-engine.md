@@ -27,7 +27,10 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 | `woman`, `laptop`, `desk`, `office` | `authentic remote worker`, `hybrid lifestyle`, `female entrepreneur`, `copy space for text` |
 | `coffee`, `cup`, `table`, `drink` | `artisan flat white`, `specialty coffee shop`, `morning routine`, `isolated on white` |
 
-![alt text](images/market-inteligence/new-commercial-phases.webp)
+<a href="images/market-inteligence/new-commercial-phases.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/new-commercial-phases.webp" alt="ArtushVision Market Intelligence (New recomended phrases for insertion Buyer-Oriented)" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 ---
 
