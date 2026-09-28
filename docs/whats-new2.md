@@ -257,21 +257,24 @@ Suggested phrases are checked against available visual and contextual evidence t
 
 ---
 
-### [Market Discovery](microstock-seo-sales-engine.html#-smart-seo-keyword-expander)
+### [Market Discovery - Smart SEO Keyword Expander](microstock-seo-sales-engine.html#-smart-seo-keyword-expander)
 
-**Market Discovery** acts as an intelligent keyword scout, comparing your image subject with available market search patterns.
+**Market Discovery** acts as an intelligent keyword scout, cross-referencing your image subject with real-world buyer search trends.
 
-It can surface:
+It surfaces:
 
-* **Niche Opportunities:** Commercially relevant search opportunities identified from market data.
-* **Conceptual Search Terms:** Buyer-oriented concepts such as *resilience*, *teamwork*, or *tranquility* that may not be directly visible as physical objects.
-* **Trending & Seasonal Queries:** Emerging search opportunities associated with current commercial demand.
+* **High-Value Niches:** Commercially viable search targets identified from microstock demand.
+* **Conceptual Terms:** Metaphorical and buyer-oriented themes (such as *resilience*, *teamwork*, or *tranquility*) that aren't strictly visible physical objects.
+* **Seasonal & Rising Queries:** Timely search trends aligned with current commercial interest.
 
-Market Discovery provides additional **market intelligence and discovery candidates** without replacing ArtushVision AI's evidence-based metadata validation.
+**Smart SEO Expand** then delivers a curated, non-destructive extension of your metadata.
 
+Instead of flooding your list with generic synonyms, it evaluates your existing keywords and proposes focused, high-intent additions for review. Suggested terms are visually highlighted so you can approve them individually or accept them all at once.
+
+This layer adds targeted **buyer intent intelligence** while keeping ArtushVision AI's core evidence-based validation completely intact.
 ---
 
-### [SEO Sort](microstock-seo-sales-engine.html#-strategic-seo-sort--visual-dividers)
+### [Strategic SEO Sort & Visual Dividers](microstock-seo-sales-engine.html#-strategic-seo-sort--visual-dividers)
 
 Stock agency search systems can give additional importance to keywords appearing near the beginning of a keyword list.
 
@@ -313,17 +316,7 @@ This gives contributors a quick way to explore **how a keyword is used in the st
 
 ---
 
-### [Smart SEO Expand](microstock-seo-sales-engine.html#-smart-seo-keyword-expander)
-
-**Smart SEO Expand** provides a curated, non-destructive expansion of your existing keywords.
-
-Instead of flooding your metadata with generic synonyms, it identifies relevant opportunities within your existing keyword set and presents focused additions for review.
-
-Discovery candidates are visually highlighted so you can approve them individually or in bulk.
-
----
-
-## [Advanced Ground-Truth Verification](microstock-seo-sales-engine.html#-ground-truth-verification-geo--taxonomic-safeguards)
+## [Ground-Truth Verification: Geo & Taxonomic Safeguards](microstock-seo-sales-engine.html#-ground-truth-verification-geo--taxonomic-safeguards)
 
 Version 1.20 introduces multi-layered evidence checks designed to validate metadata against real-world facts and reduce unsupported or misleading keywords.
 
