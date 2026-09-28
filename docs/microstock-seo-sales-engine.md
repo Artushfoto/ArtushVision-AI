@@ -39,7 +39,7 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 
 ---
 
-1. ** AI Visual Intelligence:** Accurately identifies primary subjects, secondary details, composition, and photographic mood.
+1. **AI Visual Intelligence:** Accurately identifies primary subjects, secondary details, composition, and photographic mood.
 2. **Market Intelligence - Sales & Trends:** Evaluates commercial demand, connecting your image to buyer search vocabulary, multi-word phrases, and seasonal opportunities.
 3. **Context Verification:** Cross-checks camera GPS data and biological references to prevent geographic contradictions and species confusion before submission.
 
