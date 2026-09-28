@@ -468,13 +468,13 @@ ArtushVision AI combines market intelligence, metadata analysis, commercial sear
       if (analyticsLoaded) return;
       analyticsLoaded = true;
 
-      // 1. Dynamické vložení externího skriptu gtag.js s NOVÝM ID
+      // 1. Dynamické vložení externího skriptu gtag.js s NOVÝm ID
       var gtagScript = document.createElement('script');
       gtagScript.async = true;
       gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ5';
       document.head.appendChild(gtagScript);
 
-      // 2. Inicializace nastavení Google Analytics s NOVÝM ID
+      // 2. Inicializace nastavení Google Analytics s NOVÝm ID
       window.dataLayer = window.dataLayer || [];
       window.gtag = function(){ dataLayer.push(arguments); }
       gtag('js', new Date());
