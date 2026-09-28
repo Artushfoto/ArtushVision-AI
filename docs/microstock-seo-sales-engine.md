@@ -31,7 +31,7 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 
 ---
 
-## The Three Pillars of ArtushVision Intelligence
+## The Three Pillars of ArtushVision Market Intelligence
 
 ```mermaid
 flowchart LR
@@ -186,20 +186,16 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
 * **🧬 Taxonomic & Biological Safeguards:** Validates scientific Latin binomials and common names against biological taxonomy references, protecting against cross-species confusion and helping distinguish valid scientific names from misspelled or invalid terms.
 
 ![alt text](images/market-inteligence/tooltips.webp)
+
 ---
 
 ## 🚀 The Complete Optimization Workflow
 
-```mermaid
-flowchart TD
-    Step1["1. Visual Understanding<br>Drop in your photos or videos. AI analyzes the subject, context, and photographic style."]
-    Step2["2. Factual Verification<br>GPS data and taxonomy are cross-checked. Conflicting tags are flagged for 1-click removal."]
-    Step3["3. Market Intelligence and GAP<br>Add missing buyer phrases and commercial opportunities from the recommendations panel."]
-    Step4["4. Strategic SEO Sort<br>One click places high-impact commercial anchors into the prioritized TOP 10 search zone."]
-    Step5["5. Direct Metadata Export<br>Review your Selling Score and write directly to IPTC/XMP or inject into MP4/MOV losslessly."]
-
-    Step1 --> Step2 --> Step3 --> Step4 --> Step5
-```
+    1. Drop in your photos or videos. AI analyzes the subject, context, and photographic style.
+    2. GPS data and taxonomy are cross-checked. Conflicting tags are flagged for 1-click removal.
+    3. Add missing buyer phrases and commercial opportunities from the recommendations panel.
+    4. Strategic SEO Sort, one click places high-impact commercial anchors into the prioritized TOP 10 search zone.
+    5. Review your Selling Score and write directly to IPTC/XMP or inject into MP4/MOV losslessly.
 
 ---
 
