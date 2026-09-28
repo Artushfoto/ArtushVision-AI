@@ -348,7 +348,7 @@ Version 1.20 brings native metadata management to stock videographers.
 
 ### Lossless MP4 & MOV Direct Injection
 
-Write titles, descriptions, copyright, and keywords directly into video files **without re-encoding**.
+**Lossless Video Metadata**: Write titles, descriptions, copyright, and keywords directly into video containers without **re-encoding**. Supported stock agencies will read them automatically, exactly like photos.
 
 * **Fast Processing:** Metadata is written without re-rendering the video.
 * **Zero Quality Loss:** Video and audio streams are not re-encoded during metadata injection.
@@ -389,7 +389,7 @@ Export assets for multiple stock agencies using different CSV formatting require
 
 ---
 
-## [What Market Intelligence Does — and Does Not Do](microstock-seo-sales-engine.html#what-market-intelligence-does-and-what-does-not-do)
+## [What Market Intelligence Does and Does Not Do](microstock-seo-sales-engine.html#what-market-intelligence-does-and-what-does-not-do)
 
 Market Intelligence is engineered to provide contributors with **evidence-based commercial context and metadata analysis** to support informed decisions.
 
