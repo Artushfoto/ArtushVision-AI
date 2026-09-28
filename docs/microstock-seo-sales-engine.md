@@ -68,6 +68,7 @@ Bestseller GAP analysis compares your keyword set with commercial search pattern
 * **Suggestion Control:** Adjust the breadth of recommendations from close literal matches to broader conceptual opportunities.
 * **Market Discovery:** Surface emerging search queries, modern terminology, and seasonal trends tailored specifically to your visual subject.
 
+![alt text](images/market-inteligence/commercial-hit-predictor.webp)
 ---
 
 ## 🎯 Commercial Selling Score & Quick Wins
