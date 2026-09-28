@@ -214,8 +214,6 @@ Right Mouse Click on → `Keyword`
 * **Bestseller Tag Insights:** Discover commercially relevant tags associated with successful stock imagery in that subject area.
 * **Custom User Dictionary:** Save regional landmarks, unique local species, or personal trademarks so they are never flagged as unfamiliar words.
 
-Synonyms
-
 ---
 
 ## 🛡️ Explainable Verdicts & 1-Click Clean-Up
@@ -278,9 +276,9 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
 
 ---
 
-## What Market Intelligence Does and what Does Not Do
+## What Microstock Market Intelligence Does and what Does Not Do
 
-Market Intelligence is engineered to give stock contributors **data-driven commercial context, buyer search patterns, and metadata quality diagnostics**.
+Microstock Market Intelligence is engineered to give stock contributors **data-driven commercial context, buyer search patterns, and metadata quality diagnostics**.
 
 It does **not** guarantee:
 * Specific sales volumes, guaranteed download counts, or revenue targets.
