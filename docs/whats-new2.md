@@ -350,9 +350,12 @@ A comprehensive GPS assignment and editing workflow has been added directly to t
   When an image lacks camera GPS metadata, an **`📍 Add GPS`** button appears in the bottom toolbar of the Detail window (or **`✏ Edit GPS`** for manually assigned coordinates). Clicking it launches an interactive map dialog where you can locate the spot using instant search, by clicking anywhere on the map, dragging the marker pin, or manually entering precise latitude and longitude coordinates. You can toggle between **Google Maps (Hybrid, Satellite, Roadmap)** and **OpenStreetMap** layers, and click the **`👁️ Street View`** button to open a full 360° panorama in your browser for immediate visual confirmation of the location before saving.
 
 * **Why Add GPS (Geo Filter & SEO Relevance):**  
-  Adding GPS coordinates provides much more than just standard EXIF/XMP metadata (`GPSProcessingMethod=MANUAL`), it supplies concrete **Geographical Evidence** for the ArtushVision AI decision pipeline. The moment location is confirmed, a photo geo-context is built immediately, running all existing keywords through the **Geo Filter**:
+  Adding GPS coordinates provides much more than just standard EXIF/XMP metadata, it supplies concrete **Geographical Evidence** for the ArtushVision AI decision pipeline. The moment location is confirmed, a photo geo-context is built immediately, running all existing keywords through the **Geo Filter**:
+  
   1. Names of countries, cities, states, regions, and prominent landmarks/POIs matching the coordinates are instantly verified as **geo-confirmed (green bubbles)**.
+  
   2. Confirmed location terms receive maximum weight in SEO and KWQ scoring and are safeguarded against accidental removal or demotion during keyword sorting.
+  
   3. This dramatically improves photo discoverability and relevance on stock agency search engines without requiring a camera with built-in GPS hardware.
 
 ---
