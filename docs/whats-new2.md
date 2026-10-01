@@ -360,6 +360,56 @@ A comprehensive GPS assignment and editing workflow has been added directly to t
 
 ---
 
+### 📈 Automatic GPX Track Geotagging & Time Synchronization
+
+You can now reconstruct the exact geographical positions of entire photo sessions directly from GPS track recordings logged by outdoor GPS devices, fitness trackers, smartwatches, or smartphone hiking apps:
+
+* **Unified GPX Mode in GPS Picker:**  
+  Inside the GPS Picker dialog, simply switch the mode toggle from **`📍 Manual GPS`** to **`📈 GPX Track`**. Clicking **`Select GPX file...`** loads standard GPX tracks (v1.0 & v1.1) with elevation and UTC timestamps, rendering the entire route polyline directly onto the interactive map.
+
+* **High-Precision Time-Matching Algorithm:**  
+  Photos are matched to the track by synchronizing image capture timestamps with recorded trackpoints using an ultra-fast binary search (`bisect`) engine with sub-second linear position and elevation interpolation.
+
+* **Camera Clock Drift & Time Zone Correction:**  
+  Cameras often have clocks set incorrectly or set to local daylight saving time without embedded UTC offsets. The GPX panel includes:
+  * **Camera Time Zone Selector:** Full timezone offset range from `UTC-12:00` to `UTC+14:00` with automatic detection of your system timezone.
+  * **Clock Drift Fine-Tuning:** Precise second-by-second drift adjustment (`+/-` seconds) to compensate for camera clocks that were slightly ahead or behind real GPS time.
+
+* **Smart Gap Protection (No False Positions):**  
+  To prevent assigning erroneous interpolated positions across pauses in tracking (e.g., flights, tunnels, indoor breaks, or vehicle drives), the engine enforces strict limits:
+  * **Max Time Gap:** Adjustable threshold (e.g., 5 min) beyond which timestamps are rejected rather than blindly interpolated.
+  * **Max Distance Jump:** Filters out GPS telemetry anomalies and sudden teleportation artifacts.
+  * **Quality Categorization:** Matches are classified into **MATCHED** (reliable), **UNCERTAIN** (borderline), and **UNMATCHED**. An optional checkbox allows you to selectively include or exclude uncertain points.
+
+* **Visual Map Inspection of Photo Locations:**  
+  Before committing any metadata to your files, all matched photos appear as interactive marker pins along the GPX polyline on Leaflet/Google Maps. Clicking any pin zooms in and displays the filename, timestamp offset, and matching status in a real-time tooltip.
+
+---
+
+### 🛡️ Batch GPS Assignment & Strict Protection Lock
+
+Geotagging multiple photos in bulk is now fast, secure, and non-destructive:
+
+* **Grid Context Menu & Batch Bar Integration:**  
+  Select any number of photos in the main grid and right-click to choose **`📍 Assign GPS coordinates to selection...`** (or use the batch edit toolbar). The menu automatically adapts: when a single photo is selected, it offers individual assignment or editing; with multiple photos, it opens the batch workflow.
+
+* **Strict GPS Protection Lock (Zero Data Overwrites):**  
+  To protect valuable camera originals, bulk operations enforce a strict, two-tier protection lock:
+  * **Camera EXIF GPS Protected:** Any photo with existing GPS coordinates (whether from camera EXIF, manual placement, or previous GPX runs) is **strictly locked and skipped**.
+  * **Explicitly Cleared State Respected:** If coordinates were previously removed by the user, bulk operations respect this choice and will not re-tag the file.
+  * The dialog banner clearly displays: **`Selected`**, **`Eligible (no GPS)`**, and **`Protected (already has GPS)`** counts.
+
+* **Efficient Single-Call Reverse Geocoding:**  
+  When applying GPS coordinates to dozens or hundreds of images simultaneously, the application performs a smart, single reverse geocoding lookup (or spatial ~1km clustering for GPX tracks). It automatically populates missing **Country** and **City** fields without redundant network calls, while strictly preserving any existing user metadata.
+
+* **Full Undo / Redo (`Ctrl+Z` / `Ctrl+Y`):**  
+  Both single and bulk GPS operations (manual coordinate assignment, GPX geotagging, or coordinate removal) are fully integrated into the global Undo history stack. If you accidentally apply coordinates to the wrong folder selection, pressing **`Ctrl+Z`** immediately restores all original metadata, caches, and SEO scores atomically.
+
+* **Complete Multi-Language Support (19 Languages):**  
+  All new GPS dialogs, tooltips, layer pickers, error handlers, and status notifications are 100% localized and synchronized across all 19 supported application languages.
+
+---
+
 ## Native Video Metadata Workflow
 
 Version 1.20 brings native metadata management to stock videographers.
