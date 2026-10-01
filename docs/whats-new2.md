@@ -405,9 +405,6 @@ Geotagging multiple photos in bulk is now fast, secure, and non-destructive:
 * **Full Undo / Redo (`Ctrl+Z` / `Ctrl+Y`):**  
   Both single and bulk GPS operations (manual coordinate assignment, GPX geotagging, or coordinate removal) are fully integrated into the global Undo history stack. If you accidentally apply coordinates to the wrong folder selection, pressing **`Ctrl+Z`** immediately restores all original metadata, caches, and SEO scores atomically.
 
-* **Complete Multi-Language Support (19 Languages):**  
-  All new GPS dialogs, tooltips, layer pickers, error handlers, and status notifications are 100% localized and synchronized across all 19 supported application languages.
-
 ---
 
 ## Native Video Metadata Workflow
