@@ -349,8 +349,11 @@ A comprehensive GPS assignment and editing workflow has been added directly to t
 * **Where and How to Add GPS:**  
   When an image lacks camera GPS metadata, an **`📍 Add GPS`** button appears in the bottom toolbar of the Detail window (or **`✏ Edit GPS`** for manually assigned coordinates). Clicking it launches an interactive map dialog where you can locate the spot using instant search, by clicking anywhere on the map, dragging the marker pin, or manually entering precise latitude and longitude coordinates. You can toggle between **Google Maps (Hybrid, Satellite, Roadmap)** and **OpenStreetMap** layers, and click the **`👁️ Street View`** button to open a full 360° panorama in your browser for immediate visual confirmation of the location before saving.
 
+* **Dialog Geometry Memory:**  
+  The GPS Picker window automatically remembers its screen position and dimensions across sessions, launching at your preferred size and layout every time.
+
 * **Why Add GPS (Geo Filter & SEO Relevance):**  
-  Adding GPS coordinates provides much more than just standard EXIF/XMP metadata, it supplies concrete **Geographical Evidence** for the ArtushVision AI decision pipeline. The moment location is confirmed, a photo geo-context is built immediately, running all existing keywords through the **Geo Filter**:
+  Adding GPS coordinates provides much more than just standard EXIF/XMP metadata—it supplies concrete **Geographical Evidence** for the ArtushVision AI decision pipeline. The moment location is confirmed, a photo geo-context is built immediately, running all existing keywords through the **Geo Filter**:
   
   1. Names of countries, cities, states, regions, and prominent landmarks/POIs matching the coordinates are instantly verified as **geo-confirmed (green bubbles)**.
   
@@ -373,7 +376,7 @@ You can now reconstruct the exact geographical positions of entire photo session
 * **Camera Clock Drift & Time Zone Correction:**  
   Cameras often have clocks set incorrectly or set to local daylight saving time without embedded UTC offsets. The GPX panel includes:
   * **Camera Time Zone Selector:** Full timezone offset range from `UTC-12:00` to `UTC+14:00` with automatic detection of your system timezone.
-  * **Clock Drift Fine-Tuning:** Precise second-by-second drift adjustment (`+/-` seconds) to compensate for camera clocks that were slightly ahead or behind real GPS time.
+  * **Clock Drift Fine-Tuning:** Numerical drift entry in seconds (`+/-` seconds) to compensate for camera clocks that were slightly ahead or behind real GPS time.
 
 * **Smart Gap Protection (No False Positions):**  
   To prevent assigning erroneous interpolated positions across pauses in tracking (e.g., flights, tunnels, indoor breaks, or vehicle drives), the engine enforces strict limits:
@@ -391,7 +394,7 @@ You can now reconstruct the exact geographical positions of entire photo session
 Geotagging multiple photos in bulk is now fast, secure, and non-destructive:
 
 * **Grid Context Menu & Batch Bar Integration:**  
-  Select any number of photos in the main grid and right-click to choose **`📍 Assign GPS coordinates to selection...`** (or use the batch edit toolbar). The menu automatically adapts: when a single photo is selected, it offers individual assignment or editing; with multiple photos, it opens the batch workflow.
+  Select any number of photos in the main grid and right-click to choose **`📍 Assign GPS coordinates to selection...`** (or use the batch edit toolbar). The action is available for both single and multi-photo selections.
 
 * **Strict GPS Protection Lock (Zero Data Overwrites):**  
   To protect valuable camera originals, bulk operations enforce a strict, two-tier protection lock:
@@ -404,6 +407,24 @@ Geotagging multiple photos in bulk is now fast, secure, and non-destructive:
 
 * **Full Undo / Redo (`Ctrl+Z` / `Ctrl+Y`):**  
   Both single and bulk GPS operations (manual coordinate assignment, GPX geotagging, or coordinate removal) are fully integrated into the global Undo history stack. If you accidentally apply coordinates to the wrong folder selection, pressing **`Ctrl+Z`** immediately restores all original metadata, caches, and SEO scores atomically.
+
+---
+
+### 📋 Smart Metadata Copy & Paste with Opt-in GPS Transfer
+
+Transferring metadata between images now supports GPS coordinates while strictly preventing accidental location overwrites:
+
+* **Clipboard Support (`Ctrl+C` / `Ctrl+V`):**  
+  Copying an image (`Ctrl+C` or right-click **`Copy Metadata`**) captures its full metadata payload to the clipboard, including assigned GPS latitude and longitude coordinates.
+
+* **Opt-in GPS Safety Checkbox (Unchecked by Default):**  
+  When pasting metadata (`Ctrl+V` or **`Paste Metadata...`**) onto single or multiple target images, the **`Metadata Paste Dialog`** displays granular field checkboxes. The option **`GPS coordinates (only for photos without GPS)`** is deliberately **unchecked by default**. This ensures you can freely copy common titles, descriptions, or keyword sets across a shoot without unintentionally propagating location coordinates to unrelated scenes.
+
+* **Strict Protection Maintained on Paste:**  
+  When the GPS checkbox is explicitly ticked by the user, the coordinates are pasted only to photos that do not already have GPS data. Photos with original camera EXIF GPS or previously assigned coordinates are strictly protected and left untouched.
+
+* **Instant Geo-Verification on Paste:**  
+  Pasting GPS coordinates immediately triggers reverse geocoding and updates the geo-context cache, auto-verifying location keywords (green bubbles) and recalculating SEO scores for all affected images, with complete single-step Undo (`Ctrl+Z`) support.
 
 ---
 
