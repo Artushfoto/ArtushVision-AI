@@ -264,7 +264,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 <div class="hero-split">
   <div class="hero-text">
-    <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global &amp; FTP Distribution.</strong></p>
+    <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Microstock Metadata, SEO Optimization, and Batch FTP Distribution with Built-in Market Intelligence.</strong></p>
     
     <p style="font-size: 0.95em; margin: 10px 0;">Designed for smart photographers who are ready to abandon expensive cloud subscriptions and take back control. <strong><a href="/docs/artushvision-reviews.html">Read our user reviews and success stories &rarr;</a></strong></p>
     
