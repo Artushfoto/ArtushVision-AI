@@ -1,5 +1,5 @@
 ---
-title: "ArtushVision AI | Professional Metadata Automation Workstation"
+title: "Professional Metadata Automation Workstation"
 description: "The ultimate AI-powered workstation for microstock metadata, SEO optimization, and batch FTP distribution with built-in Market Intelligence"
 ---
 
