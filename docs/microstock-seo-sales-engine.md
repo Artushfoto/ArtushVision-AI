@@ -3,7 +3,7 @@ title: "Key Features - SEO & Market Intelligence"
 description: "Advanced microstock metadata optimization combining visual AI, market intelligence, buyer-intent search data, and geographic & taxonomic verification."
 ---
 
-# Turn Visual Content into Commercially Focused Stock Metadata
+# Turn Visual Content into Commercially Focused Microstock Metadata
 
 ### Connect visual AI, marketplace search intelligence, and factual verification to discover in-demand keywords and position them where search algorithms look first.
 
@@ -34,7 +34,7 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 
 ---
 
-## The Three Pillars of ArtushVision Market Intelligence
+## The Three Pillars of ArtushVision Microstock Market Intelligence
 
 **AI Visual Content Analysis** - Recognizes subject, style, lighting and composition
 **Market Intelligence** - Surfaces buyer demand, commercial phrases and GAP terms
