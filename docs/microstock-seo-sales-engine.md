@@ -260,7 +260,7 @@ Inaccurate metadata can contribute to submission issues, relevance problems, or 
 
 ---
 
-## 🚀 The Complete AI Describing and Optimization Workflow
+## 🚀 The Complete Microstock AI Describing and Optimization Workflow
 
 **1. Visual Understanding:** Drag and drop photos or videos into ArtushVision AI. Run AI analysis to automatically analyze the subject, context, and photographic style.
 
