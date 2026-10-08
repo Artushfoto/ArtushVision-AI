@@ -12,6 +12,17 @@
 
     <!-- Jekyll SEO tag vygeneruje JEDINÉ čisté schema WebSite a og:site_name přímo z _config.yml -->
     {% seo %}
+{% if page.url == "/" or page.url == "/index.html" %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "ArtushVision AI",
+      "alternateName": ["Artush Vision AI", "ArtushVision"],
+      "url": "https://vision.artushfoto.eu/"
+    }
+    </script>
+    {% endif %}
 
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="stylesheet" href="/style.css">
