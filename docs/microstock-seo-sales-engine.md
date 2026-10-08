@@ -48,7 +48,7 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 
 ---
 
-## 🔍 Bestseller Keyword GAP Analysis — Find Missing Keywords & Discover New Commercial Phrases
+## 🔍 Bestseller Keyword GAP Analysis - Find Missing Keywords & Discover New Commercial Phrases
 
 ### Identify commercially relevant terms your metadata may be missing.
 
