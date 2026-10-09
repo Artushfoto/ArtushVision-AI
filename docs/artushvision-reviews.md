@@ -13,11 +13,25 @@ description: "See what professional photographers, stock contributors, and creat
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "reviewCount": "7",
+    "reviewCount": "8",
     "bestRating": "5",
     "worstRating": "1"
   },
   "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Steven Heap (BackyardSilver)"
+      },
+      "datePublished": "2026-10-01",
+      "reviewBody": "As usual, I have really got to know (and like) ArtushVision AI to help me do that smoothly. This is growing into a very comprehensive image management system... Over the past week, I have keyworded my 500+ images and have most of them online. Even Adobe Stock has accepted more than 95% of them. Having taken it, it has only cost me about $0.003 to describe and around 1 minute of my time.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      }
+    },
     {
       "@type": "Review",
       "author": {
@@ -218,6 +232,18 @@ h1 { text-align: center; }
 
 <div class="review-container">
 
+  <!-- Review Card - Steven Heap (BackyardSilver) - October 1, 2026 -->
+  <article class="review-card">
+    <div class="review-header">
+      <div class="reviewer-info">
+        <h3>Steven Heap (BackyardSilver)</h3>
+        <p class="reviewer-role">Professional Stock Photographer & Blogger • October 1, 2026</p>
+      </div>
+    </div>
+    <blockquote class="review-quote">"As usual, I have really got to know (and like) ArtushVision AI to help me do that smoothly. This is growing into a very comprehensive image management system... Over the past week, I have keyworded my 500+ images and have most of them online. Even Adobe Stock has accepted more than 95% of them. Having taken it, it has only cost me about $0.003 to describe and around 1 minute of my time."</blockquote>
+    <a href="https://backyardsilver.com/earnings-from-online-photography-sales-september-2026/" target="_blank" rel="noopener noreferrer" class="review-link" title="Read Steven Heap's September 2026 income & metadata update">Read September 2026 Earnings & Workflow Report &rarr;</a>
+  </article>
+
   <!-- Review Card Video - Miro Vrlik - September 8, 2026 -->
   <article class="review-card">
     <div class="review-header">
@@ -336,8 +362,8 @@ To learn more about our commission rates and to request your custom affiliate li
 ---
 
 ### [Get Started Now]
-* [Download Free Lite Version](/docs/download-purchase.html)
-* [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
+- [Download Free Lite Version](/docs/download-purchase.html)
+- [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
 
 ---
 
