@@ -103,7 +103,7 @@ Your personal Pro license can be activated on up to 2 of your own devices, allow
 <details>
 <summary>What are the limitations of the Lite version?</summary>
 <p>
-The Lite version is a fully functional "<a href="/docs/free-trial-limits-and-testing.html">Trial</a>" designed for testing your entire workflow. It has no time limits, but it processes files in smaller batches (e.g., max 10 saves or 5 FTP uploads per session) and includes a subtle watermark in non-critical metadata fields. The Pro version removes all limits.
+The Lite version is a fully functional "<a href="/docs/free-trial-limits-and-testing.html">Trial</a>" designed for testing your entire workflow. It has no time limits, but it processes files in smaller batches (e.g., max 10 saves or 5 FTP uploads per session ...) The Pro version removes all limits.
 </p>
 </details>
 
