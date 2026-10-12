@@ -189,6 +189,33 @@ ArtushVision AI now brings together computer vision, commercial market intellige
 
 ---
 
+## Version 1.20 Changelog Summary
+
+* **New:** Microstock Market Intelligence suite.
+* **New:** Dynamic Commercial Selling Score (0–100%).
+* **New:** Bestseller GAP analysis for commercially relevant metadata opportunities.
+* **New:** Commercial multi-word buyer phrase detection.
+* **New:** Market Discovery for niche, conceptual, and emerging search opportunities.
+* **New:** SEO Sort algorithm with `Ctrl+Shift+S` shortcut.
+* **New:** Explainable Keyword Verdicts (🔥 MUST USE, ✅ RECOMMENDED, ⚠️ OPTIONAL, ❌ AVOID).
+* **New:** Smart SEO Expand with dedicated suggestion tray.
+* **New:** Native MP4 / MOV lossless metadata writing without re-encoding.
+* **New:** Scientific binomial (Latin) taxonomy validation.
+* **New:** GPS-assisted geographic validation.
+* **New:** Human-presence evidence validation.
+* **New:** Multi-template batch CSV export.
+* **New:** Universal Drag & Drop supporting mixed RAW/JPG/MP4/MOV folders.
+* **New:** Native WebP format support (lossless metadata read/write, thumbnails, GPS).
+* **New:** Smart FTP Pre-Check with Alphabetical Keywords (A–Z) detection & limits validation.
+* **New:** Complete IPTC & XMP location hierarchy mapping (`City`, `State`, `CountryCode`, `Sublocation`) for 100% Adobe Lightroom Classic compatibility.
+* **New:** GPS fields (`Latitude`, `Longitude`, `Altitude`, `Source`) in CSV templates & backups.
+* **New:** Camera Time Drift Calculator with Reference Photo support & Artush GPX Tracker ecosystem.
+* **New:** GPS Removal & Privacy Anonymization tool with hardware EXIF protection.
+* **New:** Privacy-first Diagnostic Support Reporter with GDPR-compliant log packaging.
+* **New:** 100% synchronized localization across all 19 supported languages (1829+ keys).
+
+---
+
 ## [Microstock Market Intelligence](microstock-seo-sales-engine.html)
 
 ArtushVision AI now goes far beyond generating visually descriptive tags.
@@ -363,7 +390,24 @@ A comprehensive GPS assignment and editing workflow has been added directly to t
 
 ---
 
-### 📈 Automatic GPX Track Geotagging & Time Synchronization
+## Camera Clock Drift Calculator & Reference Photo Sync
+Eliminate the headache of synchronizing out-of-sync camera clocks with GPX tracks:
+* **Reference Photo Method (Artush GPX Tracker):**  
+  Simply take a single photo of your smartphone screen displaying your GPS tracking app (such as the free companion [Artush GPX Tracker](https://gpxtracker.artushfoto.eu)). In the GPS dialog, open the **Time Offset Calculator**, type in the time visible on the photo's screen, and the engine automatically computes the exact second-accurate clock drift.
+* **Sub-Second Accuracy:** Photos are matched to your GPX route with sub-second precision, accounting for local daylight saving time and camera drift.
+
+---
+
+## GPS Removal & Privacy Anonymization
+For sensitive commercial shoots, private residential locations, or protected wildlife habitats, you can now strip GPS coordinates cleanly:
+* **1-Click Location Removal:** Right-click any photo or multi-photo selection in the grid and choose **`Remove GPS Coordinates`** (also available in the Detail toolbar and Map picker).
+* **Two-Step Camera Hardware Protection:** If an original photo contains native camera hardware EXIF GPS, the application requests an explicit confirmation to prevent accidental loss of original camera telemetry.
+* **Full EXIF & XMP Purge:** Strips all GPS tags and cache references atomically, with complete Undo (`Ctrl+Z`) support.
+
+
+---
+
+### Automatic GPX Track Geotagging & Time Synchronization
 
 You can now reconstruct the exact geographical positions of entire photo sessions directly from GPS track recordings logged by outdoor GPS devices, fitness trackers, smartwatches, or smartphone hiking apps:
 
@@ -410,7 +454,25 @@ Geotagging multiple photos in bulk is now fast, secure, and non-destructive:
 
 ---
 
-### 📋 Smart Metadata Copy & Paste with Opt-in GPS Transfer
+## Deep IPTC/XMP Location Mapping & Lightroom Classic Compatibility
+A common frustration among photographers is assigning GPS coordinates only to find that **Adobe Lightroom Classic** leaves text fields (*City, State/Province, Country, ISO Code*) completely blank.
+### Why Lightroom Doesn't Auto-Fill Location Names from GPS
+Unlike basic map viewers, Lightroom Classic **does not perform reverse geocoding** to auto-populate text fields from raw GPS coordinates. Lightroom requires explicit metadata tags mapped into specific Adobe and IPTC schemas.
+### How ArtushVision AI Solves This Automatically
+Whenever you assign GPS coordinates (manually from the map or via GPX tracks), ArtushVision AI automatically queries authoritative geographic databases and embeds the complete standardized hierarchy into both file headers and XMP sidecars:
+| Location Element | Embedded Metadata Standard | Lightroom Field |
+| :--- | :--- | :--- |
+| **City** | `photoshop:City`, `iptc:City` | City |
+| **State / Province** | `photoshop:State`, `iptc:Province-State` | State / Province |
+| **Country** | `photoshop:Country`, `iptc:Country` | Country |
+| **ISO Country Code** | `iptc:Country-PrimaryLocationCode`, `XMP-iptcCore:CountryCode` | ISO Country Code (e.g. `US`, `CZ`) |
+| **Sublocation / POI** | `iptc:Sub-Location`, `XMP-iptcCore:Location` | Sublocation |
+> [!TIP]
+> **Lightroom Catalog Refresh:** If you have already imported your photos into Lightroom Classic before tagging them in ArtushVision AI, simply select the images in Lightroom and press **`Ctrl + Alt + Shift + D`** (or choose **Metadata → Read Metadata from File**). All location fields, coordinates, and pins will populate instantly in the Lightroom Metadata and Map modules.
+
+---
+
+### Smart Metadata Copy & Paste with Opt-in GPS Transfer
 
 Transferring metadata between images now supports GPS coordinates while strictly preventing accidental location overwrites:
 
@@ -428,6 +490,13 @@ Transferring metadata between images now supports GPS coordinates while strictly
 
 ---
 
+## GPS Coordinates in CSV Export & Automated Backups
+GPS metadata is now fully integrated into ArtushVision AI's customizable CSV engine:
+* **New Exportable Fields:** Add `GPS Latitude`, `GPS Longitude`, `GPS Altitude`, and `GPS Source` (`exif`, `manual`, or `gpx`) to any custom CSV agency template.
+* **Included in Automated Backups:** The default *ArtushVision Backup* template automatically captures full coordinate telemetry, ensuring you can restore or migrate your exact locations at any time.
+
+---
+
 ## Native Video Metadata Workflow
 
 Version 1.20 brings native metadata management to stock videographers.
@@ -439,6 +508,25 @@ Version 1.20 brings native metadata management to stock videographers.
 * **Fast Processing:** Metadata is written without re-rendering the video.
 * **Zero Quality Loss:** Video and audio streams are not re-encoded during metadata injection.
 * **Professional Metadata Support:** Writes supported QuickTime metadata and embedded XMP metadata for professional stock workflows.
+
+---
+
+## Smart FTP Pre-Check & Alphabetical Sorting Guard
+To protect contributors from costly metadata rejections and search ranking penalties, ArtushVision AI now introduces an automated **FTP Pre-Check Engine** that validates all queued files before uploading:
+* **Instant Verification on Upload:** The moment you click `Upload via FTP`, the pre-check engine analyzes all selected assets in milliseconds before any server connection is initiated.
+* **Alphabetical Order Detection (A–Z Spam Warning):**  
+  Stock agency search algorithms frequently demote or flag assets whose keywords are sorted strictly alphabetically (A–Z), treating it as automated spam or lazy keywording. If a photo contains 4 or more alphabetically ordered keywords, ArtushVision AI displays a clear warning and recommends running **Strategic SEO Sort (`Ctrl+Shift+S`)** first.
+* **Min/Max Limits Enforcement:** Validates your Title character length, Description length, and Keyword counts against your configured grid rules, instantly flagging any files that violate minimum or maximum agency requirements.
+* **Non-Destructive & Safe:** The pre-check never modifies your files automatically. It presents an actionable summary list of flagged files, allowing you to cancel and fix issues with one click or proceed intentionally.
+
+---
+
+## Full WebP Format Support (Lossless Metadata & GPS)
+Version 1.20 brings first-class support for the modern **WebP (`.webp`)** image format, increasingly favored by web designers, portfolio creators, and online marketplaces:
+* **Complete Metadata Reading & Writing:** Write and read Titles, Descriptions, Keywords, Copyright, and Star Ratings directly into WebP files without data loss or re-encoding.
+* **Full GPS Geotagging:** WebP images now fully support EXIF/XMP GPS coordinate injection, map picking, and GPX track synchronization.
+* **Seamless Workspace Integration:** WebP files appear automatically alongside JPG, RAW, and Video files with full grid thumbnail caching and detail viewer support.
+* **Grid File Type Filter:** Quickly isolate your WebP assets using the dedicated `WebP Only` view in the top navigation filter bar.
 
 ---
 
@@ -492,22 +580,11 @@ ArtushVision AI combines market intelligence, metadata analysis, commercial sear
 
 ---
 
-## Version 1.20 Changelog Summary
-
-* **New:** Microstock Market Intelligence suite.
-* **New:** Dynamic Commercial Selling Score (0–100%).
-* **New:** Bestseller GAP analysis for commercially relevant metadata opportunities.
-* **New:** Commercial multi-word buyer phrase detection.
-* **New:** Market Discovery for niche, conceptual, and emerging search opportunities.
-* **New:** SEO Sort algorithm with `Ctrl+Shift+S` shortcut.
-* **New:** Explainable Keyword Verdicts (🔥 MUST USE, ✅ RECOMMENDED, ⚠️ OPTIONAL, ❌ AVOID).
-* **New:** Smart SEO Expand with dedicated suggestion tray.
-* **New:** Native MP4 / MOV lossless metadata writing without re-encoding.
-* **New:** Scientific binomial (Latin) taxonomy validation.
-* **New:** GPS-assisted geographic validation.
-* **New:** Human-presence evidence validation.
-* **New:** Multi-template batch CSV export.
-* **New:** Universal Drag & Drop supporting mixed RAW/JPG/MP4/MOV folders.
+## One-Click Privacy-First Diagnostic Support
+Need help or troubleshooting an edge-case file?
+* **Diagnostic Package Generator:** Open **Help → Send Diagnostic Report** to generate a single diagnostic ZIP archive containing encrypted logs and environment telemetry (`debug_log.enc`, `app.log`, `crash_log.txt`, `system_info.txt`).
+* **Strict GDPR Compliance:** User folder paths are anonymized, and all sensitive data (passwords, FTP credentials, API keys, and photo contents) are strictly excluded.
+* **Automated Workflow:** Automatically opens your default email client addressed to `support@artushfoto.eu` and highlights the ZIP file in Windows Explorer for drag-and-drop attachment.
 
 ---
 
