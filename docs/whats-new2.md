@@ -195,6 +195,7 @@ ArtushVision AI now brings together computer vision, commercial market intellige
 * **New:** Dynamic Commercial Selling Score (0–100%).
 * **New:** Bestseller GAP analysis for commercially relevant metadata opportunities.
 * **New:** Commercial multi-word buyer phrase detection.
+* **New:** Keyword autocomplete powered by real buyer search queries and synonyms
 * **New:** Market Discovery for niche, conceptual, and emerging search opportunities.
 * **New:** SEO Sort algorithm with `Ctrl+Shift+S` shortcut.
 * **New:** Explainable Keyword Verdicts (🔥 MUST USE, ✅ RECOMMENDED, ⚠️ OPTIONAL, ❌ AVOID).
