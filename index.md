@@ -626,13 +626,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
     var gtagScript = document.createElement('script');
     gtagScript.async = true;
-    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-H4FSFZTMXH';
+    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ';
     document.head.appendChild(gtagScript);
 
     window.dataLayer = window.dataLayer || [];
     window.gtag = function(){ dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', 'G-H4FSFZTMXH');
+    gtag('config', 'G-KCZWMGZFJ');
   };
 
   document.addEventListener("DOMContentLoaded", function() {

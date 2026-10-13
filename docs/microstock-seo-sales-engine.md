@@ -308,3 +308,40 @@ Because marketplace demand and agency search algorithms evolve continuously, Art
 ---
 
 *ArtushVision AI — intelligent metadata optimization for professional photography workflows.*
+
+<!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    let analyticsLoaded = false;
+
+    function loadAnalytics() {
+      if (analyticsLoaded) return;
+      analyticsLoaded = true;
+
+      // 1. Dynamické vložení externího skriptu gtag.js s NOVÝM ID
+      var gtagScript = document.createElement('script');
+      gtagScript.async = true;
+      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ5';
+      document.head.appendChild(gtagScript);
+
+      // 2. Inicializace nastavení Google Analytics s NOVÝM ID
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-KCZWMGZFJ5');
+
+      // 3. Odstranění posluchačů událostí po úspěšném načtení
+      document.removeEventListener('scroll', loadAnalytics);
+      document.removeEventListener('mousemove', loadAnalytics);
+      document.removeEventListener('touchstart', loadAnalytics);
+    }
+
+    // Spuštění při první skutečné interakci uživatele
+    document.addEventListener('scroll', loadAnalytics, { passive: true });
+    document.addEventListener('mousemove', loadAnalytics, { passive: true });
+    document.addEventListener('touchstart', loadAnalytics, { passive: true });
+
+    // Pojistka: Pokud uživatel do 5 sekund nic neudělá, načíst Analytics automaticky
+    setTimeout(loadAnalytics, 5000);
+  });
+</script>
