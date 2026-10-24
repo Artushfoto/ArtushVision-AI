@@ -208,6 +208,7 @@ ArtushVision AI now brings together computer vision, commercial market intellige
 * **New:** Universal Drag & Drop supporting mixed RAW/JPG/MP4/MOV folders.
 * **New:** Native WebP format support (lossless metadata read/write, thumbnails, GPS).
 * **New:** Smart FTP Pre-Check with Alphabetical Keywords (A–Z) detection & limits validation.
+**New:** FTP Upload Tracking: Tracks uploaded files per agency, shows missing destinations based on your FTP settings, and lets you select additional targets for subsequent upload.
 * **New:** Complete IPTC & XMP location hierarchy mapping (`City`, `State`, `CountryCode`, `Sublocation`) for 100% Adobe Lightroom Classic compatibility.
 * **New:** GPS fields (`Latitude`, `Longitude`, `Altitude`, `Source`) in CSV templates & backups.
 * **New:** Camera Time Drift Calculator with Reference Photo support & Artush GPX Tracker ecosystem.
@@ -434,7 +435,7 @@ You can now reconstruct the exact geographical positions of entire photo session
 
 ---
 
-### 🛡️ Batch GPS Assignment & Strict Protection Lock
+### Batch GPS Assignment & Strict Protection Lock
 
 Geotagging multiple photos in bulk is now fast, secure, and non-destructive:
 
@@ -519,6 +520,19 @@ To protect contributors from costly metadata rejections and search ranking penal
   Stock agency search algorithms frequently demote or flag assets whose keywords are sorted strictly alphabetically (A–Z), treating it as automated spam or lazy keywording. If a photo contains 4 or more alphabetically ordered keywords, ArtushVision AI displays a clear warning and recommends running **Strategic SEO Sort (`Ctrl+Shift+S`)** first.
 * **Min/Max Limits Enforcement:** Validates your Title character length, Description length, and Keyword counts against your configured grid rules, instantly flagging any files that violate minimum or maximum agency requirements.
 * **Non-Destructive & Safe:** The pre-check never modifies your files automatically. It presents an actionable summary list of flagged files, allowing you to cancel and fix issues with one click or proceed intentionally.
+
+---
+
+## Smart FTP Upload Tracking & Distribution Manager
+
+Managing submissions across multiple stock agencies often leads to confusion about which file has already been sent where. The new **FTP Upload Tracking** provides complete visibility and full control over your entire distribution workflow:
+
+* **Instant Submission Overview:** View the exact upload status for every file across all connected agencies at a single glance.
+* **Automatic Gap Detection:** The system compares your files with your configured FTP profiles and immediately highlights missing destinations where files have yet to be submitted.
+* **Flexible Target Selection:** Simply tick the checkboxes next to any pending agencies you wish to target, without having to reconfigure FTP endpoints manually.
+* **Duplicate Prevention:** Avoid accidental double uploads, saving bandwidth, time, and potential agency rejections.
+* **Streamlined Batch Queueing:** Send remaining files to multiple unsubmitted agencies in one smooth, automated run.
+
 
 ---
 
