@@ -208,7 +208,7 @@ ArtushVision AI now brings together computer vision, commercial market intellige
 * **New:** Universal Drag & Drop supporting mixed RAW/JPG/MP4/MOV folders.
 * **New:** Native WebP format support (lossless metadata read/write, thumbnails, GPS).
 * **New:** Smart FTP Pre-Check with Alphabetical Keywords (A–Z) detection & limits validation.
-**New:** FTP Upload Tracking: Tracks uploaded files per agency, shows missing destinations based on your FTP settings, and lets you select additional targets for subsequent upload.
+* **New:** FTP Upload Tracking: Tracks uploaded files per agency, shows missing destinations based on your FTP settings, and lets you select additional targets for subsequent upload.
 * **New:** Complete IPTC & XMP location hierarchy mapping (`City`, `State`, `CountryCode`, `Sublocation`) for 100% Adobe Lightroom Classic compatibility.
 * **New:** GPS fields (`Latitude`, `Longitude`, `Altitude`, `Source`) in CSV templates & backups.
 * **New:** Camera Time Drift Calculator with Reference Photo support & Artush GPX Tracker ecosystem.
