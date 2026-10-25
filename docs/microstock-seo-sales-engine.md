@@ -34,6 +34,21 @@ Traditional image recognition identifies physical objects. **Market Intelligence
 
 ---
 
+**Overall Keyword SEO Score**  
+Displays a color-coded indicator directly in the grid for quick at-a-glance validation of your metadata optimization:
+
+- 🟢 **Emerald** — Elite SEO Set (≥ 90%)
+- 🟩 **Green** — Strong SEO Set (83–89%)
+- 🟡 **Lime** — Good SEO Set (73–82%)
+- 🟧 **Yellow** — Average Set (56–72%)
+- 🔴 **Red** — Needs Optimization (< 56%)
+
+<a href="images/market-inteligence/new-commercial-phases.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/new-commercial-phases.webp" alt="ArtushVision Market Intelligence showing recommended buyer-oriented phrases for insertion" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+---
+
 ## The Three Pillars of ArtushVision Microstock Market Intelligence
 
 **AI Visual Content Analysis** - Recognizes subject, style, lighting and composition
@@ -68,8 +83,6 @@ Bestseller GAP analysis compares your keyword set with commercial search pattern
 * **1-Click Phrase Insertion:** Click any recommended phrase bubble to immediately add it to your active keywords.
 * **Suggestion Control:** Adjust the breadth of recommendations from close literal matches to broader conceptual opportunities.
 * **Market Discovery:** Surface emerging search queries, modern terminology, and seasonal trends tailored specifically to your visual subject.
-
----
 
 ## 🎯 Commercial Selling Score & Quick Wins
 
