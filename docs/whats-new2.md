@@ -432,8 +432,8 @@ You can now reconstruct the exact geographical positions of entire photo session
 * **Visual Map Inspection of Photo Locations:**  
   Before committing any metadata to your files, all matched photos appear as interactive marker pins along the GPX polyline on Leaflet/Google Maps. Clicking any pin zooms in and displays the filename, timestamp offset, and matching status in a real-time tooltip.
 
-  <a href="images/market-inteligence/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
-  <img src="images/market-inteligence/time-sync-in-artushvision-ai.webp" alt="ArtushVision Camera Clock Drift Calculator & Reference Photo Sync" width="100%" class="screenshot-img">
+  <a href="images/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
+  <img src="images/time-sync-in-artushvision-ai.webp" alt="ArtushVision Camera Clock Drift Calculator & Reference Photo Sync" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
@@ -525,10 +525,16 @@ To protect contributors from costly metadata rejections and search ranking penal
 * **Min/Max Limits Enforcement:** Validates your Title character length, Description length, and Keyword counts against your configured grid rules, instantly flagging any files that violate minimum or maximum agency requirements.
 * **Non-Destructive & Safe:** The pre-check never modifies your files automatically. It presents an actionable summary list of flagged files, allowing you to cancel and fix issues with one click or proceed intentionally.
 
+  <a href="images/ftp-guard.webp" target="_blank" class="screenshot-link">
+  <img src="images/ftp-guard.webp" alt="ArtushVision AI Smart FTP Pre-Check & Alphabetical Sorting Guard" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+
 ---
 
 ## Smart FTP Upload Tracking & Distribution Manager
 
+Go to Upload via FTP - Upload status 
 Managing submissions across multiple stock agencies often leads to confusion about which file has already been sent where. The new **FTP Upload Tracking** provides complete visibility and full control over your entire distribution workflow:
 
 * **Instant Submission Overview:** View the exact upload status for every file across all connected agencies at a single glance.
@@ -537,6 +543,10 @@ Managing submissions across multiple stock agencies often leads to confusion abo
 * **Duplicate Prevention:** Avoid accidental double uploads, saving bandwidth, time, and potential agency rejections.
 * **Streamlined Batch Queueing:** Send remaining files to multiple unsubmitted agencies in one smooth, automated run.
 
+  <a href="images/ftp-tracking-manager.webp" target="_blank" class="screenshot-link">
+  <img src="images/ftp-tracking-manager.webp" alt="ArtushVision AI Smart FTP Pre-Check & Alphabetical Sorting Guard" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 ---
 
