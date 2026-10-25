@@ -236,6 +236,10 @@ Geotagging multiple photos in bulk is now fast, secure, and non-destructive:
 
 ---
 
+### [Deep IPTC/XMP Location Mapping & Lightroom Classic Compatibility](https://vision.artushfoto.eu/docs/metadata-compatibility-and-file-handling.html#deep-iptcxmp-location-mapping--lightroom-classic-compatibility)
+
+---
+
 ### [Get Started Now]
 * [Download Free Lite Version](/docs/download-purchase.html)
 * [Purchase Lifetime License - $39.99](/docs/download-purchase.html#buy-lifetime-license)
