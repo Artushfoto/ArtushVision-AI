@@ -398,6 +398,11 @@ Eliminate the headache of synchronizing out-of-sync camera clocks with GPX track
   Simply take a single photo of your smartphone screen displaying your GPS tracking app (such as the free companion [Artush GPX Tracker](https://gpxtracker.artushfoto.eu)). In the GPS dialog, open the **Time Offset Calculator**, type in the time visible on the photo's screen, and the engine automatically computes the exact second-accurate clock drift.
 * **Sub-Second Accuracy:** Photos are matched to your GPX route with sub-second precision, accounting for local daylight saving time and camera drift.
 
+<a href="images/market-inteligence/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/time-sync-in-artushvision-ai.webp" alt="ArtushVision Camera Clock Drift Calculator & Reference Photo Sync" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+
 ---
 
 ## GPS Removal & Privacy Anonymization
