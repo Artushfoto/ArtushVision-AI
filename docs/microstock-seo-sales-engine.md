@@ -104,9 +104,9 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
         <div style="display: flex; align-items: center; gap: 10px;">
           <!-- Progress bar -->
           <div style="width: 140px; background-color: #eaeef2; border-radius: 4px; overflow: hidden; height: 10px; display: inline-block;">
-            <div style="width: 82%; background-color: #2da44e; height: 100%; border-radius: 4px;"></div>
+            <div style="width: 82%; background-color: #bd5a17; height: 100%; border-radius: 4px;"></div>
           </div>
-          <span style="font-weight: 600; color: #2da44e;">82%</span>
+          <span style="font-weight: 600; color: #bd5a17;">55%</span>
         </div>
       </div>
     </td>
