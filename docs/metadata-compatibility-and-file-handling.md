@@ -165,6 +165,8 @@ Version 1.20 brings native metadata management to stock videographers.
 * **Zero Quality Loss:** Video and audio streams are not re-encoded during metadata injection.
 * **Professional Metadata Support:** Writes supported QuickTime metadata and embedded XMP metadata for professional stock workflows.
 
+**No CSV Needed:** Some leading stock agencies read metadata directly from video files upon upload, eliminating the need to prepare and upload sidecar CSV sheets. **AdobeStock, qHero Istock Getty ESP, Dreamstime, Pond5**
+
 ---
 
 ## Core Text Metadata Synchronization

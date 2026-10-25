@@ -434,7 +434,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
     <tr>
       <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Format Support</b></td>
       <td style="border: 1px solid #d0d7de; padding: 8px;">JPG Only</td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>JPG, RAW, Video, TIFF, webp, HEIC</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>JPG, RAW, Video, TIFF, webp, HEIC (MOV/MP4 native metadata management to stock videographers) </b></td>
     </tr>
     <tr>
       <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Pricing Model</b></td>
