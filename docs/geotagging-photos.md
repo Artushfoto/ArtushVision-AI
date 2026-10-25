@@ -166,6 +166,13 @@ A comprehensive GPS assignment and editing workflow has been added directly to t
   
   3. This dramatically improves photo discoverability and relevance on stock agency search engines without requiring a camera with built-in GPS hardware.
 
+Right mouse click - `Assign GPS coordinates`
+
+  <a href="images/gps-manual-asignment.webp" target="_blank" class="screenshot-link">
+  <img src="images/gps-manual-asignment.webp" alt="ArtushVision AI Interactive GPS Assignment" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+
 ---
 
 ## Camera Clock Drift Calculator & Reference Photo Sync
@@ -209,7 +216,7 @@ You can now reconstruct the exact geographical positions of entire photo session
   Before committing any metadata to your files, all matched photos appear as interactive marker pins along the GPX polyline on Leaflet/Google Maps. Clicking any pin zooms in and displays the filename, timestamp offset, and matching status in a real-time tooltip.
 
   <a href="images/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
-  <img src="images/time-sync-in-artushvision-ai.webp" alt="ArtushVision Camera Clock Drift Calculator & Reference Photo Sync" width="100%" class="screenshot-img">
+  <img src="images/time-sync-in-artushvision-ai.webp" alt="ArtushVision AI Camera Clock Drift Calculator & Reference Photo Sync" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 

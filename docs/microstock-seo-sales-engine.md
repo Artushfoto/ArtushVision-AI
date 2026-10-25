@@ -255,8 +255,6 @@ Every tag is evaluated with an intuitive verdict badge, giving you instant insig
 * **Interactive Filters:** Instantly filter your list by verdict to inspect only critical tags or potential issues.
 * **1-Click Batch Clean-Up (`Remove ❌`):** Purge all contradictory, conflicting, or flagged tags across your entire file in a single click.
 
-inteligence tooltip
-
 ---
 
 ## 🌍 Ground-Truth Verification: Geo & Taxonomic Safeguards
