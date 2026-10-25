@@ -43,8 +43,8 @@ Displays a color-coded indicator directly in the grid for quick at-a-glance vali
 - 🟧 **Yellow** — Average Set (56–72%)
 - 🔴 **Red** — Needs Optimization (< 56%)
 
-<a href="images/market-inteligence/new-commercial-phases.webp" target="_blank" class="screenshot-link">
-  <img src="images/market-inteligence/new-commercial-phases.webp" alt="ArtushVision Market Intelligence showing recommended buyer-oriented phrases for insertion" width="100%" class="screenshot-img">
+<a href="images/market-inteligence/seo-score-tooltip.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/seo-score-tooltip.webp" alt="ArtushVision Market Intelligence Displays a color-coded indicator directly in the grid for quick at-a-glance validation of your metadata optimization" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 ---
