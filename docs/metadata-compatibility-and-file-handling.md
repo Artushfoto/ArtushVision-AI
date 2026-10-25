@@ -223,6 +223,22 @@ Keep your master catalog perfectly in sync. ArtushVision AI writes all tags and 
 
 *ArtushVision AI - Universal XMP Support: Fits Seamlessly Into Your Existing Ecosystem.*
 
+## Deep IPTC/XMP Location Mapping & Lightroom Classic Compatibility
+A common frustration among photographers is assigning GPS coordinates only to find that **Adobe Lightroom Classic** leaves text fields (*City, State/Province, Country, ISO Code*) completely blank.
+### Why Lightroom Doesn't Auto-Fill Location Names from GPS
+Unlike basic map viewers, Lightroom Classic **does not perform reverse geocoding** to auto-populate text fields from raw GPS coordinates. Lightroom requires explicit metadata tags mapped into specific Adobe and IPTC schemas.
+### How ArtushVision AI Solves This Automatically
+Whenever you assign GPS coordinates (manually from the map or via GPX tracks), ArtushVision AI automatically queries authoritative geographic databases and embeds the complete standardized hierarchy into both file headers and XMP sidecars:
+| Location Element | Embedded Metadata Standard | Lightroom Field |
+| :--- | :--- | :--- |
+| **City** | `photoshop:City`, `iptc:City` | City |
+| **State / Province** | `photoshop:State`, `iptc:Province-State` | State / Province |
+| **Country** | `photoshop:Country`, `iptc:Country` | Country |
+| **ISO Country Code** | `iptc:Country-PrimaryLocationCode`, `XMP-iptcCore:CountryCode` | ISO Country Code (e.g. `US`, `CZ`) |
+| **Sublocation / POI** | `iptc:Sub-Location`, `XMP-iptcCore:Location` | Sublocation |
+> [!TIP]
+> **Lightroom Catalog Refresh:** If you have already imported your photos into Lightroom Classic before tagging them in ArtushVision AI, simply select the images in Lightroom and press **`Ctrl + Alt + Shift + D`** (or choose **Metadata → Read Metadata from File**). All location fields, coordinates, and pins will populate instantly in the Lightroom Metadata and Map modules.
+
 ---
 
 ### [Get Started Now]

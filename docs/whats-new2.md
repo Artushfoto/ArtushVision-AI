@@ -534,7 +534,8 @@ To protect contributors from costly metadata rejections and search ranking penal
 
 ## Smart FTP Upload Tracking & Distribution Manager
 
-Go to Upload via FTP - Upload status 
+Go to `Upload via FTP` → `Upload Status`
+
 Managing submissions across multiple stock agencies often leads to confusion about which file has already been sent where. The new **FTP Upload Tracking** provides complete visibility and full control over your entire distribution workflow:
 
 * **Instant Submission Overview:** View the exact upload status for every file across all connected agencies at a single glance.

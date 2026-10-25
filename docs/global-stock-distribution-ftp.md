@@ -219,6 +219,8 @@ Select `FTP Agencies` and `Save Profile Group`
 
 ## Advanced Tracking and Visual Status Badges
 
+Go to `Upload via FTP` → `Upload Status`
+
 Never upload the same file twice by accident. ArtushVision AI remembers the complete upload history of every asset directly within the file metadata.
 
 * **Micro-Badges in Grid:** Instantly see tiny agency badges (e.g., S for Shutterstock, A for Adobe, F for Freepik) directly on your photo thumbnails in the main grid. These badges appear automatically after a successful FTP upload, but you can also add them manually. You can simply type the name of any agency to track it, even if you don't have an FTP connection configured for it.
@@ -288,7 +290,8 @@ To protect contributors from costly metadata rejections and search ranking penal
 
 ## Smart FTP Upload Tracking & Distribution Manager
 
-Go to Upload via FTP - Upload status 
+Go to Upload via FTP - ´Upload status´
+
 Managing submissions across multiple stock agencies often leads to confusion about which file has already been sent where. The new **FTP Upload Tracking** provides complete visibility and full control over your entire distribution workflow:
 
 * **Instant Submission Overview:** View the exact upload status for every file across all connected agencies at a single glance.
