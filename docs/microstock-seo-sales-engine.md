@@ -43,6 +43,9 @@ Displays a color-coded indicator directly in the grid for quick at-a-glance vali
 - 🟧 **Yellow** — Average Set (56–72%)
 - 🔴 **Red** — Needs Optimization (< 56%)
 
+*Tip: A dedicated SEO filter has also been added to the filter panel, allowing you to easily filter and isolate assets by their score level.*
+
+
 <a href="images/market-inteligence/seo-score-tooltip.webp" target="_blank" class="screenshot-link">
   <img src="images/market-inteligence/seo-score-tooltip.webp" alt="ArtushVision Market Intelligence Displays a color-coded indicator directly in the grid for quick at-a-glance validation of your metadata optimization" width="100%" class="screenshot-img">
 </a>
