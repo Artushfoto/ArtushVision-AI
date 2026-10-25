@@ -276,11 +276,11 @@ Stock buyers frequently search using multi-word concepts rather than isolated ke
 
 The **Commercial Phrases** engine automatically identifies and prioritizes commercially relevant phrases such as:
 
-* `isolated on white`
-* `copy space for text`
+* `baking ourselves`
+* `misty scene`
 * `aerial view`
 * `candid lifestyle`
-* `wildlife in natural habitat`
+* `wild animal`
 
 Suggested phrases are checked against available visual and contextual evidence to help reduce unsupported or irrelevant metadata.
 
