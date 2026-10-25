@@ -517,7 +517,7 @@ Version 1.20 brings native metadata management to stock videographers.
 
 ---
 
-## Smart FTP Pre-Check & Alphabetical Sorting Guard
+## [Smart FTP Pre-Check & Alphabetical Sorting Guard](https://vision.artushfoto.eu/docs/global-stock-distribution-ftp.html#smart-ftp-pre-check--alphabetical-sorting-guard)
 To protect contributors from costly metadata rejections and search ranking penalties, ArtushVision AI now introduces an automated **FTP Pre-Check Engine** that validates all queued files before uploading:
 * **Instant Verification on Upload:** The moment you click `Upload via FTP`, the pre-check engine analyzes all selected assets in milliseconds before any server connection is initiated.
 * **Alphabetical Order Detection (A–Z Spam Warning):**  
@@ -532,7 +532,7 @@ To protect contributors from costly metadata rejections and search ranking penal
 
 ---
 
-## Smart FTP Upload Tracking & Distribution Manager
+## [Smart FTP Upload Tracking & Distribution Manager](https://vision.artushfoto.eu/docs/global-stock-distribution-ftp.html#smart-ftp-upload-tracking--distribution-manager) 
 
 Go to `Upload via FTP` → `Upload Status`
 
