@@ -481,8 +481,11 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 * [Create and Optimize Custom AI Prompts](/docs/create-and-optimize-custom-ai-prompts.html)
 * [Manual Editing, Multi-language Spellcheck & Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
 * [Batch Metadata Actions, Search & Replace](/docs/batch-operations-metadata-library-management.html)
+* [Metadata Compatibility and File Handling in ArtushVision AI](https://vision.artushfoto.eu/docs/metadata-compatibility-and-file-handling.html)
+* Geotagging Photos: Manual Coordinates and GPX Track Import  
 * [Microstock Category Mapping Matrix](/docs/category-matrix.html)
 * [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
+
 
 ### 3. Professional Asset Distribution
 * [Getty Images ESP Metadata Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html)
