@@ -271,6 +271,39 @@ Go to `Filter Toolbar` → `Advanced FTP Filter`
 
 ---
 
+## Smart FTP Pre-Check & Alphabetical Sorting Guard
+To protect contributors from costly metadata rejections and search ranking penalties, ArtushVision AI now introduces an automated **FTP Pre-Check Engine** that validates all queued files before uploading:
+* **Instant Verification on Upload:** The moment you click `Upload via FTP`, the pre-check engine analyzes all selected assets in milliseconds before any server connection is initiated.
+* **Alphabetical Order Detection (A–Z Spam Warning):**  
+  Stock agency search algorithms frequently demote or flag assets whose keywords are sorted strictly alphabetically (A–Z), treating it as automated spam or lazy keywording. If a photo contains 4 or more alphabetically ordered keywords, ArtushVision AI displays a clear warning and recommends running **Strategic SEO Sort (`Ctrl+Shift+S`)** first.
+* **Min/Max Limits Enforcement:** Validates your Title character length, Description length, and Keyword counts against your configured grid rules, instantly flagging any files that violate minimum or maximum agency requirements.
+* **Non-Destructive & Safe:** The pre-check never modifies your files automatically. It presents an actionable summary list of flagged files, allowing you to cancel and fix issues with one click or proceed intentionally.
+
+  <a href="images/ftp-guard.webp" target="_blank" class="screenshot-link">
+  <img src="images/ftp-guard.webp" alt="ArtushVision AI Smart FTP Pre-Check & Alphabetical Sorting Guard" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+
+---
+
+## Smart FTP Upload Tracking & Distribution Manager
+
+Go to Upload via FTP - Upload status 
+Managing submissions across multiple stock agencies often leads to confusion about which file has already been sent where. The new **FTP Upload Tracking** provides complete visibility and full control over your entire distribution workflow:
+
+* **Instant Submission Overview:** View the exact upload status for every file across all connected agencies at a single glance.
+* **Automatic Gap Detection:** The system compares your files with your configured FTP profiles and immediately highlights missing destinations where files have yet to be submitted.
+* **Flexible Target Selection:** Simply tick the checkboxes next to any pending agencies you wish to target, without having to reconfigure FTP endpoints manually.
+* **Duplicate Prevention:** Avoid accidental double uploads, saving bandwidth, time, and potential agency rejections.
+* **Streamlined Batch Queueing:** Send remaining files to multiple unsubmitted agencies in one smooth, automated run.
+
+  <a href="images/ftp-tracking-manager.webp" target="_blank" class="screenshot-link">
+  <img src="images/ftp-tracking-manager.webp" alt="ArtushVision AI Smart FTP Pre-Check & Alphabetical Sorting Guard" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
+
+---
+
 ### Professional Workflow in 3 Steps:
 
 1. **Filter and Select:** Use the grid filters to show only Not Uploaded files and select the batch you want to distribute.
