@@ -225,6 +225,16 @@ Go to `Top Menu` → `File` → `Settings` → `CSV Templates`
 
 ---
 
+### Multi-Agency CSV Export
+
+Export assets for multiple stock agencies using different CSV formatting requirements.
+
+* Export selected assets using multiple agency templates,
+* Save custom column mappings and delimiter settings for recurring workflows,
+* Support agency-specific fields such as categories and editorial information where required.
+
+---
+
 ## The Category Matrix
 
 The Category Matrix is the translation engine of ArtushVision AI. It ensures that your internal organization is correctly interpreted by different stock agencies.

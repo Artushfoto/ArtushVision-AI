@@ -193,6 +193,24 @@ When you need to edit 500 photos at once, traditional copy-pasting is too danger
 
 ---
 
+### Smart Metadata Copy & Paste with Opt-in GPS Transfer
+
+Transferring metadata between images now supports GPS coordinates while strictly preventing accidental location overwrites:
+
+* **Clipboard Support (`Ctrl+C` / `Ctrl+V`):**  
+  Copying an image (`Ctrl+C` or right-click **`Copy Metadata`**) captures its full metadata payload to the clipboard, including assigned GPS latitude and longitude coordinates.
+
+* **Opt-in GPS Safety Checkbox (Unchecked by Default):**  
+  When pasting metadata (`Ctrl+V` or **`Paste Metadata...`**) onto single or multiple target images, the **`Metadata Paste Dialog`** displays granular field checkboxes. The option **`GPS coordinates (only for photos without GPS)`** is deliberately **unchecked by default**. This ensures you can freely copy common titles, descriptions, or keyword sets across a shoot without unintentionally propagating location coordinates to unrelated scenes.
+
+* **Strict Protection Maintained on Paste:**  
+  When the GPS checkbox is explicitly ticked by the user, the coordinates are pasted only to photos that do not already have GPS data. Photos with original camera EXIF GPS or previously assigned coordinates are strictly protected and left untouched.
+
+* **Instant Geo-Verification on Paste:**  
+  Pasting GPS coordinates immediately triggers reverse geocoding and updates the geo-context cache, auto-verifying location keywords (green bubbles) and recalculating SEO scores for all affected images, with complete single-step Undo (`Ctrl+Z`) support.
+
+---
+
 ## Bulk Delete Keywords in ArtushVision
 
 ArtushVision offers several ways to bulk delete keywords depending on what exactly you need to achieve.
