@@ -121,6 +121,7 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
         <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">cooking by ourselves</code> · 
         <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">healthy food</code>
         <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">couple cooking in kitchen</code>
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">modern kitchen</code>
       </div>
       <div style="color: #cf222e;">
         <span style="display: inline-block; margin-right: 4px;">➖</span> <strong>Remove:</strong> 
