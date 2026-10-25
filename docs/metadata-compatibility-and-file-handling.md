@@ -153,6 +153,20 @@ The application is fully compatible out-of-the-box with software such as **Adobe
 
 ---
 
+## Native Video Metadata Workflow
+
+Version 1.20 brings native metadata management to stock videographers.
+
+### Lossless MP4 & MOV Direct Injection
+
+**Lossless Video Metadata**: Write titles, descriptions, copyright, and keywords directly into video containers without **re-encoding**. Supported stock agencies will read them automatically, exactly like photos.
+
+* **Fast Processing:** Metadata is written without re-rendering the video.
+* **Zero Quality Loss:** Video and audio streams are not re-encoded during metadata injection.
+* **Professional Metadata Support:** Writes supported QuickTime metadata and embedded XMP metadata for professional stock workflows.
+
+---
+
 ## Core Text Metadata Synchronization
 
 When saving text information, the data is synchronously written into both the modern XMP and the legacy IPTC standards to ensure older systems and stock agencies read them perfectly.
