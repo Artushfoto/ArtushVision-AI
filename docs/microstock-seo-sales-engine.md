@@ -307,7 +307,7 @@ Because marketplace demand and agency search algorithms evolve continuously, Art
 
 ### Ready to elevate your microstock workflow?
 
-[Explore Download & Licensing Options](https://vision.artushfoto.eu/docs/download-purchase.html) | [View Complete Documentation](https://vision.artushfoto.eu/index.html)
+[Explore Download & Licensing Options](https://vision.artushfoto.eu/docs/download-purchase.html) | [View Complete Documentation](https://vision.artushfoto.eu/index.html#complete-documentation-index)
 
 ---
 
