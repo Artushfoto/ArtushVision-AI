@@ -398,11 +398,6 @@ Eliminate the headache of synchronizing out-of-sync camera clocks with GPX track
   Simply take a single photo of your smartphone screen displaying your GPS tracking app (such as the free companion [Artush GPX Tracker](https://gpxtracker.artushfoto.eu)). In the GPS dialog, open the **Time Offset Calculator**, type in the time visible on the photo's screen, and the engine automatically computes the exact second-accurate clock drift.
 * **Sub-Second Accuracy:** Photos are matched to your GPX route with sub-second precision, accounting for local daylight saving time and camera drift.
 
-<a href="images/market-inteligence/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
-  <img src="images/market-inteligence/time-sync-in-artushvision-ai.webp" alt="ArtushVision Camera Clock Drift Calculator & Reference Photo Sync" width="100%" class="screenshot-img">
-</a>
-<div style="height: 15px;"></div>
-
 ---
 
 ## GPS Removal & Privacy Anonymization
@@ -410,7 +405,6 @@ For sensitive commercial shoots, private residential locations, or protected wil
 * **1-Click Location Removal:** Right-click any photo or multi-photo selection in the grid and choose **`Remove GPS Coordinates`** (also available in the Detail toolbar and Map picker).
 * **Two-Step Camera Hardware Protection:** If an original photo contains native camera hardware EXIF GPS, the application requests an explicit confirmation to prevent accidental loss of original camera telemetry.
 * **Full EXIF & XMP Purge:** Strips all GPS tags and cache references atomically, with complete Undo (`Ctrl+Z`) support.
-
 
 ---
 
@@ -437,6 +431,11 @@ You can now reconstruct the exact geographical positions of entire photo session
 
 * **Visual Map Inspection of Photo Locations:**  
   Before committing any metadata to your files, all matched photos appear as interactive marker pins along the GPX polyline on Leaflet/Google Maps. Clicking any pin zooms in and displays the filename, timestamp offset, and matching status in a real-time tooltip.
+
+  <a href="images/market-inteligence/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
+  <img src="images/market-inteligence/time-sync-in-artushvision-ai.webp" alt="ArtushVision Camera Clock Drift Calculator & Reference Photo Sync" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 ---
 
