@@ -73,14 +73,14 @@ Displays a color-coded indicator directly in the grid for quick at-a-glance vali
 Bestseller GAP analysis compares your keyword set with commercial search patterns in your subject area, revealing valuable keywords and metadata opportunities you may have missed.
 
 ```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  Current Keywords:                                                          │
-│  bird · branch · perch · nature · colorful                                  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  Bestseller GAP (Commercially Relevant Missing Opportunities):              │
-│  [+ endemic species]  [+ wildlife photography]  [+ tropical rainforest]     │
-│  [+ bird watching]    [+ avian wildlife]        [+ plumage in sunlight]     │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────────────────┐
+│  Current Keywords:                                                                         │
+│  couple · kitchen · vegetables · cooking · food                                            │
+├────────────────────────────────────────────────────────────────────────────────────────────┤
+│  Bestseller GAP and New Commercial Phrases (Commercially Relevant Missing Opportunities):  │
+│  [+ smiling couple]  [+ cooking in kitchen]  [+ healthy food concept]                      │
+│  [+ vegetables mix]  [+ simple healthy food] [+ healthy appetizer]                         │
+└────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 * **1-Click Phrase Insertion:** Click any recommended phrase bubble to immediately add it to your active keywords.
