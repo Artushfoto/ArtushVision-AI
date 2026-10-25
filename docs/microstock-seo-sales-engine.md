@@ -117,14 +117,14 @@ The **Keyword Quality (0–100%)** gives you an immediate benchmark of your meta
       <div style="font-weight: 600; color: #1f2328; margin-bottom: 8px;">Quick Wins (Recommended Improvements)</div>
       <div style="margin-bottom: 6px; color: #1a7f37;">
         <span style="display: inline-block; margin-right: 4px;">➕</span> <strong>Add:</strong> 
-        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">endemic songbird</code> · 
-        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">natural habitat</code> · 
-        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">avian wildlife</code>
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">cooking together</code> · 
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">cooking by ourselves</code> · 
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">healthy food</code>
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">couple cooking in kitchen</code>
       </div>
       <div style="color: #cf222e;">
         <span style="display: inline-block; margin-right: 4px;">➖</span> <strong>Remove:</strong> 
-        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">background (redundant)</code> · 
-        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">animalia (overly broad)</code>
+        <code style="background-color: rgba(27,31,35,0.06); padding: 2px 4px; border-radius: 4px; font-size: 13px;">countertop (low SEO / Dilutes search)</code> · 
       </div>
     </td>
   </tr>
