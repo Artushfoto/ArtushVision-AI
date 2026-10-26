@@ -645,7 +645,7 @@ document.addEventListener("DOMContentLoaded", function() {
     window.dataLayer = window.dataLayer || [];
     window.gtag = function(){ dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', 'G-KCZWMGZFJ');
+    gtag('config', 'G-KCZWMGZFJ5');
   };
 
   document.addEventListener("DOMContentLoaded", function() {
