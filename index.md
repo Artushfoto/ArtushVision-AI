@@ -293,7 +293,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 ---
 
-#### [Quick link: What's New in ArtushVision AI v1.20](https://vision.artushfoto.eu/docs/whats-new.html)
+## [Quick link: What's New in ArtushVision AI v1.20](https://vision.artushfoto.eu/docs/whats-new.html)
 
 <div class="hero-split">
   <div class="hero-text">
