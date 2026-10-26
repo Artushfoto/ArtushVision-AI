@@ -1,5 +1,5 @@
 ---
-title: "Professional Metadata Automation Workstation"
+title: "Professional Microstock Metadata Automation"
 description: "The ultimate AI-powered workstation for microstock metadata, SEO optimization, and batch FTP distribution with built-in Market Intelligence"
 ---
 
@@ -283,7 +283,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 </div>
 
-<h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Microstock Metadata Workstation</h1>
+<h1 style="text-align: left; margin-top: 0; padding-top: 0; font-size: 2.2em;">ArtushVision AI | Professional Metadata Automation</h1>
 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); overflow: hidden; background-color: #253544; line-height: 0;">
   <object type="image/svg+xml" data="artushvision.svg" title="ArtushVision AI Software Features - Smart Microstock Tagging" aria-label="ArtushVision AI Software Features - Smart Microstock Tagging" style="width: 100%; height: auto; aspect-ratio: 841.89 / 210.47; display: block; pointer-events: auto !important; outline: none; border: none; margin: 0; padding: 0;">
@@ -293,10 +293,12 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 
 ---
 
+#### [Quick link: What's New in ArtushVision AI v1.20](https://vision.artushfoto.eu/docs/whats-new.html)
+
 <div class="hero-split">
   <div class="hero-text">
     <p style="font-size: 1.1em; line-height: 1.5; margin-top: 0;"><strong>The Ultimate AI-Powered Workstation for Microstock Metadata, SEO Optimization, and Batch FTP Distribution with Built-in Market Intelligence.
-</strong></p>
+    </strong></p>
     
     <p style="font-size: 0.95em; margin: 10px 0;">Designed for smart photographers who are ready to abandon expensive cloud subscriptions and take back control. <strong><a href="/docs/artushvision-reviews.html">Read our user reviews and success stories &rarr;</a></strong></p>
     
@@ -360,6 +362,14 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
     * **Hybrid AI (Local Vision + Cloud Text):** Your local GPU performs the heavy visual analysis, and a cloud model structures the text. Peak SEO quality at wholesale prices.
     * **2-Pass Local AI:** Deep offline synthesis. A local Vision model reads the pixels, then a second specialized text model formats a perfect JSON completely offline.
     * **Customizable AI Prompts:** Tailor the program exactly to your unique needs. Modify system prompts to guide the AI's descriptive style and adapt to your photography niche.
+
+* ### <a href="/docs/microstock-seo-sales-engine.html">Market Intelligence for Stock Photographers.</a>
+
+  * **Commercial SEO Intelligence:** Combine AI semantic analysis with marketplace search intelligence to discover commercially relevant keywords, phrases, and missing opportunities.
+  * **Bestseller GAP & Buyer Intent:** Identify missing commercial terms, explore buyer-oriented phrases, and discover relevant vocabulary through the interactive Synonyms & Tag Inspector.
+  * **Strategic SEO Optimization:** Evaluate metadata with the data-driven Selling Score, Quick Wins, and intelligent keyword ordering to improve commercial positioning.
+  * **Factual Verification:** Cross-check GPS location and biological taxonomy to help prevent geographic contradictions, species confusion, and invalid metadata.
+
 
 * ### <a href="/docs/getty-images-esp-metadata-optimizer.html">Getty Images Optimizer (Master ESP Tool)</a>
     * **Near-Perfect Acceptance:** Map your tags against a built-in Master Dictionary of 9,867+ approved terms using a dedicated Vision Model followed by a Text Model pass.
@@ -458,7 +468,7 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
     <tr>
       <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Format Support</b></td>
       <td style="border: 1px solid #d0d7de; padding: 8px;">JPG Only</td>
-      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>JPG, RAW, Video, TIFF, webp, HEIC</b></td>
+      <td style="border: 1px solid #d0d7de; padding: 8px;"><b>JPG, RAW, Video, TIFF, webp, HEIC, Lossless MP4 & MOV Direct Injection (Native metadata management to stock videographers) </b></td>
     </tr>
     <tr>
       <td style="border: 1px solid #d0d7de; padding: 8px;"><b>Pricing Model</b></td>
@@ -505,8 +515,11 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 * [Create and Optimize Custom AI Prompts](/docs/create-and-optimize-custom-ai-prompts.html)
 * [Manual Editing, Multi-language Spellcheck & Interactive Map](/docs/smart-manual-keywording-batch-editing.html)
 * [Batch Metadata Actions, Search & Replace](/docs/batch-operations-metadata-library-management.html)
+* [Metadata Compatibility and File Handling in ArtushVision AI](https://vision.artushfoto.eu/docs/metadata-compatibility-and-file-handling.html)
+* [Simple Geotagging Photos: Manual Coordinates and GPX Track Import  ](https://vision.artushfoto.eu/docs/geotagging-photos.html)
 * [Microstock Category Mapping Matrix](/docs/category-matrix.html)
 * [Smart Grid Filters and Search](/docs/smart-grid-filters-search-metadata-management.html)
+
 
 ### 3. Professional Asset Distribution
 * [Getty Images ESP Metadata Optimizer & Resolver](/docs/getty-images-esp-metadata-optimizer.html)
@@ -616,47 +629,4 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
 });
-</script>
-
-<!-- Odložené a podmíněné načtení Google Analytics s ohledem na Cookie Consent -->
-<script>
-  window.loadAnalyticsAfterConsent = function() {
-    if (window.analyticsLoaded) return;
-    window.analyticsLoaded = true;
-
-    var gtagScript = document.createElement('script');
-    gtagScript.async = true;
-    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ';
-    document.head.appendChild(gtagScript);
-
-    window.dataLayer = window.dataLayer || [];
-    window.gtag = function(){ dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'G-KCZWMGZFJ');
-  };
-
-  document.addEventListener("DOMContentLoaded", function() {
-    function checkConsentAndLoad() {
-      const cookieConstData = document.cookie;
-      if (cookieConstData.indexOf('cookieconsent_status=allow') !== -1) {
-        window.loadAnalyticsAfterConsent();
-        return;
-      }
-      
-      let analyticsLoaded = false;
-      function triggerOnInteraction() {
-        if (analyticsLoaded) return;
-        if (document.cookie.indexOf('cookieconsent_status=allow') !== -1) {
-          analyticsLoaded = true;
-          window.loadAnalyticsAfterConsent();
-          document.removeEventListener('scroll', triggerOnInteraction);
-          document.removeEventListener('mousemove', triggerOnInteraction);
-        }
-      }
-      document.addEventListener('scroll', triggerOnInteraction, { passive: true });
-      document.addEventListener('mousemove', triggerOnInteraction, { passive: true });
-    }
-
-    setTimeout(checkConsentAndLoad, 1000);
-  });
 </script>
