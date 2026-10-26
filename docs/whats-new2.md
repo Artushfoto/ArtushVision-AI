@@ -371,7 +371,7 @@ For wildlife, bird, insect, botanical, and mushroom photography, biological accu
 
 ---
 
-### 📍 Interactive GPS Assignment & Instant Geo-Verification
+### 📍 [Interactive GPS Assignment & Instant Geo-Verification](https://vision.artushfoto.eu/docs/geotagging-photos.html#-interactive-gps-assignment--instant-geo-verification)
 
 A comprehensive GPS assignment and editing workflow has been added directly to the Photo Detail window:
 
@@ -392,7 +392,7 @@ A comprehensive GPS assignment and editing workflow has been added directly to t
 
 ---
 
-## Camera Clock Drift Calculator & Reference Photo Sync
+## [Camera Clock Drift Calculator & Reference Photo Sync](https://vision.artushfoto.eu/docs/geotagging-photos.html#camera-clock-drift-calculator--reference-photo-sync)
 Eliminate the headache of synchronizing out-of-sync camera clocks with GPX tracks:
 * **Reference Photo Method (Artush GPX Tracker):**  
   Simply take a single photo of your smartphone screen displaying your GPS tracking app (such as the free companion [Artush GPX Tracker](https://gpxtracker.artushfoto.eu)). In the GPS dialog, open the **Time Offset Calculator**, type in the time visible on the photo's screen, and the engine automatically computes the exact second-accurate clock drift.
@@ -408,7 +408,7 @@ For sensitive commercial shoots, private residential locations, or protected wil
 
 ---
 
-### Automatic GPX Track Geotagging & Time Synchronization
+### [Automatic GPX Track Geotagging & Time Synchronization](https://vision.artushfoto.eu/docs/geotagging-photos.html#automatic-gpx-track-geotagging--time-synchronization)
 
 You can now reconstruct the exact geographical positions of entire photo sessions directly from GPS track recordings logged by outdoor GPS devices, fitness trackers, smartwatches, or smartphone hiking apps:
 
