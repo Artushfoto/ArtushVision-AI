@@ -639,7 +639,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     var gtagScript = document.createElement('script');
     gtagScript.async = true;
-    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ';
+    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ5';
     document.head.appendChild(gtagScript);
 
     window.dataLayer = window.dataLayer || [];
