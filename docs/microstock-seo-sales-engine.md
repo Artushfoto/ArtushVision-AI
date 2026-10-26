@@ -21,6 +21,8 @@ Most keywording tools simply describe what appears in a photo. But in competitiv
 
 Traditional image recognition identifies physical objects. **Market Intelligence** translates those visual elements into the commercial search vocabulary used by designers, art directors, and media buyers.
 
+>**Online Services & Market Intelligence:** Market Intelligence is currently available at no additional cost and does not require a separate subscription. It relies on online services and external data sources, so its availability depends on server operations and third-party platforms. The desktop application itself remains licensed for perpetual use, including its local features.
+
 | Basic Visual Tagging *(Descriptive Only)* | ArtushVision Market Intelligence *(New recommended phrases for insertion Buyer-Oriented)* |
 | :--- | :--- |
 | `bird`, `branch`, `nature`, `wildlife`, `forest` | `endemic songbird`, `bird watching`, `natural habitat`, `avian wildlife`, `tropical rainforest` |

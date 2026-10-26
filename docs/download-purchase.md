@@ -248,6 +248,8 @@ The Lite Edition resets its limits every time you launch the application, allowi
 > 🐛 **Transparency & Bug Fixes:**
 > ArtushVision AI is a robust, actively developed stock photography tool. While we strive for the highest stability, you might occasionally encounter minor bugs. If you do, please report them to our support email: <b>support [at] artushfoto [dot] eu</b> or <a href="https://github.com/Artushfoto/ArtushVision-AI/discussions" title="ArtushVision AI Community Forum">Community Forum</a> - we are highly committed to fixing reported issues and releasing updates as quickly as possible.
 
+>**Online Services & Market Intelligence:** Market Intelligence is currently available at no additional cost and does not require a separate subscription. It relies on online services and external data sources, so its availability depends on server operations and third-party platforms. The desktop application itself remains licensed for perpetual use, including its local features.
+
 
 <table style="width: 100%; display: table; border-collapse: collapse; margin-top: 20px;">
   <tr>

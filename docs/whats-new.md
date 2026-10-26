@@ -233,6 +233,8 @@ It provides actionable insight into:
 
 Market Intelligence is designed to provide **evidence-based commercial context**, helping contributors make better-informed metadata decisions while retaining full control over the final result.
 
+>**Transparency note:** Market Intelligence is currently available at no additional cost and does not require a separate subscription. It relies on online services and external data sources, so its availability depends on server operations and third-party platforms. The desktop application itself remains licensed for perpetual use, including its local features.
+
 ---
 
 ### [Commercial Selling Score](microstock-seo-sales-engine.html#-commercial-selling-score--quick-wins)
