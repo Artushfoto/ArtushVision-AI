@@ -630,3 +630,46 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 });
 </script>
+
+<!-- Odložené a podmíněné načtení Google Analytics s ohledem na Cookie Consent -->
+<script>
+  window.loadAnalyticsAfterConsent = function() {
+    if (window.analyticsLoaded) return;
+    window.analyticsLoaded = true;
+
+    var gtagScript = document.createElement('script');
+    gtagScript.async = true;
+    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-KCZWMGZFJ';
+    document.head.appendChild(gtagScript);
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-KCZWMGZFJ');
+  };
+
+  document.addEventListener("DOMContentLoaded", function() {
+    function checkConsentAndLoad() {
+      const cookieConstData = document.cookie;
+      if (cookieConstData.indexOf('cookieconsent_status=allow') !== -1) {
+        window.loadAnalyticsAfterConsent();
+        return;
+      }
+      
+      let analyticsLoaded = false;
+      function triggerOnInteraction() {
+        if (analyticsLoaded) return;
+        if (document.cookie.indexOf('cookieconsent_status=allow') !== -1) {
+          analyticsLoaded = true;
+          window.loadAnalyticsAfterConsent();
+          document.removeEventListener('scroll', triggerOnInteraction);
+          document.removeEventListener('mousemove', triggerOnInteraction);
+        }
+      }
+      document.addEventListener('scroll', triggerOnInteraction, { passive: true });
+      document.addEventListener('mousemove', triggerOnInteraction, { passive: true });
+    }
+
+    setTimeout(checkConsentAndLoad, 1000);
+  });
+</script>
