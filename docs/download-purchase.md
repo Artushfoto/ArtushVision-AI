@@ -196,8 +196,8 @@ h1 { text-align: center; }
 
 ArtushVision AI uses a single, unified software build. The application operates in the Limited Free Version mode by default. Entering a valid commercial license key inside the application settings instantly unlocks the full Pro Edition.
 
-* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.10/ArtushVisionAI_Setup_v2026.1.10.exe" title="Download ArtushVision AI Windows Installer" class="btn btn-primary">⬇️ Download Standard Installer (.exe)</a><br>Recommended for Windows 10/11 64-bit. Guides you through the setup process.
-* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.10/ArtushVision.AI_v2026.1.10.zip" title="Download ArtushVision AI Portable Version" class="btn btn-primary" style="margin-top: 15px;">⬇️ Download Portable Version (.zip)</a><br>Run without installation. Simply extract the archive and launch the application.
+* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.20/ArtushVisionAI_Setup_v2026.1.20.exe" title="Download ArtushVision AI Windows Installer" class="btn btn-primary">⬇️ Download Standard Installer (.exe)</a><br>Recommended for Windows 10/11 64-bit. Guides you through the setup process.
+* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.20/ArtushVision.AI-1.20.zip" title="Download ArtushVision AI Portable Version" class="btn btn-primary" style="margin-top: 15px;">⬇️ Download Portable Version (.zip)</a><br>Run without installation. Simply extract the archive and launch the application.
 
 **Version Archive & Software Rollback**
 
@@ -221,6 +221,7 @@ If the latest AI release introduces unexpected behavior in your workflow, you ca
 | :--- | :--- | :--- |
 | **Pricing** | **Free to use** | **$39.99** *(One-time payment)* |
 | **Commercial Usage** | Limited by operational constraints | Yes, fully optimized for high-volume microstock business |
+| **Market Inteligence** | **1 analyse** per app run | **Unlimited** image & video batching |
 | **Offline AI Batch Processing** | **3 AI analyses** per app run | **Unlimited** image & video batching |
 | **Metadata File Saving** | **10 file saves** per app run | **Unlimited** local XMP/IPTC updates |
 | **Getty Images AI Resolver** | **3 Getty optimizations** per app run | **Unlimited** editing & mapping |
