@@ -213,8 +213,7 @@ ArtushVision AI now brings together computer vision, commercial market intellige
 * **New:** GPS fields (`Latitude`, `Longitude`, `Altitude`, `Source`) in CSV templates & backups.
 * **New:** Camera Time Drift Calculator with Reference Photo support & Artush GPX Tracker ecosystem.
 * **New:** GPS Removal & Privacy Anonymization tool with hardware EXIF protection.
-* **New:** Privacy-first Diagnostic Support Reporter with GDPR-compliant log packaging.
-* **New:** 100% synchronized localization across all 19 supported languages (1829+ keys).
+* **New:** 100% synchronized localization across all 19 supported languages.
 
 ---
 
