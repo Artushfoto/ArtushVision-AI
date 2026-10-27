@@ -13,7 +13,7 @@ highlighter: rouge
 
 # Povolené pluginy pro bezpečné sestavení na GitHub Pages
 plugins:
-  - jekyll-sitemap
+# - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
 
