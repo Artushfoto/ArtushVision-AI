@@ -197,7 +197,7 @@ h1 { text-align: center; }
 ArtushVision AI uses a single, unified software build. The application operates in the Limited Free Version mode by default. Entering a valid commercial license key inside the application settings instantly unlocks the full Pro Edition.
 
 * <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.20/ArtushVisionAI_Setup_v2026.1.20.exe" title="Download ArtushVision AI Windows Installer" class="btn btn-primary">⬇️ Download Standard Installer (.exe)</a><br>Recommended for Windows 10/11 64-bit. Guides you through the setup process.
-* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.20/ArtushVision.AI-1.20.zip" title="Download ArtushVision AI Portable Version" class="btn btn-primary" style="margin-top: 15px;">⬇️ Download Portable Version (.zip)</a><br>Run without installation. Simply extract the archive and launch the application.
+* <a href="https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.20/ArtushVision.AI_v2026.1.20.zip" title="Download ArtushVision AI Portable Version" class="btn btn-primary" style="margin-top: 15px;">⬇️ Download Portable Version (.zip)</a><br>Run without installation. Simply extract the archive and launch the application.
 
 **Version Archive & Software Rollback**
 
