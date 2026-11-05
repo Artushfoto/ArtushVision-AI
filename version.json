@@ -1,8 +1,8 @@
 {
-  "latest_version": "2026.1.20",
-  "release_date": "2026-10-26",
+  "latest_version": "2026.1.21",
+  "release_date": "2026-11-05",
   "download_url": "https://vision.artushfoto.eu/docs/download-purchase.html",
-  "installer_url": "https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.20/ArtushVisionAI_Setup_v2026.1.20.exe",
-  "portable_url": "https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.20/ArtushVision.AI_v2026.1.20.zip",
-  "changelog": "What's new in version 2026.1.20:<br><br><a href='https://vision.artushfoto.eu/docs/whats-new.html'>https://vision.artushfoto.eu/docs/whats-new.html</a>"
+  "installer_url": "https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.21/ArtushVisionAI_Setup_v2026.1.21.exe",
+  "portable_url": "https://github.com/Artushfoto/ArtushVision-AI/releases/download/v2026.1.21/ArtushVision.AI_v2026.1.21.zip",
+  "changelog": "What's new in version 2026.1.21:<br><br><a href='https://vision.artushfoto.eu/docs/whats-new.html'>https://vision.artushfoto.eu/docs/whats-new.html</a>"
 }
