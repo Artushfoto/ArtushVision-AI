@@ -175,7 +175,25 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# What's New in ArtushVision AI v1.21 
+# What's New in ArtushVision AI v1.21
+## Bug Fixes & UI Improvements
+
+* **Light Theme Color Settings & Contrast:**
+  * Fixed custom color configuration and theme synchronization in Light Mode.
+  * Improved color persistence across sessions.
+  * Enhanced automatic text contrast adjustment across input fields, tooltips, syntax highlighting, and keyword bubbles (in default, hover, and selected states) to ensure crisp readability on light backgrounds.
+
+* **Synonym Dialog & Cloud Suggestions:**
+  * Fixed an issue that prevented cloud-powered suggestions, related co-occurring tags, and Smart Swap / Smart Expand recommendations from rendering in the Synonym window.
+
+* **Sales & Trends Optimization & SEO Scoring:**
+  * Improved the accuracy and consistency of Keyword Quality scoring, SEO Sort, and Quick Wins recommendations.
+  * Fixed metadata synchronization when navigating between photos in the Sales & Trends window so Title and Description edits apply only to the selected photo.
+
+* **AI Cost Tracking:**
+  * Improved the accuracy and reliability of API cost calculation across Cloud, Hybrid, and Batch AI workflows.
+
+# What's New in ArtushVision AI v1.20 
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
@@ -189,7 +207,7 @@ ArtushVision AI now brings together computer vision, commercial market intellige
 
 ---
 
-## Version 1.21 Changelog Summary
+## Version 1.20 Changelog Summary
 
 * **New:** Microstock Market Intelligence suite.
   * Dynamic Commercial Selling Score (0–100%).
