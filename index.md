@@ -317,7 +317,7 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
     </div>
     
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-      <a href="/docs/download-purchase.html" class="btn btn-primary">Download Free Trial</a>
+      <a href="/docs/download-purchase.html" class="btn btn-primary">Download</a>
       <a href="/docs/download-purchase.html#buy-lifetime-license" class="btn btn-success">Buy License - $39.99</a>
     </div>
   </div>
