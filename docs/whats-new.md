@@ -177,6 +177,8 @@ h1 { text-align: center; }
 
 # What's New in ArtushVision AI v1.21
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 <div class="notice-box">
   <strong>🎉 Free Update for v1.x Users:</strong> Version 1.21 is a free update for all active lifetime license owners. Existing users can update directly via <strong>Help → Check for Updates</strong> inside the application.
 </div>
@@ -199,8 +201,6 @@ h1 { text-align: center; }
   * Improved the accuracy and reliability of API cost calculation across Cloud, Hybrid, and Batch AI workflows.
 
 ## What's New in ArtushVision AI v1.20 
-
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 Version 1.21 introduces a major milestone for ArtushVision AI: **Microstock Market Intelligence, Selling Score analytics, and lossless MP4/MOV video metadata injection for professional stock contributors.**
 
