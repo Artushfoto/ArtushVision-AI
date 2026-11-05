@@ -175,7 +175,7 @@ h1 { text-align: center; }
 </style>
 </div>
 
-# What's New in ArtushVision AI v1.20
+# What's New in ArtushVision AI v1.21 
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
@@ -183,13 +183,13 @@ h1 { text-align: center; }
   <strong>🎉 Free Update for v1.x Users:</strong> Version 1.20 is a free update for all active lifetime license owners. Existing users can update directly via <strong>Help → Check for Updates</strong> inside the application.
 </div>
 
-Version 1.20 introduces a major milestone for ArtushVision AI: **Microstock Market Intelligence, Selling Score analytics, and lossless MP4/MOV video metadata injection for professional stock contributors.**
+Version 1.21 introduces a major milestone for ArtushVision AI: **Microstock Market Intelligence, Selling Score analytics, and lossless MP4/MOV video metadata injection for professional stock contributors.**
 
 ArtushVision AI now brings together computer vision, commercial market intelligence, buyer-oriented search language, biological taxonomy, and geographic validation in a seamless, high-speed metadata workstation.
 
 ---
 
-## Version 1.20 Changelog Summary
+## Version 1.21 Changelog Summary
 
 * **New:** Microstock Market Intelligence suite.
   * Dynamic Commercial Selling Score (0–100%).
