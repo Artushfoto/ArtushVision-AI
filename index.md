@@ -341,11 +341,9 @@ header, .page-header, .site-header, footer, .site-footer, .footer { display: non
 ---
 
 <iframe 
-  width="560" 
-  height="315" 
+  style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
   src="https://www.youtube-nocookie.com/embed/JjmgANPBZ6c" 
   title="Boost Your Microstock Sales with ArtushVision AI: SEO Optimization, Keywords & Batch Upload" 
-  frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
 </iframe>
