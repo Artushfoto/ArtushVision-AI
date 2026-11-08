@@ -441,11 +441,10 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 <hr>
 
-**ArtushVision AI Main Grid Workspace**
+**ArtushVision AI: Boost Your Microstock Sales: SEO Optimization, Keywords & Batch Upload**
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" target="_blank" rel="noopener noreferrer" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/grid-overview.webp" alt="ArtushVision AI Workspace showing automated metadata generation" width="3066" height="1885" class="screenshot-img" loading="lazy" />
-</a>
+[![Boost Your Microstock Sales with ArtushVision AI](https://img.youtube.com/vi/JjmgANPBZ6c/maxresdefault.jpg)](https://www.youtube.com/watch?v=JjmgANPBZ6c)
+
 
 ---
 
