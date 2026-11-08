@@ -352,6 +352,10 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 2. **Generate & Resolve:** Trigger the **Cloud or 100% Private Local AI** to build high-converting titles and tags. Run the **built-in AI/Offline Getty Resolver** to automatically match official commercial taxonomies and clear homonym ambiguities in seconds.
 3. **Automated FTP Upload:** Select your pre-saved Agency Profile and hit Upload. The software manages multi-threaded transfers, dynamically generates agency-specific CSV files on-the-fly, and automatically stamps your grid with visual success badges.
 
+**ArtushVision AI: Boost Your Microstock Sales: SEO Optimization, Keywords & Batch Upload**
+
+[![Boost Your Microstock Sales with ArtushVision AI](https://img.youtube.com/vi/JjmgANPBZ6c/maxresdefault.jpg)](https://www.youtube.com/watch?v=JjmgANPBZ6c)
+
 ---
 
 ## Key Features & Functionality
@@ -440,11 +444,6 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 </p>
 
 <hr>
-
-**ArtushVision AI: Boost Your Microstock Sales: SEO Optimization, Keywords & Batch Upload**
-
-[![Boost Your Microstock Sales with ArtushVision AI](https://img.youtube.com/vi/JjmgANPBZ6c/maxresdefault.jpg)](https://www.youtube.com/watch?v=JjmgANPBZ6c)
-
 
 ---
 
