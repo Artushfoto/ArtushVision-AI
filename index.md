@@ -365,8 +365,6 @@ ArtushVision AI eliminates the friction between editing software, AI tagging, an
 
 **ArtushVision AI: Boost Your Microstock Sales: SEO Optimization, Keywords & Batch Upload**
 
-[![Boost Your Microstock Sales with ArtushVision AI](https://img.youtube.com/vi/JjmgANPBZ6c/maxresdefault.jpg)](https://www.youtube.com/watch?v=JjmgANPBZ6c)
-
 ---
 
 ## Key Features & Functionality
