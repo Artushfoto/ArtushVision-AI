@@ -175,6 +175,23 @@ h1 { text-align: center; }
 </style>
 </div>
 
+# What’s New in ArtushVision AI v2026.1.22
+
+## Keywords & AI
+- **Removed Hardcoded Keyword Filters:** Removed legacy hardcoded filters stripping words like `people` and `person` during AI post-processing and grid updates. Existing keywords (such as tags imported from Lightroom) and newly generated keywords are now preserved without unexpected removals.
+- **Batch Tool Keyword Fix:** Fixed bulk keyword adding and editing in the Batch Tool panel so keyword changes apply reliably across all selected items.
+
+## Getty Resolver
+- **Getty Resolver & Semantic Optimization Improvements:** Updated the Getty Resolver engine, semantic resolver, table interactions, and batch actions for more accurate term matching, reliable selection state handling, and smoother UI responsiveness.
+
+**[How to Optimize Keywords for Getty Images & iStock | ArtushVision AI Full Workflow Tutorial](https://www.youtube.com/watch?v=eaSM70dhLKM)**
+
+## FTP Precheck
+- **Pre-Upload Validation Improvements:** Refined the FTP precheck validation (`FTP Precheck`) that warns about unsaved metadata changes, alphabetical keyword order, metadata limit mismatches, and unreadable files before uploading.
+
+## Small UI Improvements
+- **Quick Wins Readability:** Increased the font size in the **Quick Wins** panel for better readability and overall UI polish.
+
 # What's New in ArtushVision AI v1.21
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
