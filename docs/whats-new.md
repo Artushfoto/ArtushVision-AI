@@ -177,6 +177,8 @@ h1 { text-align: center; }
 
 # What’s New in ArtushVision AI v2026.1.22
 
+[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
+
 ## Keywords & AI
 - **Removed Hardcoded Keyword Filters:** Removed legacy hardcoded filters stripping words like `people` and `person` during AI post-processing and grid updates. Existing keywords (such as tags imported from Lightroom) and newly generated keywords are now preserved without unexpected removals.
 - **Batch Tool Keyword Fix:** Fixed bulk keyword adding and editing in the Batch Tool panel so keyword changes apply reliably across all selected items.
@@ -193,8 +195,6 @@ h1 { text-align: center; }
 - **Quick Wins Readability:** Increased the font size in the **Quick Wins** panel for better readability and overall UI polish.
 
 ## What's New in ArtushVision AI v1.21
-
-[← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
 <div class="notice-box">
   <strong>🎉 Free Update for v1.x Users:</strong> Version 1.21 is a free update for all active lifetime license owners. Existing users can update directly via <strong>Help → Check for Updates</strong> inside the application.
