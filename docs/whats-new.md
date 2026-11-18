@@ -192,7 +192,7 @@ h1 { text-align: center; }
 ## Small UI Improvements
 - **Quick Wins Readability:** Increased the font size in the **Quick Wins** panel for better readability and overall UI polish.
 
-# What's New in ArtushVision AI v1.21
+## What's New in ArtushVision AI v1.21
 
 [← Back to ArtushVision AI Home](https://vision.artushfoto.eu)
 
