@@ -157,6 +157,16 @@ The **Getty Optimizer module** in ArtushVision AI solves this by acting as a pro
   <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.webp" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation for Getty ESP" width="100%" class="screenshot-img">
 </a>    
 
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; margin: 16px 0;">
+  <iframe 
+    src="https://www.youtube-nocookie.com/embed/eaSM70dhLKM" 
+    title="How to Optimize Keywords for Getty Images & iStock - ArtushVision AI Full Workflow Tutorial" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 ---
 
 ## 1. Built-in Getty Master Dictionary & Non-Destructive Workflow
