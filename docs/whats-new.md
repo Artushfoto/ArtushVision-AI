@@ -186,6 +186,7 @@ h1 { text-align: center; }
 ## Getty Resolver
 - **Getty Resolver & Semantic Optimization Improvements:** Updated the Getty Resolver engine, semantic resolver, table interactions, and batch actions for more accurate term matching, reliable selection state handling, and smoother UI responsiveness.
 
+**New Tutorial:**
 **[How to Optimize Keywords for Getty Images & iStock - ArtushVision AI Full Workflow Tutorial](https://www.youtube.com/watch?v=eaSM70dhLKM)**
 
 ## FTP Precheck
