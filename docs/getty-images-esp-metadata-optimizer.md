@@ -153,10 +153,6 @@ Optimizing metadata for the **Getty Images / iStock ESP portal** is one of the m
 
 The **Getty Optimizer module** in ArtushVision AI solves this by acting as a professional bridge between your creative work and the technical requirements of the ESP system. You can map words **manually**, use **Local Semantics (100% offline)**, or let the **Cloud AI** do the heavy lifting for you.
 
-<a href="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.webp" target="_blank" class="screenshot-link">
-  <img src="https://raw.githubusercontent.com/Artushfoto/ArtushVision-AI/main/docs/images/getty-resolver-add-term.webp" alt="ArtushVision AI - Interactive AI Resolver and Disambiguation for Getty ESP" width="100%" class="screenshot-img">
-</a>    
-
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; margin: 16px 0;">
   <iframe 
     src="https://www.youtube-nocookie.com/embed/eaSM70dhLKM" 
