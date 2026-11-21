@@ -174,7 +174,7 @@ Install the extension directly from the **Chrome Web Store** (compatible with Go
 2. Pin the extension icon to your browser toolbar for quick access.
 3. Log in to your **Alamy Contributor Portal** and open **Alamy Image Manager**.
 
-docs/images/alamy_supertagger.png
+![alt text](images/alamy_supertagger.png)
 ---
 
 ## 3. Using Universal CSV Templates
