@@ -163,6 +163,7 @@ Whether you generate metadata in ArtushVision AI, Excel, Google Sheets, or any o
 - **Universal CSV Compatibility:** Works out-of-the-box with **ArtushVision AI CSV exports**, as well as **any custom CSV file** structured according to the standard template.
 - **Complete Metadata & Category Autofill:** Reads your CSV file and automatically populates Titles, Descriptions, Keywords, and Alamy Categories directly into the web interface.
 - **100% Local & Privacy-First:** All CSV parsing and DOM automation happen locally inside your browser. Your data and files are never uploaded to any external servers.
+![alt text](images/alamy_supertagger.png)
 
 ---
 
@@ -174,7 +175,6 @@ Install the extension directly from the **Chrome Web Store** (compatible with Go
 2. Pin the extension icon to your browser toolbar for quick access.
 3. Log in to your **Alamy Contributor Portal** and open **Alamy Image Manager**.
 
-![alt text](images/alamy_supertagger.png)
 ---
 
 ## 3. Using Universal CSV Templates
