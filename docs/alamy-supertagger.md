@@ -151,7 +151,7 @@ h1 { text-align: center; }
 
 Submitting content to **Alamy** often requires tedious manual steps inside the **Alamy Image Manager**—especially selecting the **first 10 Supertags** for every single image and manually mapping categories or metadata fields. 
 
-The **Alamy Supertagger & CSV Autofill** browser extension bridges this gap. While tailored for seamless integration with **ArtushVision AI** exports, it is built as a **100% universal tool** that works with any CSV spreadsheet formatted to a simple standard template.
+The [**Alamy Supertagger & CSV Autofill**](https://chromewebstore.google.com/detail/alamy-supertagger-csv-aut/jfdfhcpmfeamolnbibjdoehepbopihlm) browser extension bridges this gap. While tailored for seamless integration with **ArtushVision AI** exports, it is built as a **100% universal tool** that works with any CSV spreadsheet formatted to a simple standard template.
 
 ---
 
@@ -169,9 +169,9 @@ Whether you generate metadata in ArtushVision AI, Excel, Google Sheets, or any o
 
 ## 2. Installation & Getting Started
 
-Install the extension directly from the **Chrome Web Store** (compatible with Google Chrome, Microsoft Edge, Brave, and other Chromium-based browsers).
+Install the extension directly from the [**Chrome Web Store** ](https://chromewebstore.google.com/detail/alamy-supertagger-csv-aut/jfdfhcpmfeamolnbibjdoehepbopihlm)(compatible with Google Chrome, Microsoft Edge, Brave, and other Chromium-based browsers).
 
-1. Visit the **Chrome Web Store** and click **Add to Chrome** on the *Alamy Supertagger & CSV Autofill* page.
+1. Visit the [**Chrome Web Store** ](https://chromewebstore.google.com/detail/alamy-supertagger-csv-aut/jfdfhcpmfeamolnbibjdoehepbopihlm)and click **Add to Chrome** on the *Alamy Supertagger & CSV Autofill* page.
 2. Pin the extension icon to your browser toolbar for quick access.
 3. Log in to your **Alamy Contributor Portal** and open **Alamy Image Manager**.
 
@@ -218,9 +218,9 @@ Prepare Metadata (ArtushVision AI or Custom CSV) ➔ Upload Images to Alamy Imag
 
 1. **Generate or Prepare Metadata:** Export your metadata CSV directly from **ArtushVision AI**, or prepare your own spreadsheet using the standard CSV template. Make sure your top 10 keywords are listed first.
 2. **Upload Media to Alamy:** Upload your JPEGs or vectors to **Alamy Image Manager** as usual.
-3. **Open the Extension:** Once your images appear in the manager grid or editor view, click the **Alamy Supertagger** icon in your browser toolbar.
+3. **Open the Extension:** Once your images appear in the manager grid or editor view, click the [**Alamy Supertagger**](https://chromewebstore.google.com/detail/alamy-supertagger-csv-aut/jfdfhcpmfeamolnbibjdoehepbopihlm) icon in your browser toolbar.
 4. **Load Your CSV:** Import your `.csv` file into the extension.
-5. **Run Autofill & Supertagger:** Trigger the autofill and watch the extension populate your titles, descriptions, categories, keywords, and top 10 Supertags in seconds.
+5. [**Run Autofill & Supertagger:**](https://chromewebstore.google.com/detail/alamy-supertagger-csv-aut/jfdfhcpmfeamolnbibjdoehepbopihlm) Trigger the autofill and watch the extension populate your titles, descriptions, categories, keywords, and top 10 Supertags in seconds.
 6. **Final Check & Submit:** Quickly verify the populated fields in Alamy Image Manager and submit your batch for QC!
 
 ---
